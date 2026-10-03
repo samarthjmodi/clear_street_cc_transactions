@@ -1,0 +1,490 @@
+Small tables done
+Touchpoints done
+Transactions scanned 4000000
+Transactions scanned 8000000
+Transactions scanned 12000000
+Transactions done
+{
+  "users": {
+    "rows": 2000,
+    "columns": [
+      "id",
+      "current_age",
+      "retirement_age",
+      "birth_year",
+      "birth_month",
+      "gender",
+      "address",
+      "latitude",
+      "longitude",
+      "per_capita_income",
+      "yearly_income",
+      "total_debt",
+      "credit_score",
+      "num_credit_cards"
+    ],
+    "missing": {},
+    "exact_duplicate_rows": 0,
+    "duplicate_key_excess": 0,
+    "numeric": {
+      "current_age": {
+        "count": 2000.0,
+        "mean": 45.3915,
+        "std": 18.414091537014983,
+        "min": 18.0,
+        "25%": 30.0,
+        "50%": 44.0,
+        "75%": 58.0,
+        "max": 101.0
+      },
+      "yearly_income": {
+        "count": 2000.0,
+        "mean": 45715.882,
+        "std": 22992.61545631199,
+        "min": 1.0,
+        "25%": 32818.5,
+        "50%": 40744.5,
+        "75%": 52698.5,
+        "max": 307018.0
+      },
+      "total_debt": {
+        "count": 2000.0,
+        "mean": 63709.694,
+        "std": 52254.45342050285,
+        "min": 0.0,
+        "25%": 23986.75,
+        "50%": 58251.0,
+        "75%": 89070.5,
+        "max": 516263.0
+      },
+      "credit_score": {
+        "count": 2000.0,
+        "mean": 709.7345,
+        "std": 67.2219488333422,
+        "min": 480.0,
+        "25%": 681.0,
+        "50%": 711.5,
+        "75%": 753.0,
+        "max": 850.0
+      },
+      "num_credit_cards": {
+        "count": 2000.0,
+        "mean": 3.073,
+        "std": 1.637379462969069,
+        "min": 1.0,
+        "25%": 2.0,
+        "50%": 3.0,
+        "75%": 4.0,
+        "max": 9.0
+      }
+    },
+    "gender": {
+      "Female": 1016,
+      "Male": 984
+    }
+  },
+  "cards": {
+    "rows": 6146,
+    "columns": [
+      "id",
+      "client_id",
+      "card_brand",
+      "card_type",
+      "card_number",
+      "expires",
+      "cvv",
+      "has_chip",
+      "num_cards_issued",
+      "credit_limit",
+      "acct_open_date",
+      "year_pin_last_changed",
+      "card_on_dark_web"
+    ],
+    "missing": {},
+    "exact_duplicate_rows": 0,
+    "duplicate_key_excess": 0,
+    "customers": 2000,
+    "card_types": {
+      "Debit": 3511,
+      "Credit": 2057,
+      "Debit (Prepaid)": 578
+    },
+    "brands": {
+      "Mastercard": 3209,
+      "Visa": 2326,
+      "Amex": 402,
+      "Discover": 209
+    },
+    "cards_per_customer": {
+      "count": 2000.0,
+      "mean": 3.073,
+      "std": 1.637379462969069,
+      "min": 1.0,
+      "25%": 2.0,
+      "50%": 3.0,
+      "75%": 4.0,
+      "max": 9.0
+    },
+    "credit_limit": {
+      "count": 6146.0,
+      "mean": 14347.493979824276,
+      "std": 12014.463884038898,
+      "min": 0.0,
+      "25%": 7042.75,
+      "50%": 12592.5,
+      "75%": 19156.5,
+      "max": 151223.0
+    },
+    "account_open_range": [
+      "1991-01-01",
+      "2020-02-01"
+    ],
+    "unknown_customer": 0
+  },
+  "signups": {
+    "rows": 1588,
+    "columns": [
+      "signup_id",
+      "client_id",
+      "card_id",
+      "signup_ts",
+      "self_reported_source",
+      "signup_landing_page"
+    ],
+    "missing": {},
+    "exact_duplicate_rows": 0,
+    "duplicate_key_excess": 0,
+    "customers": 994,
+    "cards": 1588,
+    "dates": [
+      "2016-01-05 08:43:00",
+      "2020-02-28 22:45:00"
+    ],
+    "sources": {
+      "search": 572,
+      "social_media": 301,
+      "blog_or_review_site": 244,
+      "friend_or_family": 203,
+      "other": 142,
+      "app_store": 63,
+      "podcast_or_youtube": 63
+    },
+    "unknown_customer": 0,
+    "unknown_card": 0,
+    "card_owner_mismatch": 0
+  },
+  "spend": {
+    "rows": 27378,
+    "columns": [
+      "spend_date",
+      "channel",
+      "campaign",
+      "spend",
+      "impressions",
+      "clicks",
+      "platform_reported_conversions"
+    ],
+    "missing": {},
+    "exact_duplicate_rows": 5964,
+    "duplicate_key_excess": 6084,
+    "dates": [
+      "2016-01-01",
+      "2020-02-29"
+    ],
+    "channels": 6,
+    "campaigns": 14,
+    "raw_spend": 9566080.489999998,
+    "raw_platform_conversions": 1753.8300000000004,
+    "duplicate_excess_by_channel": {
+      "apple_search_ads": 6084
+    },
+    "raw_by_channel": {
+      "apple_search_ads": {
+        "rows": 9126,
+        "spend": 2783793.12,
+        "platform_conversions": 94.0
+      },
+      "microsoft_ads": {
+        "rows": 3042,
+        "spend": 719539.98,
+        "platform_conversions": 897.0
+      },
+      "paid_search_brand": {
+        "rows": 3042,
+        "spend": 1277716.78,
+        "platform_conversions": 211.0
+      },
+      "paid_search_nonbrand": {
+        "rows": 4563,
+        "spend": 1835496.81,
+        "platform_conversions": 180.63
+      },
+      "paid_social_meta": {
+        "rows": 4563,
+        "spend": 2379682.02,
+        "platform_conversions": 307.2
+      },
+      "paid_social_reddit": {
+        "rows": 3042,
+        "spend": 569851.78,
+        "platform_conversions": 64.0
+      }
+    }
+  },
+  "revenue_assumptions": [
+    {
+      "assumption_key": "interchange_credit_bps",
+      "assumption_value": 180.0,
+      "unit": "bps of settled purchase volume",
+      "notes": "Blended across MCCs"
+    },
+    {
+      "assumption_key": "interchange_debit_bps",
+      "assumption_value": 5.0,
+      "unit": "bps of settled purchase volume",
+      "notes": "Regulated (Durbin) rate"
+    },
+    {
+      "assumption_key": "interchange_debit_fixed_cents",
+      "assumption_value": 21.0,
+      "unit": "cents per settled transaction",
+      "notes": "Applies per debit transaction"
+    },
+    {
+      "assumption_key": "revolving_apr_pct",
+      "assumption_value": 19.99,
+      "unit": "annual percentage rate",
+      "notes": "Applies to revolving credit balances"
+    },
+    {
+      "assumption_key": "share_of_credit_balance_revolving_pct",
+      "assumption_value": 35.0,
+      "unit": "percent",
+      "notes": "Finance planning assumption"
+    },
+    {
+      "assumption_key": "annual_fee_amex_usd",
+      "assumption_value": 95.0,
+      "unit": "usd per card per year",
+      "notes": "Amex-branded credit cards only"
+    },
+    {
+      "assumption_key": "annual_fee_other_usd",
+      "assumption_value": 0.0,
+      "unit": "usd per card per year",
+      "notes": "All other brands"
+    }
+  ],
+  "mcc": {
+    "entries": 109,
+    "blank_descriptions": 0
+  },
+  "touchpoints": {
+    "rows": 1508860,
+    "columns": [
+      "touch_id",
+      "anonymous_id",
+      "client_id",
+      "touch_ts",
+      "channel",
+      "utm_source",
+      "utm_medium",
+      "utm_campaign",
+      "device",
+      "landing_page"
+    ],
+    "missing": {
+      "client_id": 1500024,
+      "utm_source": 22058,
+      "utm_medium": 22058
+    },
+    "dates": [
+      "2016-01-01 00:00:05",
+      "2020-02-28 23:59:07"
+    ],
+    "channels": {
+      "paid_search_brand": 365702,
+      "organic_search": 648,
+      "email_lifecycle": 2383,
+      "paid_search_nonbrand": 296608,
+      "paid_social_meta": 387631,
+      "affiliate": 319,
+      "direct": 22058,
+      "microsoft_ads": 182706,
+      "apple_search_ads": 136586,
+      "paid_social_reddit": 114193,
+      "referral": 26
+    },
+    "devices": {
+      "desktop": 502362,
+      "mobile": 503961,
+      "tablet": 502537
+    },
+    "unique_anonymous_ids": 1501588,
+    "anonymous_ids_with_customer_link": 1587,
+    "linked_customers": 994,
+    "anonymous_ids_with_multiple_customers": 0,
+    "unknown_linked_customer": 0,
+    "duplicate_touch_ids": 0
+  },
+  "transactions": {
+    "rows": 13305915,
+    "positive_amount_rows": 12635227,
+    "negative_amount_rows": 660049,
+    "zero_amount_rows": 10639,
+    "unparseable_amounts": 0,
+    "unknown_customer": 0,
+    "unknown_card": 0,
+    "card_owner_mismatch": 0,
+    "before_card_open_month": 309,
+    "duplicate_transaction_ids": 0,
+    "columns": [
+      "id",
+      "date",
+      "client_id",
+      "card_id",
+      "amount",
+      "use_chip",
+      "merchant_id",
+      "merchant_city",
+      "merchant_state",
+      "zip",
+      "mcc",
+      "errors"
+    ],
+    "missing": {
+      "merchant_state": 1563700,
+      "zip": 1652706,
+      "errors": 13094522
+    },
+    "dates": [
+      "2010-01-01 00:01:00",
+      "2019-10-31 23:59:00"
+    ],
+    "customers": 1219,
+    "cards": 4071,
+    "raw_amount_sum": 571835522.28,
+    "positive_amount_sum": 639354564.6199999,
+    "negative_amount_sum": -67519042.34000002,
+    "amount_range": [
+      -500.0,
+      6820.2
+    ],
+    "transaction_modes": {
+      "Swipe Transaction": 6967185,
+      "Online Transaction": 1557912,
+      "Chip Transaction": 4780818
+    },
+    "top_errors": [
+      [
+        "Insufficient Balance",
+        130902
+      ],
+      [
+        "Bad PIN",
+        32119
+      ],
+      [
+        "Technical Glitch",
+        26271
+      ],
+      [
+        "Bad Card Number",
+        7767
+      ],
+      [
+        "Bad Expiration",
+        6161
+      ],
+      [
+        "Bad CVV",
+        6106
+      ],
+      [
+        "Bad Zipcode",
+        1126
+      ],
+      [
+        "Bad PIN,Insufficient Balance",
+        293
+      ]
+    ],
+    "rows_by_year": {
+      "2010": 1240880,
+      "2011": 1290770,
+      "2012": 1321672,
+      "2013": 1352808,
+      "2014": 1365537,
+      "2015": 1388065,
+      "2016": 1392117,
+      "2017": 1399308,
+      "2018": 1394792,
+      "2019": 1159966
+    },
+    "mcc_codes": 109,
+    "unmapped_mcc": {},
+    "top_mcc": [
+      {
+        "code": 5411,
+        "description": "Grocery Stores, Supermarkets",
+        "rows": 1592584
+      },
+      {
+        "code": 5499,
+        "description": "Miscellaneous Food Stores",
+        "rows": 1460875
+      },
+      {
+        "code": 5541,
+        "description": "Service Stations",
+        "rows": 1424711
+      },
+      {
+        "code": 5812,
+        "description": "Eating Places and Restaurants",
+        "rows": 999738
+      },
+      {
+        "code": 5912,
+        "description": "Drug Stores and Pharmacies",
+        "rows": 772913
+      },
+      {
+        "code": 4784,
+        "description": "Tolls and Bridge Fees",
+        "rows": 674135
+      },
+      {
+        "code": 5300,
+        "description": "Wholesale Clubs",
+        "rows": 601942
+      },
+      {
+        "code": 4829,
+        "description": "Money Transfer",
+        "rows": 589140
+      },
+      {
+        "code": 4121,
+        "description": "Taxicabs and Limousines",
+        "rows": 500662
+      },
+      {
+        "code": 5814,
+        "description": "Fast Food Restaurants",
+        "rows": 499659
+      }
+    ]
+  },
+  "fraud_labels": {
+    "entries": 8914963,
+    "labels": {
+      "No": 8901631,
+      "Yes": 13332
+    },
+    "duplicate_id_excess": 0,
+    "ids_matching_transactions": 8914963,
+    "ids_not_in_transactions": 0,
+    "transaction_rows_without_label": 4390952
+  }
+}

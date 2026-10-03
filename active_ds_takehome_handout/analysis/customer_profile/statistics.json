@@ -1,0 +1,40 @@
+{
+  "population": 1603,
+  "raw_transactors": 1206,
+  "positive_error_free_transactors": 1206,
+  "no_transactions": 397,
+  "raw_error_count": 22286,
+  "raw_negative_count": 68153,
+  "positive_error_free_count": 1302427,
+  "positive_error_free_amount": 64976163.53999999,
+  "negative_error_free_magnitude": 6897693.08,
+  "overall_demographic_medians": {
+    "reported_age": 49.0,
+    "annual_income": 40012.0,
+    "total_debt": 54455.0,
+    "credit_score": 712.0,
+    "reported_card_count": 3.0
+  },
+  "gender": {
+    "Female": 822,
+    "Male": 781
+  },
+  "active_month_counts": {
+    "8": 1,
+    "11": 4,
+    "12": 1201
+  },
+  "active_card_type_combinations": {
+    "credit+debit": 496,
+    "debit": 323,
+    "credit+debit+prepaid": 124,
+    "credit": 121,
+    "debit+prepaid": 89,
+    "credit+prepaid": 31,
+    "prepaid": 22
+  },
+  "top_10pct_positive_amount_share": 0.2334253636052702,
+  "money_transfer_share": 0.08190578313728493,
+  "online_amount_share": 0.14473221513318052,
+  "validation": "passed"
+}

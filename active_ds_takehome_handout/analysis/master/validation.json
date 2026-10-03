@@ -1,0 +1,21 @@
+{
+  "rows": 1393337,
+  "customers": 1603,
+  "transactions": 1392940,
+  "null_transaction_rows": 397,
+  "amount_cents": 5940877168,
+  "window_start_inclusive": "2018-11-01",
+  "window_end_exclusive": "2019-11-01",
+  "total_source_users": 2000,
+  "excluded_users": 397,
+  "all_window_transactions": 1392940,
+  "excluded_window_transactions": 0,
+  "fraud_labels": {
+    "No": 931638,
+    "Yes": 1715
+  },
+  "columns": 46,
+  "matched_signup_transactions": 97070,
+  "validation": "passed",
+  "transactions_on_cards_opened_during_window": 11078
+}

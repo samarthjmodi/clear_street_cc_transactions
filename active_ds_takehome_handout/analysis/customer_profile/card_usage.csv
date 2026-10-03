@@ -1,0 +1,4 @@
+card_type,transactions,customers,cards_used,positive_amount
+Credit,395873,772,1141,25299127.29
+Debit,817120,1032,2010,37406846.41
+Debit (Prepaid),89434,266,303,2270189.84

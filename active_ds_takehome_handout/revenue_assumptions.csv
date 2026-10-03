@@ -1,0 +1,8 @@
+assumption_key,assumption_value,unit,notes
+interchange_credit_bps,180,bps of settled purchase volume,Blended across MCCs
+interchange_debit_bps,5,bps of settled purchase volume,Regulated (Durbin) rate
+interchange_debit_fixed_cents,21,cents per settled transaction,Applies per debit transaction
+revolving_apr_pct,19.99,annual percentage rate,Applies to revolving credit balances
+share_of_credit_balance_revolving_pct,35,percent,Finance planning assumption
+annual_fee_amex_usd,95,usd per card per year,Amex-branded credit cards only
+annual_fee_other_usd,0,usd per card per year,All other brands

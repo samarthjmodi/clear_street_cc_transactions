@@ -1,0 +1,11 @@
+{
+  "rows": 13305915,
+  "unknown_customer": 0,
+  "unknown_card": 0,
+  "card_owner_mismatch": 0,
+  "before_card_open_month": 309,
+  "window_rows": 1392940,
+  "window_error_rows": 22286,
+  "window_negative_rows": 68153,
+  "duplicate_transaction_ids": 0
+}
