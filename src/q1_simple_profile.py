@@ -46,7 +46,7 @@ CUTS = {
     "credit_score": ("Credit score band", "Feb 2020 snapshot"),
     "debt_to_income": ("Debt-to-income band", "Feb 2020 snapshot"),
     "region": ("Region", "Feb 2020 snapshot"),
-    "gender": ("Gender", "Feb 2020 snapshot"),
+    # Gender is a protected characteristic and is left out of the targeting comparison.
     "self_reported_source": ("Self-reported source", "At signup"),
     "signup_landing_page": ("Landing page", "At signup"),
     "channel_last_touch": ("Last ad channel before signup", "At signup"),

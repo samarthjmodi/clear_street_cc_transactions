@@ -8,7 +8,7 @@
 
 | Channel | Share of spend | Cost per new customer | What to do |
 |---|---:|---:|---|
-| Google branded search | 16% | ~$700 | **Hold; don't scale.** Cheapest, but its volume is capped by people already searching for us, it often finishes journeys other channels started, and extra spend in March 2019 bought clicks, not accounts. |
+| Google branded search | 16% | ~$700 | **Hold; don't scale.** Cheapest, but by its nature it only reaches people already searching for us, it often finishes journeys other channels started, and extra spend in March 2019 bought clicks, not accounts. |
 | Microsoft Ads | 9% | ~$2,200 | **Test growing it.** The $770 figure is wrong, but Microsoft is second-cheapest, and the cheapest at starting journeys (~$1,400, roughly level with brand). |
 | Meta | 31% | ~$2,600 | **Hold, and test with a holdout.** The biggest line, at a middling cost. |
 | Google non-brand search | 24% | ~$2,900 | **Trim or test.** The second-biggest line with the second-lowest return. |
@@ -183,7 +183,7 @@ Coverage barely varies by income (56–68% across fifths), region (59–63%) or 
 - **Income measures neighbourhood, and sets limits rather than access.** `yearly_income` is exactly 2.04 × area per-capita income for 84% of customers. 54–60% hold credit in every income fifth, but the median highest limit rises from $7.4k in the bottom fifth to $18.9k in the top.
 - **Daily users, buying essentials.** The median active customer makes 978 purchases ($45.9k) a year and buys on 349 of 365 days. Groceries, gas and bills are over half of spend. Spend barely varies by season or weekday, so behaviour does little to tell customers apart.
 - **Credit use is either-or:** 36% of active customers put nothing on credit and 10% put everything.
-- **Sign-ups are a skewed sample.** 64% of first sign-ups are from 2020 and 56% are existing customers adding a card. Journeys usually start on affiliate or Meta and end on branded search or direct.
+- **Sign-ups are a skewed sample.** 64% of first sign-ups are from 2020 and 56% are existing customers adding a card. Journeys most often start on affiliate or Meta and end on branded search or direct.
 
 #### Personas
 
@@ -214,7 +214,7 @@ The groups overlap a good deal, so treat them as a description of the base, not 
 | Prepaid | 7 | $84 | 1% | $42.8k | 24 | $26.1k |
 
 - **The card opened on day one decides most of the value.** A credit starter with a $10k+ limit earns $947 in the first year: four times a debit starter and eleven times a prepaid starter. Credit starters are 35% of these customers but 66% of first-year revenue.
-- **Debit starters spend about as much as $10k+ credit starters** ($48.3k against $49.3k in 2019) **but earn a quarter as much,** because debit earns so little per dollar (see "Spend isn't revenue" below).
+- **Debit starters aren't small spenders.** They spend about as much as $10k+ credit starters ($48.3k against $49.3k in 2019); they're worth less because debit earns so little per dollar (see "Spend isn't revenue" below).
 - **Income sets the limit, and the limit tracks value.** $10k+ credit starters have the highest median income ($50.8k) and other credit starters the lowest ($35.2k). Credit scores are similar in every segment (medians about 705–730).
 - **Within credit, the jump comes at about $10k of limit:** about $560 a year below it and about $890 above. The bands above $15k have too few customers to read.
 
@@ -228,19 +228,19 @@ The groups overlap a good deal, so treat them as a description of the base, not 
 | Income fifth | Feb 2020 | Bottom $251 → 4th $546 | $295 | $170 |
 | Credit score band | Feb 2020 | 670–739 $343 → 580–669 $719 | $376 | $111 |
 | Region | Feb 2020 | South $339 → Northeast $561 | $222 | $137 |
-| Gender | Feb 2020 | Female $363 → Male $458 | $95 | $45 |
-| Self-reported source | At sign-up | Blog or review site $293 → Search $457 | $164 | $186 |
-| Last ad channel before sign-up | At sign-up | Direct $322 → Branded search $515 | $193 | $78 |
+| Self-reported source | At sign-up (2016 on) | Blog or review site $293 → Search $457 | $164 | $186 |
+| Last ad channel before sign-up | At sign-up (2016 on) | Direct $322 → Branded search $515 | $193 | $78 |
 | Persona | Measured later (2019) | Debit-only spenders $184 → Younger credit users $560 | $376 | $114 |
 | Spend fifth | Measured later (2019) | Bottom $197 → Top $614 | $417 | $168 |
 | Products held | Measured later (Feb 2020) | Debit + prepaid $166 → Credit only $690 | $524 | $195 |
 
-Year joined, debt-to-income, area income and landing page are in [`simple_cut_spread.csv`](active_ds_takehome_handout/analysis/q1_value/simple_cut_spread.csv).
+Year joined, debt-to-income, area income and landing page are in [`simple_cut_spread.csv`](active_ds_takehome_handout/analysis/q1_value/simple_cut_spread.csv). Gender is left out of this comparison: it's a protected characteristic and can't be used to target credit offers.
 
 - **The day-one card is the one clear signal known at acquisition.** Its gap is more than six times what random groups produce.
-- **Brand and ad channel look strong only because of the card.** Amex and Discover are credit-only, and branded-search sign-ups lean towards credit. Comparing customers who opened the same card, both gaps fall to about what random groups give.
-- **Owner traits add a little, not a lot.** Comparing customers who opened the same card, the income, region and age gaps are about 1.5–1.7 times the random ones. Within credit starters, revenue rises from $493 in the bottom income fifth to $1,345 in the top, but those groups are 5 and 6 customers. Credit score is uneven: the best-earning band is 580–669, not the top scores. Men earned about $84 more than women on the same card (random groups: about $30), but gender can't be used to target credit offers.
-- **Self-reported source is within chance,** before and after allowing for the card.
+- **Brand looks strong only because of the card.** Amex and Discover are credit-only. Comparing customers who opened the same card, brand's gap falls to about what random groups give.
+- **The sign-up rows say little about acquisition.** Sign-up records only start in 2016, and 74 of the 83 customers here who have one joined earlier, so their source and ad channel belong to a later card, not to how they first joined. The ad-channel gap also mostly reflects the card: customers whose sign-up came through branded search are 43% credit starters, against 25% for direct, and comparing customers who opened the same card shrinks the gap to about random. Self-reported source is within chance either way.
+- **Owner traits add a little, not a lot.** Comparing customers who opened the same card, the income and region gaps are about 1.5–1.7 times the random ones. Within credit starters, revenue rises from $493 in the bottom income fifth to $1,345 in the top, but those groups are 5 and 6 customers. Age at first card shows nothing clear: its gap is below the random one.
+- **Credit score doesn't rise with value.** The best-earning band is 580–669, mostly because 68% of that band are credit starters, against 35% overall; what's left rests on 19 customers.
 - **After the day-one card, what separates value most is measured years later** (persona, 2019 spend, products held). That describes value; it can't be used to choose customers.
 
 **The first 90 days are the best early signal:**
@@ -386,7 +386,7 @@ On linear credit, brand is cheapest in 100% of 4,000 resamples, Microsoft second
 #### Next year's budget
 
 The channel-by-channel calls are in the Summary table; set them on our own cost per new customer, not platform-reported CAC. The reasoning a challenger will push on:
-- **Why hold branded search rather than scale it, when it's cheapest.** Doubling it for two weeks in March 2019 bought clicks and no measurable accounts (Q4). It finishes journeys other channels start: it is the last touch for 161 new customers and the first for 46, and the next touch after an affiliate 97 times. And its volume is capped by people already searching for us.
+- **Why hold branded search rather than scale it, when it's cheapest.** Doubling it for two weeks in March 2019 bought clicks and no measurable accounts (Q4). It finishes journeys other channels start: it is the last touch for 161 new customers and the first for 46, and the next touch after an affiliate 97 times. And by its nature, branded search only reaches people already searching for us, so its volume is capped.
 - **Why test growing Microsoft.** It is second-cheapest on linear credit and level with brand at starting journeys.
 - **Why trim non-brand search and Reddit.** After Apple, they have the lowest returns per CAC dollar.
 - **Why no dollar split.** Every channel's share of spend moved by under a percentage point from 2016 to 2019, so the data can't show what an extra dollar buys anywhere. Move money in steps, each with a holdout; attribution ranks exposure, not lift.
