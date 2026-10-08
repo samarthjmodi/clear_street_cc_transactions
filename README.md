@@ -87,7 +87,7 @@ The likely ranges in brackets, in this table and below, are 95% confidence inter
 
 ### Activation and quiet loss (Q2)
 
-Definitions for the 1,206 customers with a settled purchase from November 2018 to October 2019, by Q1 day-one segment. Full write-up: [`QUIET_LOSS.md`](active_ds_takehome_handout/analysis/q2_quiet_loss/QUIET_LOSS.md).
+Definitions for the 1,206 customers with a settled purchase from November 2018 to October 2019, by Q1 day-one segment.
 
 | Definition | Rule |
 |---|---|
@@ -158,7 +158,7 @@ Every 7- or 14-day gap between purchases ended with a purchase within 30 days of
 
 ### 1. Who are our customers, and which segments are worth having?
 
-Two parts: who our customers are, and which of them are worth having. Value figures use only customers with transaction records; customers without any are left out rather than counted as $0 (see Assumptions). Full detail is in [`PART1_CUSTOMER_PROFILE.md`](active_ds_takehome_handout/analysis/q1_value/PART1_CUSTOMER_PROFILE.md) (every profile table, plus the demographics, holdings and behaviour charts) and [`PART2_SEGMENT_VALUE.md`](active_ds_takehome_handout/analysis/q1_value/PART2_SEGMENT_VALUE.md) (the original statistical rating of every cut).
+Two parts: who our customers are, and which of them are worth having. Value figures use only customers with transaction records; customers without any are left out rather than counted as $0 (see Assumptions).
 
 #### Who we can see
 
@@ -306,7 +306,7 @@ The segment ranking rests on gross revenue for the customers we can see. Turning
 
 ### 2. When does a new customer become a *real* customer — and when do I know I'm losing one?
 
-Marketing counts an approved application. Finance counts the first transaction. Neither is enough on its own. The quiet-loss detail and backup tables are in [`QUIET_LOSS.md`](active_ds_takehome_handout/analysis/q2_quiet_loss/QUIET_LOSS.md).
+Marketing counts an approved application. Finance counts the first transaction. Neither is enough on its own.
 
 #### Neither existing clock is right
 
@@ -354,8 +354,6 @@ These rates describe the customers we can see, not historical churn: `users_data
 
 ### 3. Which channels bring good segments vs tyre-kickers — and next year's budget?
 
-Full write-up: [`CHANNEL_QUALITY.md`](active_ds_takehome_handout/analysis/hypotheses/CHANNEL_QUALITY.md). Belief-level evidence: [`VP_BELIEFS.md`](active_ds_takehome_handout/analysis/hypotheses/VP_BELIEFS.md).
-
 **Short answer:** no paid channel is a tyre-kicker factory. Channels separate on **cost**, not on day-one mix. Next year's budget should follow our own cost per new customer, not platform CAC. The cheapest channel (branded search) should be held rather than scaled, and affiliate shouldn't be scaled until commissions are visible.
 
 ![Channel quality and efficiency](plots/q3_channel_quality.png)
@@ -395,8 +393,6 @@ The channel-by-channel calls are in the Summary table; set them on our own cost 
 
 #### The VP's three beliefs
 
-Full evidence and sensitivity tables: [`VP_BELIEFS.md`](active_ds_takehome_handout/analysis/hypotheses/VP_BELIEFS.md).
-
 **Belief 1 — "Microsoft is most efficient at ~$770": the number is wrong, but the instinct is partly right.** The $770 is Microsoft spend ÷ Microsoft's own conversion count. That count never exceeded 26 a month in 2016–2019, then jumped to 293 and 436 in January–February 2020 with spend flat: 728 conversions, more than our 385 new customers from every channel combined. On our records Microsoft costs **~$2,200** per new customer, second to brand. On first touch it is the cheapest channel (~$1,370), level with brand, so it's the natural one to test growing.
 
 ![Microsoft Ads spend vs platform-reported conversions](plots/belief1_microsoft_spend_vs_platform_conversions.png)
@@ -420,7 +416,7 @@ The order of channels holds up; the dollar amounts and each channel's true incre
 
 ### 4. What was the incremental impact of the March 2019 brand campaign?
 
-**Short answer:** the campaign bought much more brand search exposure, but there's no measurable incremental account or transaction behind it. The likely sources of the CMO's claim are the March sign-up count (13, against about 8 in a typical month) and the platform's click numbers; neither shows lift. Full method, robustness checks and backup tables: [`BRAND_CAMPAIGN.md`](active_ds_takehome_handout/analysis/q4/BRAND_CAMPAIGN.md).
+**Short answer:** the campaign bought much more brand search exposure, but there's no measurable incremental account or transaction behind it. The likely sources of the CMO's claim are the March sign-up count (13, against about 8 in a typical month) and the platform's click numbers; neither shows lift.
 
 **What "the campaign" is.** Campaign labels can't identify it: within each channel, every campaign is an identical split of the channel's spend, every day. So it can only be defined as a burst of spend on particular dates, and there is one in 50 months: brand search and Meta both doubled on March 4–15, 2019. The campaign weeks (March 4–17) are compared with the two weeks before (February 18 – March 3). Extra spend was $13,574 on brand search and $25,925 on Meta, $39,499 in all.
 
@@ -518,7 +514,7 @@ Each result is judged against the same calculation run on every ordinary six-wee
 - **Owner attributes are February 2020 values,** not values at application. That covers income, credit score, region and debt.
 - **Credit limits are recorded once per card, with no history.** The day-one limit is assumed to be the limit at opening. The check behind that assumption, and its limits, is under "Leading indicators versus consequences" in Findings §1.
 - **Acquisition fields come from the customer's first signup record,** which only exists from 2016 onward.
-- **Group comparisons use plain averages.** Each cut is compared on its lowest- and highest-earning groups of 10 or more customers. The "gap between random groups" is the median gap over 1,000 random reshuffles of the same customers into groups of the same sizes. "Comparing customers who opened the same card" measures each customer against the average of their own day-one segment. The original statistical ratings are kept in `PART2_SEGMENT_VALUE.md`.
+- **Group comparisons use plain averages.** Each cut is compared on its lowest- and highest-earning groups of 10 or more customers. The "gap between random groups" is the median gap over 1,000 random reshuffles of the same customers into groups of the same sizes. "Comparing customers who opened the same card" measures each customer against the average of their own day-one segment.
 - **The samples are small.** 138 customers with data, 48 of them credit starters, and 1 with a day-one limit of $25k or more.
 - **Values are conditional on staying.** The customer file only includes people who were still customers in February 2020.
 
@@ -629,9 +625,9 @@ python3.12 -m venv .venv
 .venv/bin/python -m pytest tests/ -q
 ```
 
-Primary numeric outputs live under `active_ds_takehome_handout/analysis/{q1_value,q2_quiet_loss,hypotheses,q4}/`. Backup write-ups for each question: [`PART1_CUSTOMER_PROFILE.md`](active_ds_takehome_handout/analysis/q1_value/PART1_CUSTOMER_PROFILE.md) and [`PART2_SEGMENT_VALUE.md`](active_ds_takehome_handout/analysis/q1_value/PART2_SEGMENT_VALUE.md) (Q1), [`QUIET_LOSS.md`](active_ds_takehome_handout/analysis/q2_quiet_loss/QUIET_LOSS.md) (Q2), [`CHANNEL_QUALITY.md`](active_ds_takehome_handout/analysis/hypotheses/CHANNEL_QUALITY.md) and [`VP_BELIEFS.md`](active_ds_takehome_handout/analysis/hypotheses/VP_BELIEFS.md) (Q3), and [`BRAND_CAMPAIGN.md`](active_ds_takehome_handout/analysis/q4/BRAND_CAMPAIGN.md) (Q4).
+The numeric outputs behind the README are under `active_ds_takehome_handout/analysis/{q1_value,q2_quiet_loss,hypotheses,q4}/`. Some scripts also draw charts that the README doesn't use.
 
-Scripts in `src/` that aren't listed above are earlier working versions, kept for the record. `active_ds_takehome_handout/analysis/q1_scratch/` holds intermediate tables that the Q3 scripts build; it is regenerated by the steps above rather than committed.
+Scripts in `src/` that aren't listed above are helpers imported by the listed ones. `active_ds_takehome_handout/analysis/q1_scratch/` holds intermediate tables that the Q3 scripts build; it is regenerated by the steps above rather than committed.
 
 ## AI assistance note
 
