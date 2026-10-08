@@ -1,5 +1,7 @@
 # Q1 Part 2: Which segments are worth having, judged on first-year revenue
 
+> **Technical backup.** The README now uses only customers with transaction records and compares groups with plain averages (`simple_*` outputs from `src/q1_simple_profile.py`). This document keeps the original statistical rating of every cut. Its headline figures count customers without transaction records as $0; use the "with data" figures to match the README.
+
 Each customer cut from Part 1 is rated on how much revenue a customer brings in **their first year with us**.
 
 **How first-year revenue is measured:**

@@ -1,0 +1,63 @@
+{
+  "customers_in_cohort": 282,
+  "customers_with_data": 138,
+  "customers_left_out_no_data": 144,
+  "income_fifth_within_product": {
+    "Credit": {
+      "Bottom": {
+        "customers": 5,
+        "mean_revenue": 492.6
+      },
+      "2nd": {
+        "customers": 10,
+        "mean_revenue": 650.7
+      },
+      "3rd": {
+        "customers": 13,
+        "mean_revenue": 601.0
+      },
+      "4th": {
+        "customers": 14,
+        "mean_revenue": 861.5
+      },
+      "Top": {
+        "customers": 6,
+        "mean_revenue": 1344.6
+      }
+    },
+    "Debit or prepaid": {
+      "Bottom": {
+        "customers": 13,
+        "mean_revenue": 157.9
+      },
+      "2nd": {
+        "customers": 17,
+        "mean_revenue": 191.2
+      },
+      "3rd": {
+        "customers": 21,
+        "mean_revenue": 200.9
+      },
+      "4th": {
+        "customers": 15,
+        "mean_revenue": 251.6
+      },
+      "Top": {
+        "customers": 24,
+        "mean_revenue": 240.3
+      }
+    }
+  },
+  "early_signal_halves_within_product": {
+    "Credit": {
+      "customers": 48,
+      "months_4_12_revenue_top_half": 772.1425768749999,
+      "months_4_12_revenue_bottom_half": 374.6821039583333
+    },
+    "Debit or prepaid": {
+      "customers": 90,
+      "months_4_12_revenue_top_half": 211.6944638888889,
+      "months_4_12_revenue_bottom_half": 112.91572477777778
+    }
+  }
+}
