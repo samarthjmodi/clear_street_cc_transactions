@@ -187,8 +187,6 @@ Coverage barely varies by income (56–68% across fifths), region (59–63%) or 
 
 #### Personas
 
-![Personas](plots/q1_p1_personas.png)
-
 The 1,206 active customers fall loosely into four groups (k-means on 19 profile, holdings and behaviour features):
 
 | Persona | Customers | What sets them apart |
@@ -331,8 +329,6 @@ Among the 1,206 customers we can see, behaviour is near-daily (median gap of 1 d
 
 Quiet loss is defined at the **customer** level (cards expire; spend moves to other cards). On the same 1,206 actives, by Q1 day-one segment:
 
-![Quiet loss by day-one segment](plots/q2_quiet_loss.png)
-
 | Day-one segment | Customers | Median gap (days) | Ever silent ≥7 days | Ever silent ≥14 days | Ever silent ≥30 days | No open card (Feb 2020) |
 |---|---:|---:|---:|---:|---:|---:|
 | Credit, limit $10k+ | 226 | 1 | 2.2% | 0% | 0% | 0% |
@@ -407,8 +403,6 @@ Full evidence and sensitivity tables: [`VP_BELIEFS.md`](active_ds_takehome_hando
 
 **Belief 2 — "Apple is a money pit; spend keeps climbing": partly right.** The return is the worst of any paid channel (**~$8,400** per new customer; the last touch for just 1). But Apple's share of paid spend stayed at 10–12.5% every month, so its spend climbs with the whole budget, not on its own. The raw file also counts it three times ($2.78M against $0.93M). It opens journeys (~$2,650 on first touch, a median of 18 days before sign-up), so pause-test it before cutting.
 
-![Apple Search Ads spend and cost per new customer](plots/belief2_apple_spend_and_cost_per_customer.png)
-
 **Belief 3 — "Affiliate is free growth, scale hard": wrong as stated.** There is no affiliate cost in `channel_spend`, and the affiliate touch log contains only people who signed up, like a partner's conversion feed. Of 245 affiliate-touched sign-ups in January–February 2020, **123 were existing customers** adding a card. If partners are paid on every touched sign-up, commissions above **~$160** exceed the customers' expected three-year revenue (before costs).
 
 ![Affiliate volume and commission scenarios](plots/belief3_affiliate_volume_and_commission_scenarios.png)
@@ -449,8 +443,6 @@ Each result is judged against the same calculation run on every ordinary six-wee
 
 **The ads ran; site traffic didn't respond.** Brand clicks were +101% and +63% above the controls in the two campaign weeks and back to baseline the week after; in the six weeks before, brand and the controls moved in parallel. Site visits barely moved. But the visit log doesn't follow spend in any channel, so flat visits are uninformative rather than proof of no effect.
 
-![Accounts and transactions vs 2018](plots/q4_yoy_outcomes.png)
-
 **Accounts: no detectable lift.**
 - The campaign weeks had 6 accounts against 7 before; the same weeks of 2018 went from 4 to 5.
 - Signup timestamps are unreliable within the month (94% of cards transact before their own signup time), so I also compared months: March 2019's +5.6 against 2018 is offset by April's −6.5. That looks like timing, not new demand.
@@ -458,8 +450,6 @@ Each result is judged against the same calculation run on every ordinary six-wee
 - The data can only detect a large lift (about 14 extra accounts in two weeks), so a modest one can't be ruled out; the top of the range is about 6.
 
 **Transactions: a borderline count that doesn't hold up.** Purchases rose 1.8% (p = 0.07), but the 2019 pre-period was soft: against a January–February baseline the lift is only +0.5%. And 82% of it is on cards more than a month old, which a brand search ad wouldn't plausibly move. Interchange shows nothing (+$519, p = 0.46). At most, the two weeks added about $1.5k of interchange: 11 cents per dollar of extra brand spend, or 4 cents including Meta.
-
-![Placebo distributions](plots/q4_placebos.png)
 
 **What I'd tell the CMO:** "We doubled brand search and Meta for two weeks. It bought clicks. We can't see that it bought accounts or transactions, and the account bump in March was given back in April."
 

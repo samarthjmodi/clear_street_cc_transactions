@@ -312,6 +312,8 @@ These are Spearman correlations across the 1,206 active customers.
 
 ![Personas](../../../plots/q1_p1_personas.png)
 
+**How to read the chart.** Each row is a persona: P1 younger credit users, P2 debit-only everyday spenders, P3 established multi-card households, P4 toll-road drivers. Each column is one of the 19 traits used to form the groups. Each cell shows how far that persona's average is from the average active customer, in standard deviations: red is above average, blue below, white about average. For example, P4 scores +2.6 on online share and on gas and auto share (toll payments are made online), and P2 scores −1.3 on credit limit (they hold no credit card). The "(log)" columns use the logarithm of the value, which stops a few very large values from dominating.
+
 **Method.**
 - The 1,206 active customers were clustered with k-means on 19 standardised features:
   - profile: age, income, debt-to-income, credit score and tenure
