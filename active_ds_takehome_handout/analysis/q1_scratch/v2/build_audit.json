@@ -1,0 +1,15 @@
+{
+  "eligible_customers": 1603,
+  "cards_for_eligible": 5388,
+  "cards_with_signup": 830,
+  "fact_rows": 1392940,
+  "customers_with_window_txn": 1206,
+  "eligible_without_window_txn": 397,
+  "window_start_inclusive": "2018-11-01",
+  "window_end_exclusive": "2019-11-01",
+  "grains": {
+    "dim_customers": "one row per eligible customer (users_data only)",
+    "dim_cards": "one row per card owned by an eligible customer, with signup left-joined on card_id",
+    "fact_transactions": "one row per window transaction for eligible customers, with card, MCC, and that card's signup attributes"
+  }
+}

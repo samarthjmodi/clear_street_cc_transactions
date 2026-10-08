@@ -1,0 +1,533 @@
+{
+  "periods": {
+    "pre": [
+      "2019-02-18",
+      "2019-03-03"
+    ],
+    "campaign": [
+      "2019-03-04",
+      "2019-03-17"
+    ],
+    "post": [
+      "2019-03-18",
+      "2019-03-31"
+    ]
+  },
+  "controls": [
+    "paid_search_nonbrand",
+    "apple_search_ads",
+    "microsoft_ads",
+    "paid_social_reddit"
+  ],
+  "channel_did": {
+    "spend": {
+      "campaign_effect": 0.8502,
+      "post_effect": 0.0208,
+      "campaign_effect_without_microsoft": 0.8175,
+      "meta_campaign_effect": 0.8049,
+      "placebo_channels_campaign_effect": {
+        "paid_search_nonbrand": -0.0023,
+        "apple_search_ads": -0.0084,
+        "microsoft_ads": -0.0689,
+        "paid_social_reddit": 0.0855
+      },
+      "placebo_dates": {
+        "estimate": 0.8502,
+        "placebo_n": 80,
+        "placebo_mean": -0.0005,
+        "placebo_sd": 0.0456,
+        "placebo_p05": -0.0668,
+        "placebo_p95": 0.0758,
+        "p_value": 0.0123,
+        "min_detectable_effect": 0.1278
+      }
+    },
+    "impressions": {
+      "campaign_effect": 0.8502,
+      "post_effect": 0.0208,
+      "campaign_effect_without_microsoft": 0.8175,
+      "meta_campaign_effect": 0.8049,
+      "placebo_channels_campaign_effect": {
+        "paid_search_nonbrand": -0.0023,
+        "apple_search_ads": -0.0084,
+        "microsoft_ads": -0.0689,
+        "paid_social_reddit": 0.0855
+      },
+      "placebo_dates": {
+        "estimate": 0.8502,
+        "placebo_n": 80,
+        "placebo_mean": -0.0005,
+        "placebo_sd": 0.0456,
+        "placebo_p05": -0.0668,
+        "placebo_p95": 0.0759,
+        "p_value": 0.0123,
+        "min_detectable_effect": 0.1278
+      }
+    },
+    "clicks": {
+      "campaign_effect": 0.8081,
+      "post_effect": -0.0096,
+      "campaign_effect_without_microsoft": 0.7674,
+      "meta_campaign_effect": 0.7418,
+      "placebo_channels_campaign_effect": {
+        "paid_search_nonbrand": 0.0158,
+        "apple_search_ads": 0.0001,
+        "microsoft_ads": -0.0869,
+        "paid_social_reddit": 0.0781
+      },
+      "placebo_dates": {
+        "estimate": 0.8081,
+        "placebo_n": 80,
+        "placebo_mean": -0.0016,
+        "placebo_sd": 0.05,
+        "placebo_p05": -0.0805,
+        "placebo_p95": 0.0746,
+        "p_value": 0.0123,
+        "min_detectable_effect": 0.1399
+      }
+    },
+    "touches": {
+      "campaign_effect": 0.0228,
+      "post_effect": -0.0162,
+      "campaign_effect_without_microsoft": 0.0083,
+      "meta_campaign_effect": 0.0142,
+      "placebo_channels_campaign_effect": {
+        "paid_search_nonbrand": 0.0013,
+        "apple_search_ads": 0.0243,
+        "microsoft_ads": -0.0555,
+        "paid_social_reddit": 0.0323
+      },
+      "placebo_dates": {
+        "estimate": 0.0228,
+        "placebo_n": 80,
+        "placebo_mean": -0.0013,
+        "placebo_sd": 0.0283,
+        "placebo_p05": -0.0373,
+        "placebo_p95": 0.0472,
+        "p_value": 0.4938,
+        "min_detectable_effect": 0.0791
+      }
+    }
+  },
+  "weekly_gap_vs_pre": {
+    "clicks": {
+      "2019-01-07": 0.0099,
+      "2019-01-14": 0.0633,
+      "2019-01-21": 0.0037,
+      "2019-01-28": -0.0105,
+      "2019-02-04": -0.0395,
+      "2019-02-11": -0.0028,
+      "2019-02-18": -0.0429,
+      "2019-02-25": 0.0449,
+      "2019-03-04": 1.0101,
+      "2019-03-11": 0.6263,
+      "2019-03-18": 0.0236,
+      "2019-03-25": -0.0417,
+      "2019-04-01": -0.0142,
+      "2019-04-08": 0.0199,
+      "2019-04-15": 0.0232,
+      "2019-04-22": -0.0181
+    },
+    "touches": {
+      "2019-01-07": -0.0758,
+      "2019-01-14": 0.0319,
+      "2019-01-21": -0.0597,
+      "2019-01-28": 0.028,
+      "2019-02-04": -0.0356,
+      "2019-02-11": -0.0278,
+      "2019-02-18": 0.0075,
+      "2019-02-25": -0.0075,
+      "2019-03-04": 0.0484,
+      "2019-03-11": -0.0022,
+      "2019-03-18": -0.0376,
+      "2019-03-25": 0.0058,
+      "2019-04-01": 0.0213,
+      "2019-04-08": 0.0496,
+      "2019-04-15": -0.0312,
+      "2019-04-22": -0.0077
+    }
+  },
+  "sparse_channel_counts": {
+    "pre": {
+      "brand": {
+        "platform_conversions": 1.0,
+        "linked_customers": 5
+      },
+      "meta": {
+        "platform_conversions": 0.0,
+        "linked_customers": 2
+      },
+      "controls": {
+        "platform_conversions": 3.0,
+        "linked_customers": 3
+      }
+    },
+    "campaign": {
+      "brand": {
+        "platform_conversions": 0.0,
+        "linked_customers": 5
+      },
+      "meta": {
+        "platform_conversions": 1.2,
+        "linked_customers": 3
+      },
+      "controls": {
+        "platform_conversions": 2.0,
+        "linked_customers": 2
+      }
+    },
+    "post": {
+      "brand": {
+        "platform_conversions": 1.0,
+        "linked_customers": 3
+      },
+      "meta": {
+        "platform_conversions": 2.4,
+        "linked_customers": 0
+      },
+      "controls": {
+        "platform_conversions": 1.0,
+        "linked_customers": 1
+      }
+    }
+  },
+  "yoy_did": {
+    "accounts": {
+      "main": {
+        "per_day": {
+          "campaign": -0.1429,
+          "post": -0.1429
+        },
+        "total": {
+          "campaign": -2.0,
+          "post": -2.0
+        },
+        "placebo_campaign": {
+          "estimate": -2.0,
+          "placebo_n": 36,
+          "placebo_mean": 0.2778,
+          "placebo_sd": 4.9316,
+          "placebo_p05": -9.0,
+          "placebo_p95": 7.25,
+          "p_value": 0.5946,
+          "min_detectable_effect": 13.8085
+        },
+        "counts": {
+          "2019": {
+            "pre": 7,
+            "campaign": 6,
+            "post": 6
+          },
+          "2018_same_weekdays": {
+            "pre": 4,
+            "campaign": 5,
+            "post": 5
+          }
+        },
+        "poisson_se_total": {
+          "campaign": 4.6904,
+          "post": 4.6904
+        }
+      },
+      "post_extended_6_weeks": {
+        "per_day": {
+          "campaign": -0.1429,
+          "post": -0.3333
+        },
+        "total": {
+          "campaign": -2.0,
+          "post": -14.0
+        }
+      },
+      "calendar_months": {
+        "per_day": {
+          "campaign": 0.1799,
+          "post": -0.2158
+        },
+        "total": {
+          "campaign": 5.5763,
+          "post": -6.4746
+        }
+      }
+    },
+    "accounts_by_existing_customers": {
+      "main": {
+        "per_day": {
+          "campaign": -0.0,
+          "post": 0.0714
+        },
+        "total": {
+          "campaign": -0.0,
+          "post": 1.0
+        },
+        "placebo_campaign": {
+          "estimate": -0.0,
+          "placebo_n": 36,
+          "placebo_mean": 0.2222,
+          "placebo_sd": 4.4536,
+          "placebo_p05": -7.5,
+          "placebo_p95": 6.5,
+          "p_value": 0.8919,
+          "min_detectable_effect": 12.4702
+        }
+      },
+      "post_extended_6_weeks": {
+        "per_day": {
+          "campaign": -0.0,
+          "post": -0.119
+        },
+        "total": {
+          "campaign": -0.0,
+          "post": -5.0
+        }
+      },
+      "calendar_months": {
+        "per_day": {
+          "campaign": 0.2138,
+          "post": -0.0819
+        },
+        "total": {
+          "campaign": 6.6271,
+          "post": -2.4576
+        }
+      }
+    },
+    "settled_purchases": {
+      "main": {
+        "per_day": {
+          "campaign": 63.0714,
+          "post": 30.9286
+        },
+        "total": {
+          "campaign": 883.0,
+          "post": 433.0
+        },
+        "pct": {
+          "campaign": 0.0179,
+          "post": 0.0087
+        },
+        "placebo_campaign": {
+          "estimate": 0.0179,
+          "placebo_n": 27,
+          "placebo_mean": 0.0004,
+          "placebo_sd": 0.0095,
+          "placebo_p05": -0.0155,
+          "placebo_p95": 0.0153,
+          "p_value": 0.0714,
+          "min_detectable_effect": 0.0266
+        }
+      },
+      "post_extended_6_weeks": {
+        "per_day": {
+          "campaign": 63.0714,
+          "post": 23.4762
+        },
+        "total": {
+          "campaign": 883.0,
+          "post": 986.0
+        },
+        "pct": {
+          "campaign": 0.0179,
+          "post": 0.0066
+        }
+      },
+      "calendar_months": {
+        "per_day": {
+          "campaign": 19.0405,
+          "post": -1.4972
+        },
+        "total": {
+          "campaign": 590.2542,
+          "post": -44.9153
+        },
+        "pct": {
+          "campaign": 0.0054,
+          "post": -0.0004
+        }
+      }
+    },
+    "purchase_volume": {
+      "main": {
+        "per_day": {
+          "campaign": 4273.6164,
+          "post": 1682.25
+        },
+        "total": {
+          "campaign": 59830.63,
+          "post": 23551.5
+        },
+        "pct": {
+          "campaign": 0.0242,
+          "post": 0.0095
+        },
+        "placebo_campaign": {
+          "estimate": 0.0242,
+          "placebo_n": 27,
+          "placebo_mean": -0.0007,
+          "placebo_sd": 0.0168,
+          "placebo_p05": -0.0276,
+          "placebo_p95": 0.0277,
+          "p_value": 0.2143,
+          "min_detectable_effect": 0.0471
+        }
+      },
+      "post_extended_6_weeks": {
+        "per_day": {
+          "campaign": 4273.6164,
+          "post": 2047.9524
+        },
+        "total": {
+          "campaign": 59830.63,
+          "post": 86014.0
+        },
+        "pct": {
+          "campaign": 0.0242,
+          "post": 0.0116
+        }
+      },
+      "calendar_months": {
+        "per_day": {
+          "campaign": 1602.8817,
+          "post": 1245.2474
+        },
+        "total": {
+          "campaign": 49689.3325,
+          "post": 37357.4208
+        },
+        "pct": {
+          "campaign": 0.009,
+          "post": 0.007
+        }
+      }
+    },
+    "interchange": {
+      "main": {
+        "per_day": {
+          "campaign": 37.0765,
+          "post": -18.7744
+        },
+        "total": {
+          "campaign": 519.0707,
+          "post": -262.841
+        },
+        "pct": {
+          "campaign": 0.021,
+          "post": -0.0103
+        },
+        "placebo_campaign": {
+          "estimate": 0.021,
+          "placebo_n": 27,
+          "placebo_mean": 0.0003,
+          "placebo_sd": 0.024,
+          "placebo_p05": -0.0331,
+          "placebo_p95": 0.0396,
+          "p_value": 0.4643,
+          "min_detectable_effect": 0.0671
+        }
+      },
+      "post_extended_6_weeks": {
+        "per_day": {
+          "campaign": 37.0765,
+          "post": -6.8673
+        },
+        "total": {
+          "campaign": 519.0707,
+          "post": -288.4256
+        },
+        "pct": {
+          "campaign": 0.021,
+          "post": -0.0038
+        }
+      },
+      "calendar_months": {
+        "per_day": {
+          "campaign": 11.9469,
+          "post": 2.0274
+        },
+        "total": {
+          "campaign": 370.3533,
+          "post": 60.8219
+        },
+        "pct": {
+          "campaign": 0.0068,
+          "post": 0.0011
+        }
+      }
+    },
+    "purchases_on_new_cards": {
+      "main": {
+        "per_day": {
+          "campaign": 11.1429,
+          "post": 11.6429
+        },
+        "total": {
+          "campaign": 156.0,
+          "post": 163.0
+        },
+        "pct": {
+          "campaign": 1.0842,
+          "post": 1.1674
+        },
+        "placebo_campaign": {
+          "estimate": 1.0842,
+          "placebo_n": 27,
+          "placebo_mean": 0.0242,
+          "placebo_sd": 0.2895,
+          "placebo_p05": -0.4543,
+          "placebo_p95": 0.5143,
+          "p_value": 0.0357,
+          "min_detectable_effect": 0.8106
+        }
+      },
+      "post_extended_6_weeks": {
+        "per_day": {
+          "campaign": 11.1429,
+          "post": 13.7619
+        },
+        "total": {
+          "campaign": 156.0,
+          "post": 578.0
+        },
+        "pct": {
+          "campaign": 1.0842,
+          "post": 1.6375
+        }
+      },
+      "calendar_months": {
+        "per_day": {
+          "campaign": 9.3849,
+          "post": 13.5215
+        },
+        "total": {
+          "campaign": 290.9322,
+          "post": 405.6441
+        },
+        "pct": {
+          "campaign": 1.1192,
+          "post": 2.1656
+        }
+      }
+    }
+  },
+  "cost": {
+    "incremental_spend_campaign": {
+      "brand_search": 13573.708,
+      "meta": 25924.9266,
+      "brand_plus_meta": 39498.6345
+    },
+    "incremental_campaign": {
+      "accounts": -2.0,
+      "settled_purchases": 883.0,
+      "interchange": 519.0707
+    },
+    "incremental_campaign_upper_90": {
+      "accounts": 5.7157,
+      "settled_purchases": 1649.9246,
+      "interchange": 1494.5365
+    },
+    "interchange_per_dollar_of_brand_spend": {
+      "estimate": 0.0382,
+      "upper_90": 0.1101
+    }
+  }
+}

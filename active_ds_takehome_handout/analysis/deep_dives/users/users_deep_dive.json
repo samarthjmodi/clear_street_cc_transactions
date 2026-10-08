@@ -1,0 +1,477 @@
+{
+  "quality": {
+    "rows": 2000,
+    "columns": 14,
+    "nulls": {},
+    "money_parse_failures": {
+      "per_capita_income": 0,
+      "yearly_income": 0,
+      "total_debt": 0
+    },
+    "duplicate_ids": 0,
+    "id_range": [
+      0,
+      1999
+    ],
+    "duplicate_addresses": [
+      {
+        "client_id": 960,
+        "address": "506 Washington Lane",
+        "latitude": 33.83,
+        "longitude": -117.85
+      },
+      {
+        "client_id": 1800,
+        "address": "506 Washington Lane",
+        "latitude": 37.48,
+        "longitude": -86.29
+      }
+    ],
+    "duplicate_full_rows_excl_id": 0,
+    "ranges": {
+      "current_age": [
+        18.0,
+        44.0,
+        101.0
+      ],
+      "retirement_age": [
+        50.0,
+        66.0,
+        79.0
+      ],
+      "birth_year": [
+        1918.0,
+        1975.0,
+        2002.0
+      ],
+      "birth_month": [
+        1.0,
+        7.0,
+        12.0
+      ],
+      "latitude": [
+        20.88,
+        38.25,
+        61.2
+      ],
+      "longitude": [
+        -159.41,
+        -86.44,
+        -68.67
+      ],
+      "per_capita_income": [
+        0.0,
+        20581.0,
+        163145.0
+      ],
+      "yearly_income": [
+        1.0,
+        40744.5,
+        307018.0
+      ],
+      "total_debt": [
+        0.0,
+        58251.0,
+        516263.0
+      ],
+      "credit_score": [
+        480.0,
+        711.5,
+        850.0
+      ],
+      "num_credit_cards": [
+        1.0,
+        3.0,
+        9.0
+      ]
+    },
+    "zero_counts": {
+      "per_capita_income": 15,
+      "yearly_income": 0,
+      "total_debt": 102,
+      "num_credit_cards": 0
+    },
+    "credit_score_outside_300_850": 0,
+    "gender": {
+      "Female": 1016,
+      "Male": 984
+    },
+    "implied_as_of_year": {
+      "2019": 1611,
+      "2020": 389
+    },
+    "retired_share": 0.151,
+    "age_over_retirement_by_band": {
+      "(0, 59]": 0.003,
+      "(59, 64]": 0.191,
+      "(64, 69]": 0.611,
+      "(69, 120]": 0.991
+    },
+    "yearly_lt_per_capita": 34,
+    "income_to_per_capita_ratio": {
+      "count": 2000.0,
+      "mean": Infinity,
+      "std": NaN,
+      "min": 0.673,
+      "1%": 0.814,
+      "5%": 1.451,
+      "50%": 2.039,
+      "95%": 2.039,
+      "99%": 2.465,
+      "max": Infinity
+    },
+    "coord_precision_decimals": 2,
+    "unique_coordinates": 1531,
+    "users_sharing_coordinates": 718,
+    "coords_with_multiple_per_capita_values": 127,
+    "outside_contiguous_us": 12
+  },
+  "links": {
+    "users_with_cards": 2000,
+    "card_client_ids_not_in_users": 0,
+    "users_with_transactions": 1219,
+    "users_with_signup": 994,
+    "users_with_touchpoints": 994,
+    "num_credit_cards_eq_credit_cards_in_table": 0.1005,
+    "num_credit_cards_eq_all_cards_in_table": 1.0,
+    "num_credit_cards_minus_credit_in_table": {
+      "count": 2000.0,
+      "mean": 2.04,
+      "std": 1.38,
+      "min": 0.0,
+      "25%": 1.0,
+      "50%": 2.0,
+      "75%": 3.0,
+      "max": 8.0
+    },
+    "num_credit_cards_minus_all_in_table": {
+      "count": 2000.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "rank_corr_num_credit_cards_vs_credit_in_table": 0.5297401934289644,
+    "rank_corr_num_credit_cards_vs_all_in_table": 1.0
+  },
+  "value": {
+    "age": [
+      {
+        "band": "18-29",
+        "n": 40,
+        "mean_value": 507.0,
+        "median_value": 470.0,
+        "mean_purchase_volume": 51311.0,
+        "pct_credit_today": 0.55,
+        "pct_premium_day_one": 0.15
+      },
+      {
+        "band": "30-39",
+        "n": 224,
+        "mean_value": 501.0,
+        "median_value": 397.0,
+        "mean_purchase_volume": 50859.0,
+        "pct_credit_today": 0.629,
+        "pct_premium_day_one": 0.205
+      },
+      {
+        "band": "40-49",
+        "n": 294,
+        "mean_value": 495.0,
+        "median_value": 389.0,
+        "mean_purchase_volume": 53182.0,
+        "pct_credit_today": 0.704,
+        "pct_premium_day_one": 0.119
+      },
+      {
+        "band": "50-59",
+        "n": 277,
+        "mean_value": 545.0,
+        "median_value": 452.0,
+        "mean_purchase_volume": 56101.0,
+        "pct_credit_today": 0.747,
+        "pct_premium_day_one": 0.126
+      },
+      {
+        "band": "60-69",
+        "n": 199,
+        "mean_value": 470.0,
+        "median_value": 390.0,
+        "mean_purchase_volume": 51049.0,
+        "pct_credit_today": 0.704,
+        "pct_premium_day_one": 0.111
+      },
+      {
+        "band": "70+",
+        "n": 185,
+        "mean_value": 552.0,
+        "median_value": 483.0,
+        "mean_purchase_volume": 55120.0,
+        "pct_credit_today": 0.795,
+        "pct_premium_day_one": 0.146
+      }
+    ],
+    "income_quintile": [
+      {
+        "band": "Q1",
+        "n": 244,
+        "mean_value": 359.0,
+        "median_value": 325.0,
+        "mean_purchase_volume": 35968.0,
+        "pct_credit_today": 0.725,
+        "pct_premium_day_one": 0.037
+      },
+      {
+        "band": "Q2",
+        "n": 244,
+        "mean_value": 476.0,
+        "median_value": 434.0,
+        "mean_purchase_volume": 48788.0,
+        "pct_credit_today": 0.721,
+        "pct_premium_day_one": 0.049
+      },
+      {
+        "band": "Q3",
+        "n": 243,
+        "mean_value": 452.0,
+        "median_value": 388.0,
+        "mean_purchase_volume": 47354.0,
+        "pct_credit_today": 0.7,
+        "pct_premium_day_one": 0.123
+      },
+      {
+        "band": "Q4",
+        "n": 244,
+        "mean_value": 562.0,
+        "median_value": 531.0,
+        "mean_purchase_volume": 58148.0,
+        "pct_credit_today": 0.713,
+        "pct_premium_day_one": 0.225
+      },
+      {
+        "band": "Q5",
+        "n": 244,
+        "mean_value": 712.0,
+        "median_value": 633.0,
+        "mean_purchase_volume": 76232.0,
+        "pct_credit_today": 0.684,
+        "pct_premium_day_one": 0.266
+      }
+    ],
+    "credit_score": [
+      {
+        "band": "<650",
+        "n": 177,
+        "mean_value": 498.0,
+        "median_value": 370.0,
+        "mean_purchase_volume": 53984.0,
+        "pct_credit_today": 0.559,
+        "pct_premium_day_one": 0.113
+      },
+      {
+        "band": "650-699",
+        "n": 285,
+        "mean_value": 508.0,
+        "median_value": 416.0,
+        "mean_purchase_volume": 54872.0,
+        "pct_credit_today": 0.695,
+        "pct_premium_day_one": 0.102
+      },
+      {
+        "band": "700-749",
+        "n": 421,
+        "mean_value": 502.0,
+        "median_value": 421.0,
+        "mean_purchase_volume": 52660.0,
+        "pct_credit_today": 0.727,
+        "pct_premium_day_one": 0.164
+      },
+      {
+        "band": "750+",
+        "n": 336,
+        "mean_value": 537.0,
+        "median_value": 457.0,
+        "mean_purchase_volume": 52418.0,
+        "pct_credit_today": 0.777,
+        "pct_premium_day_one": 0.158
+      }
+    ],
+    "debt_to_income": [
+      {
+        "band": "0",
+        "n": 65,
+        "mean_value": 477.0,
+        "median_value": 405.0,
+        "mean_purchase_volume": 50566.0,
+        "pct_credit_today": 0.692,
+        "pct_premium_day_one": 0.138
+      },
+      {
+        "band": "0-0.5",
+        "n": 243,
+        "mean_value": 570.0,
+        "median_value": 477.0,
+        "mean_purchase_volume": 59535.0,
+        "pct_credit_today": 0.753,
+        "pct_premium_day_one": 0.152
+      },
+      {
+        "band": "0.5-1.5",
+        "n": 406,
+        "mean_value": 501.0,
+        "median_value": 403.0,
+        "mean_purchase_volume": 52844.0,
+        "pct_credit_today": 0.702,
+        "pct_premium_day_one": 0.135
+      },
+      {
+        "band": "1.5-3",
+        "n": 468,
+        "mean_value": 506.0,
+        "median_value": 422.0,
+        "mean_purchase_volume": 51843.0,
+        "pct_credit_today": 0.697,
+        "pct_premium_day_one": 0.143
+      },
+      {
+        "band": "3+",
+        "n": 37,
+        "mean_value": 403.0,
+        "median_value": 390.0,
+        "mean_purchase_volume": 40685.0,
+        "pct_credit_today": 0.676,
+        "pct_premium_day_one": 0.081
+      }
+    ],
+    "num_credit_cards": [
+      {
+        "band": "1",
+        "n": 98,
+        "mean_value": 369.0,
+        "median_value": 242.0,
+        "mean_purchase_volume": 47105.0,
+        "pct_credit_today": 0.296,
+        "pct_premium_day_one": 0.112
+      },
+      {
+        "band": "2",
+        "n": 169,
+        "mean_value": 456.0,
+        "median_value": 340.0,
+        "mean_purchase_volume": 51577.0,
+        "pct_credit_today": 0.533,
+        "pct_premium_day_one": 0.077
+      },
+      {
+        "band": "3",
+        "n": 302,
+        "mean_value": 460.0,
+        "median_value": 352.0,
+        "mean_purchase_volume": 50912.0,
+        "pct_credit_today": 0.652,
+        "pct_premium_day_one": 0.123
+      },
+      {
+        "band": "4",
+        "n": 313,
+        "mean_value": 525.0,
+        "median_value": 493.0,
+        "mean_purchase_volume": 52813.0,
+        "pct_credit_today": 0.792,
+        "pct_premium_day_one": 0.166
+      },
+      {
+        "band": "5",
+        "n": 183,
+        "mean_value": 608.0,
+        "median_value": 502.0,
+        "mean_purchase_volume": 57890.0,
+        "pct_credit_today": 0.869,
+        "pct_premium_day_one": 0.164
+      },
+      {
+        "band": "6",
+        "n": 96,
+        "mean_value": 651.0,
+        "median_value": 518.0,
+        "mean_purchase_volume": 60254.0,
+        "pct_credit_today": 0.906,
+        "pct_premium_day_one": 0.156
+      },
+      {
+        "band": "7+",
+        "n": 58,
+        "mean_value": 597.0,
+        "median_value": 513.0,
+        "mean_purchase_volume": 57919.0,
+        "pct_credit_today": 0.931,
+        "pct_premium_day_one": 0.224
+      }
+    ],
+    "gender": [
+      {
+        "band": "Female",
+        "n": 622,
+        "mean_value": 518.0,
+        "median_value": 433.0,
+        "mean_purchase_volume": 53626.0,
+        "pct_credit_today": 0.711,
+        "pct_premium_day_one": 0.133
+      },
+      {
+        "band": "Male",
+        "n": 597,
+        "mean_value": 507.0,
+        "median_value": 412.0,
+        "mean_purchase_volume": 52966.0,
+        "pct_credit_today": 0.707,
+        "pct_premium_day_one": 0.147
+      }
+    ],
+    "retired": [
+      {
+        "band": "retired",
+        "n": 256,
+        "mean_value": 535.0,
+        "median_value": 463.0,
+        "mean_purchase_volume": 55945.0,
+        "pct_credit_today": 0.754,
+        "pct_premium_day_one": 0.141
+      },
+      {
+        "band": "working age",
+        "n": 963,
+        "mean_value": 506.0,
+        "median_value": 410.0,
+        "mean_purchase_volume": 52600.0,
+        "pct_credit_today": 0.697,
+        "pct_premium_day_one": 0.14
+      }
+    ],
+    "rank_corr_with_value": {
+      "purchase_volume": 0.61,
+      "current_age": 0.061,
+      "yearly_income": 0.239,
+      "per_capita_income": 0.273,
+      "total_debt": 0.051,
+      "dti": -0.052,
+      "credit_score": 0.062,
+      "num_credit_cards": 0.274,
+      "income_vs_area": -0.057
+    },
+    "rank_corr_with_purchase_volume": {
+      "current_age": 0.043,
+      "yearly_income": 0.47,
+      "per_capita_income": 0.521,
+      "total_debt": 0.132,
+      "dti": -0.061,
+      "credit_score": -0.016,
+      "num_credit_cards": 0.13,
+      "income_vs_area": -0.087
+    },
+    "n": 1219
+  }
+}

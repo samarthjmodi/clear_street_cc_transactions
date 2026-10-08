@@ -1,0 +1,7 @@
+variant,total_revenue,mean_per_active_customer,change_vs_base,same_order_card_brand,same_order_card_type,same_order_credit_limit,same_order_yearly_income
+base,629620.1607383334,522.0731017730791,0.0,True,True,True,True
+gross_of_refunds,686704.9826783333,569.4071166487009,0.09066549246621736,True,True,True,False
+prepaid_earns_nothing,610543.5728183333,506.25503550442227,-0.030298565880783834,False,False,True,False
+money_transfer_earns_nothing,579566.5888333332,480.5693108070756,-0.07949804505355118,True,True,True,False
+no_amex_fee,608514.3274049999,504.572410783582,-0.03352153353632037,True,True,True,True
+step1_provisional,666788.7477583332,552.8928256702598,0.05903334952999839,True,False,True,False

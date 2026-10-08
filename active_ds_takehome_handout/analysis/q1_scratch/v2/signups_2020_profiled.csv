@@ -1,0 +1,1179 @@
+signup_id,client_id,card_id,signup_ts,self_reported_source,signup_landing_page,card_type,credit_limit,n_credit,credit_limit_total,yearly_income,profile
+s_000002,1711,744,2020-01-06 10:32:00,search,/apply,Debit,17480,0.0,0.0,54623,No credit card / higher income
+s_000004,192,1766,2020-02-25 18:19:00,other,/,Debit,25499,0.0,0.0,56164,No credit card / higher income
+s_000005,192,1767,2020-02-11 13:06:00,search,/cards,Debit,18641,0.0,0.0,56164,No credit card / higher income
+s_000006,640,745,2020-01-08 20:04:00,social_media,/cards,Debit,26019,0.0,0.0,45727,No credit card / higher income
+s_000007,1679,1459,2020-02-10 18:44:00,search,/blog/credit-basics,Debit,25845,0.0,0.0,69149,No credit card / higher income
+s_000008,1094,1768,2020-02-12 17:17:00,search,/cards,Credit,7400,1.0,7400.0,41442,Credit <$12k / higher income
+s_000011,153,440,2020-01-15 12:48:00,search,/,Debit,20463,1.0,11200.0,27484,Credit <$12k / lower income
+s_000012,429,746,2020-01-15 14:27:00,search,/blog/credit-basics,Debit,15802,1.0,19900.0,53995,Credit $12k+ / higher income
+s_000013,429,1769,2020-02-08 22:51:00,search,/blog/credit-basics,Debit,4612,1.0,19900.0,53995,Credit $12k+ / higher income
+s_000014,429,421,2020-01-04 20:38:00,search,/apply,Credit,19900,1.0,19900.0,53995,Credit $12k+ / higher income
+s_000015,309,1460,2020-02-13 15:10:00,friend_or_family,/cards/rewards,Debit,9944,2.0,13500.0,25122,Credit $12k+ / lower income
+s_000016,309,747,2020-01-21 22:17:00,search,/blog/credit-basics,Credit,7900,1.0,7900.0,25122,Credit <$12k / lower income
+s_000017,309,1770,2020-02-03 09:08:00,social_media,/compare,Credit,5600,2.0,13500.0,25122,Credit $12k+ / lower income
+s_000018,777,748,2020-01-21 15:40:00,other,/cards,Debit,68400,0.0,0.0,216740,No credit card / higher income
+s_000019,777,441,2020-01-03 21:09:00,search,/apply,Debit,77237,0.0,0.0,216740,No credit card / higher income
+s_000020,482,1461,2020-02-06 20:03:00,other,/cards,Credit,12100,1.0,12100.0,34929,Credit $12k+ / lower income
+s_000021,877,442,2020-01-20 13:09:00,search,/compare,Debit,9708,1.0,12000.0,34317,Credit $12k+ / lower income
+s_000022,128,1462,2020-02-09 12:40:00,other,/blog/credit-basics,Credit,7800,1.0,7800.0,31377,Credit <$12k / lower income
+s_000024,1884,443,2020-01-22 15:53:00,blog_or_review_site,/cards,Debit (Prepaid),74,0.0,0.0,57281,No credit card / higher income
+s_000025,1689,1771,2020-02-05 19:04:00,app_store,/blog/credit-basics,Credit,6600,1.0,6600.0,61746,Credit <$12k / higher income
+s_000028,811,387,2020-01-21 08:04:00,search,/blog/credit-basics,Credit,24400,2.0,49300.0,84694,Credit $12k+ / higher income
+s_000029,811,444,2020-01-05 18:43:00,search,/apply,Debit,53549,2.0,49300.0,84694,Credit $12k+ / higher income
+s_000031,1231,1463,2020-02-28 08:13:00,social_media,/cards/rewards,Debit,9090,0.0,0.0,22066,No credit card / lower income
+s_000032,970,1464,2020-02-05 22:10:00,friend_or_family,/cards/rewards,Credit,4900,2.0,15600.0,44681,Credit $12k+ / higher income
+s_000033,381,1465,2020-02-01 17:43:00,other,/compare,Credit,18100,1.0,18100.0,51306,Credit $12k+ / higher income
+s_000034,1134,388,2020-01-15 15:43:00,social_media,/cards/rewards,Credit,7200,1.0,7200.0,25847,Credit <$12k / lower income
+s_000039,838,445,2020-01-16 12:11:00,friend_or_family,/blog/credit-basics,Credit,13800,1.0,13800.0,49713,Credit $12k+ / higher income
+s_000040,54,1466,2020-02-11 15:09:00,app_store,/cards/rewards,Debit,16375,0.0,0.0,44160,No credit card / higher income
+s_000041,54,749,2020-01-19 10:50:00,social_media,/cards,Debit,14213,0.0,0.0,44160,No credit card / higher income
+s_000042,54,1772,2020-02-07 18:23:00,search,/cards/rewards,Debit (Prepaid),73,0.0,0.0,44160,No credit card / higher income
+s_000043,1938,446,2020-01-23 12:39:00,search,/cards,Debit,2868,1.0,3400.0,57367,Credit <$12k / higher income
+s_000044,1938,422,2020-01-21 13:44:00,search,/,Credit,3400,1.0,3400.0,57367,Credit <$12k / higher income
+s_000047,749,389,2020-01-26 17:23:00,podcast_or_youtube,/cards/rewards,Credit,5600,1.0,5600.0,24574,Credit <$12k / lower income
+s_000048,749,1773,2020-02-28 22:45:00,app_store,/cards/rewards,Debit,11873,2.0,12800.0,24574,Credit $12k+ / lower income
+s_000049,749,1467,2020-02-19 11:20:00,search,/,Credit,7200,2.0,12800.0,24574,Credit $12k+ / lower income
+s_000050,643,1395,2020-02-12 11:09:00,search,/cards/rewards,Credit,10000,2.0,10500.0,43397,Credit <$12k / higher income
+s_000051,1219,1468,2020-02-07 22:33:00,search,/blog/credit-basics,Debit,22697,1.0,18000.0,58105,Credit $12k+ / higher income
+s_000053,1493,1469,2020-02-16 16:38:00,blog_or_review_site,/blog/credit-basics,Credit,13000,3.0,31800.0,54537,Credit $12k+ / higher income
+s_000054,1493,1774,2020-02-14 14:54:00,search,/compare,Debit,22701,3.0,31800.0,54537,Credit $12k+ / higher income
+s_000055,1161,1470,2020-02-03 12:13:00,search,/apply,Credit,16100,1.0,16100.0,49255,Credit $12k+ / higher income
+s_000056,1161,1471,2020-02-02 16:31:00,blog_or_review_site,/,Debit,7629,1.0,16100.0,49255,Credit $12k+ / higher income
+s_000058,533,750,2020-01-05 20:15:00,blog_or_review_site,/,Debit,8492,0.0,0.0,30961,No credit card / lower income
+s_000059,1738,1472,2020-02-20 16:19:00,search,/blog/credit-basics,Credit,18700,3.0,49400.0,68784,Credit $12k+ / higher income
+s_000060,1738,751,2020-01-05 10:26:00,friend_or_family,/cards,Debit,21458,2.0,30700.0,68784,Credit $12k+ / higher income
+s_000061,713,1473,2020-02-13 21:45:00,blog_or_review_site,/apply,Debit,18101,1.0,8400.0,34745,Credit <$12k / lower income
+s_000062,713,1775,2020-02-23 12:45:00,friend_or_family,/apply,Credit,8400,1.0,8400.0,34745,Credit <$12k / lower income
+s_000063,713,447,2020-01-02 21:35:00,search,/apply,Debit,1737,0.0,0.0,34745,No credit card / lower income
+s_000064,1631,1474,2020-02-10 12:38:00,social_media,/cards/rewards,Credit,20900,3.0,62100.0,64715,Credit $12k+ / higher income
+s_000065,1631,1776,2020-02-01 13:58:00,app_store,/,Credit,23700,3.0,62100.0,64715,Credit $12k+ / higher income
+s_000066,1631,448,2020-01-23 15:48:00,search,/apply,Credit,17500,1.0,17500.0,64715,Credit $12k+ / higher income
+s_000067,1265,1475,2020-02-13 19:58:00,search,/blog/credit-basics,Debit,18321,0.0,0.0,49748,No credit card / higher income
+s_000068,290,449,2020-01-21 15:20:00,blog_or_review_site,/cards/rewards,Debit,50915,0.0,0.0,100837,No credit card / higher income
+s_000069,290,1777,2020-02-26 13:35:00,search,/blog/credit-basics,Debit,31767,0.0,0.0,100837,No credit card / higher income
+s_000070,985,752,2020-01-10 16:32:00,search,/compare,Debit,18132,3.0,29500.0,51654,Credit $12k+ / higher income
+s_000071,307,1476,2020-02-19 11:16:00,search,/cards,Debit,11521,1.0,8600.0,36866,Credit <$12k / lower income
+s_000072,307,753,2020-01-01 13:46:00,social_media,/,Credit,8600,1.0,8600.0,36866,Credit <$12k / lower income
+s_000073,953,1477,2020-02-17 08:13:00,blog_or_review_site,/compare,Debit,13390,1.0,8400.0,29909,Credit <$12k / lower income
+s_000074,953,1396,2020-02-05 16:53:00,search,/apply,Credit,8400,1.0,8400.0,29909,Credit <$12k / lower income
+s_000076,1866,1778,2020-02-14 22:53:00,blog_or_review_site,/,Debit,24390,0.0,0.0,62135,No credit card / higher income
+s_000077,1866,1478,2020-02-17 22:53:00,other,/blog/credit-basics,Debit,3106,0.0,0.0,62135,No credit card / higher income
+s_000080,800,450,2020-01-17 21:24:00,social_media,/cards,Debit,15555,0.0,0.0,26025,No credit card / lower income
+s_000082,800,1779,2020-02-22 19:59:00,social_media,/cards/rewards,Debit (Prepaid),62,0.0,0.0,26025,No credit card / lower income
+s_000083,800,754,2020-01-09 09:44:00,search,/cards,Debit,16715,0.0,0.0,26025,No credit card / lower income
+s_000084,1968,1479,2020-02-14 14:57:00,blog_or_review_site,/cards,Debit (Prepaid),46,0.0,0.0,63816,No credit card / higher income
+s_000086,1734,451,2020-01-01 15:30:00,social_media,/compare,Debit,39312,0.0,0.0,82637,No credit card / higher income
+s_000087,1109,1480,2020-02-01 20:42:00,social_media,/compare,Debit,9774,0.0,0.0,43875,No credit card / higher income
+s_000088,1301,755,2020-01-10 15:24:00,blog_or_review_site,/apply,Debit,48502,1.0,19000.0,61850,Credit $12k+ / higher income
+s_000092,1301,1481,2020-02-25 17:16:00,search,/blog/credit-basics,Debit,30323,1.0,19000.0,61850,Credit $12k+ / higher income
+s_000093,1301,390,2020-01-07 17:04:00,search,/apply,Credit,19000,1.0,19000.0,61850,Credit $12k+ / higher income
+s_000095,1399,756,2020-01-25 10:43:00,social_media,/blog/credit-basics,Debit (Prepaid),54,0.0,0.0,40314,No credit card / higher income
+s_000096,1399,1482,2020-02-02 14:28:00,podcast_or_youtube,/compare,Credit,8700,1.0,8700.0,40314,Credit <$12k / higher income
+s_000097,1399,452,2020-01-11 14:57:00,blog_or_review_site,/cards,Debit,14295,0.0,0.0,40314,No credit card / higher income
+s_000099,1775,423,2020-01-14 19:42:00,social_media,/cards/rewards,Credit,8300,1.0,8300.0,37968,Credit <$12k / lower income
+s_000101,1033,453,2020-01-24 11:01:00,search,/cards/rewards,Debit,14836,0.0,0.0,33844,No credit card / lower income
+s_000102,1033,454,2020-01-01 12:52:00,search,/blog/credit-basics,Debit,13972,0.0,0.0,33844,No credit card / lower income
+s_000103,431,455,2020-01-09 13:34:00,search,/compare,Debit,16524,0.0,0.0,51984,No credit card / higher income
+s_000104,431,456,2020-01-12 18:54:00,blog_or_review_site,/compare,Debit,29526,0.0,0.0,51984,No credit card / higher income
+s_000105,431,1483,2020-02-05 20:33:00,search,/compare,Debit,16407,0.0,0.0,51984,No credit card / higher income
+s_000106,353,1484,2020-02-21 14:58:00,blog_or_review_site,/,Debit,10290,0.0,0.0,32847,No credit card / lower income
+s_000108,1943,457,2020-01-16 21:16:00,search,/compare,Debit (Prepaid),81,1.0,22200.0,95348,Credit $12k+ / higher income
+s_000109,1943,458,2020-01-09 21:26:00,app_store,/compare,Debit,34183,1.0,22200.0,95348,Credit $12k+ / higher income
+s_000110,1943,757,2020-01-06 09:09:00,blog_or_review_site,/blog/credit-basics,Credit,22200,1.0,22200.0,95348,Credit $12k+ / higher income
+s_000111,792,1485,2020-02-17 08:53:00,search,/cards/rewards,Debit,15117,0.0,0.0,45180,No credit card / higher income
+s_000112,1159,459,2020-01-04 16:32:00,search,/cards,Debit,22821,0.0,0.0,41543,No credit card / higher income
+s_000113,1159,1780,2020-02-15 20:04:00,friend_or_family,/cards/rewards,Credit,13200,1.0,13200.0,41543,Credit $12k+ / higher income
+s_000114,1159,460,2020-01-21 12:05:00,blog_or_review_site,/apply,Debit,16330,0.0,0.0,41543,No credit card / higher income
+s_000115,1159,758,2020-01-27 14:06:00,search,/cards,Debit (Prepaid),39,0.0,0.0,41543,No credit card / higher income
+s_000119,1372,1781,2020-02-11 10:35:00,friend_or_family,/,Credit,5900,1.0,5900.0,28215,Credit <$12k / lower income
+s_000120,1799,1782,2020-02-02 15:11:00,social_media,/,Debit,62081,0.0,0.0,105515,No credit card / higher income
+s_000121,130,1486,2020-02-18 16:27:00,podcast_or_youtube,/compare,Debit (Prepaid),58,2.0,28700.0,81048,Credit $12k+ / higher income
+s_000122,1990,1783,2020-02-04 16:00:00,podcast_or_youtube,/blog/credit-basics,Credit,9600,1.0,9600.0,47263,Credit <$12k / higher income
+s_000123,1990,1487,2020-02-19 13:49:00,friend_or_family,/cards/rewards,Debit,16923,1.0,9600.0,47263,Credit <$12k / higher income
+s_000124,593,461,2020-01-13 13:17:00,friend_or_family,/apply,Credit,7700,1.0,7700.0,33816,Credit <$12k / lower income
+s_000125,540,1488,2020-02-27 13:39:00,search,/cards/rewards,Debit,146,0.0,0.0,32160,No credit card / lower income
+s_000126,417,462,2020-01-11 14:50:00,search,/cards/rewards,Credit,3000,1.0,3000.0,21879,Credit <$12k / lower income
+s_000127,298,1784,2020-02-26 22:49:00,app_store,/compare,Debit,16486,0.0,0.0,51041,No credit card / higher income
+s_000128,306,463,2020-01-01 17:15:00,search,/compare,Debit,28868,0.0,0.0,70380,No credit card / higher income
+s_000129,306,464,2020-01-25 09:22:00,social_media,/cards/rewards,Debit,51836,0.0,0.0,70380,No credit card / higher income
+s_000130,607,1785,2020-02-05 15:40:00,search,/compare,Credit,8900,3.0,26700.0,42617,Credit $12k+ / higher income
+s_000131,607,1489,2020-02-14 17:36:00,search,/cards,Credit,9900,3.0,26700.0,42617,Credit $12k+ / higher income
+s_000132,607,759,2020-01-19 08:09:00,search,/cards/rewards,Debit,22935,0.0,0.0,42617,No credit card / higher income
+s_000133,607,1786,2020-02-13 18:19:00,friend_or_family,/cards,Credit,7900,3.0,26700.0,42617,Credit $12k+ / higher income
+s_000135,698,1490,2020-02-15 16:37:00,podcast_or_youtube,/blog/credit-basics,Debit,33580,0.0,0.0,65094,No credit card / higher income
+s_000136,745,1491,2020-02-02 14:00:00,app_store,/blog/credit-basics,Credit,11400,1.0,11400.0,48561,Credit <$12k / higher income
+s_000138,352,465,2020-01-03 09:30:00,blog_or_review_site,/cards/rewards,Debit,18091,0.0,0.0,37058,No credit card / lower income
+s_000139,352,466,2020-01-26 21:40:00,search,/apply,Debit,14514,0.0,0.0,37058,No credit card / lower income
+s_000140,1948,1492,2020-02-18 16:39:00,search,/,Credit,15900,2.0,28900.0,47234,Credit $12k+ / higher income
+s_000141,1948,760,2020-01-14 13:32:00,other,/blog/credit-basics,Credit,13000,1.0,13000.0,47234,Credit $12k+ / higher income
+s_000142,1948,761,2020-01-22 08:22:00,blog_or_review_site,/,Debit,17905,1.0,13000.0,47234,Credit $12k+ / higher income
+s_000143,1199,1787,2020-02-19 12:32:00,app_store,/cards/rewards,Credit,14000,1.0,14000.0,39069,Credit $12k+ / lower income
+s_000144,1199,762,2020-01-23 19:01:00,blog_or_review_site,/cards/rewards,Debit,20160,0.0,0.0,39069,No credit card / lower income
+s_000145,1745,467,2020-01-02 16:01:00,search,/blog/credit-basics,Debit,35466,0.0,0.0,49449,No credit card / higher income
+s_000146,1745,1788,2020-02-27 11:23:00,social_media,/apply,Debit,24677,0.0,0.0,49449,No credit card / higher income
+s_000147,1745,1789,2020-02-28 16:19:00,search,/,Debit,16520,0.0,0.0,49449,No credit card / higher income
+s_000149,1397,763,2020-01-20 20:22:00,blog_or_review_site,/cards/rewards,Debit (Prepaid),40,2.0,21300.0,36388,Credit $12k+ / lower income
+s_000152,299,468,2020-01-04 15:29:00,blog_or_review_site,/cards/rewards,Debit,12029,2.0,14400.0,28229,Credit $12k+ / lower income
+s_000153,299,764,2020-01-18 08:03:00,friend_or_family,/apply,Credit,6100,2.0,14400.0,28229,Credit $12k+ / lower income
+s_000154,1011,1493,2020-02-14 16:17:00,search,/cards/rewards,Debit,21470,0.0,0.0,32061,No credit card / lower income
+s_000156,820,469,2020-01-23 19:32:00,friend_or_family,/,Credit,11100,3.0,27400.0,41902,Credit $12k+ / higher income
+s_000157,1188,470,2020-01-21 21:27:00,blog_or_review_site,/cards,Debit (Prepaid),52,0.0,0.0,63969,No credit card / higher income
+s_000159,1803,1494,2020-02-19 12:06:00,search,/,Debit,16858,0.0,0.0,47160,No credit card / higher income
+s_000160,1824,1790,2020-02-23 14:54:00,search,/apply,Debit,22143,0.0,0.0,50433,No credit card / higher income
+s_000161,1824,1791,2020-02-15 20:59:00,blog_or_review_site,/blog/credit-basics,Debit (Prepaid),61,0.0,0.0,50433,No credit card / higher income
+s_000163,340,471,2020-01-17 19:32:00,search,/cards/rewards,Debit (Prepaid),65,0.0,0.0,51713,No credit card / higher income
+s_000165,1061,472,2020-01-05 08:37:00,search,/,Debit,15358,0.0,0.0,40457,No credit card / higher income
+s_000167,66,765,2020-01-18 08:16:00,search,/compare,Debit,9578,1.0,14300.0,31314,Credit $12k+ / lower income
+s_000168,66,1792,2020-02-18 16:20:00,friend_or_family,/blog/credit-basics,Debit,16711,1.0,14300.0,31314,Credit $12k+ / lower income
+s_000170,66,391,2020-01-08 14:22:00,search,/,Credit,14300,1.0,14300.0,31314,Credit $12k+ / lower income
+s_000171,806,1495,2020-02-21 22:51:00,search,/cards,Debit,40073,1.0,22000.0,77972,Credit $12k+ / higher income
+s_000172,806,1496,2020-02-01 10:54:00,search,/cards,Credit,22000,1.0,22000.0,77972,Credit $12k+ / higher income
+s_000173,806,766,2020-01-12 12:44:00,blog_or_review_site,/cards/rewards,Debit,8509,0.0,0.0,77972,No credit card / higher income
+s_000174,1191,767,2020-01-13 15:26:00,search,/apply,Debit,12586,0.0,0.0,36902,No credit card / lower income
+s_000176,1625,1497,2020-02-13 19:29:00,search,/cards/rewards,Debit (Prepaid),97,0.0,0.0,101191,No credit card / higher income
+s_000177,1273,1498,2020-02-18 13:20:00,social_media,/cards/rewards,Credit,11700,1.0,11700.0,49382,Credit <$12k / higher income
+s_000178,925,1499,2020-02-23 12:31:00,friend_or_family,/,Debit (Prepaid),77,0.0,0.0,58538,No credit card / higher income
+s_000179,824,768,2020-01-24 18:11:00,app_store,/,Credit,9100,1.0,9100.0,36901,Credit <$12k / lower income
+s_000180,824,473,2020-01-16 19:04:00,blog_or_review_site,/,Debit,1940,1.0,9100.0,36901,Credit <$12k / lower income
+s_000183,963,474,2020-01-28 09:18:00,search,/cards,Debit,21106,1.0,6500.0,41714,Credit <$12k / higher income
+s_000184,963,1500,2020-02-01 22:56:00,social_media,/blog/credit-basics,Debit,16417,1.0,6500.0,41714,Credit <$12k / higher income
+s_000185,904,475,2020-01-16 10:48:00,social_media,/,Credit,5600,1.0,5600.0,24505,Credit <$12k / lower income
+s_000188,1469,769,2020-01-27 10:40:00,social_media,/cards/rewards,Debit (Prepaid),16,0.0,0.0,34646,No credit card / lower income
+s_000189,930,770,2020-01-14 16:55:00,friend_or_family,/cards,Debit,9146,0.0,0.0,25024,No credit card / lower income
+s_000190,930,1501,2020-02-28 08:24:00,search,/cards/rewards,Credit,5000,1.0,5000.0,25024,Credit <$12k / lower income
+s_000192,1377,1502,2020-02-22 17:00:00,search,/cards/rewards,Debit,21478,0.0,0.0,29637,No credit card / lower income
+s_000193,1377,1793,2020-02-14 21:19:00,blog_or_review_site,/cards/rewards,Debit (Prepaid),11,0.0,0.0,29637,No credit card / lower income
+s_000194,1804,1794,2020-02-01 09:37:00,social_media,/cards/rewards,Credit,10200,2.0,10400.0,43499,Credit <$12k / higher income
+s_000195,1804,476,2020-01-18 08:13:00,search,/compare,Debit,9984,1.0,200.0,43499,Credit <$12k / higher income
+s_000196,1804,1795,2020-02-14 12:51:00,blog_or_review_site,/compare,Debit,2174,2.0,10400.0,43499,Credit <$12k / higher income
+s_000197,1804,771,2020-01-24 15:20:00,search,/compare,Credit,200,1.0,200.0,43499,Credit <$12k / higher income
+s_000198,229,1503,2020-02-15 18:50:00,blog_or_review_site,/blog/credit-basics,Credit,7900,2.0,24600.0,59248,Credit $12k+ / higher income
+s_000199,229,1504,2020-02-05 20:10:00,blog_or_review_site,/cards,Debit (Prepaid),74,2.0,24600.0,59248,Credit $12k+ / higher income
+s_000200,229,1796,2020-02-20 16:26:00,search,/,Debit,52585,2.0,24600.0,59248,Credit $12k+ / higher income
+s_000203,147,424,2020-01-09 16:15:00,other,/cards,Credit,19100,3.0,49200.0,56383,Credit $12k+ / higher income
+s_000204,147,772,2020-01-18 14:09:00,podcast_or_youtube,/cards/rewards,Credit,12100,3.0,49200.0,56383,Credit $12k+ / higher income
+s_000205,191,773,2020-01-11 16:49:00,search,/cards,Debit,24079,0.0,0.0,39860,No credit card / lower income
+s_000206,12,477,2020-01-11 19:50:00,search,/compare,Debit,10058,0.0,0.0,37785,No credit card / lower income
+s_000210,1218,1505,2020-02-08 16:14:00,blog_or_review_site,/,Debit,12874,0.0,0.0,27801,No credit card / lower income
+s_000211,1401,774,2020-01-05 18:13:00,friend_or_family,/blog/credit-basics,Credit,13200,1.0,13200.0,36672,Credit $12k+ / lower income
+s_000212,1401,1506,2020-02-11 22:23:00,social_media,/blog/credit-basics,Debit,12569,1.0,13200.0,36672,Credit $12k+ / lower income
+s_000215,1560,1507,2020-02-03 16:17:00,podcast_or_youtube,/,Credit,3300,5.0,36200.0,18452,Credit $12k+ / lower income
+s_000216,613,775,2020-01-22 20:39:00,friend_or_family,/apply,Debit,33302,1.0,12600.0,56562,Credit $12k+ / higher income
+s_000218,183,1508,2020-02-08 09:23:00,friend_or_family,/cards,Credit,11200,2.0,20600.0,38609,Credit $12k+ / lower income
+s_000219,183,1797,2020-02-01 09:43:00,search,/compare,Debit,10430,2.0,20600.0,38609,Credit $12k+ / lower income
+s_000220,183,1798,2020-02-23 16:56:00,friend_or_family,/apply,Credit,9400,2.0,20600.0,38609,Credit $12k+ / lower income
+s_000221,1792,478,2020-01-06 09:47:00,social_media,/,Debit,18296,0.0,0.0,30712,No credit card / lower income
+s_000222,1792,1440,2020-02-17 21:35:00,social_media,/apply,Credit,4300,1.0,4300.0,30712,Credit <$12k / lower income
+s_000224,1599,776,2020-01-17 10:18:00,friend_or_family,/blog/credit-basics,Debit,22811,1.0,7500.0,32645,Credit <$12k / lower income
+s_000225,1599,777,2020-01-09 19:05:00,search,/cards/rewards,Debit,9865,1.0,7500.0,32645,Credit <$12k / lower income
+s_000226,411,1509,2020-02-06 12:36:00,search,/blog/credit-basics,Debit,37192,0.0,0.0,37521,No credit card / lower income
+s_000228,1323,479,2020-01-24 14:37:00,social_media,/,Debit,12053,1.0,8700.0,31414,Credit <$12k / lower income
+s_000229,934,1799,2020-02-11 18:34:00,blog_or_review_site,/,Credit,0,2.0,12300.0,41106,Credit $12k+ / higher income
+s_000230,934,1800,2020-02-25 21:34:00,search,/,Credit,12300,2.0,12300.0,41106,Credit $12k+ / higher income
+s_000231,934,480,2020-01-08 09:48:00,social_media,/cards,Debit,2055,0.0,0.0,41106,No credit card / higher income
+s_000232,421,1510,2020-02-19 09:57:00,blog_or_review_site,/apply,Debit,23875,1.0,10600.0,45876,Credit <$12k / higher income
+s_000234,1402,481,2020-01-14 10:50:00,blog_or_review_site,/apply,Debit,31845,1.0,25300.0,96574,Credit $12k+ / higher income
+s_000235,1650,482,2020-01-19 14:36:00,other,/blog/credit-basics,Debit,7488,1.0,10200.0,44128,Credit <$12k / higher income
+s_000236,1650,483,2020-01-07 17:42:00,friend_or_family,/blog/credit-basics,Credit,10200,1.0,10200.0,44128,Credit <$12k / higher income
+s_000237,1650,1801,2020-02-09 21:55:00,friend_or_family,/blog/credit-basics,Credit,15300,2.0,25500.0,44128,Credit $12k+ / higher income
+s_000240,1457,1511,2020-02-27 13:21:00,other,/compare,Credit,5400,2.0,17600.0,45725,Credit $12k+ / higher income
+s_000241,1457,1512,2020-02-03 08:39:00,blog_or_review_site,/cards,Debit,15834,2.0,17600.0,45725,Credit $12k+ / higher income
+s_000242,1457,484,2020-01-07 21:46:00,other,/blog/credit-basics,Debit,15688,0.0,0.0,45725,No credit card / higher income
+s_000243,1457,1513,2020-02-20 18:16:00,search,/cards/rewards,Credit,12200,2.0,17600.0,45725,Credit $12k+ / higher income
+s_000244,1613,1802,2020-02-22 19:19:00,friend_or_family,/cards,Debit,15747,1.0,12500.0,44134,Credit $12k+ / higher income
+s_000245,945,485,2020-01-16 12:21:00,search,/,Credit,11900,1.0,11900.0,56579,Credit <$12k / higher income
+s_000246,945,1397,2020-02-05 17:38:00,friend_or_family,/cards/rewards,Credit,12700,2.0,24600.0,56579,Credit $12k+ / higher income
+s_000247,586,1514,2020-02-22 22:47:00,search,/,Debit (Prepaid),75,1.0,20300.0,46864,Credit $12k+ / higher income
+s_000248,586,1515,2020-02-17 21:55:00,blog_or_review_site,/cards/rewards,Debit,15163,1.0,20300.0,46864,Credit $12k+ / higher income
+s_000250,326,1803,2020-02-19 19:38:00,search,/cards,Debit,15569,0.0,0.0,61325,No credit card / higher income
+s_000251,1645,778,2020-01-27 12:40:00,friend_or_family,/blog/credit-basics,Debit,30393,0.0,0.0,60541,No credit card / higher income
+s_000252,1576,486,2020-01-21 22:58:00,other,/cards/rewards,Debit,15163,0.0,0.0,36764,No credit card / lower income
+s_000254,1268,1804,2020-02-20 20:59:00,app_store,/blog/credit-basics,Debit,10609,1.0,5900.0,29597,Credit <$12k / lower income
+s_000255,664,1516,2020-02-02 11:27:00,social_media,/blog/credit-basics,Debit,1684,1.0,2000.0,33681,Credit <$12k / lower income
+s_000256,664,1805,2020-02-02 18:40:00,social_media,/apply,Credit,2000,1.0,2000.0,33681,Credit <$12k / lower income
+s_000257,485,1517,2020-02-26 13:35:00,other,/cards/rewards,Debit,11641,1.0,13200.0,38211,Credit $12k+ / lower income
+s_000259,866,1806,2020-02-16 11:53:00,blog_or_review_site,/compare,Debit,9542,1.0,4500.0,61904,Credit <$12k / higher income
+s_000260,1424,487,2020-01-26 08:54:00,search,/compare,Debit,9957,2.0,16300.0,15348,Credit $12k+ / lower income
+s_000264,1643,488,2020-01-12 13:50:00,friend_or_family,/apply,Debit (Prepaid),22,0.0,0.0,46077,No credit card / higher income
+s_000265,283,1518,2020-02-12 21:21:00,blog_or_review_site,/cards/rewards,Credit,6900,2.0,12300.0,30710,Credit $12k+ / lower income
+s_000266,283,779,2020-01-14 13:14:00,search,/cards,Credit,5400,1.0,5400.0,30710,Credit <$12k / lower income
+s_000267,355,1519,2020-02-28 19:56:00,friend_or_family,/blog/credit-basics,Debit,2725,1.0,19600.0,40491,Credit $12k+ / higher income
+s_000269,1591,489,2020-01-07 16:25:00,search,/cards/rewards,Debit,16818,2.0,17900.0,33717,Credit $12k+ / lower income
+s_000270,1172,1520,2020-02-17 09:19:00,search,/cards,Credit,6000,1.0,6000.0,29994,Credit <$12k / lower income
+s_000275,817,490,2020-01-21 22:05:00,search,/blog/credit-basics,Debit,32267,0.0,0.0,65888,No credit card / higher income
+s_000276,817,491,2020-01-18 16:58:00,blog_or_review_site,/compare,Debit,30670,0.0,0.0,65888,No credit card / higher income
+s_000278,108,780,2020-01-10 19:31:00,search,/compare,Debit,16116,0.0,0.0,38142,No credit card / lower income
+s_000280,238,781,2020-01-07 22:01:00,social_media,/blog/credit-basics,Credit,5600,1.0,5600.0,41595,Credit <$12k / higher income
+s_000281,1927,492,2020-01-08 15:56:00,podcast_or_youtube,/apply,Debit (Prepaid),62,0.0,0.0,35199,No credit card / lower income
+s_000282,1658,493,2020-01-08 22:02:00,blog_or_review_site,/blog/credit-basics,Debit,12636,1.0,0.0,28324,Credit <$12k / lower income
+s_000283,1658,782,2020-01-16 22:22:00,search,/cards,Credit,0,1.0,0.0,28324,Credit <$12k / lower income
+s_000284,1255,494,2020-01-26 20:06:00,search,/cards/rewards,Debit,9773,0.0,0.0,31006,No credit card / lower income
+s_000285,1255,1521,2020-02-27 15:37:00,friend_or_family,/cards/rewards,Debit,13130,0.0,0.0,31006,No credit card / lower income
+s_000286,85,495,2020-01-22 12:56:00,search,/cards,Debit,9953,0.0,0.0,32636,No credit card / lower income
+s_000287,1932,1522,2020-02-18 15:44:00,search,/apply,Debit,405,0.0,0.0,19069,No credit card / lower income
+s_000288,1206,1807,2020-02-19 08:15:00,friend_or_family,/compare,Debit,47359,1.0,17400.0,87030,Credit $12k+ / higher income
+s_000291,875,496,2020-01-20 22:48:00,social_media,/blog/credit-basics,Debit,20801,2.0,21900.0,41907,Credit $12k+ / higher income
+s_000292,422,497,2020-01-16 21:35:00,search,/cards,Debit (Prepaid),63,1.0,6500.0,31683,Credit <$12k / lower income
+s_000293,422,1523,2020-02-02 14:56:00,search,/cards,Debit,12907,2.0,13600.0,31683,Credit $12k+ / lower income
+s_000294,422,498,2020-01-10 15:09:00,search,/apply,Credit,6500,1.0,6500.0,31683,Credit <$12k / lower income
+s_000295,422,1441,2020-02-05 08:23:00,podcast_or_youtube,/cards,Credit,7100,2.0,13600.0,31683,Credit $12k+ / lower income
+s_000298,276,783,2020-01-07 20:14:00,other,/compare,Debit,1083,0.0,0.0,21666,No credit card / lower income
+s_000299,276,1524,2020-02-01 09:56:00,blog_or_review_site,/cards,Debit,9628,0.0,0.0,21666,No credit card / lower income
+s_000300,1133,392,2020-01-17 08:48:00,social_media,/compare,Credit,13500,1.0,13500.0,46599,Credit $12k+ / higher income
+s_000301,1035,784,2020-01-22 17:22:00,friend_or_family,/compare,Debit,22700,0.0,0.0,50525,No credit card / higher income
+s_000302,1035,1808,2020-02-21 13:13:00,search,/compare,Debit (Prepaid),60,0.0,0.0,50525,No credit card / higher income
+s_000305,936,499,2020-01-07 13:17:00,search,/cards/rewards,Debit,19369,1.0,9400.0,41717,Credit <$12k / higher income
+s_000306,936,785,2020-01-07 12:51:00,search,/cards/rewards,Debit (Prepaid),70,1.0,9400.0,41717,Credit <$12k / higher income
+s_000307,936,1525,2020-02-19 17:32:00,search,/blog/credit-basics,Debit,15127,2.0,14800.0,41717,Credit $12k+ / higher income
+s_000308,936,425,2020-01-26 09:59:00,search,/apply,Credit,9400,1.0,9400.0,41717,Credit <$12k / higher income
+s_000309,936,1809,2020-02-08 14:39:00,blog_or_review_site,/cards/rewards,Credit,5400,2.0,14800.0,41717,Credit $12k+ / higher income
+s_000312,258,500,2020-01-12 09:01:00,podcast_or_youtube,/cards/rewards,Debit,12596,0.0,0.0,29622,No credit card / lower income
+s_000315,1978,501,2020-01-23 18:57:00,blog_or_review_site,/cards/rewards,Debit,1559,0.0,0.0,31197,No credit card / lower income
+s_000316,1978,1526,2020-02-24 12:18:00,search,/compare,Debit,15100,0.0,0.0,31197,No credit card / lower income
+s_000317,1243,1527,2020-02-24 09:10:00,friend_or_family,/cards/rewards,Debit,1744,1.0,7300.0,34884,Credit <$12k / lower income
+s_000318,1976,502,2020-01-03 10:21:00,blog_or_review_site,/blog/credit-basics,Debit,21291,0.0,0.0,56897,No credit card / higher income
+s_000320,1887,503,2020-01-03 10:17:00,search,/compare,Credit,5300,2.0,21100.0,35731,Credit $12k+ / lower income
+s_000321,1887,504,2020-01-18 08:28:00,app_store,/compare,Credit,15800,2.0,21100.0,35731,Credit $12k+ / lower income
+s_000322,195,505,2020-01-19 22:44:00,search,/compare,Debit,26219,0.0,0.0,64936,No credit card / higher income
+s_000323,195,1442,2020-02-04 14:18:00,social_media,/cards/rewards,Credit,20400,1.0,20400.0,64936,Credit $12k+ / higher income
+s_000324,874,1528,2020-02-08 16:59:00,social_media,/cards/rewards,Debit,28066,2.0,34600.0,62711,Credit $12k+ / higher income
+s_000325,874,786,2020-01-08 12:52:00,search,/apply,Credit,19500,2.0,34600.0,62711,Credit $12k+ / higher income
+s_000326,874,506,2020-01-23 09:16:00,app_store,/compare,Credit,15100,2.0,34600.0,62711,Credit $12k+ / higher income
+s_000328,1317,1529,2020-02-11 15:27:00,social_media,/compare,Credit,7800,2.0,14100.0,30910,Credit $12k+ / lower income
+s_000329,785,1530,2020-02-03 11:50:00,app_store,/cards,Debit (Prepaid),80,1.0,15400.0,48909,Credit $12k+ / higher income
+s_000330,785,507,2020-01-13 18:11:00,search,/cards/rewards,Credit,15400,1.0,15400.0,48909,Credit $12k+ / higher income
+s_000331,685,1531,2020-02-08 11:21:00,search,/,Debit,20769,2.0,24600.0,44513,Credit $12k+ / higher income
+s_000332,685,1398,2020-02-10 12:53:00,search,/cards/rewards,Credit,12100,2.0,24600.0,44513,Credit $12k+ / higher income
+s_000333,685,1532,2020-02-06 15:20:00,search,/compare,Debit,16371,2.0,24600.0,44513,Credit $12k+ / higher income
+s_000334,685,1533,2020-02-18 21:05:00,other,/,Credit,12500,2.0,24600.0,44513,Credit $12k+ / higher income
+s_000335,685,1534,2020-02-20 14:48:00,social_media,/compare,Debit,18976,2.0,24600.0,44513,Credit $12k+ / higher income
+s_000336,685,508,2020-01-06 16:22:00,search,/,Debit,30119,0.0,0.0,44513,No credit card / higher income
+s_000338,23,1810,2020-02-10 18:56:00,search,/cards/rewards,Debit (Prepaid),74,0.0,0.0,63600,No credit card / higher income
+s_000339,339,787,2020-01-22 12:19:00,other,/,Credit,7100,1.0,7100.0,31797,Credit <$12k / lower income
+s_000340,339,1811,2020-02-28 14:23:00,blog_or_review_site,/,Debit,13964,1.0,7100.0,31797,Credit <$12k / lower income
+s_000341,1473,1535,2020-02-16 11:55:00,search,/apply,Debit,13466,0.0,0.0,41427,No credit card / higher income
+s_000342,1353,788,2020-01-01 20:19:00,other,/cards,Debit,17652,1.0,12800.0,43294,Credit $12k+ / higher income
+s_000343,1353,1536,2020-02-28 20:53:00,blog_or_review_site,/,Debit (Prepaid),101,1.0,12800.0,43294,Credit $12k+ / higher income
+s_000344,1353,1812,2020-02-17 20:38:00,other,/,Debit,13635,1.0,12800.0,43294,Credit $12k+ / higher income
+s_000345,736,1537,2020-02-13 11:23:00,search,/cards/rewards,Credit,13500,1.0,13500.0,61317,Credit $12k+ / higher income
+s_000346,736,509,2020-01-13 14:33:00,other,/,Debit (Prepaid),38,0.0,0.0,61317,No credit card / higher income
+s_000347,736,510,2020-01-14 16:33:00,blog_or_review_site,/blog/credit-basics,Debit (Prepaid),100,0.0,0.0,61317,No credit card / higher income
+s_000349,1776,511,2020-01-16 15:22:00,search,/apply,Debit,18292,2.0,24500.0,43133,Credit $12k+ / higher income
+s_000350,1474,1813,2020-02-23 14:18:00,search,/blog/credit-basics,Debit,33397,0.0,0.0,44361,No credit card / higher income
+s_000351,1450,1814,2020-02-02 15:38:00,search,/apply,Debit,36976,0.0,0.0,49952,No credit card / higher income
+s_000352,1524,512,2020-01-05 12:52:00,blog_or_review_site,/,Debit,52121,0.0,0.0,99883,No credit card / higher income
+s_000354,767,513,2020-01-25 11:27:00,search,/,Debit (Prepaid),24,0.0,0.0,36729,No credit card / lower income
+s_000355,678,514,2020-01-28 10:06:00,search,/blog/credit-basics,Debit,11254,2.0,15900.0,29477,Credit $12k+ / lower income
+s_000356,1724,515,2020-01-18 18:55:00,other,/compare,Debit,17665,0.0,0.0,36775,No credit card / lower income
+s_000358,1724,1399,2020-02-05 14:22:00,app_store,/compare,Credit,7400,1.0,7400.0,36775,Credit <$12k / lower income
+s_000360,224,1815,2020-02-20 13:50:00,search,/compare,Debit,13547,0.0,0.0,40130,No credit card / higher income
+s_000361,808,1538,2020-02-28 13:31:00,search,/apply,Debit,12626,0.0,0.0,36045,No credit card / lower income
+s_000362,158,516,2020-01-09 08:41:00,social_media,/cards/rewards,Debit,22310,0.0,0.0,41475,No credit card / higher income
+s_000365,1608,1539,2020-02-02 13:33:00,search,/cards/rewards,Debit,15116,0.0,0.0,39556,No credit card / lower income
+s_000367,1455,789,2020-01-10 13:03:00,social_media,/,Credit,6800,3.0,17000.0,34330,Credit $12k+ / lower income
+s_000368,143,517,2020-01-20 11:12:00,search,/cards/rewards,Debit (Prepaid),72,0.0,0.0,52379,No credit card / higher income
+s_000369,143,1540,2020-02-11 14:39:00,friend_or_family,/compare,Debit,21227,0.0,0.0,52379,No credit card / higher income
+s_000370,143,1541,2020-02-05 11:46:00,search,/,Debit,21943,0.0,0.0,52379,No credit card / higher income
+s_000372,423,393,2020-01-21 20:56:00,blog_or_review_site,/cards/rewards,Credit,11400,1.0,11400.0,53053,Credit <$12k / higher income
+s_000373,423,1542,2020-02-11 13:49:00,app_store,/apply,Debit,18281,1.0,11400.0,53053,Credit <$12k / higher income
+s_000375,1108,518,2020-01-03 16:28:00,friend_or_family,/apply,Credit,28000,1.0,28000.0,81995,Credit $12k+ / higher income
+s_000376,1108,790,2020-01-20 10:56:00,search,/compare,Debit,4201,1.0,28000.0,81995,Credit $12k+ / higher income
+s_000377,270,519,2020-01-09 09:39:00,blog_or_review_site,/compare,Debit (Prepaid),46,0.0,0.0,61916,No credit card / higher income
+s_000378,270,1543,2020-02-03 16:31:00,search,/cards,Debit,24886,0.0,0.0,61916,No credit card / higher income
+s_000379,270,1816,2020-02-20 11:53:00,social_media,/cards/rewards,Debit,12257,0.0,0.0,61916,No credit card / higher income
+s_000380,270,520,2020-01-20 16:26:00,friend_or_family,/compare,Debit,27489,0.0,0.0,61916,No credit card / higher income
+s_000382,1149,394,2020-01-07 08:52:00,social_media,/cards/rewards,Credit,13800,1.0,13800.0,60638,Credit $12k+ / higher income
+s_000383,1438,521,2020-01-14 15:09:00,other,/blog/credit-basics,Debit,7767,0.0,0.0,30049,No credit card / lower income
+s_000384,694,1817,2020-02-25 19:26:00,search,/apply,Debit (Prepaid),67,0.0,0.0,41836,No credit card / higher income
+s_000387,1304,1400,2020-02-09 15:33:00,social_media,/blog/credit-basics,Credit,27000,3.0,65500.0,90812,Credit $12k+ / higher income
+s_000388,1304,426,2020-01-09 18:01:00,podcast_or_youtube,/blog/credit-basics,Credit,17500,2.0,38500.0,90812,Credit $12k+ / higher income
+s_000389,1304,791,2020-01-24 22:18:00,other,/compare,Credit,21000,2.0,38500.0,90812,Credit $12k+ / higher income
+s_000390,1751,1544,2020-02-22 11:45:00,search,/compare,Credit,4600,1.0,4600.0,61581,Credit <$12k / higher income
+s_000391,1751,792,2020-01-15 14:43:00,friend_or_family,/cards/rewards,Debit,29925,0.0,0.0,61581,No credit card / higher income
+s_000392,1021,793,2020-01-14 16:52:00,other,/cards,Debit,47523,0.0,0.0,64630,No credit card / higher income
+s_000393,1021,522,2020-01-17 18:31:00,blog_or_review_site,/cards,Debit (Prepaid),82,0.0,0.0,64630,No credit card / higher income
+s_000396,1833,1545,2020-02-06 16:53:00,friend_or_family,/cards/rewards,Debit (Prepaid),98,1.0,10100.0,35026,Credit <$12k / lower income
+s_000397,1833,1818,2020-02-14 20:07:00,other,/apply,Credit,10100,1.0,10100.0,35026,Credit <$12k / lower income
+s_000398,1833,794,2020-01-16 08:50:00,friend_or_family,/,Debit,3472,0.0,0.0,35026,No credit card / lower income
+s_000399,829,395,2020-01-23 16:35:00,social_media,/cards,Credit,7700,2.0,15900.0,36404,Credit $12k+ / lower income
+s_000400,829,523,2020-01-03 09:07:00,friend_or_family,/blog/credit-basics,Debit,11018,2.0,15900.0,36404,Credit $12k+ / lower income
+s_000402,1619,1546,2020-02-07 20:44:00,friend_or_family,/cards,Credit,8000,3.0,30900.0,32086,Credit $12k+ / lower income
+s_000403,1619,1443,2020-02-08 20:18:00,search,/blog/credit-basics,Credit,14600,3.0,30900.0,32086,Credit $12k+ / lower income
+s_000404,1146,1547,2020-02-15 13:16:00,other,/apply,Debit,29265,0.0,0.0,37505,No credit card / lower income
+s_000405,1146,1548,2020-02-28 12:50:00,friend_or_family,/cards,Debit,22245,0.0,0.0,37505,No credit card / lower income
+s_000406,1146,1549,2020-02-22 11:39:00,other,/cards/rewards,Debit,17028,0.0,0.0,37505,No credit card / lower income
+s_000407,193,524,2020-01-02 18:25:00,blog_or_review_site,/apply,Debit (Prepaid),32,0.0,0.0,37891,No credit card / lower income
+s_000409,1067,1819,2020-02-13 15:28:00,podcast_or_youtube,/,Debit,21409,3.0,28700.0,41790,Credit $12k+ / higher income
+s_000411,1111,1550,2020-02-25 21:06:00,friend_or_family,/cards,Credit,9200,2.0,17600.0,34907,Credit $12k+ / lower income
+s_000412,1111,1551,2020-02-26 09:33:00,search,/apply,Debit,17967,2.0,17600.0,34907,Credit $12k+ / lower income
+s_000413,1111,396,2020-01-10 18:48:00,search,/compare,Credit,8400,1.0,8400.0,34907,Credit <$12k / lower income
+s_000414,1160,525,2020-01-07 22:49:00,search,/apply,Debit,14168,0.0,0.0,34591,No credit card / lower income
+s_000415,1160,1820,2020-02-10 17:08:00,podcast_or_youtube,/cards,Debit,3149,0.0,0.0,34591,No credit card / lower income
+s_000416,1574,1552,2020-02-20 13:10:00,friend_or_family,/compare,Debit,13161,0.0,0.0,31933,No credit card / lower income
+s_000420,659,1821,2020-02-09 18:38:00,search,/cards/rewards,Debit,13162,1.0,10500.0,32583,Credit <$12k / lower income
+s_000423,841,1822,2020-02-26 21:13:00,social_media,/compare,Debit,20182,1.0,8700.0,35800,Credit <$12k / lower income
+s_000424,841,795,2020-01-14 14:55:00,other,/,Credit,8700,1.0,8700.0,35800,Credit <$12k / lower income
+s_000425,1388,796,2020-01-18 18:26:00,search,/cards/rewards,Credit,23300,1.0,23300.0,72485,Credit $12k+ / higher income
+s_000426,1388,797,2020-01-25 22:47:00,blog_or_review_site,/compare,Debit,8989,1.0,23300.0,72485,Credit $12k+ / higher income
+s_000427,1056,1553,2020-02-24 14:46:00,search,/apply,Debit,41816,0.0,0.0,52036,No credit card / higher income
+s_000428,1056,798,2020-01-04 10:20:00,blog_or_review_site,/apply,Debit,16202,0.0,0.0,52036,No credit card / higher income
+s_000431,507,526,2020-01-09 10:06:00,blog_or_review_site,/compare,Debit (Prepaid),74,0.0,0.0,37497,No credit card / lower income
+s_000435,1465,527,2020-01-01 10:11:00,blog_or_review_site,/cards,Credit,11600,2.0,22300.0,51651,Credit $12k+ / higher income
+s_000437,25,1554,2020-02-12 16:33:00,other,/blog/credit-basics,Credit,4000,1.0,4000.0,49190,Credit <$12k / higher income
+s_000439,1396,528,2020-01-05 16:25:00,social_media,/apply,Debit (Prepaid),23,0.0,0.0,46344,No credit card / higher income
+s_000440,1396,799,2020-01-23 12:15:00,social_media,/apply,Debit (Prepaid),91,0.0,0.0,46344,No credit card / higher income
+s_000441,1396,1555,2020-02-05 09:59:00,search,/apply,Debit (Prepaid),77,0.0,0.0,46344,No credit card / higher income
+s_000442,599,1823,2020-02-26 18:09:00,blog_or_review_site,/,Debit,82677,1.0,23400.0,100991,Credit $12k+ / higher income
+s_000443,599,800,2020-01-15 12:25:00,other,/apply,Credit,23400,1.0,23400.0,100991,Credit $12k+ / higher income
+s_000444,599,529,2020-01-19 08:11:00,search,/cards/rewards,Debit,72868,1.0,23400.0,100991,Credit $12k+ / higher income
+s_000445,1979,1824,2020-02-06 12:53:00,blog_or_review_site,/cards/rewards,Credit,19600,2.0,33800.0,64647,Credit $12k+ / higher income
+s_000446,1253,1825,2020-02-24 15:11:00,friend_or_family,/cards,Credit,10600,1.0,10600.0,58749,Credit <$12k / higher income
+s_000447,1253,1556,2020-02-16 19:19:00,search,/cards/rewards,Debit,24442,1.0,10600.0,58749,Credit <$12k / higher income
+s_000448,1346,801,2020-01-04 13:35:00,search,/cards/rewards,Debit,14813,1.0,1500.0,36672,Credit <$12k / lower income
+s_000449,1394,530,2020-01-26 09:30:00,social_media,/,Debit,18022,1.0,8500.0,57853,Credit <$12k / higher income
+s_000450,1303,1557,2020-02-04 15:52:00,blog_or_review_site,/apply,Debit,19299,2.0,33100.0,61937,Credit $12k+ / higher income
+s_000456,310,1826,2020-02-04 13:06:00,social_media,/apply,Debit,21990,0.0,0.0,58435,No credit card / higher income
+s_000457,310,531,2020-01-08 09:06:00,blog_or_review_site,/compare,Debit,26251,0.0,0.0,58435,No credit card / higher income
+s_000458,673,1827,2020-02-03 21:51:00,search,/blog/credit-basics,Credit,8700,2.0,21500.0,39124,Credit $12k+ / lower income
+s_000459,1239,532,2020-01-13 16:00:00,other,/cards,Credit,11100,2.0,20700.0,38081,Credit $12k+ / lower income
+s_000460,1691,533,2020-01-08 16:27:00,search,/apply,Credit,5400,1.0,5400.0,29450,Credit <$12k / lower income
+s_000461,562,427,2020-01-11 12:41:00,search,/compare,Credit,7200,1.0,7200.0,66863,Credit <$12k / higher income
+s_000463,1319,1828,2020-02-21 18:18:00,search,/compare,Debit,27305,0.0,0.0,48582,No credit card / higher income
+s_000465,1580,1829,2020-02-01 17:06:00,friend_or_family,/cards,Debit,21741,0.0,0.0,55587,No credit card / higher income
+s_000466,1580,1830,2020-02-15 17:57:00,search,/cards,Debit,1741,0.0,0.0,55587,No credit card / higher income
+s_000467,1570,1558,2020-02-12 09:14:00,blog_or_review_site,/blog/credit-basics,Debit (Prepaid),74,1.0,8700.0,36733,Credit <$12k / lower income
+s_000468,1570,1831,2020-02-20 18:59:00,podcast_or_youtube,/compare,Credit,8700,1.0,8700.0,36733,Credit <$12k / lower income
+s_000469,1570,534,2020-01-22 11:41:00,blog_or_review_site,/apply,Debit (Prepaid),63,0.0,0.0,36733,No credit card / lower income
+s_000472,886,535,2020-01-15 12:35:00,friend_or_family,/apply,Debit,19991,0.0,0.0,64548,No credit card / higher income
+s_000473,297,536,2020-01-25 12:45:00,friend_or_family,/apply,Debit (Prepaid),29,0.0,0.0,28421,No credit card / lower income
+s_000474,1860,1832,2020-02-18 14:58:00,search,/compare,Debit,28422,1.0,10100.0,35213,Credit <$12k / lower income
+s_000475,1860,1833,2020-02-20 09:34:00,blog_or_review_site,/cards/rewards,Credit,10100,1.0,10100.0,35213,Credit <$12k / lower income
+s_000476,731,1559,2020-02-22 11:41:00,social_media,/,Credit,8900,1.0,8900.0,38193,Credit <$12k / lower income
+s_000477,731,802,2020-01-25 18:10:00,search,/,Debit,12116,0.0,0.0,38193,No credit card / lower income
+s_000478,63,397,2020-01-21 09:34:00,other,/cards/rewards,Credit,6600,1.0,6600.0,35418,Credit <$12k / lower income
+s_000480,786,537,2020-01-08 18:39:00,search,/,Debit,7221,0.0,0.0,31259,No credit card / lower income
+s_000481,786,1834,2020-02-08 11:26:00,search,/,Debit,21032,0.0,0.0,31259,No credit card / lower income
+s_000482,1886,538,2020-01-21 21:24:00,search,/cards/rewards,Credit,11900,1.0,11900.0,41255,Credit <$12k / higher income
+s_000483,1886,803,2020-01-24 13:25:00,blog_or_review_site,/cards/rewards,Debit,15328,1.0,11900.0,41255,Credit <$12k / higher income
+s_000484,1532,1560,2020-02-18 14:15:00,friend_or_family,/blog/credit-basics,Debit,18648,0.0,0.0,34825,No credit card / lower income
+s_000486,1713,1835,2020-02-25 22:44:00,blog_or_review_site,/compare,Debit,19079,0.0,0.0,34242,No credit card / lower income
+s_000487,1506,804,2020-01-02 11:08:00,search,/compare,Debit,10686,0.0,0.0,70502,No credit card / higher income
+s_000488,1506,1836,2020-02-19 21:25:00,search,/compare,Debit,30000,0.0,0.0,70502,No credit card / higher income
+s_000489,778,539,2020-01-13 11:06:00,social_media,/blog/credit-basics,Debit,15895,1.0,13700.0,31003,Credit $12k+ / lower income
+s_000490,950,1837,2020-02-08 17:57:00,blog_or_review_site,/compare,Credit,3000,1.0,3000.0,29376,Credit <$12k / lower income
+s_000491,1197,1838,2020-02-23 10:10:00,social_media,/blog/credit-basics,Debit,4326,1.0,13600.0,55684,Credit $12k+ / higher income
+s_000492,1197,1839,2020-02-27 12:34:00,search,/compare,Credit,13600,1.0,13600.0,55684,Credit $12k+ / higher income
+s_000493,1197,540,2020-01-13 18:22:00,friend_or_family,/cards/rewards,Debit,37002,0.0,0.0,55684,No credit card / higher income
+s_000495,56,1444,2020-02-02 10:01:00,other,/,Credit,5800,2.0,12700.0,21490,Credit $12k+ / lower income
+s_000496,56,805,2020-01-12 16:09:00,search,/compare,Credit,6900,1.0,6900.0,21490,Credit <$12k / lower income
+s_000497,787,541,2020-01-18 18:56:00,friend_or_family,/cards,Debit (Prepaid),80,0.0,0.0,71740,No credit card / higher income
+s_000498,787,1561,2020-02-22 18:43:00,podcast_or_youtube,/cards,Credit,19500,1.0,19500.0,71740,Credit $12k+ / higher income
+s_000499,251,1562,2020-02-05 21:49:00,search,/cards,Debit,14797,0.0,0.0,41087,No credit card / higher income
+s_000500,251,806,2020-01-28 13:51:00,blog_or_review_site,/blog/credit-basics,Debit,14420,0.0,0.0,41087,No credit card / higher income
+s_000501,1351,1563,2020-02-26 11:15:00,search,/,Credit,13600,1.0,13600.0,58579,Credit $12k+ / higher income
+s_000502,1935,1564,2020-02-28 19:23:00,friend_or_family,/cards/rewards,Debit,20695,0.0,0.0,44862,No credit card / higher income
+s_000503,1935,542,2020-01-27 13:09:00,social_media,/cards,Debit,23716,0.0,0.0,44862,No credit card / higher income
+s_000504,1935,1840,2020-02-20 20:00:00,friend_or_family,/apply,Debit,17223,0.0,0.0,44862,No credit card / higher income
+s_000505,1865,1565,2020-02-24 19:18:00,blog_or_review_site,/blog/credit-basics,Credit,36900,1.0,36900.0,118862,Credit $12k+ / higher income
+s_000506,268,1841,2020-02-17 11:36:00,social_media,/compare,Debit,14263,0.0,0.0,60265,No credit card / higher income
+s_000507,268,1566,2020-02-13 08:40:00,friend_or_family,/blog/credit-basics,Debit,3013,0.0,0.0,60265,No credit card / higher income
+s_000508,268,543,2020-01-01 19:45:00,blog_or_review_site,/cards/rewards,Debit,17789,0.0,0.0,60265,No credit card / higher income
+s_000509,152,1401,2020-02-07 08:20:00,search,/compare,Credit,4900,2.0,15200.0,49335,Credit $12k+ / higher income
+s_000510,1028,1567,2020-02-07 14:01:00,search,/cards,Debit (Prepaid),72,2.0,39200.0,81122,Credit $12k+ / higher income
+s_000511,922,544,2020-01-21 09:14:00,blog_or_review_site,/,Debit (Prepaid),28,0.0,0.0,29265,No credit card / lower income
+s_000515,1494,545,2020-01-15 19:00:00,friend_or_family,/,Debit,8998,1.0,4400.0,28931,Credit <$12k / lower income
+s_000516,1494,1842,2020-02-15 15:08:00,search,/,Credit,6300,2.0,10700.0,28931,Credit <$12k / lower income
+s_000518,1770,1402,2020-02-01 14:53:00,search,/compare,Credit,8400,2.0,8400.0,37544,Credit <$12k / lower income
+s_000519,1770,1843,2020-02-20 17:48:00,other,/blog/credit-basics,Debit,10607,2.0,8400.0,37544,Credit <$12k / lower income
+s_000520,1139,546,2020-01-03 20:10:00,search,/blog/credit-basics,Debit,19185,0.0,0.0,31469,No credit card / lower income
+s_000522,1174,547,2020-01-24 10:07:00,search,/compare,Debit,2066,0.0,0.0,41338,No credit card / higher income
+s_000524,1592,1403,2020-02-02 21:34:00,social_media,/blog/credit-basics,Credit,20800,2.0,33500.0,95045,Credit $12k+ / higher income
+s_000525,1592,1844,2020-02-04 10:40:00,social_media,/blog/credit-basics,Credit,12700,2.0,33500.0,95045,Credit $12k+ / higher income
+s_000526,1592,1845,2020-02-26 10:31:00,app_store,/blog/credit-basics,Debit (Prepaid),76,2.0,33500.0,95045,Credit $12k+ / higher income
+s_000527,1680,1846,2020-02-01 22:03:00,search,/,Credit,11500,1.0,11500.0,58959,Credit <$12k / higher income
+s_000529,494,1847,2020-02-23 15:06:00,other,/blog/credit-basics,Debit,29335,2.0,26200.0,56347,Credit $12k+ / higher income
+s_000531,1495,1568,2020-02-22 19:34:00,search,/,Debit,28188,3.0,33100.0,63433,Credit $12k+ / higher income
+s_000532,1005,548,2020-01-11 13:13:00,blog_or_review_site,/cards,Debit,12035,0.0,0.0,39485,No credit card / lower income
+s_000533,439,1569,2020-02-16 08:06:00,search,/compare,Credit,10800,1.0,10800.0,51938,Credit <$12k / higher income
+s_000535,448,549,2020-01-10 12:42:00,search,/compare,Credit,7200,1.0,7200.0,39472,Credit <$12k / lower income
+s_000536,1907,550,2020-01-27 13:42:00,friend_or_family,/blog/credit-basics,Credit,5700,1.0,5700.0,34457,Credit <$12k / lower income
+s_000538,1929,1570,2020-02-13 20:28:00,blog_or_review_site,/cards/rewards,Debit,24576,0.0,0.0,41873,No credit card / higher income
+s_000539,95,1571,2020-02-16 19:28:00,search,/compare,Debit,34858,0.0,0.0,88554,No credit card / higher income
+s_000540,95,1848,2020-02-26 19:14:00,friend_or_family,/blog/credit-basics,Debit,28147,0.0,0.0,88554,No credit card / higher income
+s_000541,1778,551,2020-01-25 21:56:00,blog_or_review_site,/cards,Debit,13857,0.0,0.0,29682,No credit card / lower income
+s_000542,1778,1572,2020-02-12 13:09:00,other,/cards/rewards,Debit,10236,0.0,0.0,29682,No credit card / lower income
+s_000543,788,1849,2020-02-26 21:04:00,blog_or_review_site,/blog/credit-basics,Debit,27220,0.0,0.0,54477,No credit card / higher income
+s_000544,788,1573,2020-02-24 14:46:00,search,/cards,Debit,14303,0.0,0.0,54477,No credit card / higher income
+s_000545,1587,807,2020-01-15 15:12:00,search,/cards/rewards,Debit,35148,1.0,30900.0,82019,Credit $12k+ / higher income
+s_000548,243,552,2020-01-20 12:59:00,blog_or_review_site,/compare,Debit,5158,0.0,0.0,38158,No credit card / lower income
+s_000550,715,1574,2020-02-20 09:34:00,friend_or_family,/apply,Debit,65185,0.0,0.0,100303,No credit card / higher income
+s_000552,1232,1850,2020-02-01 12:35:00,social_media,/apply,Debit,21752,0.0,0.0,46810,No credit card / higher income
+s_000553,1232,808,2020-01-21 17:14:00,search,/cards/rewards,Debit,23137,0.0,0.0,46810,No credit card / higher income
+s_000554,486,553,2020-01-07 21:17:00,search,/cards/rewards,Debit,29674,0.0,0.0,46704,No credit card / higher income
+s_000555,1409,1851,2020-02-04 17:34:00,friend_or_family,/blog/credit-basics,Debit,16998,0.0,0.0,44181,No credit card / higher income
+s_000556,1601,809,2020-01-15 19:11:00,other,/blog/credit-basics,Credit,12300,1.0,12300.0,67820,Credit $12k+ / higher income
+s_000557,1601,1852,2020-02-05 19:14:00,search,/blog/credit-basics,Credit,17100,2.0,29400.0,67820,Credit $12k+ / higher income
+s_000558,1760,1404,2020-02-14 10:14:00,social_media,/cards/rewards,Credit,14600,1.0,14600.0,36081,Credit $12k+ / lower income
+s_000559,1760,1575,2020-02-10 14:06:00,search,/blog/credit-basics,Debit,10722,1.0,14600.0,36081,Credit $12k+ / lower income
+s_000560,927,1853,2020-02-20 11:21:00,blog_or_review_site,/,Debit,27618,0.0,0.0,59375,No credit card / higher income
+s_000561,1667,554,2020-01-08 11:56:00,social_media,/cards,Debit,10522,0.0,0.0,48491,No credit card / higher income
+s_000562,179,1854,2020-02-18 18:59:00,social_media,/,Debit,519,0.0,0.0,39974,No credit card / lower income
+s_000563,513,1855,2020-02-07 20:45:00,social_media,/cards/rewards,Credit,8000,2.0,17800.0,35856,Credit $12k+ / lower income
+s_000564,513,810,2020-01-07 08:51:00,social_media,/apply,Credit,9800,1.0,9800.0,35856,Credit <$12k / lower income
+s_000567,716,811,2020-01-10 21:23:00,friend_or_family,/,Credit,7000,3.0,22000.0,26511,Credit $12k+ / lower income
+s_000568,716,555,2020-01-19 08:24:00,search,/cards,Debit,7139,3.0,22000.0,26511,Credit $12k+ / lower income
+s_000569,716,556,2020-01-22 11:26:00,app_store,/blog/credit-basics,Debit,10199,3.0,22000.0,26511,Credit $12k+ / lower income
+s_000570,254,557,2020-01-18 15:28:00,social_media,/cards/rewards,Credit,15900,1.0,15900.0,67589,Credit $12k+ / higher income
+s_000571,254,1576,2020-02-05 13:18:00,friend_or_family,/compare,Debit,17584,1.0,15900.0,67589,Credit $12k+ / higher income
+s_000572,226,1856,2020-02-15 09:10:00,search,/,Debit,39553,0.0,0.0,92960,No credit card / higher income
+s_000573,226,812,2020-01-17 16:53:00,search,/cards/rewards,Debit,42218,0.0,0.0,92960,No credit card / higher income
+s_000574,475,558,2020-01-08 15:55:00,social_media,/cards,Debit,15579,0.0,0.0,40426,No credit card / higher income
+s_000575,93,1405,2020-02-12 16:46:00,search,/cards/rewards,Credit,11400,2.0,13200.0,28696,Credit $12k+ / lower income
+s_000576,93,1577,2020-02-23 13:38:00,search,/compare,Debit (Prepaid),0,2.0,13200.0,28696,Credit $12k+ / lower income
+s_000577,1327,1578,2020-02-10 21:45:00,search,/,Debit,15516,0.0,0.0,43006,No credit card / higher income
+s_000578,1327,1579,2020-02-21 22:39:00,friend_or_family,/apply,Debit,18462,0.0,0.0,43006,No credit card / higher income
+s_000579,1471,1580,2020-02-01 13:59:00,app_store,/,Credit,5900,2.0,13800.0,21876,Credit $12k+ / lower income
+s_000580,367,1581,2020-02-02 11:56:00,social_media,/,Debit (Prepaid),83,1.0,6200.0,44843,Credit <$12k / higher income
+s_000581,367,1582,2020-02-08 17:12:00,search,/cards,Credit,6200,1.0,6200.0,44843,Credit <$12k / higher income
+s_000583,1838,1583,2020-02-06 21:11:00,blog_or_review_site,/,Debit,1990,0.0,0.0,39803,No credit card / lower income
+s_000585,815,813,2020-01-04 22:49:00,blog_or_review_site,/,Credit,5200,1.0,5200.0,48418,Credit <$12k / higher income
+s_000587,407,559,2020-01-13 09:40:00,search,/apply,Debit,21749,1.0,14300.0,42454,Credit $12k+ / higher income
+s_000588,407,1406,2020-02-22 21:55:00,friend_or_family,/cards,Credit,15800,2.0,30100.0,42454,Credit $12k+ / higher income
+s_000589,407,560,2020-01-22 15:02:00,blog_or_review_site,/cards/rewards,Debit (Prepaid),22,1.0,14300.0,42454,Credit $12k+ / higher income
+s_000590,407,428,2020-01-05 18:17:00,app_store,/compare,Credit,14300,1.0,14300.0,42454,Credit $12k+ / higher income
+s_000592,1740,1584,2020-02-14 18:05:00,search,/blog/credit-basics,Debit,22424,0.0,0.0,57532,No credit card / higher income
+s_000595,1440,1585,2020-02-14 09:57:00,podcast_or_youtube,/blog/credit-basics,Debit,9740,0.0,0.0,38670,No credit card / lower income
+s_000596,1446,1857,2020-02-05 13:24:00,search,/apply,Debit (Prepaid),84,1.0,2600.0,28163,Credit <$12k / lower income
+s_000598,1263,1445,2020-02-25 20:32:00,search,/compare,Credit,8700,1.0,8700.0,36652,Credit <$12k / lower income
+s_000599,1483,1586,2020-02-19 20:52:00,blog_or_review_site,/blog/credit-basics,Debit,19952,0.0,0.0,54427,No credit card / higher income
+s_000600,1483,814,2020-01-01 19:16:00,social_media,/apply,Debit,17804,0.0,0.0,54427,No credit card / higher income
+s_000601,1085,561,2020-01-15 17:44:00,podcast_or_youtube,/blog/credit-basics,Debit,33150,0.0,0.0,74198,No credit card / higher income
+s_000602,1085,1587,2020-02-17 18:39:00,social_media,/compare,Debit (Prepaid),57,0.0,0.0,74198,No credit card / higher income
+s_000603,1961,1588,2020-02-17 16:37:00,other,/cards,Debit,8668,1.0,10200.0,34904,Credit <$12k / lower income
+s_000604,1961,1589,2020-02-26 20:47:00,friend_or_family,/blog/credit-basics,Credit,10200,1.0,10200.0,34904,Credit <$12k / lower income
+s_000606,74,562,2020-01-12 19:33:00,blog_or_review_site,/compare,Debit,15568,0.0,0.0,41957,No credit card / higher income
+s_000607,1216,815,2020-01-17 22:25:00,search,/compare,Debit,19893,1.0,6100.0,40102,Credit <$12k / higher income
+s_000608,1216,1858,2020-02-25 18:37:00,social_media,/cards/rewards,Debit (Prepaid),69,1.0,6100.0,40102,Credit <$12k / higher income
+s_000609,1216,1590,2020-02-17 17:47:00,other,/apply,Debit,21800,1.0,6100.0,40102,Credit <$12k / higher income
+s_000610,1216,1859,2020-02-09 10:47:00,search,/,Debit,24759,1.0,6100.0,40102,Credit <$12k / higher income
+s_000611,1216,816,2020-01-21 11:36:00,other,/,Debit,644,1.0,6100.0,40102,Credit <$12k / higher income
+s_000612,1216,817,2020-01-15 17:02:00,other,/,Credit,6100,1.0,6100.0,40102,Credit <$12k / higher income
+s_000614,797,818,2020-01-02 10:32:00,search,/apply,Debit,32922,1.0,4400.0,62005,Credit <$12k / higher income
+s_000616,610,429,2020-01-17 14:32:00,friend_or_family,/,Credit,4500,4.0,56200.0,44061,Credit $12k+ / higher income
+s_000617,610,819,2020-01-22 12:00:00,search,/compare,Credit,17500,4.0,56200.0,44061,Credit $12k+ / higher income
+s_000618,610,820,2020-01-08 09:34:00,social_media,/blog/credit-basics,Credit,19100,4.0,56200.0,44061,Credit $12k+ / higher income
+s_000619,610,398,2020-01-24 08:32:00,other,/blog/credit-basics,Credit,15100,4.0,56200.0,44061,Credit $12k+ / higher income
+s_000620,975,1860,2020-02-16 12:53:00,blog_or_review_site,/cards/rewards,Debit,7225,0.0,0.0,29478,No credit card / lower income
+s_000621,975,1591,2020-02-04 14:15:00,search,/,Debit (Prepaid),104,0.0,0.0,29478,No credit card / lower income
+s_000622,109,1861,2020-02-10 12:40:00,social_media,/cards,Credit,9300,1.0,9300.0,40005,Credit <$12k / lower income
+s_000625,347,1592,2020-02-13 08:26:00,friend_or_family,/compare,Debit,17846,1.0,6100.0,44046,Credit <$12k / higher income
+s_000626,347,821,2020-01-21 09:01:00,other,/,Debit,22077,1.0,6100.0,44046,Credit <$12k / higher income
+s_000627,1368,822,2020-01-01 21:37:00,blog_or_review_site,/cards,Credit,13400,1.0,13400.0,44976,Credit $12k+ / higher income
+s_000628,1547,563,2020-01-14 10:28:00,blog_or_review_site,/compare,Debit,18856,0.0,0.0,40035,No credit card / higher income
+s_000630,1812,564,2020-01-19 20:39:00,blog_or_review_site,/cards/rewards,Debit (Prepaid),19,0.0,0.0,50978,No credit card / higher income
+s_000632,1893,1862,2020-02-06 15:07:00,search,/blog/credit-basics,Credit,7600,1.0,7600.0,53182,Credit <$12k / higher income
+s_000633,955,1863,2020-02-21 20:39:00,other,/,Credit,1100,1.0,1100.0,33944,Credit <$12k / lower income
+s_000634,955,565,2020-01-18 17:56:00,search,/compare,Debit,20576,0.0,0.0,33944,No credit card / lower income
+s_000639,1864,823,2020-01-27 20:29:00,search,/cards/rewards,Debit,33306,0.0,0.0,50776,No credit card / higher income
+s_000640,1768,1864,2020-02-14 09:22:00,other,/cards/rewards,Debit,14149,0.0,0.0,51391,No credit card / higher income
+s_000641,1393,1865,2020-02-21 19:10:00,other,/apply,Credit,10000,1.0,10000.0,34460,Credit <$12k / lower income
+s_000642,865,824,2020-01-03 13:26:00,other,/,Credit,4000,3.0,15200.0,37786,Credit $12k+ / lower income
+s_000643,1914,566,2020-01-22 12:44:00,friend_or_family,/blog/credit-basics,Credit,10400,1.0,10400.0,42161,Credit <$12k / higher income
+s_000645,707,825,2020-01-18 14:12:00,search,/blog/credit-basics,Debit,1862,0.0,0.0,37253,No credit card / lower income
+s_000648,452,1866,2020-02-19 18:39:00,friend_or_family,/cards,Debit,21820,0.0,0.0,63356,No credit card / higher income
+s_000649,1157,1867,2020-02-07 18:40:00,friend_or_family,/,Debit (Prepaid),77,0.0,0.0,57526,No credit card / higher income
+s_000650,1984,567,2020-01-18 18:21:00,search,/cards,Debit,674,0.0,0.0,38861,No credit card / lower income
+s_000652,1795,1868,2020-02-05 13:54:00,social_media,/cards/rewards,Debit,19250,2.0,14400.0,60310,Credit $12k+ / higher income
+s_000653,1795,1869,2020-02-06 21:48:00,search,/,Debit (Prepaid),96,2.0,14400.0,60310,Credit $12k+ / higher income
+s_000654,1795,1593,2020-02-21 08:56:00,social_media,/,Debit,5895,2.0,14400.0,60310,Credit $12k+ / higher income
+s_000655,1795,1594,2020-02-13 22:40:00,other,/,Debit,18891,2.0,14400.0,60310,Credit $12k+ / higher income
+s_000656,1795,399,2020-01-08 18:01:00,friend_or_family,/cards/rewards,Credit,1700,1.0,1700.0,60310,Credit <$12k / higher income
+s_000657,1795,1595,2020-02-24 21:41:00,search,/cards,Credit,12700,2.0,14400.0,60310,Credit $12k+ / higher income
+s_000659,1821,568,2020-01-02 12:09:00,blog_or_review_site,/cards,Debit,18048,0.0,0.0,43617,No credit card / higher income
+s_000660,1821,1870,2020-02-19 10:01:00,search,/blog/credit-basics,Credit,12500,1.0,12500.0,43617,Credit $12k+ / higher income
+s_000661,1821,826,2020-01-12 18:43:00,search,/cards/rewards,Debit,12838,0.0,0.0,43617,No credit card / higher income
+s_000663,1620,1596,2020-02-02 12:19:00,blog_or_review_site,/apply,Debit (Prepaid),92,1.0,10600.0,36924,Credit <$12k / lower income
+s_000664,1620,1871,2020-02-26 19:41:00,blog_or_review_site,/blog/credit-basics,Credit,10600,1.0,10600.0,36924,Credit <$12k / lower income
+s_000665,1620,1872,2020-02-25 15:32:00,blog_or_review_site,/,Debit,13588,1.0,10600.0,36924,Credit <$12k / lower income
+s_000667,1043,1873,2020-02-03 12:42:00,search,/apply,Credit,20800,2.0,36300.0,97127,Credit $12k+ / higher income
+s_000668,1376,1874,2020-02-23 08:12:00,blog_or_review_site,/apply,Credit,4500,2.0,17600.0,62019,Credit $12k+ / higher income
+s_000669,834,1875,2020-02-25 14:36:00,social_media,/,Credit,7800,4.0,22700.0,32550,Credit $12k+ / lower income
+s_000670,834,1876,2020-02-21 10:51:00,social_media,/cards,Debit,6407,4.0,22700.0,32550,Credit $12k+ / lower income
+s_000671,834,1407,2020-02-12 12:24:00,friend_or_family,/compare,Credit,7200,4.0,22700.0,32550,Credit $12k+ / lower income
+s_000672,834,827,2020-01-04 15:53:00,search,/cards,Credit,6500,1.0,6500.0,32550,Credit <$12k / lower income
+s_000673,834,1877,2020-02-24 09:26:00,blog_or_review_site,/cards,Debit (Prepaid),91,4.0,22700.0,32550,Credit $12k+ / lower income
+s_000674,834,1878,2020-02-22 11:59:00,search,/cards/rewards,Credit,1200,4.0,22700.0,32550,Credit $12k+ / lower income
+s_000675,1583,828,2020-01-01 09:26:00,search,/cards/rewards,Debit,33605,0.0,0.0,52844,No credit card / higher income
+s_000679,401,1597,2020-02-25 17:03:00,blog_or_review_site,/blog/credit-basics,Debit,11910,3.0,22900.0,28644,Credit $12k+ / lower income
+s_000681,1666,829,2020-01-03 14:54:00,social_media,/,Credit,5800,2.0,18500.0,46954,Credit $12k+ / higher income
+s_000682,509,1598,2020-02-09 10:37:00,other,/blog/credit-basics,Credit,9900,1.0,9900.0,44534,Credit <$12k / higher income
+s_000683,509,569,2020-01-19 10:28:00,friend_or_family,/cards/rewards,Debit,13218,0.0,0.0,44534,No credit card / higher income
+s_000684,832,570,2020-01-24 20:17:00,search,/cards,Debit,15741,1.0,10900.0,50329,Credit <$12k / higher income
+s_000687,1991,1599,2020-02-21 20:58:00,blog_or_review_site,/blog/credit-basics,Debit,17882,0.0,0.0,22922,No credit card / lower income
+s_000688,1328,1879,2020-02-28 11:11:00,social_media,/compare,Debit,37491,1.0,1000.0,84987,Credit <$12k / higher income
+s_000689,1539,1600,2020-02-03 18:55:00,search,/cards,Credit,6200,2.0,27900.0,58034,Credit $12k+ / higher income
+s_000690,206,1601,2020-02-14 11:43:00,search,/cards,Debit,18510,1.0,11300.0,37583,Credit <$12k / lower income
+s_000691,926,1602,2020-02-22 17:00:00,search,/cards,Debit,2070,0.0,0.0,41403,No credit card / higher income
+s_000692,115,1603,2020-02-22 19:19:00,search,/cards/rewards,Debit,55750,2.0,33500.0,101018,Credit $12k+ / higher income
+s_000694,294,1604,2020-02-10 15:45:00,friend_or_family,/cards/rewards,Debit,20362,0.0,0.0,43953,No credit card / higher income
+s_000695,292,1605,2020-02-09 17:05:00,search,/,Debit,21686,0.0,0.0,42711,No credit card / higher income
+s_000697,1878,1880,2020-02-17 18:29:00,friend_or_family,/cards,Debit,11029,0.0,0.0,39778,No credit card / lower income
+s_000698,1426,571,2020-01-04 09:44:00,friend_or_family,/,Credit,35500,2.0,52600.0,114692,Credit $12k+ / higher income
+s_000699,1426,572,2020-01-09 12:21:00,search,/,Credit,17100,2.0,52600.0,114692,Credit $12k+ / higher income
+s_000700,956,1606,2020-02-02 08:13:00,search,/blog/credit-basics,Debit,29553,0.0,0.0,47110,No credit card / higher income
+s_000701,693,1607,2020-02-12 22:40:00,podcast_or_youtube,/blog/credit-basics,Debit,39114,0.0,0.0,65051,No credit card / higher income
+s_000702,693,830,2020-01-16 22:15:00,podcast_or_youtube,/cards/rewards,Debit,30298,0.0,0.0,65051,No credit card / higher income
+s_000703,1246,1881,2020-02-19 14:46:00,app_store,/compare,Credit,6600,2.0,15100.0,31008,Credit $12k+ / lower income
+s_000707,1292,831,2020-01-04 20:33:00,social_media,/blog/credit-basics,Debit,16369,0.0,0.0,29051,No credit card / lower income
+s_000708,1292,1882,2020-02-23 09:07:00,search,/cards,Credit,5900,1.0,5900.0,29051,Credit <$12k / lower income
+s_000709,1113,832,2020-01-01 21:13:00,search,/blog/credit-basics,Credit,9100,2.0,13800.0,28953,Credit $12k+ / lower income
+s_000710,1113,833,2020-01-09 21:21:00,blog_or_review_site,/apply,Credit,4700,2.0,13800.0,28953,Credit $12k+ / lower income
+s_000711,245,1883,2020-02-14 19:58:00,other,/apply,Debit (Prepaid),94,1.0,8900.0,58774,Credit <$12k / higher income
+s_000712,1822,1608,2020-02-23 15:13:00,friend_or_family,/blog/credit-basics,Debit,11624,1.0,5900.0,22894,Credit <$12k / lower income
+s_000714,1180,1446,2020-02-15 09:20:00,podcast_or_youtube,/cards/rewards,Credit,8200,2.0,19400.0,35940,Credit $12k+ / lower income
+s_000715,1180,1609,2020-02-21 08:26:00,search,/cards,Debit,9641,2.0,19400.0,35940,Credit $12k+ / lower income
+s_000717,1555,1610,2020-02-11 13:06:00,other,/,Debit,5284,1.0,2300.0,39708,Credit <$12k / lower income
+s_000719,156,573,2020-01-05 11:16:00,social_media,/apply,Debit,14820,2.0,12100.0,28007,Credit $12k+ / lower income
+s_000720,302,1408,2020-02-20 08:31:00,friend_or_family,/,Credit,13800,1.0,13800.0,37384,Credit $12k+ / lower income
+s_000721,949,1884,2020-02-28 10:55:00,friend_or_family,/,Debit,20826,2.0,28700.0,63684,Credit $12k+ / higher income
+s_000722,949,430,2020-01-09 14:23:00,podcast_or_youtube,/blog/credit-basics,Credit,20700,2.0,28700.0,63684,Credit $12k+ / higher income
+s_000723,949,574,2020-01-14 16:46:00,blog_or_review_site,/,Debit (Prepaid),41,2.0,28700.0,63684,Credit $12k+ / higher income
+s_000726,722,575,2020-01-24 18:03:00,search,/compare,Debit,21794,0.0,0.0,32966,No credit card / lower income
+s_000728,1656,834,2020-01-24 19:40:00,podcast_or_youtube,/compare,Debit,14200,0.0,0.0,41141,No credit card / higher income
+s_000729,1656,1611,2020-02-04 09:18:00,friend_or_family,/cards/rewards,Debit,16415,0.0,0.0,41141,No credit card / higher income
+s_000730,568,1612,2020-02-24 18:48:00,search,/,Debit,1926,0.0,0.0,38526,No credit card / lower income
+s_000733,1063,400,2020-01-03 14:10:00,blog_or_review_site,/cards/rewards,Credit,12500,3.0,31600.0,37898,Credit $12k+ / lower income
+s_000734,1040,576,2020-01-04 12:09:00,social_media,/,Debit,62317,1.0,16400.0,80060,Credit $12k+ / higher income
+s_000735,1040,401,2020-01-18 20:27:00,blog_or_review_site,/blog/credit-basics,Credit,16400,1.0,16400.0,80060,Credit $12k+ / higher income
+s_000738,1498,577,2020-01-16 15:49:00,podcast_or_youtube,/,Debit,15781,0.0,0.0,50790,No credit card / higher income
+s_000739,104,1613,2020-02-10 14:02:00,app_store,/compare,Debit,4924,2.0,14300.0,37384,Credit $12k+ / lower income
+s_000740,1062,835,2020-01-21 11:23:00,search,/blog/credit-basics,Debit,18432,0.0,0.0,35274,No credit card / lower income
+s_000742,1845,1409,2020-02-10 12:42:00,social_media,/cards,Credit,22900,1.0,22900.0,47300,Credit $12k+ / higher income
+s_000743,446,1447,2020-02-19 16:37:00,search,/blog/credit-basics,Credit,11100,1.0,11100.0,49342,Credit <$12k / higher income
+s_000744,1136,1410,2020-02-28 08:10:00,social_media,/,Credit,19000,2.0,30500.0,68767,Credit $12k+ / higher income
+s_000745,1136,1614,2020-02-07 15:48:00,search,/cards,Debit,22067,2.0,30500.0,68767,Credit $12k+ / higher income
+s_000746,1136,1885,2020-02-02 22:03:00,search,/compare,Credit,11500,2.0,30500.0,68767,Credit $12k+ / higher income
+s_000748,27,578,2020-01-23 12:50:00,search,/cards/rewards,Credit,7000,3.0,30000.0,23821,Credit $12k+ / lower income
+s_000750,653,1886,2020-02-25 17:37:00,search,/,Credit,12900,1.0,12900.0,51601,Credit $12k+ / higher income
+s_000751,743,836,2020-01-15 20:31:00,social_media,/cards,Debit,20582,0.0,0.0,32491,No credit card / lower income
+s_000752,999,837,2020-01-14 10:39:00,blog_or_review_site,/blog/credit-basics,Debit,27813,1.0,11700.0,48308,Credit <$12k / higher income
+s_000753,999,579,2020-01-06 17:05:00,search,/cards/rewards,Credit,11700,1.0,11700.0,48308,Credit <$12k / higher income
+s_000754,999,580,2020-01-13 19:07:00,friend_or_family,/,Debit,19286,1.0,11700.0,48308,Credit <$12k / higher income
+s_000755,999,581,2020-01-01 16:11:00,blog_or_review_site,/compare,Debit,22868,1.0,11700.0,48308,Credit <$12k / higher income
+s_000757,1460,1615,2020-02-21 14:26:00,friend_or_family,/cards/rewards,Debit,8822,0.0,0.0,61760,No credit card / higher income
+s_000758,1460,1887,2020-02-18 16:58:00,other,/apply,Debit,3549,0.0,0.0,61760,No credit card / higher income
+s_000761,1436,582,2020-01-12 14:10:00,social_media,/cards/rewards,Debit,10427,0.0,0.0,44842,No credit card / higher income
+s_000762,1436,1616,2020-02-03 14:23:00,social_media,/blog/credit-basics,Debit,8163,1.0,3600.0,44842,Credit <$12k / higher income
+s_000763,1436,1888,2020-02-18 17:15:00,search,/blog/credit-basics,Debit,26599,1.0,3600.0,44842,Credit <$12k / higher income
+s_000764,1436,1617,2020-02-14 20:33:00,blog_or_review_site,/compare,Credit,3600,1.0,3600.0,44842,Credit <$12k / higher income
+s_000765,1230,583,2020-01-15 11:35:00,other,/apply,Debit (Prepaid),68,0.0,0.0,29169,No credit card / lower income
+s_000766,324,1618,2020-02-14 12:42:00,search,/blog/credit-basics,Debit,37661,1.0,21400.0,87372,Credit $12k+ / higher income
+s_000767,324,1889,2020-02-27 10:48:00,search,/blog/credit-basics,Credit,21400,1.0,21400.0,87372,Credit $12k+ / higher income
+s_000768,324,1619,2020-02-12 15:57:00,social_media,/compare,Debit,31271,1.0,21400.0,87372,Credit $12k+ / higher income
+s_000770,1017,584,2020-01-17 21:19:00,blog_or_review_site,/cards,Debit,5836,0.0,0.0,28703,No credit card / lower income
+s_000771,1989,838,2020-01-10 11:24:00,blog_or_review_site,/blog/credit-basics,Credit,16400,3.0,51900.0,67886,Credit $12k+ / higher income
+s_000772,1148,585,2020-01-14 18:28:00,blog_or_review_site,/cards/rewards,Debit,14835,2.0,18700.0,36711,Credit $12k+ / lower income
+s_000774,412,839,2020-01-07 15:19:00,social_media,/,Credit,13000,1.0,13000.0,46822,Credit $12k+ / higher income
+s_000775,412,586,2020-01-28 19:09:00,blog_or_review_site,/blog/credit-basics,Debit,14733,1.0,13000.0,46822,Credit $12k+ / higher income
+s_000776,412,1620,2020-02-14 22:10:00,search,/blog/credit-basics,Debit,7476,1.0,13000.0,46822,Credit $12k+ / higher income
+s_000777,412,587,2020-01-21 15:17:00,other,/cards/rewards,Debit (Prepaid),60,1.0,13000.0,46822,Credit $12k+ / higher income
+s_000778,567,588,2020-01-25 12:58:00,search,/apply,Debit,6497,1.0,3300.0,33534,Credit <$12k / lower income
+s_000779,567,589,2020-01-15 13:42:00,social_media,/,Debit (Prepaid),67,1.0,3300.0,33534,Credit <$12k / lower income
+s_000781,35,590,2020-01-02 20:29:00,search,/,Debit,9632,0.0,0.0,48495,No credit card / higher income
+s_000782,35,1621,2020-02-14 12:33:00,app_store,/cards,Debit,9490,0.0,0.0,48495,No credit card / higher income
+s_000783,35,591,2020-01-11 22:42:00,other,/cards,Debit,32399,0.0,0.0,48495,No credit card / higher income
+s_000785,1238,592,2020-01-07 17:44:00,search,/blog/credit-basics,Credit,6700,2.0,29200.0,96661,Credit $12k+ / higher income
+s_000786,1082,1890,2020-02-20 19:07:00,search,/cards,Debit,1696,2.0,22000.0,33934,Credit $12k+ / lower income
+s_000787,1502,1891,2020-02-13 17:22:00,social_media,/cards/rewards,Debit,28471,0.0,0.0,90104,No credit card / higher income
+s_000788,1502,593,2020-01-19 16:35:00,other,/cards/rewards,Debit,33833,0.0,0.0,90104,No credit card / higher income
+s_000789,1047,1411,2020-02-11 20:59:00,other,/cards/rewards,Credit,16400,1.0,16400.0,53554,Credit $12k+ / higher income
+s_000790,0,1622,2020-02-01 09:58:00,search,/,Debit,31008,1.0,17600.0,59613,Credit $12k+ / higher income
+s_000791,0,1623,2020-02-18 20:26:00,blog_or_review_site,/compare,Debit,25558,1.0,17600.0,59613,Credit $12k+ / higher income
+s_000792,351,431,2020-01-20 10:10:00,blog_or_review_site,/apply,Credit,2700,3.0,15900.0,17150,Credit $12k+ / lower income
+s_000793,1122,1892,2020-02-18 09:31:00,friend_or_family,/cards/rewards,Debit,45222,0.0,0.0,69706,No credit card / higher income
+s_000794,255,1893,2020-02-12 20:14:00,social_media,/cards/rewards,Debit,16783,0.0,0.0,43253,No credit card / higher income
+s_000795,765,1894,2020-02-16 19:25:00,search,/compare,Debit,13524,1.0,15000.0,36101,Credit $12k+ / lower income
+s_000796,765,1895,2020-02-11 12:42:00,social_media,/cards/rewards,Credit,15000,1.0,15000.0,36101,Credit $12k+ / lower income
+s_000797,1919,1624,2020-02-13 22:15:00,podcast_or_youtube,/apply,Debit,49705,1.0,17400.0,80493,Credit $12k+ / higher income
+s_000798,880,1625,2020-02-27 18:44:00,blog_or_review_site,/compare,Debit,10141,1.0,9500.0,39354,Credit <$12k / lower income
+s_000801,522,594,2020-01-11 15:21:00,other,/cards,Debit,21359,0.0,0.0,43454,No credit card / higher income
+s_000802,522,1626,2020-02-01 08:47:00,search,/cards,Credit,10200,1.0,10200.0,43454,Credit <$12k / higher income
+s_000803,131,1627,2020-02-15 09:59:00,search,/compare,Debit,11934,0.0,0.0,37717,No credit card / lower income
+s_000804,131,595,2020-01-25 09:28:00,other,/compare,Debit,12427,0.0,0.0,37717,No credit card / lower income
+s_000805,131,596,2020-01-08 20:52:00,search,/compare,Debit,24432,0.0,0.0,37717,No credit card / lower income
+s_000806,76,1896,2020-02-22 10:58:00,search,/blog/credit-basics,Debit,6513,1.0,1500.0,51613,Credit <$12k / higher income
+s_000807,76,840,2020-01-22 16:20:00,search,/cards,Credit,1500,1.0,1500.0,51613,Credit <$12k / higher income
+s_000808,249,1897,2020-02-15 11:16:00,social_media,/apply,Debit (Prepaid),87,3.0,19100.0,29835,Credit $12k+ / lower income
+s_000809,1652,597,2020-01-15 10:10:00,blog_or_review_site,/compare,Debit (Prepaid),78,0.0,0.0,42749,No credit card / higher income
+s_000810,1251,1628,2020-02-14 21:04:00,blog_or_review_site,/blog/credit-basics,Debit,31219,0.0,0.0,42150,No credit card / higher income
+s_000812,1119,1898,2020-02-27 09:26:00,other,/apply,Debit,22768,2.0,14500.0,47589,Credit $12k+ / higher income
+s_000813,1119,1899,2020-02-04 21:03:00,friend_or_family,/cards/rewards,Credit,3000,2.0,14500.0,47589,Credit $12k+ / higher income
+s_000814,1119,598,2020-01-24 09:48:00,search,/compare,Credit,11500,1.0,11500.0,47589,Credit <$12k / higher income
+s_000815,1119,1629,2020-02-14 10:21:00,social_media,/cards,Debit,7458,2.0,14500.0,47589,Credit $12k+ / higher income
+s_000817,1830,599,2020-01-03 17:40:00,other,/cards,Debit (Prepaid),58,1.0,10600.0,32418,Credit <$12k / lower income
+s_000820,453,600,2020-01-20 17:18:00,friend_or_family,/apply,Debit,23996,0.0,0.0,128775,No credit card / higher income
+s_000821,341,1900,2020-02-22 13:04:00,other,/,Debit,37941,1.0,37600.0,104045,Credit $12k+ / higher income
+s_000822,1647,841,2020-01-28 09:36:00,search,/apply,Debit (Prepaid),76,1.0,8000.0,35311,Credit <$12k / lower income
+s_000823,1647,402,2020-01-22 21:51:00,podcast_or_youtube,/blog/credit-basics,Credit,8000,1.0,8000.0,35311,Credit <$12k / lower income
+s_000824,1647,1630,2020-02-19 10:10:00,search,/cards,Credit,9200,2.0,17200.0,35311,Credit $12k+ / lower income
+s_000825,1647,1631,2020-02-28 14:22:00,social_media,/,Debit,21244,2.0,17200.0,35311,Credit $12k+ / lower income
+s_000826,1647,1901,2020-02-17 15:04:00,other,/,Debit,20751,2.0,17200.0,35311,Credit $12k+ / lower income
+s_000827,1387,842,2020-01-26 14:59:00,search,/blog/credit-basics,Credit,9500,1.0,9500.0,66237,Credit <$12k / higher income
+s_000831,1462,601,2020-01-15 21:51:00,search,/blog/credit-basics,Debit (Prepaid),44,0.0,0.0,37610,No credit card / lower income
+s_000832,1848,1632,2020-02-16 17:14:00,app_store,/compare,Debit,19880,1.0,12700.0,50599,Credit $12k+ / higher income
+s_000833,1848,602,2020-01-02 11:16:00,friend_or_family,/cards/rewards,Credit,12700,1.0,12700.0,50599,Credit $12k+ / higher income
+s_000834,1444,603,2020-01-27 22:19:00,social_media,/blog/credit-basics,Debit,21611,0.0,0.0,66885,No credit card / higher income
+s_000836,1630,1412,2020-02-01 19:26:00,app_store,/apply,Credit,11800,1.0,11800.0,31693,Credit <$12k / lower income
+s_000840,1013,403,2020-01-12 12:11:00,blog_or_review_site,/,Credit,12800,1.0,12800.0,48017,Credit $12k+ / higher income
+s_000842,1871,1633,2020-02-18 12:05:00,search,/blog/credit-basics,Debit,11166,0.0,0.0,16611,No credit card / lower income
+s_000844,1517,1634,2020-02-04 21:33:00,social_media,/cards/rewards,Debit,23231,1.0,24900.0,123540,Credit $12k+ / higher income
+s_000846,696,1635,2020-02-21 14:39:00,search,/cards,Debit,77778,1.0,25900.0,110570,Credit $12k+ / higher income
+s_000847,962,604,2020-01-05 14:39:00,search,/compare,Credit,13300,1.0,13300.0,34262,Credit $12k+ / lower income
+s_000849,1015,1636,2020-02-22 08:45:00,search,/,Credit,24700,1.0,24700.0,96744,Credit $12k+ / higher income
+s_000851,161,605,2020-01-26 20:01:00,blog_or_review_site,/cards,Debit,11163,0.0,0.0,23469,No credit card / lower income
+s_000852,263,843,2020-01-25 08:20:00,search,/cards/rewards,Credit,6200,1.0,6200.0,26519,Credit <$12k / lower income
+s_000854,1374,1902,2020-02-26 22:20:00,search,/cards,Debit,14993,1.0,8300.0,39679,Credit <$12k / lower income
+s_000855,1374,1413,2020-02-18 13:44:00,app_store,/,Credit,8300,1.0,8300.0,39679,Credit <$12k / lower income
+s_000856,1855,1903,2020-02-28 13:31:00,search,/cards/rewards,Credit,17100,2.0,30500.0,31287,Credit $12k+ / lower income
+s_000857,867,1904,2020-02-20 16:27:00,search,/cards,Debit,16736,0.0,0.0,38805,No credit card / lower income
+s_000858,867,606,2020-01-10 12:52:00,social_media,/cards,Debit,10196,0.0,0.0,38805,No credit card / lower income
+s_000861,635,1448,2020-02-21 08:49:00,search,/cards/rewards,Credit,6100,1.0,6100.0,34201,Credit <$12k / lower income
+s_000862,319,844,2020-01-01 10:31:00,podcast_or_youtube,/cards/rewards,Debit (Prepaid),77,1.0,6800.0,28357,Credit <$12k / lower income
+s_000863,740,607,2020-01-28 15:30:00,search,/compare,Debit,8661,0.0,0.0,32343,No credit card / lower income
+s_000864,740,845,2020-01-01 14:07:00,search,/cards,Debit,4009,0.0,0.0,32343,No credit card / lower income
+s_000865,965,1414,2020-02-12 10:06:00,social_media,/,Credit,11200,1.0,11200.0,42142,Credit <$12k / higher income
+s_000866,965,846,2020-01-07 18:28:00,podcast_or_youtube,/apply,Debit,16479,0.0,0.0,42142,No credit card / higher income
+s_000867,1101,1905,2020-02-04 14:12:00,friend_or_family,/,Credit,8500,1.0,8500.0,28862,Credit <$12k / lower income
+s_000871,1663,847,2020-01-27 19:33:00,friend_or_family,/cards,Debit,840,0.0,0.0,2370,No credit card / lower income
+s_000872,725,1906,2020-02-21 11:40:00,friend_or_family,/blog/credit-basics,Debit,17382,0.0,0.0,44466,No credit card / higher income
+s_000873,725,1907,2020-02-04 19:56:00,search,/apply,Debit,19483,0.0,0.0,44466,No credit card / higher income
+s_000874,1233,1449,2020-02-05 22:23:00,app_store,/cards/rewards,Credit,7100,2.0,18100.0,37843,Credit $12k+ / lower income
+s_000875,1271,1908,2020-02-03 22:14:00,search,/,Credit,10900,1.0,10900.0,48398,Credit <$12k / higher income
+s_000879,51,1637,2020-02-18 09:04:00,other,/blog/credit-basics,Debit,27124,2.0,19100.0,51303,Credit $12k+ / higher income
+s_000880,51,1450,2020-02-22 12:26:00,social_media,/cards/rewards,Credit,6400,2.0,19100.0,51303,Credit $12k+ / higher income
+s_000881,1358,1909,2020-02-14 16:42:00,other,/apply,Debit,26394,0.0,0.0,68930,No credit card / higher income
+s_000883,1196,1415,2020-02-20 21:20:00,social_media,/apply,Credit,10900,2.0,22000.0,34895,Credit $12k+ / lower income
+s_000886,1963,1638,2020-02-27 14:30:00,search,/cards/rewards,Debit (Prepaid),71,1.0,20700.0,33869,Credit $12k+ / lower income
+s_000888,764,1910,2020-02-21 18:45:00,search,/cards/rewards,Credit,4400,2.0,18300.0,31066,Credit $12k+ / lower income
+s_000889,213,1639,2020-02-11 13:27:00,blog_or_review_site,/,Debit,37778,1.0,20400.0,55172,Credit $12k+ / higher income
+s_000890,225,432,2020-01-28 21:07:00,search,/blog/credit-basics,Credit,16600,2.0,30900.0,40887,Credit $12k+ / higher income
+s_000891,1210,608,2020-01-04 13:02:00,friend_or_family,/cards/rewards,Debit,6824,1.0,8600.0,34531,Credit <$12k / lower income
+s_000892,1336,1911,2020-02-27 16:36:00,social_media,/cards/rewards,Credit,15000,1.0,15000.0,53995,Credit $12k+ / higher income
+s_000894,558,1912,2020-02-15 14:21:00,search,/,Debit,8980,1.0,8800.0,33080,Credit <$12k / lower income
+s_000895,558,1640,2020-02-20 20:40:00,social_media,/compare,Debit,3402,1.0,8800.0,33080,Credit <$12k / lower income
+s_000896,558,848,2020-01-11 17:38:00,social_media,/compare,Credit,8800,1.0,8800.0,33080,Credit <$12k / lower income
+s_000897,1295,609,2020-01-07 09:24:00,search,/blog/credit-basics,Debit (Prepaid),72,2.0,17400.0,27772,Credit $12k+ / lower income
+s_000899,1068,1641,2020-02-04 18:00:00,friend_or_family,/,Debit,11355,0.0,0.0,32345,No credit card / lower income
+s_000901,1068,849,2020-01-12 15:43:00,search,/apply,Debit,11573,0.0,0.0,32345,No credit card / lower income
+s_000902,204,1642,2020-02-23 08:35:00,search,/blog/credit-basics,Debit,18725,0.0,0.0,42754,No credit card / higher income
+s_000903,424,1913,2020-02-11 19:00:00,friend_or_family,/cards,Credit,11100,1.0,11100.0,51045,Credit <$12k / higher income
+s_000904,424,610,2020-01-27 17:45:00,blog_or_review_site,/apply,Debit,38,0.0,0.0,51045,No credit card / higher income
+s_000905,980,1643,2020-02-07 21:03:00,friend_or_family,/cards/rewards,Debit,26819,2.0,20400.0,24055,Credit $12k+ / lower income
+s_000907,600,850,2020-01-06 18:35:00,search,/,Debit,18373,0.0,0.0,46878,No credit card / higher income
+s_000910,1093,851,2020-01-15 13:26:00,search,/cards/rewards,Credit,12600,1.0,12600.0,47543,Credit $12k+ / higher income
+s_000911,28,852,2020-01-26 21:13:00,search,/cards/rewards,Debit,17431,1.0,16400.0,54273,Credit $12k+ / higher income
+s_000914,1847,1644,2020-02-05 10:50:00,search,/,Credit,8700,1.0,8700.0,31443,Credit <$12k / lower income
+s_000916,134,611,2020-01-16 10:13:00,other,/apply,Debit,27290,3.0,24500.0,50174,Credit $12k+ / higher income
+s_000917,188,853,2020-01-25 11:24:00,friend_or_family,/blog/credit-basics,Debit (Prepaid),68,0.0,0.0,87436,No credit card / higher income
+s_000918,188,854,2020-01-17 12:45:00,search,/apply,Debit,41713,0.0,0.0,87436,No credit card / higher income
+s_000919,220,1645,2020-02-18 14:24:00,search,/blog/credit-basics,Debit (Prepaid),2,2.0,40700.0,61846,Credit $12k+ / higher income
+s_000921,1343,612,2020-01-03 17:32:00,social_media,/apply,Debit,12738,2.0,14000.0,24369,Credit $12k+ / lower income
+s_000922,1343,855,2020-01-28 10:39:00,other,/,Credit,8700,2.0,14000.0,24369,Credit $12k+ / lower income
+s_000923,1343,856,2020-01-12 18:11:00,app_store,/,Debit,5752,2.0,14000.0,24369,Credit $12k+ / lower income
+s_000924,1930,613,2020-01-04 10:46:00,friend_or_family,/apply,Debit (Prepaid),73,1.0,15700.0,44470,Credit $12k+ / higher income
+s_000925,1930,614,2020-01-14 17:44:00,other,/apply,Credit,15700,1.0,15700.0,44470,Credit $12k+ / higher income
+s_000926,1260,1646,2020-02-09 12:13:00,other,/,Credit,10100,3.0,21100.0,42806,Credit $12k+ / higher income
+s_000927,1260,857,2020-01-03 11:53:00,blog_or_review_site,/blog/credit-basics,Credit,11000,2.0,11000.0,42806,Credit <$12k / higher income
+s_000929,88,858,2020-01-16 22:40:00,social_media,/cards/rewards,Credit,4800,1.0,4800.0,33337,Credit <$12k / lower income
+s_000930,1335,615,2020-01-17 11:16:00,search,/cards/rewards,Debit (Prepaid),115,0.0,0.0,97845,No credit card / higher income
+s_000932,1081,404,2020-01-16 15:33:00,social_media,/,Credit,21200,2.0,31600.0,50666,Credit $12k+ / higher income
+s_000933,1125,405,2020-01-09 18:08:00,social_media,/cards,Credit,23100,2.0,36300.0,64917,Credit $12k+ / higher income
+s_000934,1125,616,2020-01-02 18:33:00,blog_or_review_site,/compare,Debit,41040,2.0,36300.0,64917,Credit $12k+ / higher income
+s_000935,1952,617,2020-01-07 10:30:00,blog_or_review_site,/compare,Debit,13831,0.0,0.0,36909,No credit card / lower income
+s_000936,1870,1647,2020-02-02 13:10:00,blog_or_review_site,/blog/credit-basics,Credit,18900,1.0,18900.0,71054,Credit $12k+ / higher income
+s_000937,1870,1914,2020-02-23 13:31:00,search,/blog/credit-basics,Debit,39850,1.0,18900.0,71054,Credit $12k+ / higher income
+s_000938,1906,1648,2020-02-23 17:15:00,search,/blog/credit-basics,Debit,2721,0.0,0.0,28950,No credit card / lower income
+s_000940,1933,1649,2020-02-15 08:35:00,podcast_or_youtube,/blog/credit-basics,Debit (Prepaid),91,0.0,0.0,29658,No credit card / lower income
+s_000941,1933,1915,2020-02-03 17:36:00,other,/cards,Debit,2094,0.0,0.0,29658,No credit card / lower income
+s_000944,1272,1650,2020-02-25 15:21:00,app_store,/apply,Debit,8807,0.0,0.0,61222,No credit card / higher income
+s_000945,572,1916,2020-02-01 15:25:00,search,/apply,Debit (Prepaid),54,0.0,0.0,47317,No credit card / higher income
+s_000946,1960,1917,2020-02-19 10:36:00,search,/compare,Debit (Prepaid),69,0.0,0.0,47916,No credit card / higher income
+s_000947,916,859,2020-01-24 16:22:00,blog_or_review_site,/blog/credit-basics,Debit,15847,0.0,0.0,41260,No credit card / higher income
+s_000948,916,860,2020-01-16 16:17:00,social_media,/apply,Debit,13006,0.0,0.0,41260,No credit card / higher income
+s_000949,1635,618,2020-01-09 19:12:00,other,/compare,Debit,13523,1.0,15000.0,42332,Credit $12k+ / higher income
+s_000954,969,1918,2020-02-26 17:02:00,blog_or_review_site,/cards/rewards,Debit,13478,0.0,0.0,58893,No credit card / higher income
+s_000955,969,619,2020-01-22 22:29:00,other,/cards,Debit,19578,0.0,0.0,58893,No credit card / higher income
+s_000956,969,861,2020-01-08 19:07:00,search,/blog/credit-basics,Debit,2944,0.0,0.0,58893,No credit card / higher income
+s_000957,508,1651,2020-02-27 11:16:00,search,/cards/rewards,Debit,20773,0.0,0.0,64319,No credit card / higher income
+s_000958,508,1652,2020-02-19 15:17:00,search,/blog/credit-basics,Debit,24203,0.0,0.0,64319,No credit card / higher income
+s_000959,508,620,2020-01-12 21:54:00,social_media,/,Debit (Prepaid),98,0.0,0.0,64319,No credit card / higher income
+s_000961,450,862,2020-01-26 10:55:00,search,/blog/credit-basics,Debit,23687,0.0,0.0,43192,No credit card / higher income
+s_000964,43,1416,2020-02-20 20:19:00,social_media,/,Credit,13200,3.0,48600.0,61104,Credit $12k+ / higher income
+s_000966,43,863,2020-01-01 21:23:00,social_media,/cards,Credit,13700,2.0,35400.0,61104,Credit $12k+ / higher income
+s_000967,1187,864,2020-01-06 19:14:00,blog_or_review_site,/cards,Debit,24389,1.0,12100.0,47334,Credit $12k+ / higher income
+s_000969,1020,406,2020-01-21 14:28:00,blog_or_review_site,/,Credit,12000,1.0,12000.0,54122,Credit $12k+ / higher income
+s_000970,1020,1417,2020-02-10 19:10:00,blog_or_review_site,/compare,Credit,16900,2.0,28900.0,54122,Credit $12k+ / higher income
+s_000972,436,1653,2020-02-05 18:23:00,search,/cards/rewards,Debit,21540,0.0,0.0,53569,No credit card / higher income
+s_000976,1350,1654,2020-02-20 16:18:00,friend_or_family,/,Debit,10015,0.0,0.0,44740,No credit card / higher income
+s_000978,608,1655,2020-02-04 11:37:00,search,/apply,Debit (Prepaid),61,0.0,0.0,2365,No credit card / lower income
+s_000979,374,1919,2020-02-27 12:33:00,podcast_or_youtube,/apply,Debit,12446,1.0,8200.0,31177,Credit <$12k / lower income
+s_000981,727,1920,2020-02-08 16:39:00,search,/cards,Credit,6700,3.0,27100.0,40522,Credit $12k+ / higher income
+s_000983,487,1656,2020-02-10 16:13:00,social_media,/compare,Debit,28281,1.0,11400.0,55059,Credit <$12k / higher income
+s_000989,944,1921,2020-02-05 19:06:00,social_media,/apply,Debit,52717,1.0,25500.0,119308,Credit $12k+ / higher income
+s_000990,388,1657,2020-02-07 17:25:00,blog_or_review_site,/compare,Debit,5456,0.0,0.0,17310,No credit card / lower income
+s_000993,1018,1922,2020-02-27 21:37:00,app_store,/cards,Debit,13609,2.0,19700.0,31805,Credit $12k+ / lower income
+s_000995,1367,865,2020-01-20 19:00:00,blog_or_review_site,/blog/credit-basics,Debit (Prepaid),58,1.0,9200.0,34255,Credit <$12k / lower income
+s_000996,1965,1923,2020-02-18 16:16:00,search,/cards,Credit,11200,1.0,11200.0,37443,Credit <$12k / lower income
+s_000999,79,1924,2020-02-18 21:17:00,search,/cards/rewards,Debit,23083,1.0,12200.0,29164,Credit $12k+ / lower income
+s_001000,9,1658,2020-02-03 22:06:00,search,/cards/rewards,Debit,2049,1.0,7600.0,40988,Credit <$12k / higher income
+s_001001,9,1418,2020-02-21 16:08:00,blog_or_review_site,/cards/rewards,Credit,7600,1.0,7600.0,40988,Credit <$12k / higher income
+s_001002,9,621,2020-01-16 13:33:00,blog_or_review_site,/apply,Debit,14670,0.0,0.0,40988,No credit card / higher income
+s_001003,596,1659,2020-02-14 22:16:00,search,/cards,Credit,10700,3.0,23000.0,34629,Credit $12k+ / lower income
+s_001004,596,1925,2020-02-12 15:37:00,social_media,/cards,Credit,7200,3.0,23000.0,34629,Credit $12k+ / lower income
+s_001005,170,866,2020-01-01 10:41:00,social_media,/cards/rewards,Debit,13841,1.0,11400.0,36983,Credit <$12k / lower income
+s_001006,1715,1660,2020-02-27 10:14:00,blog_or_review_site,/compare,Debit,6824,0.0,0.0,50137,No credit card / higher income
+s_001007,1607,1926,2020-02-07 10:19:00,search,/apply,Credit,20700,1.0,20700.0,55166,Credit $12k+ / higher income
+s_001008,1892,622,2020-01-27 20:32:00,social_media,/cards/rewards,Debit (Prepaid),31,0.0,0.0,32557,No credit card / lower income
+s_001009,1892,867,2020-01-13 08:21:00,other,/cards,Debit,318,0.0,0.0,32557,No credit card / lower income
+s_001010,402,1927,2020-02-20 13:56:00,social_media,/blog/credit-basics,Debit,20709,0.0,0.0,43954,No credit card / higher income
+s_001012,1672,1451,2020-02-19 18:02:00,search,/compare,Credit,16100,1.0,16100.0,74644,Credit $12k+ / higher income
+s_001013,1672,623,2020-01-26 11:23:00,social_media,/apply,Debit,3313,0.0,0.0,74644,No credit card / higher income
+s_001014,426,868,2020-01-11 21:29:00,search,/apply,Credit,10400,1.0,10400.0,42348,Credit <$12k / higher income
+s_001015,426,1661,2020-02-11 16:29:00,search,/cards,Debit,2117,1.0,10400.0,42348,Credit <$12k / higher income
+s_001016,426,869,2020-01-20 08:31:00,other,/compare,Debit,11265,1.0,10400.0,42348,Credit <$12k / higher income
+s_001017,426,624,2020-01-09 13:44:00,friend_or_family,/apply,Debit,5618,1.0,10400.0,42348,Credit <$12k / higher income
+s_001018,1135,1419,2020-02-27 21:25:00,other,/,Credit,11700,3.0,54900.0,68010,Credit $12k+ / higher income
+s_001019,1135,870,2020-01-27 11:26:00,search,/apply,Debit,33028,2.0,43200.0,68010,Credit $12k+ / higher income
+s_001024,1071,1420,2020-02-21 08:05:00,search,/compare,Credit,11200,1.0,11200.0,38363,Credit <$12k / lower income
+s_001025,1071,1662,2020-02-08 21:11:00,blog_or_review_site,/apply,Debit (Prepaid),38,1.0,11200.0,38363,Credit <$12k / lower income
+s_001028,1714,1663,2020-02-10 18:11:00,other,/compare,Credit,20700,2.0,33300.0,73011,Credit $12k+ / higher income
+s_001029,1714,1421,2020-02-10 15:55:00,friend_or_family,/apply,Credit,12600,2.0,33300.0,73011,Credit $12k+ / higher income
+s_001030,342,625,2020-01-18 12:31:00,search,/apply,Debit,61407,0.0,0.0,128123,No credit card / higher income
+s_001031,539,871,2020-01-08 14:27:00,search,/blog/credit-basics,Debit,4087,0.0,0.0,34568,No credit card / lower income
+s_001032,272,626,2020-01-25 16:07:00,blog_or_review_site,/cards/rewards,Debit (Prepaid),100,1.0,14700.0,53407,Credit $12k+ / higher income
+s_001033,521,627,2020-01-18 12:51:00,other,/cards,Debit,1680,0.0,0.0,32829,No credit card / lower income
+s_001034,988,1422,2020-02-10 20:34:00,podcast_or_youtube,/apply,Credit,1900,3.0,32200.0,39832,Credit $12k+ / lower income
+s_001035,1381,628,2020-01-14 12:13:00,blog_or_review_site,/blog/credit-basics,Debit,16769,1.0,10100.0,29517,Credit <$12k / lower income
+s_001036,239,433,2020-01-05 09:26:00,search,/cards,Credit,13800,1.0,13800.0,42201,Credit $12k+ / higher income
+s_001037,239,872,2020-01-15 19:55:00,search,/,Debit,20134,1.0,13800.0,42201,Credit $12k+ / higher income
+s_001038,239,629,2020-01-05 15:58:00,blog_or_review_site,/compare,Debit (Prepaid),55,1.0,13800.0,42201,Credit $12k+ / higher income
+s_001039,239,630,2020-01-03 18:41:00,friend_or_family,/cards/rewards,Debit,9279,1.0,13800.0,42201,Credit $12k+ / higher income
+s_001040,239,1664,2020-02-02 20:04:00,search,/cards,Debit,21449,1.0,13800.0,42201,Credit $12k+ / higher income
+s_001041,383,1928,2020-02-26 14:09:00,search,/cards,Debit,10367,1.0,8200.0,34287,Credit <$12k / lower income
+s_001043,497,1452,2020-02-22 13:43:00,search,/apply,Credit,13900,5.0,66800.0,52380,Credit $12k+ / higher income
+s_001044,893,873,2020-01-16 20:53:00,other,/apply,Debit (Prepaid),57,0.0,0.0,34716,No credit card / lower income
+s_001045,893,1665,2020-02-11 13:05:00,social_media,/apply,Debit,10573,0.0,0.0,34716,No credit card / lower income
+s_001046,893,1929,2020-02-04 10:56:00,search,/cards,Debit,17499,0.0,0.0,34716,No credit card / lower income
+s_001047,67,874,2020-01-17 13:11:00,other,/,Credit,17300,1.0,17300.0,47639,Credit $12k+ / higher income
+s_001048,67,1666,2020-02-24 16:08:00,social_media,/cards,Debit,3334,1.0,17300.0,47639,Credit $12k+ / higher income
+s_001051,1205,875,2020-01-23 16:33:00,social_media,/cards,Credit,13500,2.0,21300.0,56984,Credit $12k+ / higher income
+s_001052,1205,631,2020-01-27 20:37:00,friend_or_family,/,Credit,7800,2.0,21300.0,56984,Credit $12k+ / higher income
+s_001053,1205,1423,2020-02-26 20:25:00,podcast_or_youtube,/compare,Credit,13300,3.0,34600.0,56984,Credit $12k+ / higher income
+s_001054,1205,1667,2020-02-18 10:18:00,friend_or_family,/compare,Debit,24665,3.0,34600.0,56984,Credit $12k+ / higher income
+s_001055,1205,1668,2020-02-14 22:40:00,blog_or_review_site,/blog/credit-basics,Debit,28648,3.0,34600.0,56984,Credit $12k+ / higher income
+s_001056,626,876,2020-01-11 13:45:00,search,/apply,Debit,43186,0.0,0.0,85954,No credit card / higher income
+s_001057,626,1669,2020-02-21 12:12:00,search,/apply,Debit,56434,0.0,0.0,85954,No credit card / higher income
+s_001058,1953,1424,2020-02-16 08:25:00,search,/cards,Credit,9900,1.0,9900.0,43996,Credit <$12k / higher income
+s_001059,1953,1670,2020-02-18 12:26:00,search,/cards/rewards,Debit,8257,1.0,9900.0,43996,Credit <$12k / higher income
+s_001060,1190,1671,2020-02-14 10:13:00,social_media,/blog/credit-basics,Debit,23805,2.0,23700.0,44383,Credit $12k+ / higher income
+s_001061,1190,632,2020-01-11 08:54:00,friend_or_family,/cards/rewards,Credit,9900,2.0,23700.0,44383,Credit $12k+ / higher income
+s_001062,1970,1425,2020-02-14 15:31:00,friend_or_family,/apply,Credit,14800,1.0,14800.0,51873,Credit $12k+ / higher income
+s_001063,1970,1672,2020-02-28 15:47:00,social_media,/,Debit,2593,1.0,14800.0,51873,Credit $12k+ / higher income
+s_001064,1337,407,2020-01-07 12:01:00,social_media,/cards,Credit,9600,1.0,9600.0,38634,Credit <$12k / lower income
+s_001065,1337,1673,2020-02-22 13:54:00,social_media,/cards/rewards,Debit,13573,1.0,9600.0,38634,Credit <$12k / lower income
+s_001066,594,877,2020-01-01 21:20:00,search,/blog/credit-basics,Debit,11608,1.0,7700.0,33933,Credit <$12k / lower income
+s_001067,594,1674,2020-02-05 20:01:00,blog_or_review_site,/,Debit,23699,2.0,11200.0,33933,Credit <$12k / lower income
+s_001068,594,633,2020-01-18 10:37:00,friend_or_family,/cards/rewards,Credit,7700,1.0,7700.0,33933,Credit <$12k / lower income
+s_001069,594,1930,2020-02-24 12:20:00,friend_or_family,/apply,Credit,3500,2.0,11200.0,33933,Credit <$12k / lower income
+s_001070,594,1931,2020-02-06 15:33:00,app_store,/compare,Debit,14793,2.0,11200.0,33933,Credit <$12k / lower income
+s_001071,923,634,2020-01-01 13:50:00,friend_or_family,/cards,Debit,22234,1.0,3600.0,47501,Credit <$12k / higher income
+s_001072,923,878,2020-01-04 11:55:00,search,/apply,Credit,3600,1.0,3600.0,47501,Credit <$12k / higher income
+s_001073,197,1932,2020-02-07 11:50:00,podcast_or_youtube,/compare,Debit (Prepaid),53,1.0,8000.0,32128,Credit <$12k / lower income
+s_001074,197,1933,2020-02-18 14:02:00,social_media,/blog/credit-basics,Credit,8000,1.0,8000.0,32128,Credit <$12k / lower income
+s_001076,405,879,2020-01-05 11:25:00,podcast_or_youtube,/blog/credit-basics,Debit,4140,0.0,0.0,34998,No credit card / lower income
+s_001078,293,1675,2020-02-11 20:26:00,blog_or_review_site,/cards/rewards,Debit,21335,2.0,21900.0,42084,Credit $12k+ / higher income
+s_001079,293,1676,2020-02-12 13:18:00,social_media,/blog/credit-basics,Credit,9300,2.0,21900.0,42084,Credit $12k+ / higher income
+s_001080,293,1677,2020-02-17 16:27:00,friend_or_family,/apply,Credit,12600,2.0,21900.0,42084,Credit $12k+ / higher income
+s_001081,293,635,2020-01-19 09:40:00,search,/blog/credit-basics,Debit,12899,0.0,0.0,42084,No credit card / higher income
+s_001082,1868,1678,2020-02-19 08:04:00,search,/cards/rewards,Credit,13500,1.0,13500.0,57187,Credit $12k+ / higher income
+s_001083,1868,880,2020-01-05 12:18:00,search,/cards/rewards,Debit,17432,0.0,0.0,57187,No credit card / higher income
+s_001084,681,1679,2020-02-11 10:11:00,search,/compare,Debit,735,0.0,0.0,43634,No credit card / higher income
+s_001085,240,1680,2020-02-25 12:00:00,search,/apply,Debit,14665,0.0,0.0,34868,No credit card / lower income
+s_001086,501,1934,2020-02-24 10:40:00,search,/apply,Debit,11779,1.0,9400.0,35212,Credit <$12k / lower income
+s_001087,501,636,2020-01-13 19:39:00,search,/compare,Credit,9400,1.0,9400.0,35212,Credit <$12k / lower income
+s_001088,178,1681,2020-02-13 09:03:00,search,/,Debit,25376,0.0,0.0,49045,No credit card / higher income
+s_001089,1869,881,2020-01-10 11:48:00,search,/compare,Debit,12186,0.0,0.0,34487,No credit card / lower income
+s_001090,933,1426,2020-02-05 14:52:00,podcast_or_youtube,/cards,Credit,5100,3.0,28400.0,43290,Credit $12k+ / higher income
+s_001091,938,882,2020-01-02 16:37:00,social_media,/apply,Debit (Prepaid),116,1.0,12500.0,50934,Credit $12k+ / higher income
+s_001092,938,1682,2020-02-06 17:46:00,search,/cards,Debit,17447,1.0,12500.0,50934,Credit $12k+ / higher income
+s_001093,622,1935,2020-02-21 14:12:00,blog_or_review_site,/cards,Debit (Prepaid),126,0.0,0.0,87437,No credit card / higher income
+s_001094,796,637,2020-01-01 19:51:00,search,/blog/credit-basics,Debit,12695,1.0,11800.0,43178,Credit <$12k / higher income
+s_001095,796,638,2020-01-09 22:56:00,other,/apply,Debit,18800,1.0,11800.0,43178,Credit <$12k / higher income
+s_001096,1038,408,2020-01-07 16:35:00,search,/cards/rewards,Credit,8800,1.0,8800.0,36755,Credit <$12k / lower income
+s_001097,1038,1683,2020-02-10 18:21:00,friend_or_family,/compare,Credit,8200,2.0,17000.0,36755,Credit $12k+ / lower income
+s_001099,58,883,2020-01-17 21:02:00,search,/compare,Debit,17355,0.0,0.0,52512,No credit card / higher income
+s_001101,1488,1684,2020-02-19 14:11:00,social_media,/cards,Debit,16731,2.0,20400.0,41091,Credit $12k+ / higher income
+s_001103,444,1936,2020-02-17 15:52:00,social_media,/compare,Debit (Prepaid),80,0.0,0.0,26382,No credit card / lower income
+s_001104,444,1685,2020-02-21 15:59:00,friend_or_family,/blog/credit-basics,Debit,12233,0.0,0.0,26382,No credit card / lower income
+s_001105,418,639,2020-01-25 14:24:00,friend_or_family,/,Debit,9082,1.0,18100.0,51891,Credit $12k+ / higher income
+s_001106,418,434,2020-01-13 21:15:00,search,/,Credit,18100,1.0,18100.0,51891,Credit $12k+ / higher income
+s_001107,418,1937,2020-02-10 16:10:00,search,/compare,Credit,11100,2.0,29200.0,51891,Credit $12k+ / higher income
+s_001110,960,884,2020-01-11 09:10:00,search,/apply,Credit,15200,1.0,15200.0,53376,Credit $12k+ / higher income
+s_001111,960,640,2020-01-07 18:15:00,blog_or_review_site,/,Debit,24200,1.0,15200.0,53376,Credit $12k+ / higher income
+s_001113,434,885,2020-01-05 22:03:00,friend_or_family,/,Debit,21916,1.0,15500.0,53395,Credit $12k+ / higher income
+s_001114,434,886,2020-01-24 18:01:00,friend_or_family,/apply,Debit,25579,1.0,15500.0,53395,Credit $12k+ / higher income
+s_001117,1505,1686,2020-02-01 17:40:00,friend_or_family,/apply,Credit,12100,1.0,12100.0,37677,Credit $12k+ / lower income
+s_001118,1623,1687,2020-02-18 13:01:00,other,/blog/credit-basics,Credit,7200,3.0,29800.0,35227,Credit $12k+ / lower income
+s_001123,761,641,2020-01-24 13:16:00,blog_or_review_site,/,Debit,17500,1.0,8800.0,56222,Credit <$12k / higher income
+s_001124,761,1688,2020-02-15 12:33:00,other,/,Debit,21797,2.0,25500.0,56222,Credit $12k+ / higher income
+s_001125,761,1689,2020-02-07 18:31:00,social_media,/cards/rewards,Credit,16700,2.0,25500.0,56222,Credit $12k+ / higher income
+s_001126,761,409,2020-01-21 19:06:00,friend_or_family,/compare,Credit,8800,1.0,8800.0,56222,Credit <$12k / higher income
+s_001127,399,642,2020-01-07 18:06:00,social_media,/blog/credit-basics,Debit,25693,0.0,0.0,64252,No credit card / higher income
+s_001128,1763,643,2020-01-16 22:36:00,blog_or_review_site,/cards,Debit,12068,0.0,0.0,38039,No credit card / lower income
+s_001129,717,644,2020-01-04 20:38:00,podcast_or_youtube,/,Debit,10039,1.0,7100.0,53675,Credit <$12k / higher income
+s_001130,717,1690,2020-02-06 17:03:00,blog_or_review_site,/blog/credit-basics,Debit (Prepaid),66,1.0,7100.0,53675,Credit <$12k / higher income
+s_001131,717,645,2020-01-27 19:06:00,blog_or_review_site,/,Debit,22043,1.0,7100.0,53675,Credit <$12k / higher income
+s_001132,717,887,2020-01-06 08:04:00,search,/compare,Debit (Prepaid),56,1.0,7100.0,53675,Credit <$12k / higher income
+s_001135,117,646,2020-01-22 17:25:00,other,/,Debit (Prepaid),45,0.0,0.0,30229,No credit card / lower income
+s_001136,117,647,2020-01-01 20:27:00,search,/cards,Debit,14759,0.0,0.0,30229,No credit card / lower income
+s_001137,117,1691,2020-02-13 12:27:00,social_media,/cards,Debit,5372,0.0,0.0,30229,No credit card / lower income
+s_001138,1051,1692,2020-02-10 13:47:00,blog_or_review_site,/compare,Credit,14100,1.0,14100.0,49800,Credit $12k+ / higher income
+s_001139,1454,1938,2020-02-17 20:52:00,search,/,Credit,12400,2.0,20600.0,35813,Credit $12k+ / lower income
+s_001141,1235,1427,2020-02-03 14:43:00,search,/,Credit,11500,1.0,11500.0,62316,Credit <$12k / higher income
+s_001142,587,1693,2020-02-25 08:29:00,blog_or_review_site,/cards/rewards,Debit (Prepaid),28,0.0,0.0,25350,No credit card / lower income
+s_001143,587,1694,2020-02-02 08:08:00,search,/apply,Debit,10365,0.0,0.0,25350,No credit card / lower income
+s_001145,1036,888,2020-01-22 08:35:00,search,/cards/rewards,Debit,17446,0.0,0.0,50602,No credit card / higher income
+s_001146,1036,1939,2020-02-07 14:30:00,search,/apply,Debit,7330,0.0,0.0,50602,No credit card / higher income
+s_001149,389,1940,2020-02-19 18:26:00,app_store,/,Debit,18699,0.0,0.0,53082,No credit card / higher income
+s_001150,389,1695,2020-02-07 10:48:00,social_media,/compare,Debit,13979,0.0,0.0,53082,No credit card / higher income
+s_001151,389,648,2020-01-15 22:59:00,search,/cards/rewards,Debit,22218,0.0,0.0,53082,No credit card / higher income
+s_001153,1829,649,2020-01-13 13:23:00,search,/cards,Credit,10700,1.0,10700.0,44204,Credit <$12k / higher income
+s_001154,1829,1696,2020-02-06 15:14:00,search,/cards,Credit,6600,2.0,17300.0,44204,Credit $12k+ / higher income
+s_001155,1392,650,2020-01-14 19:26:00,search,/blog/credit-basics,Debit,12014,1.0,10100.0,53061,Credit <$12k / higher income
+s_001156,1392,889,2020-01-13 14:25:00,social_media,/,Debit,8227,1.0,10100.0,53061,Credit <$12k / higher income
+s_001157,1392,651,2020-01-18 09:49:00,friend_or_family,/cards/rewards,Credit,10100,1.0,10100.0,53061,Credit <$12k / higher income
+s_001158,1949,1941,2020-02-07 15:19:00,other,/apply,Debit (Prepaid),38,0.0,0.0,44444,No credit card / higher income
+s_001161,1706,410,2020-01-08 15:52:00,search,/compare,Credit,7300,2.0,17900.0,26839,Credit $12k+ / lower income
+s_001162,1112,652,2020-01-18 12:44:00,search,/blog/credit-basics,Debit,10896,1.0,6000.0,29897,Credit <$12k / lower income
+s_001163,1112,653,2020-01-04 15:48:00,blog_or_review_site,/compare,Debit,3526,1.0,6000.0,29897,Credit <$12k / lower income
+s_001164,1437,1942,2020-02-14 17:52:00,search,/blog/credit-basics,Debit,30404,1.0,11400.0,44807,Credit <$12k / higher income
+s_001167,966,654,2020-01-07 14:33:00,search,/,Debit,1077,0.0,0.0,23987,No credit card / lower income
+s_001168,107,655,2020-01-28 12:54:00,search,/cards,Debit (Prepaid),98,2.0,11000.0,26758,Credit <$12k / lower income
+s_001169,700,890,2020-01-06 19:07:00,search,/,Debit (Prepaid),33,0.0,0.0,186534,No credit card / higher income
+s_001170,1363,891,2020-01-26 20:58:00,search,/cards,Debit,21692,1.0,11200.0,49185,Credit <$12k / higher income
+s_001171,1363,656,2020-01-17 10:27:00,podcast_or_youtube,/blog/credit-basics,Credit,11200,1.0,11200.0,49185,Credit <$12k / higher income
+s_001172,10,657,2020-01-23 13:09:00,other,/apply,Debit,24602,0.0,0.0,58865,No credit card / higher income
+s_001173,1252,1697,2020-02-04 21:07:00,social_media,/blog/credit-basics,Debit,27556,0.0,0.0,52815,No credit card / higher income
+s_001174,1252,1943,2020-02-15 20:19:00,app_store,/cards/rewards,Debit (Prepaid),29,0.0,0.0,52815,No credit card / higher income
+s_001175,935,1698,2020-02-03 21:37:00,blog_or_review_site,/apply,Debit,19753,0.0,0.0,32014,No credit card / lower income
+s_001176,935,658,2020-01-26 16:41:00,search,/blog/credit-basics,Debit,15527,0.0,0.0,32014,No credit card / lower income
+s_001177,935,892,2020-01-12 08:14:00,search,/blog/credit-basics,Debit,16056,0.0,0.0,32014,No credit card / lower income
+s_001178,413,1944,2020-02-24 09:22:00,social_media,/apply,Credit,16900,2.0,29700.0,51028,Credit $12k+ / higher income
+s_001179,413,893,2020-01-01 18:20:00,app_store,/apply,Credit,12800,1.0,12800.0,51028,Credit $12k+ / higher income
+s_001180,269,1699,2020-02-21 22:38:00,social_media,/cards/rewards,Debit (Prepaid),86,0.0,0.0,38739,No credit card / lower income
+s_001182,269,1945,2020-02-21 19:23:00,blog_or_review_site,/cards/rewards,Debit (Prepaid),55,0.0,0.0,38739,No credit card / lower income
+s_001183,37,659,2020-01-25 10:59:00,search,/cards,Debit,20587,1.0,0.0,34690,Credit <$12k / lower income
+s_001185,1793,1700,2020-02-10 16:55:00,social_media,/,Debit (Prepaid),90,1.0,7300.0,29297,Credit <$12k / lower income
+s_001188,1185,1701,2020-02-23 14:05:00,other,/cards/rewards,Debit,22353,0.0,0.0,67473,No credit card / higher income
+s_001189,903,1428,2020-02-21 14:37:00,podcast_or_youtube,/cards/rewards,Credit,15700,2.0,26200.0,59599,Credit $12k+ / higher income
+s_001190,903,1702,2020-02-11 13:37:00,podcast_or_youtube,/compare,Debit (Prepaid),60,2.0,26200.0,59599,Credit $12k+ / higher income
+s_001191,903,1946,2020-02-18 14:57:00,search,/cards,Debit,5222,2.0,26200.0,59599,Credit $12k+ / higher income
+s_001192,903,1947,2020-02-01 13:44:00,podcast_or_youtube,/blog/credit-basics,Debit,14897,2.0,26200.0,59599,Credit $12k+ / higher income
+s_001193,903,1703,2020-02-28 12:40:00,search,/cards/rewards,Credit,10500,2.0,26200.0,59599,Credit $12k+ / higher income
+s_001194,861,1453,2020-02-11 15:58:00,social_media,/cards/rewards,Credit,10600,1.0,10600.0,41080,Credit <$12k / higher income
+s_001196,1140,660,2020-01-03 14:19:00,search,/cards,Debit,26275,1.0,17000.0,55351,Credit $12k+ / higher income
+s_001197,531,411,2020-01-13 09:57:00,social_media,/,Credit,6700,1.0,6700.0,29497,Credit <$12k / lower income
+s_001198,531,1948,2020-02-17 12:00:00,social_media,/compare,Credit,9600,2.0,16300.0,29497,Credit $12k+ / lower income
+s_001199,531,894,2020-01-14 08:01:00,search,/cards/rewards,Debit,16350,1.0,6700.0,29497,Credit <$12k / lower income
+s_001200,279,1704,2020-02-16 18:13:00,search,/,Credit,8500,1.0,8500.0,69572,Credit <$12k / higher income
+s_001201,279,1949,2020-02-21 10:24:00,other,/cards/rewards,Debit,29078,1.0,8500.0,69572,Credit <$12k / higher income
+s_001202,1458,895,2020-01-04 17:18:00,blog_or_review_site,/cards,Credit,8000,1.0,8000.0,35755,Credit <$12k / lower income
+s_001206,1857,896,2020-01-26 21:02:00,blog_or_review_site,/,Debit,49679,2.0,38400.0,97248,Credit $12k+ / higher income
+s_001207,1143,1705,2020-02-19 09:18:00,other,/blog/credit-basics,Debit,21147,0.0,0.0,62365,No credit card / higher income
+s_001208,1767,897,2020-01-18 19:53:00,other,/cards/rewards,Debit,23677,0.0,0.0,47622,No credit card / higher income
+s_001209,1767,898,2020-01-13 20:47:00,friend_or_family,/cards,Debit (Prepaid),69,0.0,0.0,47622,No credit card / higher income
+s_001210,1841,1706,2020-02-07 08:35:00,search,/blog/credit-basics,Debit,12461,1.0,11300.0,40381,Credit <$12k / higher income
+s_001212,1841,1950,2020-02-21 17:26:00,blog_or_review_site,/cards/rewards,Credit,11300,1.0,11300.0,40381,Credit <$12k / higher income
+s_001213,235,1951,2020-02-07 08:09:00,social_media,/cards/rewards,Debit,23069,1.0,25300.0,48676,Credit $12k+ / higher income
+s_001214,1982,1707,2020-02-24 08:42:00,search,/blog/credit-basics,Debit,24954,0.0,0.0,69412,No credit card / higher income
+s_001215,1423,899,2020-01-27 21:57:00,search,/compare,Credit,3400,1.0,3400.0,22844,Credit <$12k / lower income
+s_001216,500,900,2020-01-27 12:22:00,social_media,/blog/credit-basics,Debit,21955,0.0,0.0,31167,No credit card / lower income
+s_001217,500,901,2020-01-13 08:19:00,app_store,/,Debit,16319,0.0,0.0,31167,No credit card / lower income
+s_001218,500,661,2020-01-03 12:35:00,friend_or_family,/blog/credit-basics,Debit,14679,0.0,0.0,31167,No credit card / lower income
+s_001220,1850,1708,2020-02-21 17:50:00,search,/compare,Debit,8653,0.0,0.0,32998,No credit card / lower income
+s_001221,1808,1952,2020-02-17 16:54:00,social_media,/cards,Credit,4100,3.0,23400.0,35331,Credit $12k+ / lower income
+s_001222,1808,662,2020-01-12 19:36:00,app_store,/,Credit,10200,2.0,19300.0,35331,Credit $12k+ / lower income
+s_001223,1716,1953,2020-02-18 18:16:00,podcast_or_youtube,/apply,Credit,8400,1.0,8400.0,25654,Credit <$12k / lower income
+s_001224,516,1709,2020-02-06 13:25:00,search,/cards/rewards,Debit,11740,0.0,0.0,34542,No credit card / lower income
+s_001225,620,1710,2020-02-14 19:52:00,search,/compare,Debit,15927,0.0,0.0,33437,No credit card / lower income
+s_001228,1249,902,2020-01-18 14:49:00,search,/cards/rewards,Credit,8700,1.0,8700.0,40131,Credit <$12k / higher income
+s_001233,1632,1711,2020-02-17 18:27:00,social_media,/apply,Debit,2264,0.0,0.0,45292,No credit card / higher income
+s_001234,1632,903,2020-01-14 16:23:00,blog_or_review_site,/blog/credit-basics,Debit,15914,0.0,0.0,45292,No credit card / higher income
+s_001235,1632,1954,2020-02-18 21:46:00,search,/blog/credit-basics,Debit (Prepaid),58,0.0,0.0,45292,No credit card / higher income
+s_001236,1632,904,2020-01-23 10:09:00,social_media,/cards,Debit,22944,0.0,0.0,45292,No credit card / higher income
+s_001237,1224,905,2020-01-04 08:05:00,search,/compare,Credit,0,3.0,30500.0,53464,Credit $12k+ / higher income
+s_001238,1132,663,2020-01-26 14:20:00,social_media,/cards,Credit,9700,1.0,9700.0,41579,Credit <$12k / higher income
+s_001239,1132,1712,2020-02-10 22:12:00,search,/cards/rewards,Debit,23399,1.0,9700.0,41579,Credit <$12k / higher income
+s_001240,1556,1955,2020-02-12 12:18:00,blog_or_review_site,/compare,Credit,15300,2.0,26500.0,48277,Credit $12k+ / higher income
+s_001241,1556,412,2020-01-07 12:46:00,social_media,/compare,Credit,11200,1.0,11200.0,48277,Credit <$12k / higher income
+s_001242,1025,664,2020-01-04 10:17:00,search,/apply,Credit,7800,2.0,16300.0,33426,Credit $12k+ / lower income
+s_001243,1025,1713,2020-02-20 17:25:00,blog_or_review_site,/compare,Debit,13558,2.0,16300.0,33426,Credit $12k+ / lower income
+s_001244,1025,906,2020-01-18 21:10:00,blog_or_review_site,/compare,Credit,8500,2.0,16300.0,33426,Credit $12k+ / lower income
+s_001245,1025,1956,2020-02-03 21:22:00,blog_or_review_site,/apply,Debit,11237,2.0,16300.0,33426,Credit $12k+ / lower income
+s_001248,86,907,2020-01-22 11:04:00,friend_or_family,/blog/credit-basics,Debit,9043,0.0,0.0,23212,No credit card / lower income
+s_001249,344,1957,2020-02-21 08:32:00,blog_or_review_site,/apply,Debit,1663,0.0,0.0,49084,No credit card / higher income
+s_001250,344,665,2020-01-23 20:45:00,social_media,/compare,Debit,7283,0.0,0.0,49084,No credit card / higher income
+s_001251,344,666,2020-01-28 14:11:00,search,/,Debit,23750,0.0,0.0,49084,No credit card / higher income
+s_001252,1189,1958,2020-02-18 12:59:00,search,/compare,Credit,11800,3.0,35100.0,31582,Credit $12k+ / lower income
+s_001253,1254,1959,2020-02-25 13:15:00,search,/apply,Debit,20674,1.0,14000.0,34619,Credit $12k+ / lower income
+s_001254,212,908,2020-01-05 22:21:00,app_store,/blog/credit-basics,Debit (Prepaid),60,2.0,11100.0,28137,Credit <$12k / lower income
+s_001257,1118,667,2020-01-17 11:54:00,social_media,/blog/credit-basics,Credit,21100,2.0,38200.0,83104,Credit $12k+ / higher income
+s_001259,1118,1960,2020-02-23 17:51:00,search,/apply,Debit,66287,2.0,38200.0,83104,Credit $12k+ / higher income
+s_001261,1274,1714,2020-02-26 08:06:00,search,/cards/rewards,Debit,18019,1.0,10700.0,49464,Credit <$12k / higher income
+s_001262,337,668,2020-01-01 10:24:00,friend_or_family,/compare,Debit (Prepaid),86,0.0,0.0,46284,No credit card / higher income
+s_001265,907,909,2020-01-23 08:43:00,blog_or_review_site,/cards/rewards,Debit,19643,2.0,23500.0,62492,Credit $12k+ / higher income
+s_001266,1923,669,2020-01-26 13:53:00,social_media,/cards/rewards,Credit,7900,2.0,19300.0,35119,Credit $12k+ / lower income
+s_001267,1665,910,2020-01-21 20:51:00,search,/apply,Debit,31916,0.0,0.0,64585,No credit card / higher income
+s_001268,548,1961,2020-02-12 22:29:00,podcast_or_youtube,/compare,Credit,7800,1.0,7800.0,29996,Credit <$12k / lower income
+s_001269,548,1715,2020-02-08 13:00:00,friend_or_family,/cards,Debit (Prepaid),50,1.0,7800.0,29996,Credit <$12k / lower income
+s_001270,670,1716,2020-02-12 14:19:00,friend_or_family,/compare,Debit (Prepaid),57,0.0,0.0,24006,No credit card / lower income
+s_001271,670,911,2020-01-16 18:45:00,social_media,/apply,Debit,10705,0.0,0.0,24006,No credit card / lower income
+s_001273,1633,1717,2020-02-15 08:07:00,social_media,/,Debit (Prepaid),78,1.0,15000.0,42927,Credit $12k+ / higher income
+s_001274,1633,670,2020-01-11 19:11:00,friend_or_family,/compare,Debit,21982,1.0,15000.0,42927,Credit $12k+ / higher income
+s_001275,1593,671,2020-01-03 17:48:00,app_store,/apply,Debit,20278,1.0,9900.0,37122,Credit <$12k / lower income
+s_001276,1593,1718,2020-02-14 20:40:00,blog_or_review_site,/compare,Debit,13139,2.0,18800.0,37122,Credit $12k+ / lower income
+s_001277,1593,912,2020-01-26 18:16:00,search,/cards/rewards,Credit,9900,1.0,9900.0,37122,Credit <$12k / lower income
+s_001278,1593,1962,2020-02-12 21:50:00,search,/cards,Credit,8900,2.0,18800.0,37122,Credit $12k+ / lower income
+s_001279,720,1963,2020-02-21 12:33:00,search,/cards,Credit,2000,1.0,2000.0,19800,Credit <$12k / lower income
+s_001280,843,913,2020-01-06 13:30:00,social_media,/blog/credit-basics,Debit (Prepaid),57,1.0,6600.0,28325,Credit <$12k / lower income
+s_001283,1126,1964,2020-02-22 15:19:00,blog_or_review_site,/,Debit,20318,0.0,0.0,41940,No credit card / higher income
+s_001284,881,672,2020-01-27 13:36:00,friend_or_family,/cards/rewards,Debit,28163,1.0,22700.0,58433,Credit $12k+ / higher income
+s_001285,1333,673,2020-01-18 22:02:00,blog_or_review_site,/blog/credit-basics,Debit,28203,1.0,30200.0,71312,Credit $12k+ / higher income
+s_001286,1333,674,2020-01-18 20:16:00,friend_or_family,/cards/rewards,Credit,30200,1.0,30200.0,71312,Credit $12k+ / higher income
+s_001287,1333,1719,2020-02-27 21:12:00,blog_or_review_site,/apply,Debit,3565,1.0,30200.0,71312,Credit $12k+ / higher income
+s_001288,1333,675,2020-01-23 16:55:00,friend_or_family,/blog/credit-basics,Debit,3565,1.0,30200.0,71312,Credit $12k+ / higher income
+s_001290,151,676,2020-01-27 08:04:00,social_media,/cards,Credit,12800,1.0,12800.0,56921,Credit $12k+ / higher income
+s_001297,1801,677,2020-01-07 19:49:00,social_media,/blog/credit-basics,Debit,7284,0.0,0.0,31644,No credit card / lower income
+s_001299,1490,1965,2020-02-26 09:17:00,other,/,Debit,15742,1.0,11400.0,41839,Credit <$12k / higher income
+s_001300,1835,678,2020-01-27 21:49:00,blog_or_review_site,/cards,Debit,12191,0.0,0.0,33682,No credit card / lower income
+s_001302,638,914,2020-01-10 22:45:00,blog_or_review_site,/apply,Debit,19934,1.0,4800.0,16889,Credit <$12k / lower income
+s_001303,1366,1966,2020-02-01 20:27:00,search,/compare,Debit,8829,1.0,12400.0,40000,Credit $12k+ / lower income
+s_001305,611,679,2020-01-04 17:19:00,friend_or_family,/cards/rewards,Debit,10304,0.0,0.0,58721,No credit card / higher income
+s_001307,632,680,2020-01-19 16:32:00,friend_or_family,/,Debit,16557,0.0,0.0,29040,No credit card / lower income
+s_001308,1827,1967,2020-02-20 13:49:00,friend_or_family,/cards/rewards,Debit,23156,2.0,23900.0,46341,Credit $12k+ / higher income
+s_001310,70,681,2020-01-04 10:39:00,other,/blog/credit-basics,Debit,30637,0.0,0.0,63292,No credit card / higher income
+s_001312,672,915,2020-01-22 15:20:00,blog_or_review_site,/blog/credit-basics,Debit,12329,0.0,0.0,23967,No credit card / lower income
+s_001314,510,916,2020-01-19 10:26:00,friend_or_family,/cards/rewards,Credit,9200,1.0,9200.0,45973,Credit <$12k / higher income
+s_001315,510,917,2020-01-04 17:40:00,blog_or_review_site,/apply,Debit,14797,1.0,9200.0,45973,Credit <$12k / higher income
+s_001316,1410,1968,2020-02-14 17:52:00,blog_or_review_site,/cards,Debit,7846,0.0,0.0,42856,No credit card / higher income
+s_001317,574,1720,2020-02-03 13:49:00,friend_or_family,/,Credit,12500,3.0,31800.0,35635,Credit $12k+ / lower income
+s_001318,574,435,2020-01-06 15:03:00,search,/cards,Credit,10500,1.0,10500.0,35635,Credit <$12k / lower income
+s_001319,574,1721,2020-02-10 12:11:00,search,/apply,Debit (Prepaid),72,3.0,31800.0,35635,Credit $12k+ / lower income
+s_001320,574,1722,2020-02-23 17:47:00,social_media,/,Credit,8800,3.0,31800.0,35635,Credit $12k+ / lower income
+s_001321,30,1723,2020-02-10 18:18:00,friend_or_family,/apply,Debit,8998,0.0,0.0,38983,No credit card / lower income
+s_001322,1270,1429,2020-02-01 19:02:00,search,/cards,Credit,20400,1.0,20400.0,73117,Credit $12k+ / higher income
+s_001323,805,682,2020-01-17 10:13:00,social_media,/blog/credit-basics,Debit,11805,0.0,0.0,32192,No credit card / lower income
+s_001324,805,918,2020-01-13 08:40:00,social_media,/apply,Debit,17535,0.0,0.0,32192,No credit card / lower income
+s_001325,1042,1724,2020-02-22 20:26:00,podcast_or_youtube,/compare,Debit (Prepaid),95,0.0,0.0,45846,No credit card / higher income
+s_001326,830,683,2020-01-24 14:18:00,blog_or_review_site,/cards,Credit,19000,1.0,19000.0,67166,Credit $12k+ / higher income
+s_001328,1925,684,2020-01-08 18:36:00,search,/compare,Credit,1300,2.0,18800.0,60910,Credit $12k+ / higher income
+s_001329,1925,685,2020-01-11 13:12:00,blog_or_review_site,/cards/rewards,Credit,17500,2.0,18800.0,60910,Credit $12k+ / higher income
+s_001332,1690,1969,2020-02-27 14:11:00,social_media,/apply,Debit,14495,0.0,0.0,32281,No credit card / lower income
+s_001333,1690,686,2020-01-05 12:31:00,social_media,/cards,Debit,15906,0.0,0.0,32281,No credit card / lower income
+s_001334,911,687,2020-01-03 08:46:00,friend_or_family,/apply,Credit,8900,1.0,8900.0,29562,Credit <$12k / lower income
+s_001336,101,919,2020-01-11 08:08:00,app_store,/compare,Credit,5300,1.0,5300.0,30778,Credit <$12k / lower income
+s_001338,481,920,2020-01-06 15:27:00,app_store,/cards,Credit,17600,1.0,17600.0,82972,Credit $12k+ / higher income
+s_001339,978,688,2020-01-15 11:53:00,social_media,/cards,Debit,16558,0.0,0.0,56280,No credit card / higher income
+s_001340,1550,689,2020-01-20 13:11:00,social_media,/,Debit,44717,0.0,0.0,50086,No credit card / higher income
+s_001341,1550,1725,2020-02-11 16:30:00,friend_or_family,/,Credit,13700,1.0,13700.0,50086,Credit $12k+ / higher income
+s_001342,1550,690,2020-01-27 16:47:00,blog_or_review_site,/apply,Debit,14332,0.0,0.0,50086,No credit card / higher income
+s_001343,1162,1970,2020-02-28 22:42:00,search,/cards,Debit,15695,1.0,13700.0,38892,Credit $12k+ / lower income
+s_001344,1162,1454,2020-02-01 17:49:00,app_store,/apply,Credit,13700,1.0,13700.0,38892,Credit $12k+ / lower income
+s_001346,315,1726,2020-02-16 14:19:00,blog_or_review_site,/compare,Debit,16218,0.0,0.0,42379,No credit card / higher income
+s_001347,836,1727,2020-02-04 13:31:00,search,/,Debit,18261,0.0,0.0,32165,No credit card / lower income
+s_001348,155,413,2020-01-11 22:40:00,search,/cards,Credit,6500,2.0,14300.0,9678,Credit $12k+ / lower income
+s_001349,1761,691,2020-01-12 09:00:00,social_media,/compare,Debit,17963,0.0,0.0,56168,No credit card / higher income
+s_001350,1761,1971,2020-02-08 22:22:00,social_media,/cards,Credit,12200,1.0,12200.0,56168,Credit $12k+ / higher income
+s_001351,1761,1728,2020-02-23 21:41:00,social_media,/cards/rewards,Debit,1996,1.0,12200.0,56168,Credit $12k+ / higher income
+s_001352,215,1729,2020-02-28 11:00:00,search,/,Debit,19998,1.0,15600.0,45313,Credit $12k+ / higher income
+s_001353,215,1430,2020-02-06 11:52:00,other,/apply,Credit,15600,1.0,15600.0,45313,Credit $12k+ / higher income
+s_001354,862,1455,2020-02-06 08:54:00,search,/,Credit,12900,2.0,16700.0,42883,Credit $12k+ / higher income
+s_001355,862,921,2020-01-16 14:07:00,social_media,/,Debit,6556,1.0,3800.0,42883,Credit <$12k / higher income
+s_001357,1698,922,2020-01-09 19:42:00,search,/blog/credit-basics,Credit,15800,2.0,29200.0,67976,Credit $12k+ / higher income
+s_001358,1316,436,2020-01-07 19:31:00,social_media,/cards/rewards,Credit,8700,2.0,13400.0,33266,Credit $12k+ / lower income
+s_001359,1316,692,2020-01-28 18:41:00,search,/,Debit,12088,2.0,13400.0,33266,Credit $12k+ / lower income
+s_001360,1316,1972,2020-02-07 20:04:00,blog_or_review_site,/,Debit,11983,2.0,13400.0,33266,Credit $12k+ / lower income
+s_001361,1316,1730,2020-02-03 12:20:00,search,/apply,Debit,11557,2.0,13400.0,33266,Credit $12k+ / lower income
+s_001362,1831,693,2020-01-20 21:18:00,blog_or_review_site,/compare,Debit,12152,1.0,11100.0,39520,Credit <$12k / lower income
+s_001363,1831,437,2020-01-15 10:13:00,social_media,/blog/credit-basics,Credit,11100,1.0,11100.0,39520,Credit <$12k / lower income
+s_001364,231,414,2020-01-27 10:56:00,friend_or_family,/cards,Credit,4700,2.0,13600.0,36270,Credit $12k+ / lower income
+s_001365,910,1431,2020-02-25 21:43:00,social_media,/cards/rewards,Credit,8900,1.0,8900.0,76820,Credit <$12k / higher income
+s_001367,1400,923,2020-01-28 13:57:00,search,/,Credit,6900,2.0,13000.0,25434,Credit $12k+ / lower income
+s_001368,1400,415,2020-01-12 16:33:00,social_media,/blog/credit-basics,Credit,6100,2.0,13000.0,25434,Credit $12k+ / lower income
+s_001369,1573,1432,2020-02-21 15:22:00,search,/compare,Credit,3300,1.0,3300.0,17775,Credit <$12k / lower income
+s_001371,1054,924,2020-01-13 14:11:00,social_media,/cards/rewards,Credit,9000,1.0,9000.0,46077,Credit <$12k / higher income
+s_001372,333,1731,2020-02-05 15:49:00,search,/cards,Debit,14304,0.0,0.0,47504,No credit card / higher income
+s_001373,390,694,2020-01-16 20:08:00,other,/,Credit,18500,1.0,18500.0,92046,Credit $12k+ / higher income
+s_001374,390,695,2020-01-27 14:46:00,friend_or_family,/,Debit (Prepaid),57,1.0,18500.0,92046,Credit $12k+ / higher income
+s_001378,1293,696,2020-01-12 19:53:00,blog_or_review_site,/compare,Debit,23902,0.0,0.0,49374,No credit card / higher income
+s_001379,1597,925,2020-01-15 09:55:00,search,/cards/rewards,Debit,38025,1.0,22900.0,71750,Credit $12k+ / higher income
+s_001380,1597,926,2020-01-17 21:27:00,search,/compare,Credit,22900,1.0,22900.0,71750,Credit $12k+ / higher income
+s_001381,1597,697,2020-01-15 13:24:00,other,/apply,Debit,24682,1.0,22900.0,71750,Credit $12k+ / higher income
+s_001382,202,927,2020-01-24 10:52:00,search,/blog/credit-basics,Credit,6200,1.0,6200.0,65082,Credit <$12k / higher income
+s_001383,493,1973,2020-02-14 14:05:00,social_media,/cards,Debit,9241,0.0,0.0,29047,No credit card / lower income
+s_001384,289,1974,2020-02-17 13:26:00,search,/blog/credit-basics,Credit,5000,1.0,5000.0,22876,Credit <$12k / lower income
+s_001385,289,698,2020-01-16 22:30:00,search,/blog/credit-basics,Debit,7640,0.0,0.0,22876,No credit card / lower income
+s_001388,618,699,2020-01-22 16:51:00,search,/cards,Debit (Prepaid),71,0.0,0.0,27795,No credit card / lower income
+s_001390,1264,1732,2020-02-22 20:01:00,social_media,/,Debit,14393,0.0,0.0,30737,No credit card / lower income
+s_001391,18,1975,2020-02-15 19:06:00,search,/apply,Debit (Prepaid),62,0.0,0.0,64340,No credit card / higher income
+s_001393,1320,1976,2020-02-05 10:45:00,other,/blog/credit-basics,Debit,10693,0.0,0.0,26513,No credit card / lower income
+s_001394,1275,928,2020-01-22 18:03:00,search,/compare,Credit,2000,1.0,2000.0,23238,Credit <$12k / lower income
+s_001395,1275,1977,2020-02-06 09:10:00,search,/blog/credit-basics,Debit,10800,1.0,2000.0,23238,Credit <$12k / lower income
+s_001397,1099,1733,2020-02-08 15:36:00,other,/apply,Credit,3500,1.0,3500.0,41214,Credit <$12k / higher income
+s_001399,1418,1978,2020-02-08 17:50:00,search,/apply,Credit,9100,1.0,9100.0,26939,Credit <$12k / lower income
+s_001400,6,1734,2020-02-05 09:04:00,app_store,/blog/credit-basics,Credit,14600,1.0,14600.0,55854,Credit $12k+ / higher income
+s_001405,1553,1433,2020-02-26 21:24:00,friend_or_family,/cards/rewards,Credit,15500,2.0,34700.0,86042,Credit $12k+ / higher income
+s_001406,1553,929,2020-01-18 13:42:00,other,/compare,Credit,19200,1.0,19200.0,86042,Credit $12k+ / higher income
+s_001407,532,930,2020-01-26 20:31:00,search,/cards/rewards,Debit,16610,0.0,0.0,48484,No credit card / higher income
+s_001408,532,931,2020-01-06 14:46:00,search,/blog/credit-basics,Debit,15261,0.0,0.0,48484,No credit card / higher income
+s_001409,1092,1456,2020-02-11 18:15:00,search,/cards/rewards,Credit,9600,1.0,9600.0,47814,Credit <$12k / higher income
+s_001410,1819,1979,2020-02-05 12:32:00,search,/compare,Debit,9238,0.0,0.0,35559,No credit card / lower income
+s_001411,1819,1735,2020-02-18 18:06:00,social_media,/,Debit,15474,0.0,0.0,35559,No credit card / lower income
+s_001413,1325,1434,2020-02-03 08:49:00,search,/,Credit,89900,2.0,134000.0,307018,Credit $12k+ / higher income
+s_001414,1325,1435,2020-02-27 09:46:00,social_media,/compare,Credit,44100,2.0,134000.0,307018,Credit $12k+ / higher income
+s_001415,687,1980,2020-02-25 17:26:00,social_media,/cards/rewards,Debit,19446,0.0,0.0,36264,No credit card / lower income
+s_001416,1542,932,2020-01-04 11:18:00,search,/blog/credit-basics,Debit,20971,0.0,0.0,55565,No credit card / higher income
+s_001417,36,1736,2020-02-27 16:47:00,friend_or_family,/compare,Debit,8723,0.0,0.0,50242,No credit card / higher income
+s_001418,555,700,2020-01-19 17:08:00,social_media,/cards,Debit (Prepaid),26,0.0,0.0,43724,No credit card / higher income
+s_001419,136,1981,2020-02-16 15:58:00,search,/apply,Debit,24605,0.0,0.0,64504,No credit card / higher income
+s_001420,136,701,2020-01-02 12:26:00,search,/blog/credit-basics,Debit,23529,0.0,0.0,64504,No credit card / higher income
+s_001421,136,1982,2020-02-05 22:29:00,other,/apply,Debit,20780,0.0,0.0,64504,No credit card / higher income
+s_001426,998,702,2020-01-01 08:12:00,search,/cards,Credit,9400,1.0,9400.0,28006,Credit <$12k / lower income
+s_001427,998,703,2020-01-28 16:16:00,search,/cards/rewards,Debit,11364,1.0,9400.0,28006,Credit <$12k / lower income
+s_001428,1743,933,2020-01-24 10:41:00,social_media,/blog/credit-basics,Debit (Prepaid),60,0.0,0.0,52315,No credit card / higher income
+s_001429,1743,1983,2020-02-04 11:44:00,social_media,/blog/credit-basics,Debit,15234,0.0,0.0,52315,No credit card / higher income
+s_001430,1743,934,2020-01-25 22:33:00,search,/blog/credit-basics,Debit,30870,0.0,0.0,52315,No credit card / higher income
+s_001431,1743,935,2020-01-02 17:30:00,search,/blog/credit-basics,Debit,30155,0.0,0.0,52315,No credit card / higher income
+s_001433,1708,1737,2020-02-04 20:43:00,search,/,Debit,23397,1.0,9100.0,45254,Credit <$12k / higher income
+s_001434,1708,704,2020-01-16 12:28:00,search,/,Credit,9100,1.0,9100.0,45254,Credit <$12k / higher income
+s_001435,799,936,2020-01-17 22:17:00,search,/apply,Credit,6600,2.0,13600.0,31525,Credit $12k+ / lower income
+s_001436,144,1436,2020-02-05 15:04:00,social_media,/apply,Credit,0,2.0,11600.0,32330,Credit <$12k / lower income
+s_001438,781,1984,2020-02-02 15:56:00,blog_or_review_site,/compare,Debit,3356,1.0,4300.0,33993,Credit <$12k / lower income
+s_001439,781,937,2020-01-14 08:10:00,social_media,/cards,Debit,14679,1.0,4300.0,33993,Credit <$12k / lower income
+s_001441,1681,938,2020-01-04 17:21:00,search,/blog/credit-basics,Credit,18800,1.0,18800.0,65058,Credit $12k+ / higher income
+s_001443,114,939,2020-01-08 09:59:00,blog_or_review_site,/,Debit,12173,0.0,0.0,34441,No credit card / lower income
+s_001444,271,1738,2020-02-25 14:25:00,other,/compare,Debit,2105,0.0,0.0,42101,No credit card / higher income
+s_001445,1107,1985,2020-02-12 10:11:00,search,/,Debit,11281,1.0,10300.0,40516,Credit <$12k / higher income
+s_001447,517,1739,2020-02-20 16:28:00,search,/compare,Debit,8002,1.0,5000.0,24009,Credit <$12k / lower income
+s_001449,968,705,2020-01-24 15:09:00,social_media,/cards,Credit,700,1.0,700.0,29475,Credit <$12k / lower income
+s_001451,1365,1986,2020-02-27 20:22:00,social_media,/apply,Credit,7500,1.0,7500.0,54547,Credit <$12k / higher income
+s_001453,612,706,2020-01-04 18:53:00,search,/apply,Debit,17252,2.0,18600.0,16296,Credit $12k+ / lower income
+s_001456,536,1437,2020-02-16 20:24:00,blog_or_review_site,/cards,Credit,8300,2.0,15300.0,31077,Credit $12k+ / lower income
+s_001457,536,940,2020-01-05 11:21:00,social_media,/compare,Credit,7000,1.0,7000.0,31077,Credit <$12k / lower income
+s_001458,536,707,2020-01-12 18:01:00,podcast_or_youtube,/blog/credit-basics,Debit (Prepaid),80,1.0,7000.0,31077,Credit <$12k / lower income
+s_001459,536,941,2020-01-12 09:03:00,blog_or_review_site,/cards,Debit,3678,1.0,7000.0,31077,Credit <$12k / lower income
+s_001460,536,708,2020-01-16 08:02:00,blog_or_review_site,/apply,Debit,5826,1.0,7000.0,31077,Credit <$12k / lower income
+s_001461,523,1438,2020-02-15 19:58:00,podcast_or_youtube,/cards,Credit,8200,3.0,29500.0,38487,Credit $12k+ / lower income
+s_001463,523,709,2020-01-04 18:45:00,social_media,/blog/credit-basics,Credit,8300,2.0,21300.0,38487,Credit $12k+ / lower income
+s_001465,928,710,2020-01-01 08:45:00,social_media,/apply,Credit,8000,3.0,24000.0,32347,Credit $12k+ / lower income
+s_001466,495,1740,2020-02-06 21:56:00,social_media,/blog/credit-basics,Debit,16747,1.0,11500.0,38028,Credit <$12k / lower income
+s_001467,166,1741,2020-02-21 18:20:00,blog_or_review_site,/apply,Debit,11039,1.0,16100.0,25567,Credit $12k+ / lower income
+s_001468,1962,711,2020-01-28 16:50:00,blog_or_review_site,/compare,Debit,45373,1.0,21000.0,92375,Credit $12k+ / higher income
+s_001470,167,712,2020-01-20 08:48:00,search,/cards/rewards,Credit,10400,2.0,22300.0,38036,Credit $12k+ / lower income
+s_001471,167,1742,2020-02-22 20:16:00,friend_or_family,/,Credit,11400,3.0,33700.0,38036,Credit $12k+ / lower income
+s_001472,167,942,2020-01-24 22:09:00,search,/,Credit,11900,2.0,22300.0,38036,Credit $12k+ / lower income
+s_001473,1496,1987,2020-02-15 12:21:00,podcast_or_youtube,/,Debit,29065,0.0,0.0,48747,No credit card / higher income
+s_001474,1496,713,2020-01-02 13:43:00,social_media,/cards/rewards,Debit (Prepaid),55,0.0,0.0,48747,No credit card / higher income
+s_001475,1496,943,2020-01-01 16:24:00,search,/apply,Debit (Prepaid),89,0.0,0.0,48747,No credit card / higher income
+s_001476,853,1743,2020-02-26 11:04:00,search,/apply,Credit,22800,1.0,22800.0,75070,Credit $12k+ / higher income
+s_001477,769,1744,2020-02-12 17:31:00,blog_or_review_site,/cards,Debit,17633,1.0,9500.0,39974,Credit <$12k / lower income
+s_001478,1624,714,2020-01-02 08:01:00,search,/cards/rewards,Debit,13558,0.0,0.0,42200,No credit card / higher income
+s_001479,1624,1988,2020-02-07 20:08:00,blog_or_review_site,/,Credit,12600,1.0,12600.0,42200,Credit $12k+ / higher income
+s_001480,958,1745,2020-02-22 11:14:00,search,/,Debit,10742,1.0,8100.0,33459,Credit <$12k / lower income
+s_001481,958,944,2020-01-18 17:39:00,other,/,Credit,8100,1.0,8100.0,33459,Credit <$12k / lower income
+s_001482,958,945,2020-01-27 10:00:00,search,/blog/credit-basics,Debit,12240,1.0,8100.0,33459,Credit <$12k / lower income
+s_001487,499,715,2020-01-24 13:18:00,search,/blog/credit-basics,Debit,14146,0.0,0.0,37769,No credit card / lower income
+s_001488,499,716,2020-01-25 12:07:00,blog_or_review_site,/cards/rewards,Debit,22392,0.0,0.0,37769,No credit card / lower income
+s_001489,631,717,2020-01-01 18:35:00,social_media,/blog/credit-basics,Credit,7200,3.0,24300.0,33811,Credit $12k+ / lower income
+s_001490,1070,718,2020-01-09 11:01:00,search,/cards/rewards,Debit,24334,2.0,22700.0,51528,Credit $12k+ / higher income
+s_001491,738,1989,2020-02-14 17:34:00,social_media,/cards,Debit,42253,2.0,38900.0,63974,Credit $12k+ / higher income
+s_001492,1375,1990,2020-02-08 14:31:00,other,/apply,Credit,19800,1.0,19800.0,71590,Credit $12k+ / higher income
+s_001493,1375,719,2020-01-23 11:33:00,search,/,Debit,18364,0.0,0.0,71590,No credit card / higher income
+s_001494,459,1991,2020-02-26 21:38:00,social_media,/cards,Debit,13496,3.0,19800.0,25257,Credit $12k+ / lower income
+s_001496,281,1457,2020-02-20 17:26:00,search,/cards,Credit,10000,2.0,15700.0,38549,Credit $12k+ / lower income
+s_001497,498,946,2020-01-01 14:46:00,search,/apply,Debit,9845,0.0,0.0,46580,No credit card / higher income
+s_001498,498,720,2020-01-19 13:17:00,social_media,/,Debit,13597,0.0,0.0,46580,No credit card / higher income
+s_001499,897,721,2020-01-16 11:35:00,app_store,/apply,Credit,10200,1.0,10200.0,26996,Credit <$12k / lower income
+s_001501,262,1992,2020-02-06 12:09:00,blog_or_review_site,/cards/rewards,Debit,9765,1.0,5900.0,32635,Credit <$12k / lower income
+s_001502,262,722,2020-01-26 12:20:00,blog_or_review_site,/apply,Credit,5900,1.0,5900.0,32635,Credit <$12k / lower income
+s_001503,262,1746,2020-02-03 20:48:00,app_store,/blog/credit-basics,Debit (Prepaid),62,1.0,5900.0,32635,Credit <$12k / lower income
+s_001504,1781,723,2020-01-14 21:16:00,social_media,/cards,Debit,10673,0.0,0.0,36050,No credit card / lower income
+s_001505,160,1747,2020-02-20 15:14:00,blog_or_review_site,/compare,Debit,12282,0.0,0.0,37965,No credit card / lower income
+s_001507,1655,947,2020-01-02 10:41:00,blog_or_review_site,/blog/credit-basics,Credit,5500,2.0,13900.0,34856,Credit $12k+ / lower income
+s_001508,1329,724,2020-01-19 18:08:00,friend_or_family,/apply,Debit (Prepaid),69,0.0,0.0,28011,No credit card / lower income
+s_001509,1329,725,2020-01-05 19:02:00,search,/blog/credit-basics,Debit,10964,0.0,0.0,28011,No credit card / lower income
+s_001510,1329,1748,2020-02-04 19:27:00,blog_or_review_site,/apply,Debit,8651,0.0,0.0,28011,No credit card / lower income
+s_001511,1220,948,2020-01-24 08:30:00,blog_or_review_site,/blog/credit-basics,Debit,21782,0.0,0.0,34852,No credit card / lower income
+s_001512,833,949,2020-01-18 21:09:00,social_media,/,Debit,16736,0.0,0.0,44501,No credit card / higher income
+s_001513,833,1749,2020-02-05 17:51:00,search,/apply,Debit,16986,0.0,0.0,44501,No credit card / higher income
+s_001514,208,1750,2020-02-26 11:48:00,search,/,Debit,31164,1.0,13900.0,67747,Credit $12k+ / higher income
+s_001515,1356,1751,2020-02-19 10:25:00,blog_or_review_site,/,Debit (Prepaid),57,3.0,26400.0,26676,Credit $12k+ / lower income
+s_001517,1790,726,2020-01-02 09:40:00,social_media,/cards,Debit (Prepaid),73,0.0,0.0,113797,No credit card / higher income
+s_001518,1999,1752,2020-02-04 14:01:00,blog_or_review_site,/apply,Debit,14895,1.0,7100.0,34134,Credit <$12k / lower income
+s_001519,1999,1993,2020-02-27 18:19:00,social_media,/apply,Credit,7100,1.0,7100.0,34134,Credit <$12k / lower income
+s_001520,614,1753,2020-02-27 08:30:00,other,/compare,Debit,12829,2.0,26400.0,16430,Credit $12k+ / lower income
+s_001521,614,416,2020-01-12 22:26:00,blog_or_review_site,/apply,Credit,13700,2.0,26400.0,16430,Credit $12k+ / lower income
+s_001522,175,950,2020-01-07 19:48:00,friend_or_family,/cards,Debit (Prepaid),37,0.0,0.0,54091,No credit card / higher income
+s_001523,331,1994,2020-02-21 11:20:00,podcast_or_youtube,/blog/credit-basics,Credit,6300,1.0,6300.0,29907,Credit <$12k / lower income
+s_001524,8,417,2020-01-15 09:10:00,search,/cards,Credit,12900,2.0,25700.0,38497,Credit $12k+ / lower income
+s_001525,8,418,2020-01-12 13:55:00,social_media,/cards,Credit,12800,2.0,25700.0,38497,Credit $12k+ / lower income
+s_001526,1354,727,2020-01-08 14:00:00,social_media,/apply,Debit,3861,0.0,0.0,33336,No credit card / lower income
+s_001527,1354,1995,2020-02-23 21:53:00,search,/apply,Debit,16452,0.0,0.0,33336,No credit card / lower income
+s_001529,902,728,2020-01-12 17:42:00,other,/compare,Debit,14139,0.0,0.0,45025,No credit card / higher income
+s_001530,1318,951,2020-01-03 15:56:00,search,/compare,Credit,10600,1.0,10600.0,45664,Credit <$12k / higher income
+s_001531,1318,729,2020-01-02 21:50:00,blog_or_review_site,/blog/credit-basics,Debit,22844,1.0,10600.0,45664,Credit <$12k / higher income
+s_001532,1318,730,2020-01-15 17:50:00,social_media,/cards,Debit,15212,1.0,10600.0,45664,Credit <$12k / higher income
+s_001533,1318,1458,2020-02-17 18:56:00,search,/blog/credit-basics,Credit,17300,2.0,27900.0,45664,Credit $12k+ / higher income
+s_001534,1545,731,2020-01-27 15:40:00,app_store,/,Debit,13088,1.0,5700.0,30882,Credit <$12k / lower income
+s_001535,1545,419,2020-01-03 15:47:00,search,/cards/rewards,Credit,5700,1.0,5700.0,30882,Credit <$12k / lower income
+s_001536,1545,1754,2020-02-24 21:48:00,social_media,/apply,Debit,19294,1.0,5700.0,30882,Credit <$12k / lower income
+s_001537,1001,732,2020-01-20 21:49:00,social_media,/,Debit,8876,0.0,0.0,36283,No credit card / lower income
+s_001538,625,733,2020-01-09 22:48:00,social_media,/cards/rewards,Debit,17063,0.0,0.0,47350,No credit card / higher income
+s_001540,537,1755,2020-02-23 08:08:00,search,/,Debit,36967,0.0,0.0,64428,No credit card / higher income
+s_001541,537,1756,2020-02-02 11:56:00,search,/compare,Debit,28458,0.0,0.0,64428,No credit card / higher income
+s_001542,121,420,2020-01-25 09:54:00,blog_or_review_site,/cards,Credit,10700,2.0,20700.0,45419,Credit $12k+ / higher income
+s_001543,1773,1996,2020-02-13 09:17:00,other,/apply,Debit (Prepaid),82,0.0,0.0,53873,No credit card / higher income
+s_001544,1339,1997,2020-02-26 11:12:00,blog_or_review_site,/,Credit,16700,1.0,16700.0,64429,Credit $12k+ / higher income
+s_001545,1339,734,2020-01-24 18:41:00,other,/apply,Debit,20534,0.0,0.0,64429,No credit card / higher income
+s_001546,1894,735,2020-01-16 21:31:00,search,/cards,Debit,24939,1.0,15200.0,47602,Credit $12k+ / higher income
+s_001547,1894,736,2020-01-21 20:58:00,social_media,/cards,Credit,15200,1.0,15200.0,47602,Credit $12k+ / higher income
+s_001548,77,438,2020-01-03 12:56:00,blog_or_review_site,/compare,Credit,9300,2.0,23000.0,51110,Credit $12k+ / higher income
+s_001550,628,1757,2020-02-05 09:56:00,friend_or_family,/compare,Debit,44912,0.0,0.0,107075,No credit card / higher income
+s_001551,971,952,2020-01-13 20:48:00,friend_or_family,/compare,Credit,23400,1.0,23400.0,40572,Credit $12k+ / higher income
+s_001552,971,953,2020-01-10 19:05:00,search,/cards,Debit,12039,1.0,23400.0,40572,Credit $12k+ / higher income
+s_001553,971,1998,2020-02-01 20:10:00,friend_or_family,/apply,Debit,10971,1.0,23400.0,40572,Credit $12k+ / higher income
+s_001554,971,737,2020-01-05 16:05:00,friend_or_family,/cards/rewards,Debit,14570,1.0,23400.0,40572,Credit $12k+ / higher income
+s_001555,971,954,2020-01-16 10:29:00,search,/apply,Debit,12195,1.0,23400.0,40572,Credit $12k+ / higher income
+s_001556,111,1758,2020-02-01 09:31:00,blog_or_review_site,/compare,Debit,9061,1.0,6900.0,30004,Credit <$12k / lower income
+s_001557,111,1439,2020-02-16 09:06:00,podcast_or_youtube,/cards,Credit,6900,1.0,6900.0,30004,Credit <$12k / lower income
+s_001558,312,738,2020-01-22 11:25:00,social_media,/cards/rewards,Debit,26107,0.0,0.0,47672,No credit card / higher income
+s_001559,312,955,2020-01-10 08:52:00,social_media,/cards,Debit (Prepaid),76,0.0,0.0,47672,No credit card / higher income
+s_001560,312,1759,2020-02-13 22:25:00,social_media,/cards/rewards,Debit,19613,0.0,0.0,47672,No credit card / higher income
+s_001561,312,956,2020-01-01 13:13:00,friend_or_family,/blog/credit-basics,Debit,17569,0.0,0.0,47672,No credit card / higher income
+s_001562,1627,1999,2020-02-24 21:04:00,search,/blog/credit-basics,Debit,10099,0.0,0.0,37568,No credit card / lower income
+s_001563,174,1760,2020-02-05 08:40:00,search,/compare,Debit,18748,0.0,0.0,44644,No credit card / higher income
+s_001564,174,1761,2020-02-15 09:46:00,search,/compare,Debit,13733,0.0,0.0,44644,No credit card / higher income
+s_001565,174,1762,2020-02-26 11:46:00,search,/cards/rewards,Debit,20623,0.0,0.0,44644,No credit card / higher income
+s_001566,420,739,2020-01-02 14:01:00,other,/compare,Debit (Prepaid),39,0.0,0.0,33140,No credit card / lower income
+s_001569,1805,1763,2020-02-22 09:17:00,social_media,/cards/rewards,Credit,8500,2.0,12300.0,26613,Credit $12k+ / lower income
+s_001570,1735,2000,2020-02-28 10:43:00,other,/blog/credit-basics,Credit,15100,4.0,48300.0,36583,Credit $12k+ / lower income
+s_001572,1278,740,2020-01-04 18:54:00,search,/cards,Debit (Prepaid),56,0.0,0.0,28417,No credit card / lower income
+s_001573,1278,1764,2020-02-15 20:02:00,app_store,/cards/rewards,Debit,21099,0.0,0.0,28417,No credit card / lower income
+s_001574,1278,741,2020-01-04 09:37:00,blog_or_review_site,/,Debit,9316,0.0,0.0,28417,No credit card / lower income
+s_001578,1380,742,2020-01-08 08:37:00,friend_or_family,/cards,Debit,21244,0.0,0.0,42444,No credit card / higher income
+s_001579,378,2001,2020-02-20 21:54:00,friend_or_family,/blog/credit-basics,Debit (Prepaid),61,0.0,0.0,38241,No credit card / lower income
+s_001583,588,957,2020-01-18 15:41:00,search,/compare,Debit,21787,1.0,12000.0,47109,Credit $12k+ / higher income
+s_001584,588,439,2020-01-04 21:28:00,social_media,/compare,Credit,12000,1.0,12000.0,47109,Credit $12k+ / higher income
+s_001585,588,1765,2020-02-07 11:30:00,friend_or_family,/cards,Debit,26265,1.0,12000.0,47109,Credit $12k+ / higher income
+s_001587,1110,743,2020-01-23 20:30:00,search,/,Debit,28074,1.0,14400.0,65909,Credit $12k+ / higher income

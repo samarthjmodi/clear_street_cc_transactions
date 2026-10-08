@@ -1,0 +1,98 @@
+{
+  "total_platform_conv_2020": 1350.6299999999999,
+  "signups_2020": 1178,
+  "new_customers_2020": 385,
+  "new_customers_2016_19": 56,
+  "segment_value_3yr": {
+    "with_data": {
+      "Premium credit": 2759.5445288,
+      "Core credit": 1600.8413657142855,
+      "Debit": 792.6865035569105,
+      "Prepaid": 329.6891678571429
+    },
+    "missing_as_zero": {
+      "Premium credit": 1642.5860290476194,
+      "Core credit": 730.8188843478262,
+      "Debit": 436.2435791387025,
+      "Prepaid": 164.84458392857144
+    }
+  },
+  "all_new_customers_expected_3yr": 1340.8979829030611,
+  "affiliate": {
+    "touches_total_in_file": 319,
+    "touches_linked_to_customer": 319,
+    "touches_by_year": {
+      "2016": 13,
+      "2017": 11,
+      "2018": 25,
+      "2019": 108,
+      "2020": 162
+    },
+    "signups_touched_2020": {
+      "acquisition": 112,
+      "existing_customer": 123,
+      "new_customer_extra_card": 10
+    },
+    "new_customers_touched_all": 125,
+    "new_customers_not_touched": 316,
+    "segment_mix_touched_vs_not": {
+      "false": {
+        "Core credit": 0.222,
+        "Debit": 0.481,
+        "Premium credit": 0.218,
+        "Prepaid": 0.079
+      },
+      "true": {
+        "Core credit": 0.152,
+        "Debit": 0.504,
+        "Premium credit": 0.216,
+        "Prepaid": 0.128
+      }
+    },
+    "expected_3yr_touched": 1281.1037170877687,
+    "expected_3yr_not_touched": 1364.5507779249333,
+    "campaign_touches": {
+      "partner_blog": 125,
+      "comparison_site": 100,
+      "cashback_portal": 94
+    },
+    "next_touch_after_affiliate": {
+      "paid_search_brand": 97,
+      "direct": 76,
+      "paid_social_meta": 37,
+      "organic_search": 35,
+      "paid_search_nonbrand": 16,
+      "microsoft_ads": 13,
+      "affiliate": 8,
+      "paid_social_reddit": 5,
+      "apple_search_ads": 3,
+      "email_lifecycle": 3,
+      "referral": 1
+    },
+    "max_commission_per_signup_breakeven_3yr_revenue_2020": 585.6474135258371,
+    "linear_new_customers_2020": 30.94622322122322,
+    "last_touch_signups_2020": 21,
+    "breakeven_commission_per_touched_signup_linear": 161.81763917770158,
+    "touched_signups_by_campaign_2020": {
+      "cashback_portal": {
+        "acquisition": 36,
+        "existing_customer": 36,
+        "new_customer_extra_card": 3
+      },
+      "comparison_site": {
+        "acquisition": 35,
+        "existing_customer": 45,
+        "new_customer_extra_card": 4
+      },
+      "partner_blog": {
+        "acquisition": 47,
+        "existing_customer": 45,
+        "new_customer_extra_card": 3
+      }
+    }
+  },
+  "self_reported_app_store": {
+    "signups": 63,
+    "with_apple_touch": 48
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "users": {
+    "rows": 2000,
+    "id_unique": true,
+    "nulls": {},
+    "age_range": [
+      18,
+      101
+    ],
+    "credit_score_range": [
+      480,
+      850
+    ],
+    "zero_debt": 102,
+    "as_of_month_best": [
+      "2020-02"
+    ],
+    "as_of_month_share_matching": 1.0,
+    "yearly_over_per_capita_income": {
+      "median": 2.038930346588743,
+      "share_within_1pct_of_median": 0.845
+    },
+    "num_credit_cards_equals_credit_cards_in_cards_table": 0.1005,
+    "num_credit_cards_equals_all_cards_in_cards_table": 1.0,
+    "geocoded_outside_us": [
+      {
+        "client_id": 1932,
+        "latitude": 32.59,
+        "longitude": -116.58,
+        "geocoded_state": "Baja California",
+        "state": NaN
+      }
+    ],
+    "states": 51,
+    "geocoded_state_equals_main_in_person_merchant_state": 0.9958982772764561,
+    "customers_with_in_person_merchant_state": 1219
+  },
+  "cards": {
+    "rows": 6146,
+    "id_unique": true,
+    "card_number_unique": true,
+    "owner_not_in_users": 0,
+    "users_without_cards": 0,
+    "credit_limit_zero_by_type": {
+      "Credit": 26,
+      "Debit": 3,
+      "Debit (Prepaid)": 2
+    },
+    "opened_after_oct_2019": 1189,
+    "expired_before_window": 980,
+    "open_in_window": 3977,
+    "expired_before_window_last_txn_months_before_expiry": {
+      "cards_with_transactions": 617,
+      "median": 0.0,
+      "share_within_2_months": 0.9773095623987034
+    },
+    "open_range": [
+      "01/1991",
+      "02/2020"
+    ]
+  },
+  "transactions": {
+    "rows": 13305915,
+    "unknown_card": 0,
+    "unknown_client": 0,
+    "client_is_not_card_owner": 0,
+    "before_card_open_month": 309,
+    "after_card_expiry_month": 83,
+    "amount_unparsed": 0,
+    "amount_negative": 660049,
+    "amount_zero": 10639,
+    "with_error": 211393,
+    "negative_with_error": 9543,
+    "mcc_not_in_codes": 0,
+    "duplicate_ids": 0,
+    "first_date": "2010-01-01 00:01:00",
+    "last_date": "2019-10-31 23:59:00",
+    "errors_top": {
+      "Insufficient Balance": 130902,
+      "Bad PIN": 32119,
+      "Technical Glitch": 26271,
+      "Bad Card Number": 7767,
+      "Bad Expiration": 6161,
+      "Bad CVV": 6106,
+      "Bad Zipcode": 1126,
+      "Bad PIN,Insufficient Balance": 293,
+      "Insufficient Balance,Technical Glitch": 243,
+      "Bad Card Number,Insufficient Balance": 71
+    },
+    "use_chip": {
+      "Swipe Transaction": 6967185,
+      "Online Transaction": 1557912,
+      "Chip Transaction": 4780818
+    }
+  },
+  "customers": {
+    "active_in_window": 1206,
+    "never_transacted": 781,
+    "never_transacted_first_card_by_oct_2019": 394,
+    "transacted_before_but_not_in_window": 13,
+    "with_signup_record": 994,
+    "with_signup_record_and_active": 423,
+    "first_signup_kind": {
+      "existing_customer": 553,
+      "acquisition": 441
+    },
+    "first_signup_kind_among_active": {
+      "existing_customer": 414,
+      "acquisition": 9
+    },
+    "revenue_total": 629620.1607383332,
+    "amex_fee_total": 21105.833333333336,
+    "refund_amount_total": -6897693.08,
+    "spend_total": 64976163.53999999
+  }
+}

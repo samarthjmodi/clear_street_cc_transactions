@@ -1,0 +1,5 @@
+day_one_segment,customers,no_open_card,share_no_open_card
+"Credit, limit $10k+",226,0,0.0
+"Credit, limit under $10k",193,0,0.0
+Debit,693,3,0.004329004329004329
+Prepaid,94,0,0.0

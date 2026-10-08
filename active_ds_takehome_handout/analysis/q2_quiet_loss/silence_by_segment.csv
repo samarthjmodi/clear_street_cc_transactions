@@ -1,0 +1,21 @@
+silence_days,day_one_segment,customers,hit_customers,hit_rate,inter_purchase_episodes,returned_within_30d_of_alert,return_rate_given_inter_purchase_silence,terminal_silence_customers
+7,"Credit, limit $10k+",226,5,0.022123893805309734,6,6,1.0,0
+7,"Credit, limit under $10k",193,5,0.025906735751295335,7,7,1.0,0
+7,Debit,693,24,0.03463203463203463,28,28,1.0,3
+7,Prepaid,94,7,0.07446808510638298,17,17,1.0,0
+7,All active,1206,41,0.03399668325041459,58,58,1.0,3
+14,"Credit, limit $10k+",226,0,0.0,0,0,,0
+14,"Credit, limit under $10k",193,0,0.0,0,0,,0
+14,Debit,693,4,0.005772005772005772,1,1,1.0,3
+14,Prepaid,94,0,0.0,0,0,,0
+14,All active,1206,4,0.003316749585406302,1,1,1.0,3
+30,"Credit, limit $10k+",226,0,0.0,0,0,,0
+30,"Credit, limit under $10k",193,0,0.0,0,0,,0
+30,Debit,693,3,0.004329004329004329,0,0,,3
+30,Prepaid,94,0,0.0,0,0,,0
+30,All active,1206,3,0.0024875621890547263,0,0,,3
+60,"Credit, limit $10k+",226,0,0.0,0,0,,0
+60,"Credit, limit under $10k",193,0,0.0,0,0,,0
+60,Debit,693,0,0.0,0,0,,0
+60,Prepaid,94,0,0.0,0,0,,0
+60,All active,1206,0,0.0,0,0,,0

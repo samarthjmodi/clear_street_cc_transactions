@@ -1,0 +1,124 @@
+attribute,group,customers,share
+age band,18–29,480,0.24
+age band,40–49,371,0.1855
+age band,50–59,352,0.176
+age band,30–39,351,0.1755
+age band,60–69,231,0.1155
+age band,70+,215,0.1075
+age at first card,18–24,653,0.3265
+age at first card,30–39,390,0.195
+age at first card,25–29,328,0.164
+age at first card,40–49,309,0.1545
+age at first card,60+,153,0.0765
+age at first card,50–59,149,0.0745
+age at first card,Under 18,18,0.009
+join period,Joined before 2010,1322,0.661
+join period,Joined Nov 2019 – Feb 2020,387,0.1935
+join period,Joined 2010–2017,267,0.1335
+join period,Joined 2018 – Oct 2019,24,0.012
+tenure,10–14 years,650,0.325
+tenure,15–19 years,527,0.2635
+tenure,Under 5 years,464,0.232
+tenure,5–9 years,188,0.094
+tenure,20+ years,171,0.0855
+region,South,779,0.3895
+region,West,431,0.2155
+region,Midwest,430,0.215
+region,Northeast,359,0.1795
+region,Unresolved,1,0.0005
+income fifth,Top,400,0.2
+income fifth,2nd,400,0.2
+income fifth,3rd,400,0.2
+income fifth,4th,400,0.2
+income fifth,Bottom,400,0.2
+credit score,670–739,931,0.4655
+credit score,740–799,474,0.237
+credit score,580–669,348,0.174
+credit score,800+,166,0.083
+credit score,Under 580,81,0.0405
+products held,Credit + debit,672,0.336
+products held,Debit only,583,0.2915
+products held,Credit only,252,0.126
+products held,Credit + debit + prepaid,169,0.0845
+products held,Debit + prepaid,131,0.0655
+products held,No open card,85,0.0425
+products held,Prepaid only,64,0.032
+products held,Credit + prepaid,44,0.022
+gender,Female,1016,0.508
+gender,Male,984,0.492
+birth decade,1970s,378,0.189
+birth decade,1990s,367,0.1835
+birth decade,1980s,353,0.1765
+birth decade,1960s,340,0.17
+birth decade,1950s,234,0.117
+birth decade,2000s,117,0.0585
+birth decade,1940s,105,0.0525
+birth decade,1930s,85,0.0425
+birth decade,1920s,20,0.01
+birth decade,1910s,1,0.0005
+state,California,243,0.1215
+state,Texas,158,0.079
+state,Florida,131,0.0655
+state,New York,125,0.0625
+state,Illinois,87,0.0435
+state,Pennsylvania,84,0.042
+state,Ohio,82,0.041
+state,North Carolina,78,0.039
+state,Georgia,65,0.0325
+state,Michigan,60,0.03
+state,New Jersey,54,0.027
+state,Tennessee,51,0.0255
+state,Indiana,48,0.024
+state,Washington,44,0.022
+state,Virginia,44,0.022
+state,Massachusetts,40,0.02
+state,Maryland,39,0.0195
+state,Kentucky,36,0.018
+state,Wisconsin,34,0.017
+state,Arizona,33,0.0165
+state,Alabama,33,0.0165
+state,Louisiana,31,0.0155
+state,South Carolina,30,0.015
+state,Missouri,29,0.0145
+state,Oklahoma,28,0.014
+state,Iowa,26,0.013
+state,Minnesota,25,0.0125
+state,Colorado,23,0.0115
+state,Oregon,22,0.011
+state,Connecticut,22,0.011
+state,Arkansas,19,0.0095
+state,Kansas,18,0.009
+state,Mississippi,18,0.009
+state,New Hampshire,14,0.007
+state,New Mexico,14,0.007
+state,Nevada,13,0.0065
+state,Utah,12,0.006
+state,West Virginia,10,0.005
+state,Hawaii,10,0.005
+state,Nebraska,10,0.005
+state,Rhode Island,8,0.004
+state,Delaware,7,0.0035
+state,Idaho,7,0.0035
+state,Maine,7,0.0035
+state,Montana,6,0.003
+state,South Dakota,6,0.003
+state,Vermont,5,0.0025
+state,North Dakota,5,0.0025
+state,Alaska,2,0.001
+state,Wyoming,2,0.001
+state,Missing,1,0.0005
+state,District of Columbia,1,0.0005
+brands held,"Multi-brand, no Amex",793,0.3965
+brands held,Mastercard only,510,0.255
+brands held,Any Amex,298,0.149
+brands held,Visa only,295,0.1475
+brands held,No open card,85,0.0425
+brands held,Discover only,19,0.0095
+cards open,2,516,0.258
+cards open,1,508,0.254
+cards open,3,457,0.2285
+cards open,4,251,0.1255
+cards open,5,129,0.0645
+cards open,0,85,0.0425
+cards open,6+,54,0.027
+any card flagged on dark web,No,2000,1.0

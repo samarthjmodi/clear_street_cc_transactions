@@ -1,0 +1,5 @@
+segment,customers,purchases,median_purchases,interchange,median_interchange,avg_interchange,median_income,median_credit_score,median_age,median_active_months,potential_fees,prepaid_debit_scenario,prepaid_credit_scenario
+No purchases in window,794,0.0,0.0,0.0,0.0,0.0,41963.0,704.5,28.0,0.0,3943.150684931507,0.0,0.0
+Occasional users (<9 months),1,35639.49,35639.49,162.886745,162.886745,162.886745,57532.0,735.0,36.0,8.0,0.0,0.0,0.0
+Regular credit-led,532,30174039.26,48584.055,382201.731455,611.5278075,718.4243072462406,42905.0,718.5,51.0,12.0,17836.054794520547,7027.024255,12353.193179999998
+Regular debit/prepaid-led,673,34766484.79,43433.61,215917.691285,275.39494,320.8286646136701,38318.0,712.0,51.0,12.0,8494.82191780822,12756.423665,23729.891939999998

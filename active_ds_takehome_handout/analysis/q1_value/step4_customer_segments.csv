@@ -1,0 +1,2001 @@
+client_id,segment,age_at_first_card,income_fifth,holds_credit_feb_2020,join_period
+825,Debit or prepaid,35,Top,True,Joined before 2010
+1746,Debit or prepaid,36,Top,False,Joined before 2010
+1718,Debit or prepaid,63,2nd,False,Joined before 2010
+708,Debit or prepaid,50,Top,False,Joined before 2010
+1164,Debit or prepaid,23,Top,False,Joined before 2010
+68,"Credit, limit under $13.0k",24,3rd,True,Joined before 2010
+1075,Debit or prepaid,21,4th,True,Joined before 2010
+1711,Debit or prepaid,26,4th,False,Joined Nov 2019 – Feb 2020
+1116,"Credit, limit $13.0k+",66,3rd,True,Joined before 2010
+1752,Debit or prepaid,23,3rd,False,Joined before 2010
+192,Debit or prepaid,27,4th,False,Joined Nov 2019 – Feb 2020
+640,Debit or prepaid,29,4th,False,Joined Nov 2019 – Feb 2020
+1679,Debit or prepaid,18,Top,False,Joined Nov 2019 – Feb 2020
+1094,Debit or prepaid,20,3rd,True,Joined before 2010
+1590,Debit or prepaid,37,Bottom,False,Joined before 2010
+1660,Debit or prepaid,23,Bottom,True,Joined before 2010
+1747,"Credit, limit $13.0k+",37,2nd,True,Joined before 2010
+153,"Credit, limit under $13.0k",60,Bottom,False,Joined before 2010
+429,"Credit, limit $13.0k+",22,4th,True,Joined Nov 2019 – Feb 2020
+511,Debit or prepaid,44,2nd,True,Joined before 2010
+309,"Credit, limit under $13.0k",28,Bottom,True,Joined Nov 2019 – Feb 2020
+777,Debit or prepaid,18,Top,False,Joined Nov 2019 – Feb 2020
+1946,Debit or prepaid,59,3rd,True,Joined before 2010
+1674,Debit or prepaid,52,Bottom,True,Joined before 2010
+482,"Credit, limit under $13.0k",45,2nd,True,Joined Nov 2019 – Feb 2020
+877,"Credit, limit under $13.0k",25,2nd,True,Joined before 2010
+128,Debit or prepaid,27,2nd,True,Joined before 2010
+775,Debit or prepaid,25,3rd,False,Joined before 2010
+1536,"Credit, limit under $13.0k",26,2nd,True,Joined before 2010
+140,Debit or prepaid,22,3rd,False,Joined before 2010
+1884,Debit or prepaid,18,Top,False,Joined Nov 2019 – Feb 2020
+1874,"Credit, limit under $13.0k",33,3rd,True,Joined before 2010
+1310,"Credit, limit under $13.0k",20,2nd,False,Joined before 2010
+1689,Debit or prepaid,19,Top,True,Joined 2010–2017
+379,Debit or prepaid,28,3rd,True,Joined before 2010
+34,Debit or prepaid,28,4th,False,Joined before 2010
+822,"Credit, limit under $13.0k",35,2nd,True,Joined before 2010
+1499,"Credit, limit $13.0k+",38,3rd,True,Joined 2010–2017
+1780,"Credit, limit under $13.0k",43,3rd,True,Joined 2010–2017
+1806,Debit or prepaid,45,Top,False,Joined before 2010
+811,"Credit, limit $13.0k+",70,Top,True,Joined before 2010
+1844,Debit or prepaid,62,2nd,True,Joined before 2010
+1852,Debit or prepaid,39,Top,True,Joined before 2010
+1231,Debit or prepaid,26,Bottom,False,Joined Nov 2019 – Feb 2020
+970,"Credit, limit under $13.0k",25,3rd,True,Joined before 2010
+381,"Credit, limit $13.0k+",26,4th,True,Joined Nov 2019 – Feb 2020
+1134,"Credit, limit under $13.0k",17,Bottom,True,Joined Nov 2019 – Feb 2020
+1296,Debit or prepaid,41,4th,True,Joined before 2010
+1880,Debit or prepaid,41,2nd,True,Joined before 2010
+322,Debit or prepaid,27,Bottom,True,Joined before 2010
+461,Debit or prepaid,29,Top,False,Joined before 2010
+1165,Debit or prepaid,45,Bottom,False,Joined 2010–2017
+1448,"Credit, limit $13.0k+",35,3rd,True,Joined before 2010
+1288,Debit or prepaid,23,3rd,False,Joined before 2010
+1178,Debit or prepaid,46,4th,False,Joined before 2010
+1391,Debit or prepaid,27,4th,False,Joined before 2010
+838,"Credit, limit $13.0k+",26,4th,True,Joined Nov 2019 – Feb 2020
+54,Debit or prepaid,21,3rd,False,Joined Nov 2019 – Feb 2020
+1452,Debit or prepaid,34,Top,False,Joined before 2010
+1602,"Credit, limit under $13.0k",31,Bottom,True,Joined 2010–2017
+1938,"Credit, limit under $13.0k",22,Top,True,Joined Nov 2019 – Feb 2020
+1492,Debit or prepaid,49,4th,True,Joined before 2010
+688,Debit or prepaid,35,4th,True,Joined 2010–2017
+749,"Credit, limit under $13.0k",22,Bottom,True,Joined Nov 2019 – Feb 2020
+643,"Credit, limit under $13.0k",19,3rd,True,Joined 2010–2017
+1219,Debit or prepaid,19,Top,True,Joined 2010–2017
+1198,Debit or prepaid,61,Bottom,True,Joined before 2010
+898,Debit or prepaid,78,Bottom,True,Joined before 2010
+882,Debit or prepaid,49,2nd,False,Joined before 2010
+348,Debit or prepaid,37,4th,True,Joined before 2010
+633,Debit or prepaid,25,4th,False,Joined before 2010
+1493,"Credit, limit $13.0k+",20,4th,True,Joined 2010–2017
+1161,"Credit, limit $13.0k+",23,4th,True,Joined Nov 2019 – Feb 2020
+217,"Credit, limit under $13.0k",29,Bottom,True,Joined before 2010
+1877,Debit or prepaid,41,Top,True,Joined before 2010
+668,Debit or prepaid,68,Bottom,True,Joined before 2010
+533,Debit or prepaid,22,Bottom,False,Joined Nov 2019 – Feb 2020
+203,"Credit, limit under $13.0k",41,Bottom,True,Joined before 2010
+1738,"Credit, limit $13.0k+",20,Top,True,Joined before 2010
+713,Debit or prepaid,20,2nd,True,Joined 2010–2017
+1631,"Credit, limit $13.0k+",18,Top,True,Joined Nov 2019 – Feb 2020
+1487,"Credit, limit $13.0k+",39,Top,True,Joined before 2010
+1265,Debit or prepaid,18,4th,False,Joined Nov 2019 – Feb 2020
+370,Debit or prepaid,44,3rd,False,Joined before 2010
+1014,Debit or prepaid,40,Top,False,Joined before 2010
+290,Debit or prepaid,27,Top,False,Joined Nov 2019 – Feb 2020
+985,"Credit, limit $13.0k+",21,4th,True,Joined before 2010
+135,Debit or prepaid,44,3rd,False,Joined before 2010
+307,"Credit, limit under $13.0k",18,2nd,True,Joined Nov 2019 – Feb 2020
+1783,Debit or prepaid,31,3rd,True,Joined before 2010
+1321,Debit or prepaid,37,2nd,False,Joined before 2010
+1511,Debit or prepaid,30,4th,False,Joined before 2010
+900,"Credit, limit under $13.0k",25,2nd,True,Joined before 2010
+953,"Credit, limit under $13.0k",18,Bottom,True,Joined Nov 2019 – Feb 2020
+233,"Credit, limit $13.0k+",29,4th,True,Joined 2010–2017
+406,"Credit, limit under $13.0k",20,Top,True,Joined 2010–2017
+1069,Debit or prepaid,44,4th,True,Joined before 2010
+180,"Credit, limit under $13.0k",18,Bottom,True,Joined before 2010
+996,"Credit, limit under $13.0k",42,3rd,True,Joined before 2010
+1866,Debit or prepaid,22,Top,False,Joined Nov 2019 – Feb 2020
+1981,Debit or prepaid,25,3rd,False,Joined before 2010
+870,Debit or prepaid,47,Top,True,Joined before 2010
+16,Debit or prepaid,54,Bottom,False,Joined before 2010
+46,Debit or prepaid,48,4th,False,Joined before 2010
+800,Debit or prepaid,24,Bottom,False,Joined 2010–2017
+1968,Debit or prepaid,25,Top,False,Joined Nov 2019 – Feb 2020
+697,Debit or prepaid,46,Top,False,Joined 2010–2017
+1269,"Credit, limit under $13.0k",41,2nd,True,Joined before 2010
+1782,Debit or prepaid,47,3rd,False,Joined before 2010
+1977,Debit or prepaid,22,Top,False,Joined before 2010
+1734,Debit or prepaid,27,Top,False,Joined 2010–2017
+1913,Debit or prepaid,45,Bottom,True,Joined before 2010
+858,"Credit, limit $13.0k+",27,Bottom,True,Joined before 2010
+606,Debit or prepaid,34,2nd,False,Joined before 2010
+1564,"Credit, limit under $13.0k",23,3rd,True,Joined before 2010
+1109,Debit or prepaid,24,3rd,False,Joined Nov 2019 – Feb 2020
+1301,Debit or prepaid,20,Top,True,Joined 2010–2017
+1399,Debit or prepaid,27,3rd,True,Joined 2018 – Oct 2019
+1775,Debit or prepaid,21,3rd,True,Joined 2010–2017
+1673,Debit or prepaid,30,2nd,False,Joined before 2010
+1957,Debit or prepaid,26,Top,False,Joined before 2010
+1033,Debit or prepaid,17,2nd,False,Joined Nov 2019 – Feb 2020
+1024,"Credit, limit $13.0k+",48,Top,True,Joined before 2010
+1441,Debit or prepaid,22,4th,True,Joined before 2010
+1103,"Credit, limit under $13.0k",29,Bottom,True,Joined before 2010
+431,Debit or prepaid,19,4th,False,Joined Nov 2019 – Feb 2020
+165,Debit or prepaid,22,Top,False,Joined before 2010
+353,Debit or prepaid,22,2nd,False,Joined 2018 – Oct 2019
+1758,Debit or prepaid,44,Bottom,True,Joined before 2010
+1266,Debit or prepaid,20,4th,False,Joined before 2010
+1943,"Credit, limit $13.0k+",19,Top,True,Joined Nov 2019 – Feb 2020
+792,Debit or prepaid,18,4th,False,Joined 2010–2017
+1055,Debit or prepaid,21,Bottom,False,Joined before 2010
+1159,Debit or prepaid,20,3rd,True,Joined Nov 2019 – Feb 2020
+1115,"Credit, limit under $13.0k",33,Bottom,False,Joined before 2010
+38,Debit or prepaid,32,3rd,False,Joined before 2010
+1027,Debit or prepaid,36,Top,True,Joined before 2010
+11,"Credit, limit $13.0k+",20,Top,True,Joined before 2010
+871,"Credit, limit under $13.0k",71,Bottom,True,Joined before 2010
+746,"Credit, limit under $13.0k",39,Bottom,True,Joined before 2010
+1520,"Credit, limit under $13.0k",53,4th,True,Joined before 2010
+1372,Debit or prepaid,66,Bottom,True,Joined 2010–2017
+1799,Debit or prepaid,19,Top,False,Joined before 2010
+1905,Debit or prepaid,21,Bottom,True,Joined before 2010
+130,"Credit, limit under $13.0k",47,Top,False,Joined before 2010
+1990,"Credit, limit under $13.0k",19,4th,True,Joined Nov 2019 – Feb 2020
+593,"Credit, limit under $13.0k",19,2nd,True,Joined Nov 2019 – Feb 2020
+540,Debit or prepaid,25,2nd,False,Joined Nov 2019 – Feb 2020
+1155,"Credit, limit under $13.0k",66,Bottom,True,Joined before 2010
+663,Debit or prepaid,48,Top,True,Joined before 2010
+1987,"Credit, limit $13.0k+",44,2nd,False,Joined before 2010
+1484,"Credit, limit $13.0k+",71,Top,True,Joined before 2010
+417,"Credit, limit under $13.0k",21,Bottom,False,Joined Nov 2019 – Feb 2020
+298,Debit or prepaid,28,4th,False,Joined Nov 2019 – Feb 2020
+306,Debit or prepaid,18,Top,False,Joined Nov 2019 – Feb 2020
+607,Debit or prepaid,20,3rd,True,Joined 2010–2017
+1769,"Credit, limit under $13.0k",58,4th,True,Joined before 2010
+698,Debit or prepaid,40,Top,False,Joined before 2010
+896,Debit or prepaid,18,2nd,False,Joined 2010–2017
+1975,Debit or prepaid,42,3rd,True,Joined before 2010
+645,Debit or prepaid,46,Bottom,False,Joined before 2010
+227,Debit or prepaid,34,Top,True,Joined before 2010
+84,Debit or prepaid,24,Bottom,False,Joined before 2010
+1684,"Credit, limit under $13.0k",40,Bottom,True,Joined before 2010
+745,"Credit, limit under $13.0k",18,4th,True,Joined Nov 2019 – Feb 2020
+1508,Debit or prepaid,51,3rd,True,Joined before 2010
+1158,Debit or prepaid,55,2nd,False,Joined 2010–2017
+1427,Debit or prepaid,24,Top,False,Joined 2010–2017
+352,Debit or prepaid,22,2nd,False,Joined Nov 2019 – Feb 2020
+1948,"Credit, limit $13.0k+",24,4th,True,Joined Nov 2019 – Feb 2020
+724,Debit or prepaid,31,2nd,True,Joined before 2010
+543,Debit or prepaid,33,Bottom,False,Joined before 2010
+1559,Debit or prepaid,40,Top,True,Joined before 2010
+1199,Debit or prepaid,29,3rd,True,Joined Nov 2019 – Feb 2020
+1745,Debit or prepaid,19,4th,False,Joined Nov 2019 – Feb 2020
+1950,Debit or prepaid,25,Bottom,True,Joined before 2010
+1397,Debit or prepaid,21,2nd,True,Joined before 2010
+873,Debit or prepaid,30,4th,False,Joined before 2010
+1728,"Credit, limit under $13.0k",28,3rd,True,Joined before 2010
+299,Debit or prepaid,29,Bottom,True,Joined before 2010
+1742,Debit or prepaid,42,4th,False,Joined before 2010
+1004,Debit or prepaid,36,2nd,False,Joined before 2010
+301,"Credit, limit $13.0k+",32,4th,True,Joined before 2010
+1011,Debit or prepaid,27,2nd,False,Joined Nov 2019 – Feb 2020
+906,"Credit, limit $13.0k+",55,Bottom,True,Joined before 2010
+110,Debit or prepaid,33,4th,True,Joined before 2010
+1073,Debit or prepaid,30,2nd,False,Joined before 2010
+705,"Credit, limit under $13.0k",64,Top,True,Joined before 2010
+820,"Credit, limit $13.0k+",51,3rd,True,Joined before 2010
+1188,Debit or prepaid,24,Top,False,Joined Nov 2019 – Feb 2020
+1128,Debit or prepaid,32,2nd,True,Joined before 2010
+1479,"Credit, limit under $13.0k",20,Bottom,True,Joined before 2010
+1594,Debit or prepaid,21,2nd,False,Joined before 2010
+1485,Debit or prepaid,50,4th,False,Joined before 2010
+1390,"Credit, limit $13.0k+",23,Top,True,Joined before 2010
+644,"Credit, limit under $13.0k",49,3rd,True,Joined 2010–2017
+1912,Debit or prepaid,23,4th,False,Joined before 2010
+1584,Debit or prepaid,19,4th,False,Joined 2010–2017
+1803,Debit or prepaid,26,4th,False,Joined Nov 2019 – Feb 2020
+1824,Debit or prepaid,20,4th,False,Joined 2010–2017
+340,Debit or prepaid,20,4th,False,Joined Nov 2019 – Feb 2020
+650,Debit or prepaid,26,Bottom,True,Joined before 2010
+762,Debit or prepaid,35,2nd,False,Joined before 2010
+1061,Debit or prepaid,25,3rd,False,Joined Nov 2019 – Feb 2020
+1931,Debit or prepaid,38,Top,True,Joined before 2010
+702,Debit or prepaid,27,Top,True,Joined before 2010
+918,Debit or prepaid,31,Bottom,False,Joined before 2010
+1137,"Credit, limit under $13.0k",35,2nd,True,Joined before 2010
+66,Debit or prepaid,19,2nd,True,Joined 2018 – Oct 2019
+1406,"Credit, limit under $13.0k",26,Bottom,True,Joined before 2010
+437,Debit or prepaid,31,Top,False,Joined before 2010
+806,Debit or prepaid,24,Top,True,Joined Nov 2019 – Feb 2020
+891,Debit or prepaid,25,2nd,False,Joined before 2010
+1191,Debit or prepaid,25,2nd,False,Joined Nov 2019 – Feb 2020
+701,"Credit, limit under $13.0k",26,4th,False,Joined 2018 – Oct 2019
+1147,Debit or prepaid,64,Top,True,Joined before 2010
+1625,Debit or prepaid,24,Top,False,Joined Nov 2019 – Feb 2020
+1664,"Credit, limit $13.0k+",26,Top,False,Joined before 2010
+1273,"Credit, limit under $13.0k",21,4th,True,Joined Nov 2019 – Feb 2020
+1009,"Credit, limit under $13.0k",29,Bottom,True,Joined before 2010
+1341,Debit or prepaid,69,Bottom,True,Joined before 2010
+925,Debit or prepaid,31,Top,False,Joined Nov 2019 – Feb 2020
+824,Debit or prepaid,20,2nd,True,Joined before 2010
+563,Debit or prepaid,54,4th,True,Joined before 2010
+1612,"Credit, limit under $13.0k",56,2nd,False,Joined before 2010
+1700,"Credit, limit under $13.0k",33,3rd,True,Joined before 2010
+963,"Credit, limit under $13.0k",19,3rd,True,Joined 2010–2017
+904,"Credit, limit under $13.0k",32,Bottom,True,Joined Nov 2019 – Feb 2020
+1586,"Credit, limit $13.0k+",30,4th,True,Joined before 2010
+1286,Debit or prepaid,37,Top,False,Joined before 2010
+719,Debit or prepaid,42,4th,True,Joined before 2010
+1469,Debit or prepaid,21,2nd,False,Joined Nov 2019 – Feb 2020
+930,Debit or prepaid,22,Bottom,True,Joined Nov 2019 – Feb 2020
+1814,"Credit, limit under $13.0k",25,2nd,True,Joined before 2010
+1723,Debit or prepaid,22,2nd,False,Joined before 2010
+1377,Debit or prepaid,18,Bottom,False,Joined before 2010
+470,Debit or prepaid,41,Bottom,True,Joined before 2010
+1804,"Credit, limit under $13.0k",18,3rd,True,Joined Nov 2019 – Feb 2020
+229,"Credit, limit $13.0k+",24,Top,True,Joined before 2010
+1512,Debit or prepaid,24,Top,True,Joined before 2010
+1543,"Credit, limit $13.0k+",19,Top,True,Joined before 2010
+147,Debit or prepaid,20,4th,True,Joined before 2010
+1941,Debit or prepaid,20,3rd,False,Joined before 2010
+901,Debit or prepaid,30,2nd,True,Joined before 2010
+191,Debit or prepaid,28,3rd,False,Joined Nov 2019 – Feb 2020
+12,Debit or prepaid,17,3rd,False,Joined Nov 2019 – Feb 2020
+1828,Debit or prepaid,41,Bottom,False,Joined 2010–2017
+29,Debit or prepaid,58,Bottom,True,Joined 2010–2017
+181,"Credit, limit $13.0k+",25,4th,False,Joined 2018 – Oct 2019
+995,Debit or prepaid,25,Top,False,Joined before 2010
+1218,Debit or prepaid,20,Bottom,False,Joined Nov 2019 – Feb 2020
+186,"Credit, limit under $13.0k",46,3rd,False,Joined before 2010
+171,Debit or prepaid,20,4th,False,Joined before 2010
+1401,"Credit, limit $13.0k+",24,2nd,True,Joined Nov 2019 – Feb 2020
+1314,Debit or prepaid,29,3rd,False,Joined before 2010
+1560,"Credit, limit $13.0k+",43,Bottom,True,Joined before 2010
+613,"Credit, limit under $13.0k",26,4th,True,Joined before 2010
+346,Debit or prepaid,73,4th,True,Joined before 2010
+812,"Credit, limit under $13.0k",34,3rd,False,Joined 2010–2017
+13,"Credit, limit under $13.0k",38,2nd,True,Joined before 2010
+602,Debit or prepaid,42,2nd,True,Joined before 2010
+657,Debit or prepaid,64,2nd,False,Joined before 2010
+909,Debit or prepaid,23,4th,False,Joined before 2010
+183,"Credit, limit under $13.0k",24,3rd,True,Joined Nov 2019 – Feb 2020
+1792,Debit or prepaid,18,Bottom,True,Joined Nov 2019 – Feb 2020
+1599,"Credit, limit under $13.0k",22,2nd,True,Joined Nov 2019 – Feb 2020
+1267,Debit or prepaid,64,2nd,False,Joined before 2010
+411,Debit or prepaid,22,2nd,False,Joined 2010–2017
+350,"Credit, limit under $13.0k",46,Top,True,Joined before 2010
+1323,Debit or prepaid,25,2nd,True,Joined before 2010
+934,Debit or prepaid,32,3rd,True,Joined Nov 2019 – Feb 2020
+421,Debit or prepaid,38,4th,True,Joined before 2010
+223,"Credit, limit under $13.0k",24,Top,True,Joined before 2010
+1402,"Credit, limit $13.0k+",27,Top,False,Joined 2010–2017
+1650,"Credit, limit under $13.0k",17,3rd,True,Joined Nov 2019 – Feb 2020
+354,Debit or prepaid,57,2nd,True,Joined before 2010
+314,"Credit, limit $13.0k+",25,Top,True,Joined 2010–2017
+1457,Debit or prepaid,20,4th,True,Joined Nov 2019 – Feb 2020
+1613,Debit or prepaid,22,3rd,True,Joined before 2010
+945,"Credit, limit under $13.0k",18,4th,True,Joined Nov 2019 – Feb 2020
+586,"Credit, limit $13.0k+",28,4th,True,Joined 2010–2017
+119,Debit or prepaid,33,4th,False,Joined before 2010
+1312,Debit or prepaid,21,4th,False,Joined before 2010
+1529,Debit or prepaid,35,Top,False,Joined before 2010
+326,Debit or prepaid,18,Top,False,Joined Nov 2019 – Feb 2020
+1596,"Credit, limit under $13.0k",23,2nd,True,Joined before 2010
+714,Debit or prepaid,49,Top,False,Joined before 2010
+887,"Credit, limit under $13.0k",38,4th,True,Joined before 2010
+1425,Debit or prepaid,71,Bottom,True,Joined before 2010
+1645,Debit or prepaid,47,Top,False,Joined before 2010
+1863,Debit or prepaid,33,3rd,False,Joined before 2010
+1576,Debit or prepaid,71,2nd,False,Joined before 2010
+1268,Debit or prepaid,30,Bottom,False,Joined before 2010
+1565,"Credit, limit under $13.0k",24,3rd,True,Joined before 2010
+1842,Debit or prepaid,30,2nd,True,Joined before 2010
+664,"Credit, limit under $13.0k",22,2nd,True,Joined Nov 2019 – Feb 2020
+485,"Credit, limit $13.0k+",24,3rd,True,Joined before 2010
+244,"Credit, limit under $13.0k",26,Bottom,True,Joined before 2010
+145,"Credit, limit under $13.0k",46,Bottom,True,Joined before 2010
+866,Debit or prepaid,21,Top,True,Joined before 2010
+1424,"Credit, limit under $13.0k",91,Bottom,True,Joined before 2010
+427,Debit or prepaid,35,2nd,False,Joined 2010–2017
+684,Debit or prepaid,41,3rd,True,Joined 2010–2017
+1643,Debit or prepaid,28,4th,False,Joined Nov 2019 – Feb 2020
+1300,Debit or prepaid,36,Bottom,True,Joined before 2010
+283,"Credit, limit under $13.0k",19,Bottom,True,Joined Nov 2019 – Feb 2020
+355,"Credit, limit $13.0k+",21,3rd,True,Joined 2018 – Oct 2019
+1669,"Credit, limit under $13.0k",28,4th,True,Joined before 2010
+937,Debit or prepaid,35,Top,False,Joined before 2010
+845,Debit or prepaid,35,2nd,False,Joined before 2010
+1518,"Credit, limit under $13.0k",50,3rd,True,Joined before 2010
+1591,Debit or prepaid,41,2nd,True,Joined before 2010
+1172,"Credit, limit under $13.0k",50,Bottom,True,Joined Nov 2019 – Feb 2020
+1629,Debit or prepaid,32,Bottom,False,Joined before 2010
+675,"Credit, limit under $13.0k",31,2nd,True,Joined 2010–2017
+577,"Credit, limit under $13.0k",18,2nd,True,Joined 2010–2017
+854,Debit or prepaid,17,Top,False,Joined 2010–2017
+1261,Debit or prepaid,42,Top,False,Joined before 2010
+1227,"Credit, limit $13.0k+",52,Top,True,Joined before 2010
+840,Debit or prepaid,49,Top,False,Joined before 2010
+733,"Credit, limit $13.0k+",21,4th,True,Joined before 2010
+454,Debit or prepaid,73,3rd,False,Joined before 2010
+961,"Credit, limit $13.0k+",61,Bottom,True,Joined before 2010
+768,Debit or prepaid,41,Top,False,Joined before 2010
+817,Debit or prepaid,26,Top,False,Joined Nov 2019 – Feb 2020
+78,Debit or prepaid,24,Bottom,False,Joined before 2010
+1334,"Credit, limit $13.0k+",23,3rd,True,Joined before 2010
+1610,"Credit, limit under $13.0k",29,Bottom,True,Joined before 2010
+108,Debit or prepaid,38,3rd,False,Joined before 2010
+1308,"Credit, limit $13.0k+",18,Top,True,Joined before 2010
+780,Debit or prepaid,65,Top,False,Joined 2010–2017
+1340,Debit or prepaid,37,4th,True,Joined before 2010
+1888,Debit or prepaid,58,3rd,False,Joined before 2010
+247,Debit or prepaid,34,4th,True,Joined before 2010
+238,"Credit, limit under $13.0k",22,3rd,True,Joined Nov 2019 – Feb 2020
+915,Debit or prepaid,31,4th,False,Joined before 2010
+1927,Debit or prepaid,20,2nd,False,Joined 2010–2017
+1658,"Credit, limit under $13.0k",28,Bottom,True,Joined Nov 2019 – Feb 2020
+1208,Debit or prepaid,21,2nd,False,Joined before 2010
+1255,Debit or prepaid,24,Bottom,False,Joined Nov 2019 – Feb 2020
+85,Debit or prepaid,29,2nd,False,Joined Nov 2019 – Feb 2020
+1382,Debit or prepaid,41,Bottom,True,Joined before 2010
+1932,Debit or prepaid,26,Bottom,False,Joined Nov 2019 – Feb 2020
+1217,Debit or prepaid,35,4th,True,Joined before 2010
+514,Debit or prepaid,38,2nd,True,Joined before 2010
+232,Debit or prepaid,46,Top,False,Joined before 2010
+445,Debit or prepaid,28,Bottom,False,Joined before 2010
+1206,"Credit, limit $13.0k+",23,Top,False,Joined before 2010
+1276,"Credit, limit $13.0k+",60,3rd,True,Joined before 2010
+875,"Credit, limit $13.0k+",27,3rd,True,Joined before 2010
+1546,"Credit, limit under $13.0k",36,3rd,True,Joined before 2010
+422,"Credit, limit under $13.0k",19,2nd,True,Joined Nov 2019 – Feb 2020
+519,Debit or prepaid,46,3rd,False,Joined before 2010
+1408,Debit or prepaid,26,Bottom,False,Joined before 2010
+1204,Debit or prepaid,30,Top,False,Joined before 2010
+276,Debit or prepaid,25,Bottom,False,Joined Nov 2019 – Feb 2020
+1133,Debit or prepaid,18,4th,True,Joined before 2010
+1035,Debit or prepaid,22,4th,False,Joined Nov 2019 – Feb 2020
+710,Debit or prepaid,49,4th,True,Joined before 2010
+582,Debit or prepaid,32,3rd,True,Joined before 2010
+821,Debit or prepaid,61,Bottom,True,Joined before 2010
+1352,Debit or prepaid,44,3rd,False,Joined before 2010
+831,"Credit, limit under $13.0k",21,2nd,True,Joined before 2010
+936,"Credit, limit under $13.0k",18,3rd,True,Joined Nov 2019 – Feb 2020
+578,Debit or prepaid,61,Bottom,False,Joined before 2010
+1997,"Credit, limit $13.0k+",60,3rd,True,Joined before 2010
+258,Debit or prepaid,49,Bottom,False,Joined 2010–2017
+851,Debit or prepaid,74,2nd,True,Joined before 2010
+1951,"Credit, limit $13.0k+",34,Top,True,Joined before 2010
+1978,Debit or prepaid,19,2nd,False,Joined Nov 2019 – Feb 2020
+1897,Debit or prepaid,20,Top,False,Joined before 2010
+972,Debit or prepaid,21,4th,True,Joined before 2010
+1010,Debit or prepaid,25,2nd,False,Joined before 2010
+1243,Debit or prepaid,20,2nd,True,Joined before 2010
+1976,Debit or prepaid,22,4th,False,Joined before 2010
+91,"Credit, limit $13.0k+",36,Top,True,Joined 2018 – Oct 2019
+1606,Debit or prepaid,25,4th,False,Joined before 2010
+1201,Debit or prepaid,40,Top,False,Joined before 2010
+1887,"Credit, limit $13.0k+",18,2nd,True,Joined Nov 2019 – Feb 2020
+195,Debit or prepaid,17,Top,True,Joined Nov 2019 – Feb 2020
+874,"Credit, limit $13.0k+",24,Top,True,Joined Nov 2019 – Feb 2020
+1317,Debit or prepaid,25,Bottom,True,Joined before 2010
+1311,"Credit, limit $13.0k+",18,3rd,True,Joined 2010–2017
+785,"Credit, limit $13.0k+",18,4th,True,Joined Nov 2019 – Feb 2020
+662,Debit or prepaid,22,Top,False,Joined 2010–2017
+847,Debit or prepaid,62,Bottom,True,Joined before 2010
+685,Debit or prepaid,21,3rd,True,Joined Nov 2019 – Feb 2020
+617,Debit or prepaid,23,Top,False,Joined 2010–2017
+23,Debit or prepaid,18,Top,False,Joined Nov 2019 – Feb 2020
+339,"Credit, limit under $13.0k",19,2nd,True,Joined Nov 2019 – Feb 2020
+280,Debit or prepaid,22,3rd,True,Joined before 2010
+1473,Debit or prepaid,39,3rd,False,Joined before 2010
+65,Debit or prepaid,36,2nd,False,Joined before 2010
+1353,Debit or prepaid,29,3rd,True,Joined before 2010
+736,Debit or prepaid,27,Top,True,Joined Nov 2019 – Feb 2020
+1670,Debit or prepaid,53,4th,True,Joined before 2010
+1776,"Credit, limit $13.0k+",27,3rd,True,Joined before 2010
+1474,Debit or prepaid,23,3rd,False,Joined Nov 2019 – Feb 2020
+951,Debit or prepaid,39,Bottom,True,Joined before 2010
+1818,Debit or prepaid,75,3rd,False,Joined before 2010
+1450,Debit or prepaid,22,4th,False,Joined Nov 2019 – Feb 2020
+1524,Debit or prepaid,26,Top,False,Joined Nov 2019 – Feb 2020
+1789,Debit or prepaid,29,3rd,False,Joined before 2010
+767,Debit or prepaid,18,2nd,False,Joined before 2010
+678,"Credit, limit under $13.0k",53,Bottom,True,Joined 2010–2017
+471,Debit or prepaid,29,Top,True,Joined before 2010
+757,Debit or prepaid,48,4th,False,Joined before 2010
+1724,Debit or prepaid,20,2nd,True,Joined 2018 – Oct 2019
+1603,"Credit, limit under $13.0k",28,3rd,True,Joined before 2010
+224,Debit or prepaid,20,3rd,False,Joined Nov 2019 – Feb 2020
+808,Debit or prepaid,29,2nd,False,Joined 2010–2017
+1326,Debit or prepaid,37,Top,False,Joined before 2010
+158,Debit or prepaid,21,3rd,False,Joined 2010–2017
+1928,Debit or prepaid,35,4th,True,Joined before 2010
+1575,Debit or prepaid,37,Top,False,Joined before 2010
+1608,Debit or prepaid,19,3rd,False,Joined Nov 2019 – Feb 2020
+1455,"Credit, limit under $13.0k",22,2nd,True,Joined before 2010
+1916,"Credit, limit under $13.0k",57,Bottom,True,Joined before 2010
+1617,Debit or prepaid,18,Top,False,Joined before 2010
+143,Debit or prepaid,22,4th,False,Joined Nov 2019 – Feb 2020
+1176,Debit or prepaid,24,Top,False,Joined before 2010
+1194,"Credit, limit $13.0k+",36,3rd,True,Joined before 2010
+423,"Credit, limit under $13.0k",28,4th,True,Joined Nov 2019 – Feb 2020
+580,"Credit, limit under $13.0k",24,2nd,False,Joined before 2010
+4,Debit or prepaid,38,Top,False,Joined before 2010
+530,Debit or prepaid,65,Bottom,False,Joined before 2010
+1826,Debit or prepaid,28,Bottom,False,Joined before 2010
+595,Debit or prepaid,65,Bottom,False,Joined before 2010
+1022,"Credit, limit under $13.0k",33,2nd,True,Joined before 2010
+1108,"Credit, limit $13.0k+",19,Top,False,Joined Nov 2019 – Feb 2020
+246,"Credit, limit $13.0k+",37,Top,False,Joined before 2010
+270,Debit or prepaid,30,Top,False,Joined Nov 2019 – Feb 2020
+1945,Debit or prepaid,44,Bottom,True,Joined before 2010
+1540,Debit or prepaid,41,4th,True,Joined before 2010
+1149,"Credit, limit $13.0k+",25,Top,False,Joined Nov 2019 – Feb 2020
+1438,Debit or prepaid,26,Bottom,False,Joined Nov 2019 – Feb 2020
+409,Debit or prepaid,44,Bottom,False,Joined 2010–2017
+694,Debit or prepaid,19,3rd,False,Joined before 2010
+382,Debit or prepaid,40,Bottom,True,Joined before 2010
+629,"Credit, limit $13.0k+",59,Top,True,Joined before 2010
+1211,"Credit, limit under $13.0k",45,3rd,True,Joined before 2010
+823,"Credit, limit under $13.0k",26,3rd,True,Joined before 2010
+1304,"Credit, limit $13.0k+",24,Top,True,Joined Nov 2019 – Feb 2020
+89,Debit or prepaid,24,Bottom,False,Joined before 2010
+1751,Debit or prepaid,29,Top,True,Joined Nov 2019 – Feb 2020
+888,Debit or prepaid,36,2nd,False,Joined before 2010
+81,"Credit, limit under $13.0k",49,2nd,True,Joined before 2010
+1021,Debit or prepaid,21,Top,False,Joined Nov 2019 – Feb 2020
+826,"Credit, limit $13.0k+",52,Top,True,Joined before 2010
+87,Debit or prepaid,41,Bottom,True,Joined before 2010
+1833,Debit or prepaid,22,2nd,True,Joined 2010–2017
+829,"Credit, limit under $13.0k",28,2nd,True,Joined 2018 – Oct 2019
+1879,"Credit, limit under $13.0k",35,3rd,False,Joined before 2010
+236,Debit or prepaid,21,Top,False,Joined before 2010
+1619,"Credit, limit under $13.0k",20,2nd,True,Joined before 2010
+1146,Debit or prepaid,22,2nd,False,Joined Nov 2019 – Feb 2020
+803,"Credit, limit $13.0k+",50,4th,False,Joined before 2010
+193,Debit or prepaid,23,3rd,False,Joined Nov 2019 – Feb 2020
+1686,"Credit, limit $13.0k+",44,Top,True,Joined before 2010
+1959,"Credit, limit under $13.0k",32,4th,True,Joined before 2010
+1342,Debit or prepaid,18,3rd,False,Joined 2010–2017
+1371,"Credit, limit $13.0k+",70,4th,True,Joined before 2010
+1067,"Credit, limit under $13.0k",61,3rd,True,Joined before 2010
+1019,"Credit, limit under $13.0k",69,Bottom,True,Joined before 2010
+1568,Debit or prepaid,27,3rd,True,Joined before 2010
+1765,Debit or prepaid,27,2nd,True,Joined before 2010
+1875,Debit or prepaid,38,4th,False,Joined before 2010
+1111,"Credit, limit under $13.0k",20,2nd,True,Joined Nov 2019 – Feb 2020
+1160,Debit or prepaid,27,2nd,False,Joined Nov 2019 – Feb 2020
+1574,Debit or prepaid,22,2nd,False,Joined Nov 2019 – Feb 2020
+189,"Credit, limit under $13.0k",26,4th,True,Joined before 2010
+466,"Credit, limit under $13.0k",45,Bottom,True,Joined before 2010
+659,Debit or prepaid,44,2nd,True,Joined before 2010
+942,Debit or prepaid,20,Top,True,Joined before 2010
+1234,Debit or prepaid,25,Top,False,Joined before 2010
+841,"Credit, limit under $13.0k",22,2nd,False,Joined Nov 2019 – Feb 2020
+1388,"Credit, limit $13.0k+",26,Top,True,Joined Nov 2019 – Feb 2020
+1056,Debit or prepaid,19,4th,False,Joined 2010–2017
+345,"Credit, limit under $13.0k",22,2nd,True,Joined before 2010
+308,"Credit, limit under $13.0k",30,Bottom,True,Joined before 2010
+1922,Debit or prepaid,60,4th,False,Joined before 2010
+1156,"Credit, limit $13.0k+",35,Top,True,Joined before 2010
+561,"Credit, limit under $13.0k",34,2nd,True,Joined before 2010
+507,Debit or prepaid,21,2nd,False,Joined Nov 2019 – Feb 2020
+1522,"Credit, limit $13.0k+",79,2nd,True,Joined 2010–2017
+695,Debit or prepaid,38,Top,False,Joined before 2010
+285,"Credit, limit under $13.0k",34,2nd,True,Joined before 2010
+113,Debit or prepaid,56,3rd,True,Joined before 2010
+1039,Debit or prepaid,47,Bottom,False,Joined before 2010
+176,Debit or prepaid,24,4th,False,Joined before 2010
+1104,Debit or prepaid,72,3rd,True,Joined before 2010
+946,Debit or prepaid,23,3rd,True,Joined before 2010
+1465,Debit or prepaid,18,4th,True,Joined before 2010
+25,"Credit, limit under $13.0k",22,4th,True,Joined Nov 2019 – Feb 2020
+571,Debit or prepaid,32,2nd,False,Joined before 2010
+1396,Debit or prepaid,22,4th,False,Joined Nov 2019 – Feb 2020
+599,"Credit, limit $13.0k+",26,Top,True,Joined Nov 2019 – Feb 2020
+1074,Debit or prepaid,45,2nd,True,Joined before 2010
+214,"Credit, limit under $13.0k",23,4th,False,Joined 2010–2017
+771,Debit or prepaid,28,3rd,False,Joined before 2010
+520,Debit or prepaid,26,Top,True,Joined before 2010
+288,"Credit, limit under $13.0k",32,Bottom,True,Joined before 2010
+1979,Debit or prepaid,19,Top,True,Joined before 2010
+1253,Debit or prepaid,20,Top,True,Joined before 2010
+311,Debit or prepaid,25,Bottom,True,Joined before 2010
+1346,"Credit, limit under $13.0k",38,2nd,True,Joined before 2010
+1622,Debit or prepaid,26,Top,False,Joined before 2010
+852,"Credit, limit under $13.0k",21,3rd,True,Joined before 2010
+1394,Debit or prepaid,21,Top,True,Joined 2010–2017
+957,Debit or prepaid,57,3rd,True,Joined before 2010
+515,Debit or prepaid,43,3rd,False,Joined before 2010
+1303,Debit or prepaid,49,Top,True,Joined before 2010
+1287,Debit or prepaid,19,2nd,False,Joined before 2010
+296,"Credit, limit under $13.0k",28,Top,False,Joined before 2010
+1059,Debit or prepaid,41,4th,True,Joined 2010–2017
+1378,"Credit, limit under $13.0k",34,3rd,True,Joined before 2010
+1297,Debit or prepaid,48,3rd,False,Joined 2010–2017
+1727,Debit or prepaid,32,4th,False,Joined before 2010
+310,Debit or prepaid,25,Top,False,Joined Nov 2019 – Feb 2020
+673,Debit or prepaid,28,3rd,True,Joined before 2010
+1283,"Credit, limit $13.0k+",35,Top,True,Joined before 2010
+1239,"Credit, limit under $13.0k",19,3rd,True,Joined before 2010
+1691,"Credit, limit under $13.0k",23,Bottom,True,Joined Nov 2019 – Feb 2020
+1078,Debit or prepaid,43,Top,False,Joined before 2010
+124,Debit or prepaid,21,2nd,False,Joined 2010–2017
+99,Debit or prepaid,44,4th,False,Joined before 2010
+1722,"Credit, limit under $13.0k",18,Bottom,True,Joined 2010–2017
+562,"Credit, limit under $13.0k",37,Top,True,Joined Nov 2019 – Feb 2020
+750,Debit or prepaid,44,Bottom,False,Joined before 2010
+1223,Debit or prepaid,37,Top,False,Joined before 2010
+1319,Debit or prepaid,19,4th,False,Joined Nov 2019 – Feb 2020
+575,"Credit, limit $13.0k+",65,Bottom,True,Joined before 2010
+428,"Credit, limit $13.0k+",27,4th,True,Joined before 2010
+828,"Credit, limit under $13.0k",46,2nd,True,Joined before 2010
+1580,Debit or prepaid,19,4th,False,Joined Nov 2019 – Feb 2020
+1570,Debit or prepaid,21,2nd,True,Joined Nov 2019 – Feb 2020
+846,"Credit, limit under $13.0k",37,Top,True,Joined before 2010
+666,Debit or prepaid,47,2nd,False,Joined 2010–2017
+335,Debit or prepaid,35,4th,False,Joined before 2010
+639,Debit or prepaid,39,3rd,True,Joined before 2010
+386,Debit or prepaid,30,4th,False,Joined before 2010
+886,Debit or prepaid,20,Top,False,Joined Nov 2019 – Feb 2020
+297,Debit or prepaid,20,Bottom,False,Joined Nov 2019 – Feb 2020
+1860,Debit or prepaid,22,2nd,True,Joined before 2010
+581,Debit or prepaid,32,Bottom,False,Joined before 2010
+1910,Debit or prepaid,32,2nd,False,Joined before 2010
+731,Debit or prepaid,23,3rd,True,Joined 2010–2017
+21,Debit or prepaid,35,3rd,False,Joined before 2010
+273,"Credit, limit $13.0k+",25,2nd,True,Joined before 2010
+63,Debit or prepaid,19,2nd,False,Joined before 2010
+786,Debit or prepaid,17,2nd,False,Joined Nov 2019 – Feb 2020
+1886,"Credit, limit under $13.0k",26,3rd,True,Joined Nov 2019 – Feb 2020
+103,Debit or prepaid,20,2nd,True,Joined before 2010
+1193,Debit or prepaid,73,4th,False,Joined before 2010
+585,Debit or prepaid,40,3rd,False,Joined before 2010
+1532,Debit or prepaid,28,2nd,False,Joined Nov 2019 – Feb 2020
+1958,Debit or prepaid,31,2nd,True,Joined before 2010
+744,"Credit, limit under $13.0k",42,3rd,True,Joined before 2010
+1836,"Credit, limit under $13.0k",19,Bottom,False,Joined before 2010
+477,Debit or prepaid,41,4th,True,Joined before 2010
+1713,Debit or prepaid,18,2nd,False,Joined Nov 2019 – Feb 2020
+1506,Debit or prepaid,25,Top,False,Joined Nov 2019 – Feb 2020
+357,"Credit, limit $13.0k+",41,Top,True,Joined before 2010
+535,"Credit, limit under $13.0k",46,4th,True,Joined 2010–2017
+778,"Credit, limit $13.0k+",41,Bottom,False,Joined before 2010
+950,"Credit, limit under $13.0k",23,Bottom,True,Joined Nov 2019 – Feb 2020
+1080,"Credit, limit under $13.0k",42,Bottom,True,Joined before 2010
+1197,Debit or prepaid,28,4th,True,Joined Nov 2019 – Feb 2020
+711,Debit or prepaid,27,3rd,False,Joined before 2010
+1731,Debit or prepaid,42,4th,True,Joined before 2010
+451,Debit or prepaid,50,Bottom,True,Joined before 2010
+1290,"Credit, limit $13.0k+",40,Top,False,Joined before 2010
+1817,Debit or prepaid,39,Top,False,Joined before 2010
+56,"Credit, limit under $13.0k",21,Bottom,True,Joined Nov 2019 – Feb 2020
+1383,Debit or prepaid,50,Top,False,Joined before 2010
+1915,"Credit, limit $13.0k+",38,4th,True,Joined before 2010
+1882,Debit or prepaid,39,Top,False,Joined before 2010
+1467,Debit or prepaid,18,4th,False,Joined 2010–2017
+1791,Debit or prepaid,46,2nd,False,Joined before 2010
+447,Debit or prepaid,63,Bottom,True,Joined before 2010
+1640,Debit or prepaid,50,2nd,True,Joined before 2010
+636,Debit or prepaid,36,Bottom,False,Joined before 2010
+782,Debit or prepaid,37,2nd,False,Joined before 2010
+316,"Credit, limit under $13.0k",18,3rd,True,Joined before 2010
+1192,Debit or prepaid,34,3rd,False,Joined 2010–2017
+787,Debit or prepaid,19,Top,True,Joined Nov 2019 – Feb 2020
+251,Debit or prepaid,21,3rd,False,Joined Nov 2019 – Feb 2020
+1351,"Credit, limit $13.0k+",18,Top,True,Joined Nov 2019 – Feb 2020
+490,Debit or prepaid,72,2nd,False,Joined before 2010
+1935,Debit or prepaid,22,4th,False,Joined Nov 2019 – Feb 2020
+387,Debit or prepaid,20,4th,False,Joined before 2010
+869,Debit or prepaid,61,2nd,False,Joined before 2010
+1865,"Credit, limit $13.0k+",19,Top,True,Joined Nov 2019 – Feb 2020
+268,Debit or prepaid,20,Top,False,Joined Nov 2019 – Feb 2020
+1124,"Credit, limit under $13.0k",30,Bottom,True,Joined before 2010
+721,Debit or prepaid,27,3rd,True,Joined before 2010
+813,Debit or prepaid,34,3rd,False,Joined before 2010
+152,"Credit, limit under $13.0k",21,4th,True,Joined before 2010
+1896,"Credit, limit $13.0k+",33,3rd,True,Joined before 2010
+1028,Debit or prepaid,35,Top,True,Joined before 2010
+922,Debit or prepaid,18,Bottom,False,Joined Nov 2019 – Feb 2020
+549,Debit or prepaid,37,Top,True,Joined before 2010
+565,Debit or prepaid,41,3rd,False,Joined before 2010
+1980,Debit or prepaid,40,4th,False,Joined before 2010
+1494,Debit or prepaid,21,Bottom,True,Joined 2010–2017
+1809,Debit or prepaid,28,Top,True,Joined before 2010
+637,"Credit, limit $13.0k+",27,Top,False,Joined before 2010
+1770,Debit or prepaid,22,2nd,True,Joined 2010–2017
+527,"Credit, limit under $13.0k",52,3rd,False,Joined 2010–2017
+1139,Debit or prepaid,24,2nd,False,Joined Nov 2019 – Feb 2020
+1459,"Credit, limit under $13.0k",40,2nd,True,Joined before 2010
+1544,Debit or prepaid,29,2nd,True,Joined 2010–2017
+1174,Debit or prepaid,25,3rd,False,Joined Nov 2019 – Feb 2020
+112,"Credit, limit under $13.0k",42,2nd,True,Joined before 2010
+369,Debit or prepaid,22,4th,True,Joined before 2010
+994,Debit or prepaid,67,Bottom,False,Joined before 2010
+1592,"Credit, limit $13.0k+",19,Top,True,Joined Nov 2019 – Feb 2020
+1029,Debit or prepaid,54,2nd,True,Joined before 2010
+1680,Debit or prepaid,56,Top,True,Joined 2010–2017
+1052,Debit or prepaid,39,Bottom,False,Joined before 2010
+494,"Credit, limit $13.0k+",24,4th,True,Joined before 2010
+94,Debit or prepaid,44,2nd,False,Joined before 2010
+425,Debit or prepaid,27,Top,False,Joined before 2010
+1720,Debit or prepaid,40,Bottom,False,Joined before 2010
+1699,"Credit, limit $13.0k+",50,4th,False,Joined before 2010
+1495,Debit or prepaid,31,Top,True,Joined before 2010
+1005,Debit or prepaid,21,3rd,False,Joined Nov 2019 – Feb 2020
+439,Debit or prepaid,29,4th,True,Joined 2010–2017
+1285,Debit or prepaid,48,Top,False,Joined before 2010
+1973,Debit or prepaid,43,2nd,False,Joined before 2010
+448,"Credit, limit under $13.0k",41,3rd,True,Joined Nov 2019 – Feb 2020
+1907,Debit or prepaid,25,2nd,True,Joined before 2010
+73,"Credit, limit under $13.0k",37,4th,True,Joined before 2010
+1097,Debit or prepaid,27,2nd,False,Joined before 2010
+1644,Debit or prepaid,71,2nd,True,Joined before 2010
+967,"Credit, limit under $13.0k",21,2nd,False,Joined before 2010
+1929,Debit or prepaid,29,3rd,False,Joined Nov 2019 – Feb 2020
+1114,"Credit, limit under $13.0k",31,2nd,False,Joined before 2010
+1087,Debit or prepaid,24,Bottom,True,Joined before 2010
+95,Debit or prepaid,25,Top,False,Joined Nov 2019 – Feb 2020
+1778,Debit or prepaid,29,Bottom,False,Joined Nov 2019 – Feb 2020
+1031,"Credit, limit $13.0k+",47,4th,True,Joined before 2010
+788,Debit or prepaid,19,4th,False,Joined Nov 2019 – Feb 2020
+728,Debit or prepaid,19,2nd,False,Joined before 2010
+1639,Debit or prepaid,48,4th,False,Joined 2010–2017
+1587,"Credit, limit $13.0k+",21,Top,True,Joined 2010–2017
+1883,Debit or prepaid,61,4th,False,Joined before 2010
+712,Debit or prepaid,62,Bottom,True,Joined before 2010
+1414,Debit or prepaid,55,Bottom,True,Joined before 2010
+243,Debit or prepaid,20,3rd,False,Joined Nov 2019 – Feb 2020
+146,Debit or prepaid,31,Top,True,Joined before 2010
+715,Debit or prepaid,36,Top,False,Joined Nov 2019 – Feb 2020
+1489,Debit or prepaid,45,4th,False,Joined before 2010
+1232,Debit or prepaid,18,4th,False,Joined Nov 2019 – Feb 2020
+842,Debit or prepaid,47,Top,False,Joined before 2010
+486,Debit or prepaid,23,4th,False,Joined Nov 2019 – Feb 2020
+763,"Credit, limit $13.0k+",18,Top,True,Joined before 2010
+154,Debit or prepaid,32,2nd,False,Joined before 2010
+704,Debit or prepaid,35,Top,True,Joined before 2010
+1409,Debit or prepaid,23,3rd,False,Joined Nov 2019 – Feb 2020
+1601,"Credit, limit under $13.0k",26,Top,True,Joined Nov 2019 – Feb 2020
+729,Debit or prepaid,68,Bottom,True,Joined before 2010
+1016,Debit or prepaid,26,Bottom,True,Joined before 2010
+1214,Debit or prepaid,28,Top,False,Joined before 2010
+1760,"Credit, limit $13.0k+",35,2nd,True,Joined Nov 2019 – Feb 2020
+927,Debit or prepaid,29,Top,False,Joined 2010–2017
+1667,Debit or prepaid,17,4th,False,Joined Nov 2019 – Feb 2020
+1796,Debit or prepaid,43,Bottom,False,Joined before 2010
+179,Debit or prepaid,22,3rd,False,Joined before 2010
+395,"Credit, limit $13.0k+",20,4th,True,Joined before 2010
+513,Debit or prepaid,19,2nd,True,Joined 2010–2017
+187,"Credit, limit under $13.0k",22,2nd,False,Joined before 2010
+491,Debit or prepaid,23,Bottom,True,Joined before 2010
+1153,Debit or prepaid,44,Top,False,Joined before 2010
+377,Debit or prepaid,66,3rd,True,Joined before 2010
+850,Debit or prepaid,32,3rd,False,Joined 2010–2017
+1186,Debit or prepaid,30,2nd,False,Joined before 2010
+1694,"Credit, limit $13.0k+",69,Top,True,Joined before 2010
+716,"Credit, limit under $13.0k",21,Bottom,True,Joined before 2010
+1131,"Credit, limit $13.0k+",64,Bottom,True,Joined before 2010
+1719,Debit or prepaid,62,Bottom,False,Joined before 2010
+254,Debit or prepaid,20,Top,True,Joined 2010–2017
+226,Debit or prepaid,23,Top,False,Joined 2010–2017
+1307,"Credit, limit $13.0k+",33,Top,True,Joined before 2010
+1095,Debit or prepaid,58,Bottom,False,Joined before 2010
+1729,Debit or prepaid,19,4th,False,Joined before 2010
+1466,"Credit, limit under $13.0k",24,2nd,True,Joined before 2010
+1226,"Credit, limit under $13.0k",27,2nd,True,Joined before 2010
+1755,Debit or prepaid,35,Bottom,True,Joined before 2010
+475,Debit or prepaid,20,3rd,False,Joined Nov 2019 – Feb 2020
+1956,"Credit, limit under $13.0k",26,2nd,True,Joined before 2010
+706,"Credit, limit $13.0k+",22,Top,True,Joined before 2010
+474,"Credit, limit $13.0k+",41,Top,True,Joined before 2010
+1259,Debit or prepaid,41,Top,False,Joined before 2010
+320,Debit or prepaid,22,2nd,False,Joined before 2010
+93,Debit or prepaid,24,Bottom,True,Joined 2010–2017
+1182,Debit or prepaid,21,3rd,False,Joined 2010–2017
+150,Debit or prepaid,33,Top,True,Joined before 2010
+1327,Debit or prepaid,20,3rd,False,Joined Nov 2019 – Feb 2020
+784,Debit or prepaid,28,4th,True,Joined before 2010
+1471,"Credit, limit under $13.0k",22,Bottom,True,Joined 2010–2017
+367,"Credit, limit under $13.0k",27,4th,True,Joined Nov 2019 – Feb 2020
+1050,Debit or prepaid,34,2nd,False,Joined 2010–2017
+207,Debit or prepaid,59,Bottom,True,Joined before 2010
+1838,Debit or prepaid,18,3rd,False,Joined Nov 2019 – Feb 2020
+798,Debit or prepaid,28,4th,True,Joined before 2010
+1207,"Credit, limit $13.0k+",26,4th,True,Joined before 2010
+1012,Debit or prepaid,28,2nd,False,Joined 2010–2017
+844,"Credit, limit under $13.0k",54,Bottom,True,Joined before 2010
+334,"Credit, limit under $13.0k",31,3rd,True,Joined before 2010
+815,Debit or prepaid,18,4th,False,Joined 2018 – Oct 2019
+1100,Debit or prepaid,49,Top,False,Joined before 2010
+407,"Credit, limit $13.0k+",23,3rd,True,Joined Nov 2019 – Feb 2020
+1244,Debit or prepaid,26,2nd,False,Joined before 2010
+1740,Debit or prepaid,24,Top,False,Joined before 2010
+1754,Debit or prepaid,22,Bottom,False,Joined before 2010
+1184,Debit or prepaid,56,Top,False,Joined before 2010
+1440,Debit or prepaid,26,3rd,False,Joined Nov 2019 – Feb 2020
+200,"Credit, limit under $13.0k",42,2nd,True,Joined before 2010
+1446,Debit or prepaid,20,Bottom,True,Joined 2010–2017
+1263,Debit or prepaid,29,2nd,True,Joined before 2010
+1483,Debit or prepaid,18,4th,False,Joined Nov 2019 – Feb 2020
+1085,Debit or prepaid,19,Top,False,Joined 2010–2017
+1961,"Credit, limit under $13.0k",18,2nd,True,Joined Nov 2019 – Feb 2020
+776,Debit or prepaid,42,Top,False,Joined before 2010
+890,"Credit, limit $13.0k+",20,4th,True,Joined before 2010
+1445,"Credit, limit under $13.0k",46,Bottom,True,Joined before 2010
+74,Debit or prepaid,46,3rd,False,Joined 2010–2017
+1216,"Credit, limit under $13.0k",26,3rd,True,Joined Nov 2019 – Feb 2020
+797,Debit or prepaid,40,Top,True,Joined before 2010
+610,"Credit, limit $13.0k+",18,3rd,True,Joined Nov 2019 – Feb 2020
+1917,Debit or prepaid,32,Top,True,Joined before 2010
+975,Debit or prepaid,28,Bottom,False,Joined Nov 2019 – Feb 2020
+109,Debit or prepaid,23,3rd,True,Joined 2010–2017
+547,Debit or prepaid,59,2nd,False,Joined before 2010
+347,"Credit, limit under $13.0k",23,3rd,True,Joined 2010–2017
+201,"Credit, limit under $13.0k",37,2nd,True,Joined before 2010
+1368,Debit or prepaid,20,4th,True,Joined 2010–2017
+1547,Debit or prepaid,26,3rd,False,Joined 2018 – Oct 2019
+1812,Debit or prepaid,18,4th,False,Joined before 2010
+1379,Debit or prepaid,65,2nd,True,Joined before 2010
+82,Debit or prepaid,20,Bottom,False,Joined 2018 – Oct 2019
+1053,"Credit, limit under $13.0k",46,4th,True,Joined before 2010
+1893,"Credit, limit under $13.0k",26,4th,True,Joined Nov 2019 – Feb 2020
+955,Debit or prepaid,29,2nd,True,Joined 2010–2017
+856,Debit or prepaid,45,Top,False,Joined 2010–2017
+1361,Debit or prepaid,48,Bottom,False,Joined before 2010
+261,"Credit, limit $13.0k+",22,Top,True,Joined before 2010
+64,"Credit, limit under $13.0k",25,4th,True,Joined before 2010
+1864,Debit or prepaid,20,4th,False,Joined Nov 2019 – Feb 2020
+1768,Debit or prepaid,28,4th,False,Joined Nov 2019 – Feb 2020
+1151,"Credit, limit under $13.0k",37,Bottom,True,Joined before 2010
+356,Debit or prepaid,33,3rd,False,Joined before 2010
+1393,Debit or prepaid,42,2nd,True,Joined before 2010
+865,"Credit, limit under $13.0k",29,3rd,True,Joined before 2010
+1914,"Credit, limit under $13.0k",21,3rd,True,Joined Nov 2019 – Feb 2020
+1641,"Credit, limit under $13.0k",28,4th,True,Joined 2010–2017
+707,Debit or prepaid,22,2nd,False,Joined Nov 2019 – Feb 2020
+3,Debit or prepaid,36,Bottom,False,Joined before 2010
+754,Debit or prepaid,59,2nd,True,Joined before 2010
+148,"Credit, limit $13.0k+",49,3rd,True,Joined before 2010
+127,"Credit, limit under $13.0k",29,2nd,True,Joined before 2010
+1675,Debit or prepaid,25,4th,False,Joined before 2010
+747,Debit or prepaid,51,Bottom,True,Joined before 2010
+1942,Debit or prepaid,60,Bottom,False,Joined before 2010
+452,Debit or prepaid,20,Top,False,Joined before 2010
+1157,Debit or prepaid,33,Top,False,Joined Nov 2019 – Feb 2020
+1534,Debit or prepaid,25,Top,False,Joined before 2010
+1086,Debit or prepaid,44,Top,True,Joined before 2010
+1984,Debit or prepaid,29,3rd,False,Joined Nov 2019 – Feb 2020
+835,Debit or prepaid,23,4th,False,Joined 2010–2017
+758,"Credit, limit under $13.0k",42,3rd,True,Joined before 2010
+1795,"Credit, limit under $13.0k",25,Top,True,Joined Nov 2019 – Feb 2020
+1221,"Credit, limit under $13.0k",48,Bottom,True,Joined before 2010
+1821,Debit or prepaid,21,3rd,True,Joined Nov 2019 – Feb 2020
+1248,"Credit, limit under $13.0k",35,3rd,True,Joined before 2010
+1900,Debit or prepaid,41,2nd,False,Joined before 2010
+597,Debit or prepaid,44,Top,True,Joined before 2010
+1620,"Credit, limit under $13.0k",21,2nd,True,Joined Nov 2019 – Feb 2020
+1213,"Credit, limit under $13.0k",18,3rd,True,Joined before 2010
+619,Debit or prepaid,31,4th,False,Joined before 2010
+1043,"Credit, limit $13.0k+",20,Top,True,Joined 2018 – Oct 2019
+394,Debit or prepaid,42,Top,False,Joined before 2010
+1376,"Credit, limit $13.0k+",37,Top,True,Joined before 2010
+834,"Credit, limit under $13.0k",19,2nd,True,Joined Nov 2019 – Feb 2020
+837,"Credit, limit under $13.0k",18,2nd,True,Joined before 2010
+1257,Debit or prepaid,39,4th,True,Joined before 2010
+1966,Debit or prepaid,19,2nd,False,Joined before 2010
+358,Debit or prepaid,26,Bottom,False,Joined 2010–2017
+912,"Credit, limit $13.0k+",34,4th,True,Joined before 2010
+605,Debit or prepaid,29,4th,True,Joined before 2010
+1362,"Credit, limit $13.0k+",29,Top,True,Joined before 2010
+1513,"Credit, limit $13.0k+",36,Top,True,Joined before 2010
+1521,"Credit, limit under $13.0k",56,Bottom,True,Joined before 2010
+564,"Credit, limit under $13.0k",45,3rd,True,Joined before 2010
+1309,Debit or prepaid,77,4th,False,Joined before 2010
+1583,Debit or prepaid,26,4th,False,Joined before 2010
+1885,Debit or prepaid,28,2nd,True,Joined before 2010
+1566,Debit or prepaid,27,3rd,False,Joined before 2010
+401,Debit or prepaid,70,Bottom,True,Joined before 2010
+15,"Credit, limit under $13.0k",35,Bottom,True,Joined before 2010
+1666,Debit or prepaid,42,4th,True,Joined before 2010
+509,Debit or prepaid,19,3rd,True,Joined before 2010
+954,Debit or prepaid,40,3rd,False,Joined before 2010
+832,Debit or prepaid,28,4th,True,Joined before 2010
+1046,"Credit, limit under $13.0k",22,2nd,True,Joined before 2010
+630,Debit or prepaid,43,3rd,False,Joined before 2010
+1561,Debit or prepaid,56,4th,True,Joined before 2010
+1548,Debit or prepaid,22,Top,False,Joined before 2010
+221,Debit or prepaid,46,3rd,False,Joined before 2010
+1991,Debit or prepaid,21,Bottom,False,Joined Nov 2019 – Feb 2020
+1328,"Credit, limit under $13.0k",21,Top,True,Joined 2010–2017
+1901,Debit or prepaid,51,2nd,False,Joined before 2010
+665,Debit or prepaid,59,Bottom,False,Joined before 2010
+442,Debit or prepaid,33,4th,False,Joined before 2010
+1626,"Credit, limit under $13.0k",44,Top,True,Joined before 2010
+1539,"Credit, limit $13.0k+",31,Top,True,Joined before 2010
+601,"Credit, limit under $13.0k",48,3rd,True,Joined before 2010
+541,"Credit, limit under $13.0k",34,Bottom,False,Joined before 2010
+210,"Credit, limit under $13.0k",35,Bottom,True,Joined before 2010
+206,"Credit, limit under $13.0k",18,3rd,True,Joined 2010–2017
+926,Debit or prepaid,20,3rd,False,Joined Nov 2019 – Feb 2020
+115,Debit or prepaid,42,Top,True,Joined before 2010
+1779,Debit or prepaid,20,2nd,False,Joined 2010–2017
+248,Debit or prepaid,58,Bottom,False,Joined before 2010
+1003,"Credit, limit $13.0k+",44,Top,True,Joined 2010–2017
+294,Debit or prepaid,36,3rd,False,Joined Nov 2019 – Feb 2020
+118,"Credit, limit under $13.0k",33,2nd,True,Joined before 2010
+292,Debit or prepaid,23,3rd,False,Joined Nov 2019 – Feb 2020
+755,Debit or prepaid,54,Bottom,False,Joined before 2010
+1878,Debit or prepaid,18,3rd,False,Joined Nov 2019 – Feb 2020
+1432,"Credit, limit $13.0k+",19,Top,True,Joined before 2010
+456,"Credit, limit under $13.0k",32,2nd,True,Joined before 2010
+623,Debit or prepaid,47,Top,False,Joined before 2010
+1426,"Credit, limit $13.0k+",22,Top,True,Joined Nov 2019 – Feb 2020
+47,Debit or prepaid,29,Bottom,True,Joined before 2010
+760,"Credit, limit under $13.0k",43,2nd,True,Joined before 2010
+956,Debit or prepaid,18,4th,False,Joined before 2010
+194,Debit or prepaid,30,Bottom,True,Joined before 2010
+693,Debit or prepaid,20,Top,False,Joined Nov 2019 – Feb 2020
+1246,Debit or prepaid,34,Bottom,True,Joined before 2010
+641,Debit or prepaid,42,2nd,False,Joined before 2010
+1060,"Credit, limit under $13.0k",64,Bottom,True,Joined before 2010
+1292,Debit or prepaid,20,Bottom,True,Joined Nov 2019 – Feb 2020
+1113,"Credit, limit under $13.0k",19,Bottom,True,Joined Nov 2019 – Feb 2020
+245,"Credit, limit under $13.0k",27,Top,True,Joined before 2010
+774,Debit or prepaid,31,2nd,False,Joined before 2010
+1822,Debit or prepaid,73,Bottom,False,Joined before 2010
+1209,Debit or prepaid,29,Top,True,Joined before 2010
+997,"Credit, limit under $13.0k",42,4th,True,Joined before 2010
+1180,"Credit, limit under $13.0k",20,2nd,True,Joined 2010–2017
+318,Debit or prepaid,39,2nd,True,Joined before 2010
+691,Debit or prepaid,21,4th,False,Joined before 2010
+1993,"Credit, limit $13.0k+",44,Top,False,Joined before 2010
+252,"Credit, limit under $13.0k",49,2nd,True,Joined before 2010
+1757,"Credit, limit $13.0k+",26,3rd,True,Joined before 2010
+1324,"Credit, limit under $13.0k",26,3rd,True,Joined before 2010
+1557,Debit or prepaid,34,4th,True,Joined before 2010
+1555,Debit or prepaid,20,3rd,True,Joined 2010–2017
+941,Debit or prepaid,39,4th,False,Joined before 2010
+156,"Credit, limit under $13.0k",22,Bottom,True,Joined before 2010
+24,Debit or prepaid,30,3rd,False,Joined before 2010
+302,Debit or prepaid,20,2nd,True,Joined 2010–2017
+949,Debit or prepaid,19,Top,True,Joined 2010–2017
+1281,Debit or prepaid,75,Bottom,True,Joined before 2010
+1428,Debit or prepaid,23,Bottom,False,Joined before 2010
+433,Debit or prepaid,36,2nd,True,Joined before 2010
+584,Debit or prepaid,45,Bottom,True,Joined before 2010
+1832,"Credit, limit under $13.0k",20,2nd,True,Joined before 2010
+222,Debit or prepaid,35,Top,False,Joined before 2010
+648,"Credit, limit under $13.0k",24,Bottom,True,Joined before 2010
+1939,"Credit, limit under $13.0k",42,Bottom,True,Joined 2018 – Oct 2019
+722,Debit or prepaid,25,2nd,False,Joined Nov 2019 – Feb 2020
+1889,Debit or prepaid,51,4th,True,Joined before 2010
+1229,"Credit, limit under $13.0k",32,4th,True,Joined before 2010
+505,Debit or prepaid,26,Bottom,False,Joined before 2010
+1083,Debit or prepaid,29,3rd,True,Joined before 2010
+1656,Debit or prepaid,31,3rd,False,Joined 2010–2017
+568,Debit or prepaid,24,3rd,False,Joined Nov 2019 – Feb 2020
+1373,"Credit, limit under $13.0k",20,2nd,True,Joined before 2010
+667,Debit or prepaid,68,3rd,False,Joined before 2010
+480,"Credit, limit $13.0k+",35,Top,True,Joined before 2010
+569,"Credit, limit under $13.0k",48,4th,True,Joined 2010–2017
+1600,Debit or prepaid,49,Top,False,Joined before 2010
+1063,Debit or prepaid,44,3rd,True,Joined before 2010
+32,Debit or prepaid,65,4th,False,Joined before 2010
+1040,"Credit, limit $13.0k+",28,Top,True,Joined Nov 2019 – Feb 2020
+396,"Credit, limit $13.0k+",73,4th,False,Joined before 2010
+1498,Debit or prepaid,29,4th,False,Joined before 2010
+104,"Credit, limit under $13.0k",20,2nd,True,Joined before 2010
+1062,Debit or prepaid,50,2nd,False,Joined 2010–2017
+1845,"Credit, limit $13.0k+",30,4th,True,Joined Nov 2019 – Feb 2020
+1657,"Credit, limit under $13.0k",23,Bottom,True,Joined before 2010
+1106,Debit or prepaid,50,Bottom,False,Joined before 2010
+1867,Debit or prepaid,20,3rd,False,Joined before 2010
+1045,Debit or prepaid,19,2nd,False,Joined 2010–2017
+1786,Debit or prepaid,30,3rd,True,Joined before 2010
+1569,"Credit, limit under $13.0k",42,3rd,True,Joined before 2010
+899,Debit or prepaid,21,4th,False,Joined 2010–2017
+1595,Debit or prepaid,29,4th,True,Joined before 2010
+446,"Credit, limit under $13.0k",23,4th,True,Joined Nov 2019 – Feb 2020
+53,"Credit, limit $13.0k+",33,3rd,True,Joined before 2010
+1136,"Credit, limit $13.0k+",23,Top,True,Joined Nov 2019 – Feb 2020
+551,"Credit, limit under $13.0k",52,3rd,False,Joined before 2010
+1491,"Credit, limit under $13.0k",19,4th,False,Joined before 2010
+330,Debit or prepaid,26,Top,False,Joined 2010–2017
+392,Debit or prepaid,28,2nd,True,Joined before 2010
+1144,Debit or prepaid,41,Bottom,True,Joined before 2010
+1163,Debit or prepaid,29,Top,True,Joined before 2010
+230,"Credit, limit under $13.0k",23,2nd,True,Joined before 2010
+1066,Debit or prepaid,33,4th,False,Joined before 2010
+460,Debit or prepaid,48,3rd,False,Joined before 2010
+1661,"Credit, limit $13.0k+",32,Top,True,Joined before 2010
+1926,"Credit, limit under $13.0k",55,Bottom,True,Joined before 2010
+27,"Credit, limit under $13.0k",59,Bottom,True,Joined before 2010
+365,Debit or prepaid,39,3rd,False,Joined before 2010
+50,Debit or prepaid,55,3rd,True,Joined before 2010
+653,"Credit, limit under $13.0k",19,4th,True,Joined Nov 2019 – Feb 2020
+743,Debit or prepaid,27,2nd,False,Joined before 2010
+999,"Credit, limit under $13.0k",19,4th,True,Joined Nov 2019 – Feb 2020
+940,Debit or prepaid,32,3rd,False,Joined before 2010
+534,Debit or prepaid,18,Top,False,Joined 2010–2017
+1460,Debit or prepaid,24,Top,False,Joined Nov 2019 – Feb 2020
+59,"Credit, limit under $13.0k",65,Bottom,True,Joined before 2010
+1908,Debit or prepaid,62,3rd,True,Joined before 2010
+1436,Debit or prepaid,21,4th,True,Joined Nov 2019 – Feb 2020
+1230,Debit or prepaid,18,Bottom,False,Joined Nov 2019 – Feb 2020
+324,"Credit, limit $13.0k+",21,Top,True,Joined Nov 2019 – Feb 2020
+992,"Credit, limit $13.0k+",23,4th,True,Joined before 2010
+198,"Credit, limit under $13.0k",28,2nd,True,Joined before 2010
+1017,Debit or prepaid,24,Bottom,False,Joined Nov 2019 – Feb 2020
+1813,"Credit, limit $13.0k+",21,4th,True,Joined before 2010
+1989,"Credit, limit $13.0k+",18,Top,True,Joined before 2010
+1148,"Credit, limit under $13.0k",39,2nd,True,Joined before 2010
+872,Debit or prepaid,45,2nd,True,Joined before 2010
+458,Debit or prepaid,32,4th,False,Joined before 2010
+920,"Credit, limit under $13.0k",26,Bottom,True,Joined before 2010
+1598,"Credit, limit under $13.0k",71,Bottom,True,Joined before 2010
+1876,Debit or prepaid,29,3rd,True,Joined before 2010
+412,"Credit, limit $13.0k+",25,4th,True,Joined Nov 2019 – Feb 2020
+190,Debit or prepaid,25,3rd,False,Joined before 2010
+163,Debit or prepaid,20,2nd,False,Joined before 2010
+567,"Credit, limit under $13.0k",21,2nd,True,Joined 2010–2017
+503,Debit or prepaid,33,Bottom,False,Joined before 2010
+469,Debit or prepaid,54,4th,True,Joined before 2010
+1851,Debit or prepaid,33,Top,False,Joined before 2010
+1523,Debit or prepaid,43,3rd,True,Joined before 2010
+35,Debit or prepaid,20,4th,False,Joined Nov 2019 – Feb 2020
+317,Debit or prepaid,52,Bottom,False,Joined before 2010
+1195,Debit or prepaid,55,3rd,True,Joined before 2010
+1238,"Credit, limit $13.0k+",20,Top,True,Joined before 2010
+432,Debit or prepaid,43,Bottom,True,Joined before 2010
+1082,"Credit, limit under $13.0k",19,2nd,True,Joined before 2010
+120,Debit or prepaid,35,Top,False,Joined before 2010
+1289,Debit or prepaid,24,3rd,False,Joined 2010–2017
+1502,Debit or prepaid,20,Top,False,Joined Nov 2019 – Feb 2020
+1497,Debit or prepaid,34,2nd,False,Joined before 2010
+1047,Debit or prepaid,18,4th,True,Joined 2010–2017
+0,"Credit, limit $13.0k+",21,Top,False,Joined before 2010
+351,Debit or prepaid,73,Bottom,True,Joined before 2010
+1797,Debit or prepaid,54,Bottom,False,Joined before 2010
+1386,Debit or prepaid,47,3rd,False,Joined before 2010
+1122,Debit or prepaid,26,Top,False,Joined 2010–2017
+255,Debit or prepaid,18,3rd,False,Joined Nov 2019 – Feb 2020
+765,"Credit, limit $13.0k+",18,2nd,True,Joined Nov 2019 – Feb 2020
+703,Debit or prepaid,37,3rd,True,Joined before 2010
+1919,Debit or prepaid,69,Top,True,Joined before 2010
+791,Debit or prepaid,64,3rd,True,Joined before 2010
+199,Debit or prepaid,51,Top,False,Joined before 2010
+282,Debit or prepaid,28,Bottom,True,Joined before 2010
+908,Debit or prepaid,45,4th,False,Joined before 2010
+880,"Credit, limit under $13.0k",19,3rd,False,Joined 2010–2017
+770,"Credit, limit $13.0k+",23,Top,True,Joined before 2010
+1169,"Credit, limit $13.0k+",31,Top,True,Joined before 2010
+522,Debit or prepaid,25,3rd,True,Joined Nov 2019 – Feb 2020
+1736,Debit or prepaid,29,4th,True,Joined before 2010
+506,"Credit, limit $13.0k+",37,4th,True,Joined before 2010
+131,Debit or prepaid,23,3rd,False,Joined Nov 2019 – Feb 2020
+76,"Credit, limit under $13.0k",22,4th,True,Joined Nov 2019 – Feb 2020
+249,"Credit, limit under $13.0k",29,Bottom,True,Joined before 2010
+1279,Debit or prepaid,58,Top,False,Joined before 2010
+1652,Debit or prepaid,42,3rd,False,Joined 2010–2017
+739,"Credit, limit under $13.0k",27,Top,False,Joined before 2010
+1475,Debit or prepaid,76,3rd,False,Joined before 2010
+1251,Debit or prepaid,19,3rd,False,Joined before 2010
+1119,"Credit, limit under $13.0k",23,4th,True,Joined Nov 2019 – Feb 2020
+592,Debit or prepaid,48,Bottom,True,Joined before 2010
+692,Debit or prepaid,36,3rd,True,Joined before 2010
+1065,Debit or prepaid,27,4th,True,Joined before 2010
+1764,"Credit, limit under $13.0k",45,2nd,True,Joined before 2010
+1830,"Credit, limit under $13.0k",30,2nd,True,Joined before 2010
+157,Debit or prepaid,26,2nd,False,Joined before 2010
+676,Debit or prepaid,29,Top,True,Joined before 2010
+1481,Debit or prepaid,59,Bottom,False,Joined before 2010
+1902,"Credit, limit under $13.0k",25,2nd,True,Joined before 2010
+123,Debit or prepaid,32,2nd,False,Joined before 2010
+1995,"Credit, limit under $13.0k",47,3rd,True,Joined before 2010
+1688,Debit or prepaid,26,2nd,False,Joined 2018 – Oct 2019
+1895,Debit or prepaid,42,3rd,False,Joined before 2010
+1891,Debit or prepaid,32,2nd,True,Joined before 2010
+453,Debit or prepaid,25,Top,False,Joined Nov 2019 – Feb 2020
+341,Debit or prepaid,34,Top,False,Joined before 2010
+1571,Debit or prepaid,41,4th,False,Joined before 2010
+1615,Debit or prepaid,52,4th,False,Joined before 2010
+1647,"Credit, limit under $13.0k",17,2nd,True,Joined Nov 2019 – Feb 2020
+680,Debit or prepaid,26,Bottom,False,Joined before 2010
+52,Debit or prepaid,39,Top,False,Joined before 2010
+1387,"Credit, limit under $13.0k",28,Top,True,Joined Nov 2019 – Feb 2020
+1034,Debit or prepaid,36,4th,True,Joined before 2010
+677,"Credit, limit $13.0k+",28,Top,True,Joined before 2010
+440,Debit or prepaid,24,Top,False,Joined before 2010
+338,Debit or prepaid,61,4th,False,Joined 2010–2017
+1120,"Credit, limit $13.0k+",34,4th,True,Joined 2010–2017
+1127,Debit or prepaid,42,2nd,False,Joined before 2010
+1662,Debit or prepaid,25,4th,False,Joined before 2010
+1462,Debit or prepaid,30,3rd,False,Joined Nov 2019 – Feb 2020
+1848,"Credit, limit under $13.0k",31,4th,True,Joined Nov 2019 – Feb 2020
+1444,Debit or prepaid,49,Top,False,Joined before 2010
+45,Debit or prepaid,45,Top,False,Joined before 2010
+1102,Debit or prepaid,29,Top,True,Joined before 2010
+1636,Debit or prepaid,37,Bottom,True,Joined before 2010
+502,"Credit, limit under $13.0k",27,2nd,True,Joined before 2010
+1630,"Credit, limit under $13.0k",24,2nd,True,Joined Nov 2019 – Feb 2020
+266,Debit or prepaid,19,Bottom,False,Joined 2018 – Oct 2019
+5,Debit or prepaid,49,Bottom,False,Joined before 2010
+1712,Debit or prepaid,66,Top,False,Joined before 2010
+1360,"Credit, limit under $13.0k",28,3rd,True,Joined before 2010
+1013,"Credit, limit under $13.0k",25,4th,True,Joined Nov 2019 – Feb 2020
+993,"Credit, limit under $13.0k",41,3rd,True,Joined 2010–2017
+642,Debit or prepaid,18,2nd,False,Joined before 2010
+1871,Debit or prepaid,65,Bottom,False,Joined before 2010
+1721,"Credit, limit under $13.0k",24,3rd,True,Joined before 2010
+868,Debit or prepaid,60,Bottom,True,Joined before 2010
+1517,Debit or prepaid,22,Top,True,Joined before 2010
+364,"Credit, limit under $13.0k",52,3rd,False,Joined before 2010
+686,Debit or prepaid,51,2nd,False,Joined before 2010
+696,Debit or prepaid,56,Top,False,Joined before 2010
+962,Debit or prepaid,18,2nd,True,Joined 2010–2017
+1407,Debit or prepaid,22,3rd,False,Joined before 2010
+1015,Debit or prepaid,20,Top,True,Joined before 2010
+1456,Debit or prepaid,37,2nd,True,Joined before 2010
+1861,"Credit, limit $13.0k+",46,Top,True,Joined before 2010
+161,Debit or prepaid,21,Bottom,False,Joined before 2010
+263,Debit or prepaid,18,Bottom,True,Joined before 2010
+1389,"Credit, limit under $13.0k",29,2nd,True,Joined before 2010
+1707,Debit or prepaid,18,2nd,False,Joined 2010–2017
+1374,"Credit, limit under $13.0k",28,3rd,True,Joined Nov 2019 – Feb 2020
+1855,"Credit, limit $13.0k+",57,2nd,True,Joined before 2010
+867,Debit or prepaid,26,3rd,False,Joined Nov 2019 – Feb 2020
+274,"Credit, limit under $13.0k",27,4th,True,Joined before 2010
+1552,Debit or prepaid,52,4th,False,Joined 2010–2017
+635,"Credit, limit under $13.0k",25,2nd,True,Joined Nov 2019 – Feb 2020
+1526,"Credit, limit under $13.0k",35,2nd,True,Joined before 2010
+319,"Credit, limit under $13.0k",57,Bottom,True,Joined 2010–2017
+740,Debit or prepaid,19,2nd,False,Joined before 2010
+965,Debit or prepaid,18,3rd,True,Joined Nov 2019 – Feb 2020
+1421,Debit or prepaid,22,2nd,False,Joined 2010–2017
+1538,Debit or prepaid,60,Bottom,False,Joined before 2010
+1101,Debit or prepaid,20,Bottom,True,Joined 2010–2017
+92,"Credit, limit under $13.0k",55,Bottom,True,Joined before 2010
+125,"Credit, limit under $13.0k",42,Bottom,True,Joined before 2010
+449,"Credit, limit under $13.0k",45,3rd,True,Joined before 2010
+1173,"Credit, limit under $13.0k",52,4th,True,Joined before 2010
+1810,"Credit, limit under $13.0k",53,2nd,True,Joined before 2010
+1843,"Credit, limit under $13.0k",67,3rd,True,Joined before 2010
+1578,"Credit, limit under $13.0k",79,2nd,True,Joined 2010–2017
+658,"Credit, limit $13.0k+",23,4th,True,Joined before 2010
+1858,"Credit, limit under $13.0k",60,Bottom,True,Joined before 2010
+1663,Debit or prepaid,24,Bottom,False,Joined Nov 2019 – Feb 2020
+1503,"Credit, limit under $13.0k",36,3rd,True,Joined before 2010
+725,Debit or prepaid,18,3rd,False,Joined Nov 2019 – Feb 2020
+1671,Debit or prepaid,33,3rd,False,Joined before 2010
+1233,"Credit, limit under $13.0k",27,3rd,True,Joined 2010–2017
+1271,Debit or prepaid,20,4th,True,Joined before 2010
+473,"Credit, limit under $13.0k",21,Bottom,True,Joined before 2010
+1541,"Credit, limit under $13.0k",31,2nd,True,Joined before 2010
+149,"Credit, limit $13.0k+",20,Top,True,Joined 2010–2017
+560,"Credit, limit under $13.0k",46,3rd,True,Joined before 2010
+1006,Debit or prepaid,25,3rd,True,Joined before 2010
+368,Debit or prepaid,62,3rd,True,Joined before 2010
+1696,Debit or prepaid,43,4th,False,Joined before 2010
+416,Debit or prepaid,63,3rd,True,Joined before 2010
+51,"Credit, limit under $13.0k",19,4th,True,Joined 2010–2017
+196,"Credit, limit under $13.0k",35,2nd,True,Joined 2010–2017
+690,Debit or prepaid,59,Top,False,Joined before 2010
+1477,"Credit, limit under $13.0k",29,4th,True,Joined before 2010
+260,Debit or prepaid,50,Bottom,False,Joined before 2010
+857,Debit or prepaid,78,3rd,False,Joined before 2010
+1167,Debit or prepaid,23,4th,False,Joined before 2010
+1358,Debit or prepaid,58,Top,False,Joined before 2010
+1611,Debit or prepaid,49,Bottom,False,Joined before 2010
+734,"Credit, limit under $13.0k",27,Bottom,True,Joined before 2010
+1507,Debit or prepaid,27,3rd,False,Joined before 2010
+504,Debit or prepaid,30,2nd,False,Joined 2010–2017
+524,Debit or prepaid,48,2nd,False,Joined 2010–2017
+525,Debit or prepaid,46,2nd,False,Joined 2010–2017
+250,"Credit, limit under $13.0k",27,2nd,False,Joined before 2010
+479,Debit or prepaid,39,Top,True,Joined before 2010
+343,"Credit, limit under $13.0k",35,4th,True,Joined before 2010
+1196,"Credit, limit under $13.0k",44,2nd,True,Joined before 2010
+1530,"Credit, limit under $13.0k",47,Bottom,True,Joined before 2010
+1963,"Credit, limit $13.0k+",82,2nd,True,Joined before 2010
+764,"Credit, limit $13.0k+",62,Bottom,True,Joined before 2010
+213,"Credit, limit $13.0k+",24,4th,True,Joined before 2010
+410,"Credit, limit $13.0k+",32,4th,False,Joined before 2010
+1685,Debit or prepaid,43,Top,False,Joined 2010–2017
+225,Debit or prepaid,22,3rd,True,Joined 2010–2017
+1210,Debit or prepaid,18,2nd,True,Joined before 2010
+1336,"Credit, limit $13.0k+",18,4th,True,Joined Nov 2019 – Feb 2020
+576,"Credit, limit under $13.0k",53,Top,True,Joined before 2010
+1677,Debit or prepaid,33,2nd,True,Joined before 2010
+1969,Debit or prepaid,63,3rd,True,Joined before 2010
+1431,"Credit, limit under $13.0k",41,3rd,False,Joined before 2010
+558,"Credit, limit under $13.0k",19,2nd,True,Joined Nov 2019 – Feb 2020
+1482,Debit or prepaid,44,Top,False,Joined 2010–2017
+1295,"Credit, limit under $13.0k",54,Bottom,True,Joined before 2010
+1468,Debit or prepaid,55,3rd,False,Joined before 2010
+538,Debit or prepaid,40,Bottom,True,Joined before 2010
+748,"Credit, limit $13.0k+",40,2nd,True,Joined before 2010
+1068,Debit or prepaid,20,2nd,False,Joined 2018 – Oct 2019
+41,Debit or prepaid,27,Bottom,False,Joined before 2010
+807,Debit or prepaid,31,3rd,False,Joined before 2010
+1430,Debit or prepaid,51,2nd,True,Joined before 2010
+1873,Debit or prepaid,33,2nd,False,Joined before 2010
+204,Debit or prepaid,31,3rd,False,Joined Nov 2019 – Feb 2020
+424,Debit or prepaid,24,4th,True,Joined Nov 2019 – Feb 2020
+980,"Credit, limit $13.0k+",68,Bottom,True,Joined before 2010
+1415,"Credit, limit under $13.0k",26,4th,True,Joined 2018 – Oct 2019
+600,Debit or prepaid,18,4th,False,Joined Nov 2019 – Feb 2020
+652,"Credit, limit $13.0k+",68,Bottom,True,Joined before 2010
+1129,Debit or prepaid,35,2nd,True,Joined before 2010
+885,"Credit, limit under $13.0k",23,Bottom,True,Joined before 2010
+1899,Debit or prepaid,20,4th,False,Joined before 2010
+1369,Debit or prepaid,42,2nd,True,Joined before 2010
+1057,Debit or prepaid,29,4th,False,Joined 2010–2017
+1302,Debit or prepaid,48,Bottom,True,Joined before 2010
+415,Debit or prepaid,35,2nd,True,Joined before 2010
+83,"Credit, limit under $13.0k",26,Top,True,Joined 2010–2017
+1093,"Credit, limit under $13.0k",17,4th,True,Joined Nov 2019 – Feb 2020
+28,Debit or prepaid,28,4th,True,Joined before 2010
+33,Debit or prepaid,56,3rd,True,Joined before 2010
+1646,"Credit, limit under $13.0k",43,Bottom,True,Joined before 2010
+1847,"Credit, limit under $13.0k",22,2nd,True,Joined Nov 2019 – Feb 2020
+1152,"Credit, limit under $13.0k",35,2nd,True,Joined 2010–2017
+134,"Credit, limit under $13.0k",34,4th,True,Joined 2010–2017
+188,Debit or prepaid,24,Top,False,Joined Nov 2019 – Feb 2020
+220,"Credit, limit $13.0k+",23,Top,True,Joined 2010–2017
+1343,"Credit, limit under $13.0k",19,Bottom,True,Joined 2010–2017
+1930,Debit or prepaid,20,3rd,True,Joined 2010–2017
+1260,"Credit, limit under $13.0k",22,3rd,True,Joined 2010–2017
+96,Debit or prepaid,52,Top,True,Joined before 2010
+1166,Debit or prepaid,29,3rd,True,Joined before 2010
+1533,"Credit, limit $13.0k+",25,4th,True,Joined before 2010
+88,"Credit, limit under $13.0k",22,2nd,True,Joined Nov 2019 – Feb 2020
+1451,Debit or prepaid,40,Bottom,False,Joined before 2010
+57,Debit or prepaid,18,3rd,False,Joined 2010–2017
+1335,Debit or prepaid,44,Top,False,Joined 2010–2017
+816,Debit or prepaid,42,2nd,True,Joined before 2010
+1081,"Credit, limit under $13.0k",20,4th,True,Joined before 2010
+1385,Debit or prepaid,33,Top,True,Joined before 2010
+1125,Debit or prepaid,20,Top,True,Joined 2010–2017
+1952,Debit or prepaid,26,2nd,False,Joined Nov 2019 – Feb 2020
+1870,"Credit, limit $13.0k+",24,Top,True,Joined Nov 2019 – Feb 2020
+1345,Debit or prepaid,68,Bottom,True,Joined before 2010
+1695,"Credit, limit under $13.0k",29,4th,True,Joined before 2010
+1906,Debit or prepaid,18,Bottom,False,Joined Nov 2019 – Feb 2020
+1985,Debit or prepaid,27,Bottom,True,Joined before 2010
+1604,Debit or prepaid,41,2nd,True,Joined before 2010
+1933,Debit or prepaid,26,Bottom,False,Joined Nov 2019 – Feb 2020
+649,"Credit, limit $13.0k+",33,4th,True,Joined before 2010
+1486,"Credit, limit under $13.0k",30,Bottom,True,Joined 2010–2017
+1744,Debit or prepaid,18,Bottom,True,Joined before 2010
+1272,Debit or prepaid,27,Top,False,Joined Nov 2019 – Feb 2020
+400,Debit or prepaid,32,3rd,False,Joined before 2010
+1994,"Credit, limit $13.0k+",39,Top,True,Joined 2010–2017
+572,Debit or prepaid,24,4th,False,Joined 2010–2017
+1442,Debit or prepaid,31,Bottom,False,Joined 2010–2017
+1853,Debit or prepaid,23,2nd,True,Joined before 2010
+556,Debit or prepaid,21,2nd,False,Joined before 2010
+1960,Debit or prepaid,30,4th,False,Joined Nov 2019 – Feb 2020
+321,Debit or prepaid,31,3rd,False,Joined before 2010
+483,"Credit, limit under $13.0k",30,3rd,True,Joined before 2010
+404,"Credit, limit under $13.0k",35,3rd,True,Joined 2010–2017
+1510,"Credit, limit under $13.0k",22,4th,False,Joined 2010–2017
+916,Debit or prepaid,21,3rd,False,Joined Nov 2019 – Feb 2020
+1635,Debit or prepaid,37,3rd,True,Joined before 2010
+1384,Debit or prepaid,58,Bottom,False,Joined before 2010
+943,"Credit, limit under $13.0k",61,Top,True,Joined 2010–2017
+1236,Debit or prepaid,50,Bottom,True,Joined before 2010
+969,Debit or prepaid,23,Top,False,Joined Nov 2019 – Feb 2020
+508,Debit or prepaid,24,Top,False,Joined Nov 2019 – Feb 2020
+496,"Credit, limit under $13.0k",30,2nd,True,Joined before 2010
+450,Debit or prepaid,25,3rd,False,Joined before 2010
+1753,Debit or prepaid,36,4th,False,Joined 2010–2017
+304,Debit or prepaid,19,3rd,False,Joined before 2010
+839,Debit or prepaid,34,4th,False,Joined before 2010
+138,"Credit, limit under $13.0k",23,2nd,True,Joined before 2010
+43,Debit or prepaid,24,Top,True,Joined 2010–2017
+1187,"Credit, limit under $13.0k",41,4th,True,Joined before 2010
+849,Debit or prepaid,55,3rd,False,Joined before 2010
+654,"Credit, limit under $13.0k",42,2nd,True,Joined 2010–2017
+1898,Debit or prepaid,22,4th,True,Joined before 2010
+1971,Debit or prepaid,33,3rd,False,Joined before 2010
+1020,Debit or prepaid,19,4th,True,Joined 2010–2017
+22,"Credit, limit $13.0k+",54,4th,True,Joined 2010–2017
+436,Debit or prepaid,20,4th,False,Joined Nov 2019 – Feb 2020
+1823,"Credit, limit $13.0k+",50,Top,True,Joined before 2010
+589,Debit or prepaid,37,Bottom,False,Joined before 2010
+49,Debit or prepaid,28,3rd,False,Joined 2010–2017
+1350,Debit or prepaid,22,3rd,False,Joined Nov 2019 – Feb 2020
+1525,"Credit, limit under $13.0k",29,3rd,True,Joined before 2010
+69,Debit or prepaid,38,3rd,True,Joined before 2010
+234,Debit or prepaid,24,3rd,True,Joined before 2010
+608,Debit or prepaid,23,Bottom,False,Joined 2010–2017
+1064,Debit or prepaid,37,4th,False,Joined before 2010
+374,Debit or prepaid,42,2nd,True,Joined before 2010
+286,Debit or prepaid,28,3rd,False,Joined 2010–2017
+1419,Debit or prepaid,37,Top,False,Joined before 2010
+1435,"Credit, limit $13.0k+",30,Top,True,Joined before 2010
+1683,"Credit, limit under $13.0k",29,Bottom,True,Joined before 2010
+727,Debit or prepaid,32,3rd,True,Joined before 2010
+1150,"Credit, limit $13.0k+",34,Top,True,Joined before 2010
+332,"Credit, limit under $13.0k",46,2nd,True,Joined before 2010
+487,Debit or prepaid,33,4th,False,Joined before 2010
+735,"Credit, limit $13.0k+",26,Top,False,Joined before 2010
+137,Debit or prepaid,19,3rd,True,Joined before 2010
+570,Debit or prepaid,22,2nd,False,Joined before 2010
+1121,Debit or prepaid,29,Top,True,Joined before 2010
+860,Debit or prepaid,37,Top,True,Joined before 2010
+518,"Credit, limit under $13.0k",29,4th,True,Joined 2010–2017
+1203,Debit or prepaid,25,3rd,False,Joined before 2010
+944,Debit or prepaid,40,Top,True,Joined before 2010
+388,Debit or prepaid,19,Bottom,False,Joined 2010–2017
+741,Debit or prepaid,66,3rd,False,Joined 2010–2017
+1737,Debit or prepaid,31,3rd,False,Joined before 2010
+1709,Debit or prepaid,49,2nd,False,Joined before 2010
+1018,Debit or prepaid,64,2nd,True,Joined before 2010
+275,Debit or prepaid,26,Top,True,Joined before 2010
+1367,Debit or prepaid,32,2nd,False,Joined before 2010
+1965,"Credit, limit under $13.0k",24,2nd,True,Joined Nov 2019 – Feb 2020
+284,Debit or prepaid,36,4th,False,Joined before 2010
+79,Debit or prepaid,57,Bottom,True,Joined before 2010
+1515,Debit or prepaid,63,Bottom,True,Joined before 2010
+1934,"Credit, limit under $13.0k",31,Bottom,True,Joined before 2010
+9,Debit or prepaid,29,3rd,True,Joined Nov 2019 – Feb 2020
+1964,"Credit, limit under $13.0k",54,3rd,True,Joined before 2010
+982,"Credit, limit under $13.0k",30,Top,True,Joined before 2010
+1676,Debit or prepaid,38,4th,False,Joined before 2010
+1519,Debit or prepaid,24,3rd,False,Joined before 2010
+1098,Debit or prepaid,37,2nd,True,Joined before 2010
+554,Debit or prepaid,40,4th,False,Joined before 2010
+596,"Credit, limit under $13.0k",23,2nd,True,Joined 2010–2017
+170,"Credit, limit under $13.0k",21,2nd,True,Joined before 2010
+794,Debit or prepaid,38,Bottom,False,Joined before 2010
+1697,Debit or prepaid,49,3rd,False,Joined before 2010
+573,"Credit, limit under $13.0k",36,Bottom,True,Joined before 2010
+1715,Debit or prepaid,32,4th,False,Joined Nov 2019 – Feb 2020
+1607,"Credit, limit $13.0k+",21,4th,True,Joined Nov 2019 – Feb 2020
+1026,Debit or prepaid,64,Bottom,True,Joined before 2010
+1892,Debit or prepaid,22,2nd,False,Joined Nov 2019 – Feb 2020
+402,Debit or prepaid,34,3rd,False,Joined before 2010
+1628,Debit or prepaid,35,Top,False,Joined before 2010
+553,Debit or prepaid,60,2nd,False,Joined before 2010
+1551,Debit or prepaid,34,2nd,True,Joined before 2010
+1672,Debit or prepaid,20,Top,True,Joined 2010–2017
+426,"Credit, limit under $13.0k",26,3rd,False,Joined Nov 2019 – Feb 2020
+1135,"Credit, limit $13.0k+",71,Top,True,Joined before 2010
+1420,Debit or prepaid,69,Top,True,Joined before 2010
+1589,Debit or prepaid,33,Bottom,False,Joined 2010–2017
+1002,Debit or prepaid,19,3rd,False,Joined before 2010
+1411,Debit or prepaid,37,Top,True,Joined before 2010
+1654,"Credit, limit $13.0k+",30,4th,True,Joined before 2010
+1330,Debit or prepaid,50,2nd,False,Joined before 2010
+790,Debit or prepaid,22,4th,False,Joined before 2010
+552,Debit or prepaid,39,4th,False,Joined before 2010
+139,Debit or prepaid,57,2nd,False,Joined before 2010
+1280,"Credit, limit under $13.0k",24,2nd,True,Joined 2010–2017
+883,"Credit, limit under $13.0k",29,4th,True,Joined 2010–2017
+359,"Credit, limit $13.0k+",51,Top,True,Joined before 2010
+1921,"Credit, limit under $13.0k",32,2nd,True,Joined before 2010
+651,"Credit, limit under $13.0k",42,2nd,True,Joined before 2010
+557,Debit or prepaid,49,Bottom,False,Joined before 2010
+1071,Debit or prepaid,20,3rd,True,Joined 2010–2017
+1175,Debit or prepaid,78,Bottom,True,Joined before 2010
+1936,Debit or prepaid,74,2nd,True,Joined before 2010
+182,Debit or prepaid,29,4th,False,Joined before 2010
+468,Debit or prepaid,37,4th,True,Joined before 2010
+1651,Debit or prepaid,20,4th,True,Joined before 2010
+1714,"Credit, limit $13.0k+",23,Top,True,Joined Nov 2019 – Feb 2020
+1839,Debit or prepaid,48,Bottom,False,Joined before 2010
+1585,Debit or prepaid,28,3rd,False,Joined 2010–2017
+1245,Debit or prepaid,29,3rd,True,Joined before 2010
+732,Debit or prepaid,43,3rd,False,Joined before 2010
+342,Debit or prepaid,18,Top,False,Joined Nov 2019 – Feb 2020
+476,Debit or prepaid,53,3rd,False,Joined before 2010
+164,Debit or prepaid,55,3rd,True,Joined before 2010
+539,Debit or prepaid,21,2nd,False,Joined Nov 2019 – Feb 2020
+40,"Credit, limit under $13.0k",50,Bottom,True,Joined before 2010
+1,"Credit, limit under $13.0k",26,4th,True,Joined before 2010
+272,Debit or prepaid,21,4th,False,Joined 2010–2017
+521,Debit or prepaid,21,2nd,False,Joined Nov 2019 – Feb 2020
+988,"Credit, limit $13.0k+",59,3rd,True,Joined 2010–2017
+660,"Credit, limit under $13.0k",22,3rd,True,Joined 2010–2017
+1381,Debit or prepaid,64,Bottom,False,Joined before 2010
+184,Debit or prepaid,29,3rd,True,Joined before 2010
+1183,Debit or prepaid,38,2nd,True,Joined before 2010
+905,Debit or prepaid,53,Top,True,Joined before 2010
+419,Debit or prepaid,42,2nd,True,Joined before 2010
+239,"Credit, limit $13.0k+",26,3rd,False,Joined Nov 2019 – Feb 2020
+1241,Debit or prepaid,25,4th,False,Joined before 2010
+383,"Credit, limit under $13.0k",31,2nd,True,Joined before 2010
+1816,"Credit, limit under $13.0k",20,2nd,True,Joined before 2010
+1501,"Credit, limit under $13.0k",22,2nd,False,Joined before 2010
+497,Debit or prepaid,45,4th,True,Joined before 2010
+893,Debit or prepaid,17,2nd,False,Joined Nov 2019 – Feb 2020
+44,"Credit, limit under $13.0k",58,3rd,True,Joined before 2010
+661,"Credit, limit under $13.0k",57,3rd,True,Joined 2010–2017
+939,"Credit, limit under $13.0k",61,2nd,True,Joined before 2010
+947,Debit or prepaid,50,2nd,False,Joined before 2010
+1749,Debit or prepaid,35,Bottom,False,Joined before 2010
+385,Debit or prepaid,58,Bottom,True,Joined before 2010
+67,"Credit, limit $13.0k+",23,4th,True,Joined Nov 2019 – Feb 2020
+1298,Debit or prepaid,22,Bottom,True,Joined 2010–2017
+913,Debit or prepaid,44,Bottom,True,Joined before 2010
+1634,Debit or prepaid,51,Bottom,True,Joined before 2010
+804,Debit or prepaid,44,Bottom,True,Joined before 2010
+1703,"Credit, limit under $13.0k",35,4th,True,Joined before 2010
+1741,"Credit, limit under $13.0k",78,Bottom,True,Joined before 2010
+766,Debit or prepaid,24,Bottom,False,Joined before 2010
+472,"Credit, limit under $13.0k",38,4th,True,Joined before 2010
+366,"Credit, limit under $13.0k",31,3rd,True,Joined before 2010
+1205,"Credit, limit $13.0k+",22,4th,True,Joined Nov 2019 – Feb 2020
+1705,"Credit, limit under $13.0k",36,Bottom,True,Joined before 2010
+626,Debit or prepaid,22,Top,False,Joined Nov 2019 – Feb 2020
+1638,"Credit, limit $13.0k+",61,Top,True,Joined before 2010
+1953,Debit or prepaid,18,3rd,True,Joined before 2010
+1771,Debit or prepaid,30,4th,False,Joined before 2010
+931,Debit or prepaid,20,Top,False,Joined before 2010
+1190,Debit or prepaid,29,3rd,True,Joined before 2010
+371,Debit or prepaid,70,Top,False,Joined before 2010
+1404,Debit or prepaid,36,2nd,False,Joined before 2010
+1970,"Credit, limit $13.0k+",18,4th,True,Joined Nov 2019 – Feb 2020
+1364,"Credit, limit under $13.0k",27,Bottom,True,Joined before 2010
+327,Debit or prepaid,30,2nd,False,Joined before 2010
+1337,"Credit, limit under $13.0k",26,3rd,True,Joined Nov 2019 – Feb 2020
+594,Debit or prepaid,18,2nd,True,Joined before 2010
+1704,Debit or prepaid,19,Top,False,Joined 2010–2017
+1500,Debit or prepaid,38,4th,True,Joined before 2010
+923,"Credit, limit under $13.0k",18,4th,True,Joined Nov 2019 – Feb 2020
+1788,Debit or prepaid,36,3rd,True,Joined before 2010
+129,Debit or prepaid,45,4th,False,Joined before 2010
+1756,"Credit, limit $13.0k+",18,Top,True,Joined before 2010
+197,Debit or prepaid,24,2nd,True,Joined 2010–2017
+219,"Credit, limit under $13.0k",30,Bottom,True,Joined before 2010
+1820,"Credit, limit under $13.0k",42,3rd,True,Joined before 2010
+405,Debit or prepaid,30,2nd,False,Joined Nov 2019 – Feb 2020
+726,"Credit, limit under $13.0k",45,4th,False,Joined before 2010
+20,Debit or prepaid,69,Bottom,True,Joined before 2010
+216,Debit or prepaid,44,2nd,False,Joined before 2010
+293,Debit or prepaid,21,3rd,True,Joined before 2010
+1868,Debit or prepaid,24,Top,True,Joined Nov 2019 – Feb 2020
+1996,Debit or prepaid,23,3rd,False,Joined before 2010
+1171,Debit or prepaid,67,3rd,True,Joined before 2010
+1154,Debit or prepaid,56,3rd,False,Joined before 2010
+819,"Credit, limit under $13.0k",37,2nd,True,Joined before 2010
+1554,"Credit, limit under $13.0k",45,4th,True,Joined 2010–2017
+1079,Debit or prepaid,48,Top,True,Joined before 2010
+681,Debit or prepaid,19,3rd,False,Joined Nov 2019 – Feb 2020
+240,Debit or prepaid,37,2nd,False,Joined before 2010
+751,"Credit, limit $13.0k+",50,4th,True,Joined before 2010
+773,Debit or prepaid,55,Bottom,False,Joined before 2010
+1294,Debit or prepaid,26,Top,False,Joined before 2010
+1567,Debit or prepaid,29,3rd,False,Joined before 2010
+132,Debit or prepaid,65,2nd,True,Joined before 2010
+512,Debit or prepaid,33,Top,False,Joined before 2010
+501,"Credit, limit under $13.0k",24,2nd,True,Joined Nov 2019 – Feb 2020
+178,Debit or prepaid,35,4th,False,Joined before 2010
+1077,Debit or prepaid,38,Bottom,False,Joined before 2010
+914,Debit or prepaid,22,4th,True,Joined before 2010
+1840,"Credit, limit under $13.0k",26,3rd,True,Joined before 2010
+550,"Credit, limit under $13.0k",49,Bottom,True,Joined before 2010
+1869,Debit or prepaid,28,2nd,False,Joined Nov 2019 – Feb 2020
+977,"Credit, limit under $13.0k",69,Bottom,True,Joined before 2010
+933,Debit or prepaid,34,3rd,True,Joined before 2010
+938,"Credit, limit under $13.0k",18,4th,True,Joined 2010–2017
+622,Debit or prepaid,18,Top,False,Joined 2010–2017
+796,"Credit, limit under $13.0k",18,3rd,False,Joined 2010–2017
+621,Debit or prepaid,32,Bottom,False,Joined before 2010
+1038,"Credit, limit under $13.0k",33,2nd,True,Joined Nov 2019 – Feb 2020
+1687,Debit or prepaid,56,3rd,False,Joined before 2010
+1890,Debit or prepaid,26,2nd,False,Joined 2010–2017
+544,Debit or prepaid,24,Top,False,Joined before 2010
+810,"Credit, limit under $13.0k",58,Bottom,True,Joined before 2010
+58,Debit or prepaid,31,4th,False,Joined 2010–2017
+1986,Debit or prepaid,29,4th,False,Joined before 2010
+1084,"Credit, limit $13.0k+",18,Top,True,Joined before 2010
+1349,"Credit, limit under $13.0k",31,Bottom,True,Joined before 2010
+1825,"Credit, limit under $13.0k",56,4th,True,Joined before 2010
+98,"Credit, limit under $13.0k",65,Bottom,True,Joined before 2010
+615,Debit or prepaid,22,3rd,True,Joined before 2010
+1488,Debit or prepaid,20,3rd,True,Joined before 2010
+211,Debit or prepaid,27,Bottom,False,Joined before 2010
+1443,"Credit, limit under $13.0k",33,2nd,True,Joined before 2010
+801,Debit or prepaid,63,Bottom,True,Joined before 2010
+655,Debit or prepaid,34,Bottom,False,Joined before 2010
+669,"Credit, limit under $13.0k",24,3rd,True,Joined before 2010
+1726,Debit or prepaid,53,Bottom,False,Joined before 2010
+444,Debit or prepaid,24,Bottom,False,Joined Nov 2019 – Feb 2020
+418,Debit or prepaid,18,4th,True,Joined before 2010
+242,Debit or prepaid,26,3rd,False,Joined before 2010
+168,Debit or prepaid,39,2nd,False,Joined before 2010
+960,Debit or prepaid,26,4th,True,Joined 2010–2017
+1911,Debit or prepaid,36,2nd,True,Joined before 2010
+259,Debit or prepaid,56,3rd,False,Joined before 2010
+300,Debit or prepaid,27,Top,False,Joined before 2010
+1967,Debit or prepaid,34,Top,False,Joined before 2010
+434,"Credit, limit $13.0k+",21,4th,True,Joined 2010–2017
+1076,Debit or prepaid,44,2nd,True,Joined before 2010
+723,Debit or prepaid,47,2nd,True,Joined before 2010
+1398,Debit or prepaid,30,Top,True,Joined before 2010
+1464,Debit or prepaid,45,4th,False,Joined before 2010
+1505,Debit or prepaid,18,3rd,True,Joined before 2010
+1130,Debit or prepaid,33,3rd,True,Joined before 2010
+62,Debit or prepaid,59,Bottom,False,Joined before 2010
+1623,"Credit, limit $13.0k+",22,2nd,True,Joined before 2010
+1416,Debit or prepaid,49,4th,True,Joined before 2010
+1998,Debit or prepaid,52,Bottom,True,Joined before 2010
+1299,"Credit, limit under $13.0k",23,2nd,True,Joined before 2010
+303,"Credit, limit $13.0k+",74,Top,True,Joined before 2010
+1138,Debit or prepaid,38,3rd,True,Joined before 2010
+1750,Debit or prepaid,30,Top,False,Joined before 2010
+1117,Debit or prepaid,37,Bottom,False,Joined before 2010
+1322,"Credit, limit under $13.0k",23,4th,True,Joined before 2010
+878,Debit or prepaid,43,3rd,True,Joined 2010–2017
+609,"Credit, limit under $13.0k",44,2nd,True,Joined before 2010
+761,"Credit, limit under $13.0k",18,4th,True,Joined Nov 2019 – Feb 2020
+1313,"Credit, limit under $13.0k",19,Bottom,False,Joined before 2010
+1558,Debit or prepaid,32,4th,False,Joined before 2010
+399,Debit or prepaid,20,Top,False,Joined before 2010
+325,Debit or prepaid,28,3rd,False,Joined before 2010
+689,Debit or prepaid,49,3rd,False,Joined before 2010
+1763,Debit or prepaid,23,3rd,False,Joined before 2010
+717,"Credit, limit under $13.0k",22,4th,True,Joined 2018 – Oct 2019
+884,Debit or prepaid,61,3rd,True,Joined before 2010
+1701,Debit or prepaid,39,Bottom,True,Joined before 2010
+117,Debit or prepaid,20,Bottom,False,Joined Nov 2019 – Feb 2020
+126,Debit or prepaid,50,Bottom,False,Joined before 2010
+1051,Debit or prepaid,19,4th,True,Joined before 2010
+462,Debit or prepaid,37,4th,True,Joined before 2010
+1454,"Credit, limit under $13.0k",19,2nd,True,Joined before 2010
+467,"Credit, limit $13.0k+",26,3rd,True,Joined before 2010
+1802,Debit or prepaid,25,Top,True,Joined before 2010
+1563,Debit or prepaid,32,Bottom,True,Joined before 2010
+1235,"Credit, limit under $13.0k",18,Top,True,Joined Nov 2019 – Feb 2020
+587,Debit or prepaid,20,Bottom,False,Joined Nov 2019 – Feb 2020
+709,Debit or prepaid,19,3rd,False,Joined 2010–2017
+1036,Debit or prepaid,19,4th,False,Joined Nov 2019 – Feb 2020
+372,Debit or prepaid,23,Bottom,False,Joined 2010–2017
+929,"Credit, limit $13.0k+",48,4th,True,Joined before 2010
+253,"Credit, limit under $13.0k",42,3rd,True,Joined before 2010
+1549,Debit or prepaid,51,Top,True,Joined before 2010
+529,Debit or prepaid,42,4th,True,Joined before 2010
+1306,"Credit, limit under $13.0k",33,2nd,True,Joined before 2010
+1798,Debit or prepaid,67,3rd,True,Joined before 2010
+389,Debit or prepaid,27,4th,False,Joined Nov 2019 – Feb 2020
+1829,Debit or prepaid,20,3rd,True,Joined 2010–2017
+1392,"Credit, limit under $13.0k",24,4th,True,Joined Nov 2019 – Feb 2020
+1949,Debit or prepaid,28,3rd,False,Joined Nov 2019 – Feb 2020
+1881,Debit or prepaid,51,4th,True,Joined before 2010
+1706,"Credit, limit under $13.0k",19,Bottom,True,Joined 2010–2017
+848,"Credit, limit $13.0k+",37,Top,True,Joined before 2010
+1044,Debit or prepaid,21,4th,False,Joined 2010–2017
+1112,Debit or prepaid,20,Bottom,False,Joined before 2010
+802,"Credit, limit $13.0k+",21,Top,True,Joined before 2010
+859,"Credit, limit under $13.0k",41,2nd,True,Joined 2010–2017
+441,Debit or prepaid,32,4th,False,Joined 2010–2017
+879,Debit or prepaid,33,Bottom,True,Joined before 2010
+1437,Debit or prepaid,62,3rd,True,Joined before 2010
+1413,"Credit, limit under $13.0k",26,2nd,True,Joined before 2010
+1710,Debit or prepaid,22,3rd,True,Joined before 2010
+1037,Debit or prepaid,25,4th,False,Joined before 2010
+966,Debit or prepaid,26,Bottom,False,Joined Nov 2019 – Feb 2020
+107,Debit or prepaid,26,Bottom,False,Joined before 2010
+1247,Debit or prepaid,53,3rd,True,Joined before 2010
+700,Debit or prepaid,21,Top,False,Joined Nov 2019 – Feb 2020
+1363,"Credit, limit under $13.0k",17,4th,True,Joined Nov 2019 – Feb 2020
+10,Debit or prepaid,18,Top,False,Joined before 2010
+1725,Debit or prepaid,30,3rd,False,Joined before 2010
+1145,Debit or prepaid,28,Top,True,Joined before 2010
+864,"Credit, limit $13.0k+",39,3rd,True,Joined before 2010
+1357,"Credit, limit under $13.0k",50,Bottom,True,Joined before 2010
+1344,Debit or prepaid,44,4th,True,Joined before 2010
+1252,Debit or prepaid,23,4th,False,Joined Nov 2019 – Feb 2020
+935,Debit or prepaid,18,2nd,False,Joined Nov 2019 – Feb 2020
+1748,Debit or prepaid,35,4th,False,Joined 2010–2017
+1123,"Credit, limit under $13.0k",27,Bottom,True,Joined before 2010
+546,Debit or prepaid,29,4th,True,Joined before 2010
+430,"Credit, limit $13.0k+",33,4th,True,Joined before 2010
+61,Debit or prepaid,33,Top,True,Joined before 2010
+1621,Debit or prepaid,51,Top,True,Joined before 2010
+413,"Credit, limit under $13.0k",21,4th,True,Joined Nov 2019 – Feb 2020
+269,Debit or prepaid,20,3rd,False,Joined 2018 – Oct 2019
+37,Debit or prepaid,30,2nd,True,Joined before 2010
+1793,Debit or prepaid,28,Bottom,True,Joined 2010–2017
+1846,"Credit, limit under $13.0k",67,2nd,True,Joined before 2010
+116,Debit or prepaid,24,Top,False,Joined 2010–2017
+752,Debit or prepaid,47,Top,False,Joined before 2010
+1185,Debit or prepaid,29,Top,False,Joined Nov 2019 – Feb 2020
+683,Debit or prepaid,46,4th,True,Joined before 2010
+903,"Credit, limit $13.0k+",25,Top,True,Joined Nov 2019 – Feb 2020
+559,Debit or prepaid,42,2nd,False,Joined before 2010
+1338,Debit or prepaid,21,4th,False,Joined before 2010
+75,"Credit, limit under $13.0k",63,Bottom,True,Joined before 2010
+861,"Credit, limit under $13.0k",22,3rd,True,Joined Nov 2019 – Feb 2020
+100,Debit or prepaid,40,4th,False,Joined before 2010
+1140,"Credit, limit $13.0k+",27,4th,True,Joined before 2010
+531,"Credit, limit under $13.0k",18,Bottom,True,Joined Nov 2019 – Feb 2020
+279,"Credit, limit under $13.0k",25,Top,True,Joined Nov 2019 – Feb 2020
+362,Debit or prepaid,22,4th,False,Joined before 2010
+1458,Debit or prepaid,18,2nd,True,Joined before 2010
+976,Debit or prepaid,47,Top,True,Joined before 2010
+71,"Credit, limit under $13.0k",30,2nd,False,Joined 2010–2017
+375,Debit or prepaid,37,3rd,False,Joined before 2010
+403,Debit or prepaid,19,2nd,False,Joined before 2010
+983,Debit or prepaid,60,4th,False,Joined before 2010
+435,Debit or prepaid,58,Bottom,False,Joined before 2010
+542,"Credit, limit under $13.0k",33,Bottom,True,Joined before 2010
+1090,"Credit, limit under $13.0k",45,3rd,True,Joined before 2010
+60,Debit or prepaid,25,2nd,True,Joined before 2010
+287,Debit or prepaid,25,3rd,False,Joined before 2010
+1857,"Credit, limit $13.0k+",20,Top,True,Joined before 2010
+1291,"Credit, limit under $13.0k",27,2nd,True,Joined before 2010
+408,"Credit, limit under $13.0k",40,2nd,True,Joined before 2010
+173,Debit or prepaid,43,Bottom,False,Joined before 2010
+1787,"Credit, limit under $13.0k",30,Top,True,Joined before 2010
+1800,Debit or prepaid,43,Bottom,False,Joined before 2010
+438,Debit or prepaid,21,2nd,False,Joined before 2010
+1988,Debit or prepaid,46,Top,False,Joined before 2010
+1143,Debit or prepaid,20,Top,False,Joined Nov 2019 – Feb 2020
+1250,"Credit, limit under $13.0k",69,3rd,True,Joined before 2010
+1767,Debit or prepaid,21,4th,False,Joined Nov 2019 – Feb 2020
+1072,Debit or prepaid,37,3rd,False,Joined before 2010
+1841,Debit or prepaid,25,3rd,True,Joined 2010–2017
+1202,"Credit, limit under $13.0k",48,Bottom,True,Joined before 2010
+235,Debit or prepaid,20,4th,False,Joined before 2010
+1766,Debit or prepaid,44,Bottom,True,Joined before 2010
+1702,Debit or prepaid,27,3rd,False,Joined before 2010
+1142,Debit or prepaid,40,Top,True,Joined before 2010
+1653,Debit or prepaid,33,Top,False,Joined 2010–2017
+1982,Debit or prepaid,20,Top,False,Joined 2010–2017
+1423,"Credit, limit under $13.0k",23,Bottom,True,Joined Nov 2019 – Feb 2020
+48,Debit or prepaid,56,Bottom,False,Joined before 2010
+1582,Debit or prepaid,19,Top,False,Joined 2010–2017
+656,Debit or prepaid,52,4th,False,Joined 2010–2017
+500,Debit or prepaid,21,Bottom,False,Joined Nov 2019 – Feb 2020
+1862,"Credit, limit under $13.0k",22,3rd,True,Joined 2010–2017
+1850,Debit or prepaid,18,2nd,False,Joined Nov 2019 – Feb 2020
+1808,"Credit, limit under $13.0k",20,2nd,True,Joined before 2010
+277,"Credit, limit under $13.0k",26,2nd,True,Joined before 2010
+1716,"Credit, limit under $13.0k",18,Bottom,True,Joined Nov 2019 – Feb 2020
+516,Debit or prepaid,23,2nd,False,Joined before 2010
+620,Debit or prepaid,26,2nd,False,Joined Nov 2019 – Feb 2020
+159,Debit or prepaid,29,Bottom,False,Joined before 2010
+478,Debit or prepaid,39,Top,True,Joined before 2010
+772,Debit or prepaid,44,4th,False,Joined before 2010
+1537,Debit or prepaid,22,2nd,False,Joined before 2010
+1429,Debit or prepaid,54,2nd,False,Joined 2010–2017
+1228,Debit or prepaid,34,4th,True,Joined before 2010
+991,"Credit, limit under $13.0k",39,2nd,False,Joined before 2010
+1249,"Credit, limit under $13.0k",18,3rd,True,Joined Nov 2019 – Feb 2020
+1242,"Credit, limit under $13.0k",37,Bottom,True,Joined before 2010
+1759,"Credit, limit under $13.0k",72,2nd,True,Joined before 2010
+1058,Debit or prepaid,41,2nd,True,Joined before 2010
+1730,Debit or prepaid,43,3rd,False,Joined 2010–2017
+1632,Debit or prepaid,20,4th,False,Joined Nov 2019 – Feb 2020
+1224,"Credit, limit $13.0k+",22,4th,True,Joined before 2010
+1940,Debit or prepaid,21,Bottom,True,Joined before 2010
+1132,"Credit, limit under $13.0k",17,3rd,True,Joined Nov 2019 – Feb 2020
+895,Debit or prepaid,33,2nd,True,Joined before 2010
+1556,Debit or prepaid,18,4th,True,Joined before 2010
+1025,"Credit, limit under $13.0k",19,2nd,True,Joined Nov 2019 – Feb 2020
+1972,"Credit, limit under $13.0k",58,Bottom,True,Joined before 2010
+86,Debit or prepaid,20,Bottom,False,Joined 2010–2017
+344,Debit or prepaid,18,4th,False,Joined Nov 2019 – Feb 2020
+1189,Debit or prepaid,47,2nd,True,Joined before 2010
+921,Debit or prepaid,61,4th,False,Joined before 2010
+393,Debit or prepaid,28,2nd,False,Joined before 2010
+1254,Debit or prepaid,46,2nd,True,Joined before 2010
+212,Debit or prepaid,33,Bottom,True,Joined before 2010
+1262,Debit or prepaid,37,Bottom,False,Joined before 2010
+122,Debit or prepaid,48,3rd,True,Joined before 2010
+1118,Debit or prepaid,19,Top,True,Joined 2010–2017
+974,Debit or prepaid,46,4th,True,Joined before 2010
+1274,Debit or prepaid,30,4th,True,Joined before 2010
+1453,Debit or prepaid,24,2nd,False,Joined before 2010
+337,Debit or prepaid,20,4th,False,Joined Nov 2019 – Feb 2020
+1023,"Credit, limit $13.0k+",30,4th,True,Joined before 2010
+1903,"Credit, limit $13.0k+",38,Top,True,Joined before 2010
+604,Debit or prepaid,48,Top,True,Joined before 2010
+1637,"Credit, limit $13.0k+",18,4th,True,Joined before 2010
+1470,Debit or prepaid,76,Bottom,False,Joined before 2010
+1856,Debit or prepaid,40,2nd,False,Joined before 2010
+907,"Credit, limit $13.0k+",18,Top,True,Joined before 2010
+1923,"Credit, limit under $13.0k",25,2nd,True,Joined before 2010
+674,Debit or prepaid,38,Bottom,True,Joined before 2010
+1665,Debit or prepaid,19,Top,False,Joined Nov 2019 – Feb 2020
+548,Debit or prepaid,22,Bottom,True,Joined before 2010
+209,"Credit, limit under $13.0k",41,Bottom,True,Joined before 2010
+730,"Credit, limit $13.0k+",30,Top,True,Joined before 2010
+670,Debit or prepaid,21,Bottom,False,Joined Nov 2019 – Feb 2020
+627,"Credit, limit under $13.0k",48,4th,True,Joined 2018 – Oct 2019
+924,"Credit, limit under $13.0k",36,3rd,False,Joined before 2010
+894,"Credit, limit under $13.0k",27,3rd,True,Joined before 2010
+1633,Debit or prepaid,20,3rd,True,Joined before 2010
+1593,"Credit, limit under $13.0k",24,2nd,True,Joined Nov 2019 – Feb 2020
+720,Debit or prepaid,21,Bottom,True,Joined before 2010
+264,"Credit, limit under $13.0k",38,3rd,True,Joined before 2010
+827,Debit or prepaid,43,Bottom,True,Joined before 2010
+414,Debit or prepaid,26,Top,False,Joined before 2010
+1439,Debit or prepaid,18,Bottom,False,Joined 2010–2017
+843,Debit or prepaid,23,Bottom,True,Joined before 2010
+1008,"Credit, limit under $13.0k",37,4th,True,Joined before 2010
+1834,Debit or prepaid,19,2nd,True,Joined before 2010
+1126,Debit or prepaid,18,3rd,False,Joined Nov 2019 – Feb 2020
+881,"Credit, limit $13.0k+",51,Top,True,Joined before 2010
+679,Debit or prepaid,42,2nd,False,Joined before 2010
+1333,"Credit, limit $13.0k+",18,Top,False,Joined Nov 2019 – Feb 2020
+398,Debit or prepaid,28,2nd,False,Joined before 2010
+151,"Credit, limit under $13.0k",17,4th,True,Joined Nov 2019 – Feb 2020
+106,Debit or prepaid,36,Bottom,True,Joined before 2010
+1784,"Credit, limit $13.0k+",28,3rd,False,Joined before 2010
+1924,"Credit, limit under $13.0k",45,3rd,True,Joined 2018 – Oct 2019
+671,"Credit, limit under $13.0k",27,2nd,True,Joined before 2010
+1472,"Credit, limit under $13.0k",31,2nd,False,Joined before 2010
+855,Debit or prepaid,32,Bottom,False,Joined before 2010
+981,"Credit, limit under $13.0k",34,4th,True,Joined 2010–2017
+1030,"Credit, limit $13.0k+",25,4th,True,Joined before 2010
+384,Debit or prepaid,18,3rd,False,Joined 2018 – Oct 2019
+80,Debit or prepaid,60,Bottom,True,Joined before 2010
+1331,Debit or prepaid,34,4th,False,Joined before 2010
+205,Debit or prepaid,22,3rd,False,Joined before 2010
+1048,"Credit, limit under $13.0k",40,4th,True,Joined before 2010
+1801,Debit or prepaid,18,2nd,False,Joined Nov 2019 – Feb 2020
+1490,"Credit, limit under $13.0k",19,3rd,True,Joined before 2010
+818,Debit or prepaid,35,2nd,True,Joined before 2010
+1463,Debit or prepaid,67,Bottom,True,Joined before 2010
+1835,Debit or prepaid,25,2nd,False,Joined Nov 2019 – Feb 2020
+952,Debit or prepaid,20,Top,False,Joined 2010–2017
+616,"Credit, limit under $13.0k",42,2nd,True,Joined 2010–2017
+638,Debit or prepaid,49,Bottom,False,Joined before 2010
+1366,"Credit, limit under $13.0k",18,3rd,True,Joined 2010–2017
+443,Debit or prepaid,20,3rd,False,Joined before 2010
+336,Debit or prepaid,19,3rd,False,Joined 2010–2017
+611,Debit or prepaid,23,Top,False,Joined Nov 2019 – Feb 2020
+973,"Credit, limit under $13.0k",44,Bottom,True,Joined before 2010
+632,Debit or prepaid,20,Bottom,False,Joined Nov 2019 – Feb 2020
+1918,Debit or prepaid,35,3rd,False,Joined before 2010
+1827,"Credit, limit under $13.0k",44,4th,True,Joined before 2010
+70,Debit or prepaid,19,Top,False,Joined Nov 2019 – Feb 2020
+672,Debit or prepaid,20,Bottom,False,Joined before 2010
+1461,Debit or prepaid,24,4th,True,Joined before 2010
+510,"Credit, limit under $13.0k",27,4th,True,Joined Nov 2019 – Feb 2020
+256,"Credit, limit under $13.0k",59,Bottom,True,Joined before 2010
+1410,Debit or prepaid,22,3rd,False,Joined Nov 2019 – Feb 2020
+574,"Credit, limit under $13.0k",22,2nd,True,Joined Nov 2019 – Feb 2020
+1837,Debit or prepaid,56,Bottom,False,Joined 2010–2017
+1974,Debit or prepaid,64,2nd,True,Joined 2010–2017
+30,Debit or prepaid,23,3rd,False,Joined Nov 2019 – Feb 2020
+1270,Debit or prepaid,21,Top,True,Joined before 2010
+1815,Debit or prepaid,42,Top,True,Joined before 2010
+805,Debit or prepaid,19,2nd,False,Joined Nov 2019 – Feb 2020
+464,"Credit, limit $13.0k+",18,Top,True,Joined before 2010
+1042,Debit or prepaid,22,4th,False,Joined Nov 2019 – Feb 2020
+1579,Debit or prepaid,60,Bottom,True,Joined before 2010
+830,Debit or prepaid,18,Top,True,Joined before 2010
+465,Debit or prepaid,29,3rd,True,Joined before 2010
+1954,Debit or prepaid,40,4th,True,Joined 2010–2017
+959,Debit or prepaid,24,Top,False,Joined before 2010
+1049,"Credit, limit under $13.0k",47,2nd,False,Joined before 2010
+1925,"Credit, limit $13.0k+",25,Top,True,Joined Nov 2019 – Feb 2020
+1088,"Credit, limit under $13.0k",34,2nd,True,Joined before 2010
+14,"Credit, limit under $13.0k",60,2nd,True,Joined before 2010
+162,Debit or prepaid,25,Top,True,Joined before 2010
+1692,Debit or prepaid,52,Top,False,Joined before 2010
+380,"Credit, limit under $13.0k",31,3rd,True,Joined before 2010
+141,Debit or prepaid,57,Bottom,True,Joined before 2010
+1348,"Credit, limit under $13.0k",67,Bottom,True,Joined before 2010
+1256,"Credit, limit $13.0k+",27,4th,False,Joined before 2010
+1690,Debit or prepaid,18,2nd,False,Joined Nov 2019 – Feb 2020
+169,Debit or prepaid,69,Bottom,False,Joined before 2010
+1955,Debit or prepaid,72,Bottom,False,Joined before 2010
+1807,"Credit, limit $13.0k+",29,4th,True,Joined before 2010
+102,Debit or prepaid,19,2nd,False,Joined before 2010
+257,Debit or prepaid,38,Bottom,True,Joined before 2010
+911,"Credit, limit under $13.0k",18,Bottom,True,Joined Nov 2019 – Feb 2020
+987,Debit or prepaid,36,Top,False,Joined before 2010
+101,"Credit, limit under $13.0k",18,Bottom,True,Joined Nov 2019 – Feb 2020
+1141,"Credit, limit under $13.0k",50,Bottom,False,Joined before 2010
+1682,"Credit, limit $13.0k+",43,4th,True,Joined before 2010
+481,"Credit, limit $13.0k+",17,Top,True,Joined Nov 2019 – Feb 2020
+978,Debit or prepaid,21,4th,False,Joined Nov 2019 – Feb 2020
+1550,Debit or prepaid,18,4th,True,Joined Nov 2019 – Feb 2020
+1162,"Credit, limit $13.0k+",22,3rd,True,Joined Nov 2019 – Feb 2020
+172,Debit or prepaid,37,4th,False,Joined before 2010
+892,Debit or prepaid,20,4th,False,Joined before 2010
+315,Debit or prepaid,45,3rd,False,Joined 2010–2017
+1739,Debit or prepaid,31,2nd,False,Joined before 2010
+836,Debit or prepaid,18,2nd,False,Joined Nov 2019 – Feb 2020
+39,Debit or prepaid,34,Top,True,Joined before 2010
+155,Debit or prepaid,70,Bottom,True,Joined before 2010
+1305,Debit or prepaid,27,3rd,False,Joined before 2010
+1504,Debit or prepaid,67,Bottom,True,Joined before 2010
+1105,Debit or prepaid,59,Bottom,False,Joined before 2010
+1761,Debit or prepaid,23,4th,True,Joined Nov 2019 – Feb 2020
+215,"Credit, limit $13.0k+",18,4th,True,Joined Nov 2019 – Feb 2020
+948,"Credit, limit under $13.0k",41,2nd,True,Joined before 2010
+862,"Credit, limit under $13.0k",20,3rd,True,Joined 2010–2017
+1514,Debit or prepaid,38,2nd,True,Joined before 2010
+1698,Debit or prepaid,23,Top,True,Joined 2010–2017
+1316,"Credit, limit under $13.0k",20,2nd,True,Joined 2010–2017
+1831,"Credit, limit under $13.0k",25,3rd,True,Joined Nov 2019 – Feb 2020
+889,"Credit, limit $13.0k+",19,4th,True,Joined 2010–2017
+526,Debit or prepaid,34,Top,False,Joined before 2010
+231,"Credit, limit under $13.0k",40,2nd,True,Joined before 2010
+910,Debit or prepaid,22,Top,True,Joined 2010–2017
+876,Debit or prepaid,47,4th,False,Joined before 2010
+1509,"Credit, limit under $13.0k",49,4th,True,Joined before 2010
+1422,Debit or prepaid,45,2nd,True,Joined before 2010
+1400,"Credit, limit under $13.0k",29,Bottom,True,Joined Nov 2019 – Feb 2020
+492,Debit or prepaid,27,3rd,False,Joined before 2010
+1516,Debit or prepaid,20,Top,False,Joined before 2010
+1649,Debit or prepaid,47,Bottom,False,Joined before 2010
+1573,"Credit, limit under $13.0k",71,Bottom,True,Joined Nov 2019 – Feb 2020
+583,Debit or prepaid,50,Bottom,True,Joined before 2010
+1811,Debit or prepaid,66,Top,True,Joined before 2010
+1054,Debit or prepaid,38,4th,True,Joined before 2010
+1678,Debit or prepaid,25,Top,True,Joined before 2010
+333,Debit or prepaid,20,4th,False,Joined Nov 2019 – Feb 2020
+1412,Debit or prepaid,48,4th,True,Joined before 2010
+177,Debit or prepaid,32,Top,True,Joined before 2010
+390,"Credit, limit $13.0k+",30,Top,True,Joined Nov 2019 – Feb 2020
+1577,Debit or prepaid,27,3rd,True,Joined before 2010
+1609,Debit or prepaid,50,Top,True,Joined before 2010
+1762,"Credit, limit $13.0k+",24,Top,True,Joined 2010–2017
+917,Debit or prepaid,43,3rd,False,Joined before 2010
+1717,Debit or prepaid,57,3rd,False,Joined 2010–2017
+1355,Debit or prepaid,43,Bottom,False,Joined before 2010
+1668,Debit or prepaid,79,4th,False,Joined before 2010
+1293,Debit or prepaid,24,4th,False,Joined 2010–2017
+1597,"Credit, limit $13.0k+",20,Top,True,Joined Nov 2019 – Feb 2020
+202,"Credit, limit under $13.0k",20,Top,True,Joined Nov 2019 – Feb 2020
+493,Debit or prepaid,18,Bottom,False,Joined Nov 2019 – Feb 2020
+361,Debit or prepaid,29,3rd,True,Joined before 2010
+1659,Debit or prepaid,70,3rd,True,Joined before 2010
+289,Debit or prepaid,22,Bottom,True,Joined Nov 2019 – Feb 2020
+737,Debit or prepaid,48,Bottom,True,Joined before 2010
+1733,Debit or prepaid,32,Bottom,False,Joined before 2010
+278,"Credit, limit $13.0k+",45,Top,True,Joined before 2010
+618,Debit or prepaid,20,Bottom,False,Joined before 2010
+753,Debit or prepaid,40,2nd,True,Joined before 2010
+489,Debit or prepaid,23,2nd,True,Joined before 2010
+90,Debit or prepaid,49,Bottom,False,Joined before 2010
+1264,Debit or prepaid,21,Bottom,False,Joined before 2010
+18,Debit or prepaid,30,Top,False,Joined Nov 2019 – Feb 2020
+376,"Credit, limit $13.0k+",36,Top,True,Joined before 2010
+579,Debit or prepaid,20,3rd,False,Joined before 2010
+218,Debit or prepaid,38,2nd,True,Joined before 2010
+1320,Debit or prepaid,28,Bottom,False,Joined Nov 2019 – Feb 2020
+42,"Credit, limit under $13.0k",60,Bottom,True,Joined before 2010
+1170,"Credit, limit under $13.0k",25,3rd,True,Joined before 2010
+1531,"Credit, limit under $13.0k",22,Bottom,True,Joined before 2010
+1275,"Credit, limit under $13.0k",35,Bottom,True,Joined Nov 2019 – Feb 2020
+26,"Credit, limit under $13.0k",28,3rd,False,Joined before 2010
+1937,"Credit, limit $13.0k+",39,Bottom,True,Joined before 2010
+1177,"Credit, limit $13.0k+",22,Top,True,Joined before 2010
+1032,Debit or prepaid,47,Bottom,False,Joined before 2010
+397,Debit or prepaid,19,Bottom,False,Joined before 2010
+566,"Credit, limit under $13.0k",44,4th,True,Joined before 2010
+1581,"Credit, limit under $13.0k",21,3rd,True,Joined before 2010
+1332,Debit or prepaid,42,Top,False,Joined before 2010
+1648,Debit or prepaid,50,Top,True,Joined before 2010
+17,"Credit, limit under $13.0k",59,Bottom,True,Joined before 2010
+349,"Credit, limit under $13.0k",26,3rd,True,Joined before 2010
+1200,"Credit, limit under $13.0k",56,Bottom,True,Joined 2010–2017
+228,"Credit, limit under $13.0k",44,2nd,True,Joined 2010–2017
+484,"Credit, limit under $13.0k",65,Top,False,Joined before 2010
+1099,"Credit, limit under $13.0k",22,3rd,True,Joined Nov 2019 – Feb 2020
+1480,"Credit, limit under $13.0k",46,4th,False,Joined 2010–2017
+1449,Debit or prepaid,48,Bottom,False,Joined before 2010
+1417,"Credit, limit $13.0k+",43,4th,True,Joined before 2010
+267,Debit or prepaid,52,Bottom,False,Joined 2010–2017
+373,Debit or prepaid,42,Bottom,False,Joined before 2010
+1772,Debit or prepaid,31,4th,True,Joined before 2010
+1418,"Credit, limit under $13.0k",25,Bottom,True,Joined Nov 2019 – Feb 2020
+1774,"Credit, limit under $13.0k",29,3rd,True,Joined before 2010
+964,Debit or prepaid,27,4th,True,Joined before 2010
+72,"Credit, limit $13.0k+",32,3rd,True,Joined 2010–2017
+6,"Credit, limit $13.0k+",19,4th,True,Joined Nov 2019 – Feb 2020
+1527,"Credit, limit under $13.0k",63,4th,True,Joined 2010–2017
+1433,Debit or prepaid,59,4th,True,Joined before 2010
+1785,Debit or prepaid,22,Bottom,False,Joined before 2010
+1476,"Credit, limit under $13.0k",20,3rd,True,Joined 2010–2017
+455,Debit or prepaid,32,4th,False,Joined 2010–2017
+1553,"Credit, limit $13.0k+",21,Top,True,Joined Nov 2019 – Feb 2020
+532,Debit or prepaid,18,4th,False,Joined 2010–2017
+1092,Debit or prepaid,38,4th,True,Joined before 2010
+1819,Debit or prepaid,20,2nd,False,Joined Nov 2019 – Feb 2020
+528,Debit or prepaid,19,3rd,True,Joined before 2010
+328,Debit or prepaid,32,2nd,True,Joined before 2010
+1282,Debit or prepaid,26,3rd,False,Joined 2010–2017
+783,Debit or prepaid,43,Bottom,True,Joined before 2010
+1325,"Credit, limit $13.0k+",23,Top,True,Joined Nov 2019 – Feb 2020
+687,Debit or prepaid,20,2nd,False,Joined Nov 2019 – Feb 2020
+1693,Debit or prepaid,25,Top,True,Joined before 2010
+1542,Debit or prepaid,32,4th,False,Joined before 2010
+36,Debit or prepaid,23,4th,False,Joined 2010–2017
+360,Debit or prepaid,33,4th,False,Joined before 2010
+555,Debit or prepaid,31,3rd,False,Joined Nov 2019 – Feb 2020
+136,Debit or prepaid,18,Top,False,Joined Nov 2019 – Feb 2020
+603,"Credit, limit under $13.0k",34,3rd,True,Joined 2010–2017
+1794,Debit or prepaid,39,Top,False,Joined 2010–2017
+329,"Credit, limit under $13.0k",61,2nd,True,Joined 2010–2017
+1181,"Credit, limit under $13.0k",46,4th,True,Joined before 2010
+598,Debit or prepaid,29,3rd,True,Joined before 2010
+990,Debit or prepaid,76,Bottom,False,Joined before 2010
+1777,Debit or prepaid,32,Top,True,Joined before 2010
+998,"Credit, limit under $13.0k",18,Bottom,True,Joined Nov 2019 – Feb 2020
+1872,Debit or prepaid,47,Top,True,Joined before 2010
+1743,Debit or prepaid,18,4th,False,Joined Nov 2019 – Feb 2020
+1000,Debit or prepaid,18,4th,False,Joined 2018 – Oct 2019
+1708,"Credit, limit under $13.0k",22,4th,True,Joined Nov 2019 – Feb 2020
+799,"Credit, limit under $13.0k",25,2nd,True,Joined 2010–2017
+144,"Credit, limit under $13.0k",23,2nd,True,Joined before 2010
+781,Debit or prepaid,20,2nd,True,Joined 2010–2017
+1572,Debit or prepaid,24,Bottom,False,Joined before 2010
+793,"Credit, limit $13.0k+",61,3rd,True,Joined before 2010
+1681,"Credit, limit $13.0k+",21,Top,True,Joined Nov 2019 – Feb 2020
+1179,Debit or prepaid,37,4th,True,Joined before 2010
+114,Debit or prepaid,35,2nd,False,Joined before 2010
+271,Debit or prepaid,30,3rd,False,Joined Nov 2019 – Feb 2020
+1107,"Credit, limit under $13.0k",49,3rd,True,Joined before 2010
+517,"Credit, limit under $13.0k",19,Bottom,True,Joined before 2010
+624,Debit or prepaid,23,3rd,False,Joined 2010–2017
+1215,Debit or prepaid,41,3rd,False,Joined before 2010
+1992,Debit or prepaid,50,Bottom,False,Joined before 2010
+968,"Credit, limit under $13.0k",21,Bottom,True,Joined Nov 2019 – Feb 2020
+19,Debit or prepaid,72,2nd,False,Joined before 2010
+1605,"Credit, limit under $13.0k",21,3rd,True,Joined before 2010
+463,Debit or prepaid,25,3rd,False,Joined 2010–2017
+1365,"Credit, limit under $13.0k",18,4th,True,Joined Nov 2019 – Feb 2020
+809,Debit or prepaid,41,Top,False,Joined before 2010
+590,Debit or prepaid,27,2nd,False,Joined 2010–2017
+1904,Debit or prepaid,49,Bottom,True,Joined before 2010
+545,Debit or prepaid,39,4th,True,Joined before 2010
+789,Debit or prepaid,25,4th,False,Joined before 2010
+742,Debit or prepaid,58,4th,False,Joined before 2010
+612,"Credit, limit under $13.0k",76,Bottom,True,Joined before 2010
+536,"Credit, limit under $13.0k",21,Bottom,True,Joined Nov 2019 – Feb 2020
+523,"Credit, limit $13.0k+",20,3rd,True,Joined 2010–2017
+928,Debit or prepaid,41,2nd,True,Joined before 2010
+1642,Debit or prepaid,26,3rd,True,Joined before 2010
+495,Debit or prepaid,35,3rd,False,Joined before 2010
+166,Debit or prepaid,73,Bottom,True,Joined before 2010
+1277,"Credit, limit $13.0k+",25,4th,False,Joined 2010–2017
+718,"Credit, limit under $13.0k",32,Bottom,True,Joined before 2010
+1962,Debit or prepaid,20,Top,False,Joined before 2010
+133,Debit or prepaid,19,Top,False,Joined before 2010
+682,"Credit, limit under $13.0k",54,2nd,True,Joined 2010–2017
+795,Debit or prepaid,30,Top,True,Joined before 2010
+1849,"Credit, limit under $13.0k",22,3rd,True,Joined before 2010
+1732,Debit or prepaid,31,4th,False,Joined before 2010
+167,"Credit, limit under $13.0k",26,3rd,True,Joined Nov 2019 – Feb 2020
+1496,Debit or prepaid,20,4th,False,Joined Nov 2019 – Feb 2020
+853,"Credit, limit $13.0k+",29,Top,True,Joined Nov 2019 – Feb 2020
+237,Debit or prepaid,35,Top,True,Joined 2010–2017
+769,"Credit, limit under $13.0k",41,3rd,False,Joined before 2010
+2,"Credit, limit under $13.0k",33,Bottom,True,Joined before 2010
+313,"Credit, limit under $13.0k",23,2nd,True,Joined 2010–2017
+1624,Debit or prepaid,23,3rd,True,Joined Nov 2019 – Feb 2020
+958,"Credit, limit under $13.0k",18,2nd,True,Joined Nov 2019 – Feb 2020
+989,"Credit, limit $13.0k+",61,Top,True,Joined before 2010
+1562,Debit or prepaid,25,Bottom,True,Joined before 2010
+1983,"Credit, limit $13.0k+",37,Top,True,Joined before 2010
+1091,Debit or prepaid,19,4th,True,Joined before 2010
+759,"Credit, limit $13.0k+",39,Top,False,Joined before 2010
+779,"Credit, limit $13.0k+",66,2nd,False,Joined before 2010
+105,"Credit, limit under $13.0k",39,3rd,True,Joined before 2010
+1618,Debit or prepaid,33,Top,False,Joined before 2010
+1168,Debit or prepaid,33,Top,False,Joined before 2010
+1237,"Credit, limit under $13.0k",27,2nd,True,Joined before 2010
+699,"Credit, limit under $13.0k",27,4th,True,Joined before 2010
+646,"Credit, limit $13.0k+",23,3rd,True,Joined before 2010
+499,Debit or prepaid,23,3rd,False,Joined Nov 2019 – Feb 2020
+1403,Debit or prepaid,56,Bottom,False,Joined before 2010
+631,Debit or prepaid,65,2nd,True,Joined before 2010
+1070,Debit or prepaid,45,4th,True,Joined before 2010
+291,"Credit, limit under $13.0k",45,3rd,True,Joined before 2010
+738,"Credit, limit $13.0k+",39,Top,True,Joined before 2010
+142,Debit or prepaid,43,4th,False,Joined before 2010
+1375,Debit or prepaid,23,Top,True,Joined Nov 2019 – Feb 2020
+459,"Credit, limit under $13.0k",51,Bottom,True,Joined before 2010
+281,"Credit, limit under $13.0k",19,3rd,True,Joined 2010–2017
+498,Debit or prepaid,20,4th,False,Joined Nov 2019 – Feb 2020
+55,Debit or prepaid,42,3rd,False,Joined before 2010
+1370,Debit or prepaid,43,4th,True,Joined before 2010
+897,Debit or prepaid,27,Bottom,True,Joined 2010–2017
+262,"Credit, limit under $13.0k",17,2nd,True,Joined Nov 2019 – Feb 2020
+1781,Debit or prepaid,19,2nd,False,Joined before 2010
+457,"Credit, limit under $13.0k",19,2nd,True,Joined before 2010
+160,Debit or prepaid,38,3rd,False,Joined 2010–2017
+1655,"Credit, limit under $13.0k",47,2nd,True,Joined 2010–2017
+984,Debit or prepaid,41,2nd,True,Joined before 2010
+1329,Debit or prepaid,19,Bottom,False,Joined 2010–2017
+1535,Debit or prepaid,47,2nd,False,Joined before 2010
+1220,Debit or prepaid,22,2nd,False,Joined Nov 2019 – Feb 2020
+833,Debit or prepaid,21,3rd,False,Joined Nov 2019 – Feb 2020
+295,Debit or prepaid,41,Bottom,False,Joined before 2010
+1434,"Credit, limit under $13.0k",43,3rd,True,Joined before 2010
+208,Debit or prepaid,18,Top,True,Joined before 2010
+1909,"Credit, limit under $13.0k",44,Bottom,False,Joined before 2010
+1356,"Credit, limit under $13.0k",68,Bottom,True,Joined before 2010
+265,"Credit, limit under $13.0k",32,4th,True,Joined before 2010
+1947,Debit or prepaid,74,Bottom,False,Joined before 2010
+1089,Debit or prepaid,21,4th,False,Joined 2010–2017
+1790,Debit or prepaid,21,Top,False,Joined Nov 2019 – Feb 2020
+1999,"Credit, limit under $13.0k",19,2nd,True,Joined Nov 2019 – Feb 2020
+614,Debit or prepaid,69,Bottom,True,Joined before 2010
+814,Debit or prepaid,55,Bottom,True,Joined before 2010
+175,Debit or prepaid,33,4th,False,Joined Nov 2019 – Feb 2020
+305,Debit or prepaid,34,Bottom,False,Joined before 2010
+1225,Debit or prepaid,34,Top,True,Joined before 2010
+1405,"Credit, limit under $13.0k",30,4th,True,Joined before 2010
+1478,Debit or prepaid,29,3rd,True,Joined 2010–2017
+1920,Debit or prepaid,40,2nd,True,Joined before 2010
+241,Debit or prepaid,39,Bottom,True,Joined before 2010
+331,Debit or prepaid,22,Bottom,True,Joined before 2010
+8,"Credit, limit under $13.0k",21,3rd,True,Joined Nov 2019 – Feb 2020
+1354,Debit or prepaid,20,2nd,False,Joined before 2010
+1258,"Credit, limit under $13.0k",66,Bottom,True,Joined before 2010
+919,Debit or prepaid,45,Top,True,Joined 2010–2017
+1447,"Credit, limit under $13.0k",22,Top,True,Joined before 2010
+902,Debit or prepaid,31,4th,False,Joined Nov 2019 – Feb 2020
+1318,"Credit, limit under $13.0k",17,4th,True,Joined Nov 2019 – Feb 2020
+1545,"Credit, limit under $13.0k",20,Bottom,False,Joined Nov 2019 – Feb 2020
+1001,Debit or prepaid,20,2nd,False,Joined Nov 2019 – Feb 2020
+1315,"Credit, limit under $13.0k",43,2nd,True,Joined before 2010
+323,Debit or prepaid,38,Bottom,False,Joined before 2010
+625,Debit or prepaid,19,4th,False,Joined Nov 2019 – Feb 2020
+979,"Credit, limit under $13.0k",43,2nd,True,Joined before 2010
+537,Debit or prepaid,19,Top,False,Joined Nov 2019 – Feb 2020
+1096,"Credit, limit under $13.0k",48,3rd,True,Joined before 2010
+1347,"Credit, limit $13.0k+",56,4th,True,Joined 2010–2017
+1395,Debit or prepaid,35,Top,True,Joined before 2010
+1614,"Credit, limit under $13.0k",29,2nd,False,Joined before 2010
+1212,Debit or prepaid,18,3rd,False,Joined before 2010
+1588,"Credit, limit $13.0k+",22,Top,True,Joined before 2010
+121,Debit or prepaid,23,4th,True,Joined before 2010
+1773,Debit or prepaid,22,4th,False,Joined Nov 2019 – Feb 2020
+1859,Debit or prepaid,49,3rd,True,Joined before 2010
+1339,Debit or prepaid,25,Top,True,Joined Nov 2019 – Feb 2020
+1894,"Credit, limit $13.0k+",21,4th,True,Joined Nov 2019 – Feb 2020
+77,"Credit, limit $13.0k+",81,4th,True,Joined before 2010
+1222,Debit or prepaid,27,Bottom,False,Joined before 2010
+363,"Credit, limit $13.0k+",33,4th,False,Joined before 2010
+634,"Credit, limit under $13.0k",37,4th,True,Joined before 2010
+628,Debit or prepaid,45,Top,False,Joined before 2010
+756,Debit or prepaid,56,Top,False,Joined 2010–2017
+971,"Credit, limit $13.0k+",20,3rd,True,Joined Nov 2019 – Feb 2020
+111,Debit or prepaid,18,Bottom,True,Joined 2010–2017
+312,Debit or prepaid,17,4th,False,Joined Nov 2019 – Feb 2020
+1627,Debit or prepaid,29,3rd,False,Joined Nov 2019 – Feb 2020
+1359,Debit or prepaid,19,4th,True,Joined before 2010
+174,Debit or prepaid,23,3rd,False,Joined Nov 2019 – Feb 2020
+420,Debit or prepaid,21,2nd,False,Joined Nov 2019 – Feb 2020
+488,Debit or prepaid,19,2nd,False,Joined before 2010
+7,Debit or prepaid,59,2nd,False,Joined before 2010
+863,Debit or prepaid,53,2nd,False,Joined 2010–2017
+1854,"Credit, limit under $13.0k",41,4th,True,Joined 2010–2017
+1041,Debit or prepaid,33,2nd,False,Joined before 2010
+1616,"Credit, limit $13.0k+",38,Top,True,Joined before 2010
+1805,"Credit, limit under $13.0k",25,Bottom,True,Joined before 2010
+1284,Debit or prepaid,38,3rd,False,Joined before 2010
+1735,Debit or prepaid,40,2nd,True,Joined before 2010
+1528,Debit or prepaid,63,Bottom,True,Joined before 2010
+1278,Debit or prepaid,19,Bottom,False,Joined Nov 2019 – Feb 2020
+591,Debit or prepaid,34,3rd,False,Joined before 2010
+97,Debit or prepaid,61,2nd,False,Joined 2010–2017
+31,"Credit, limit under $13.0k",42,4th,True,Joined 2010–2017
+1380,Debit or prepaid,26,3rd,False,Joined before 2010
+1240,Debit or prepaid,45,2nd,True,Joined before 2010
+932,Debit or prepaid,54,2nd,True,Joined before 2010
+378,Debit or prepaid,18,3rd,False,Joined Nov 2019 – Feb 2020
+647,Debit or prepaid,26,Bottom,False,Joined 2010–2017
+391,Debit or prepaid,64,2nd,True,Joined before 2010
+588,"Credit, limit under $13.0k",21,4th,False,Joined Nov 2019 – Feb 2020
+986,"Credit, limit $13.0k+",19,4th,True,Joined before 2010
+1944,"Credit, limit under $13.0k",44,4th,True,Joined before 2010
+185,"Credit, limit under $13.0k",27,Bottom,True,Joined before 2010
+1007,"Credit, limit under $13.0k",58,4th,True,Joined 2010–2017
+1110,"Credit, limit $13.0k+",18,Top,True,Joined 2010–2017

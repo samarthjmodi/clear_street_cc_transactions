@@ -1,0 +1,65 @@
+{
+  "cards": 1594,
+  "customers": 903,
+  "cards_in_source_file": 1910,
+  "cards_dropped_no_transaction_data": 316,
+  "open_period": [
+    "2010-01-01",
+    "2018-11-01"
+  ],
+  "mean_y1_value_all_cards": 186.49423275721458,
+  "by_card_type": [
+    {
+      "card_type": "Credit",
+      "cards": 513,
+      "customers": 439,
+      "mean_y1_value": 400.0,
+      "median": 311.08
+    },
+    {
+      "card_type": "Debit",
+      "cards": 953,
+      "customers": 641,
+      "mean_y1_value": 96.61,
+      "median": 80.25
+    },
+    {
+      "card_type": "Debit (Prepaid)",
+      "cards": 128,
+      "customers": 123,
+      "mean_y1_value": 0.0,
+      "median": 0.0
+    }
+  ],
+  "rank_correlation_with_y1_value_within_type": {
+    "Credit": {
+      "age_at_open": -0.24261413264063222,
+      "per_capita_income": 0.48939869327078644,
+      "yearly_income": 0.48255759188167113,
+      "num_credit_cards": -0.3386419133635991
+    },
+    "Debit": {
+      "age_at_open": -0.36576699259086776,
+      "per_capita_income": 0.09546650831598014,
+      "yearly_income": 0.15730273177409618,
+      "num_credit_cards": -0.4423292467592262
+    }
+  },
+  "state_validation": {
+    "customers": 903,
+    "inside_an_outline": 894,
+    "nearest_state_fallback": 9,
+    "with_in_person_home_state": 903,
+    "derived_state_matches_in_person_home_state": 0.9933554817275747
+  },
+  "states_with_30plus_cards": 17,
+  "states_represented": 50,
+  "limit_checks": {
+    "credit_limit_vs_y1_value": 0.3645052394763342,
+    "credit_limit_vs_yearly_income": 0.5890404183099404,
+    "debit_limit_vs_y1_value": 0.09528695460018582,
+    "debit_limit_vs_yearly_income": 0.6499387952086516,
+    "credit_cards_with_zero_limit": 8,
+    "prepaid_limit_median": 69.0
+  }
+}

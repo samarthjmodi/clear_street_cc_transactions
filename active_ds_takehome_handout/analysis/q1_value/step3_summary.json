@@ -1,0 +1,75 @@
+{
+  "cohort": {
+    "customers": 284,
+    "with_data": 138,
+    "with_3_years": 135,
+    "by_cohort_year": {
+      "False": {
+        "2010": 38,
+        "2011": 22,
+        "2012": 11,
+        "2013": 10,
+        "2014": 12,
+        "2015": 15,
+        "2016": 9,
+        "2017": 12,
+        "2018": 17
+      },
+      "True": {
+        "2010": 59,
+        "2011": 26,
+        "2012": 13,
+        "2013": 15,
+        "2014": 5,
+        "2015": 11,
+        "2016": 6,
+        "2017": 3,
+        "2018": 0
+      }
+    }
+  },
+  "credit_limit_cut": 13000.0,
+  "income_cut": 42819.5,
+  "limit_cut_sample": {
+    "credit_cards": 498,
+    "customers": 427
+  },
+  "day_one_raw_product_with_data": {
+    "Debit": 83,
+    "Credit": 48,
+    "Prepaid": 7
+  },
+  "raw_product_day_one_to_today": {
+    "Credit": {
+      "Credit": 47,
+      "Debit": 15,
+      "Prepaid": 2,
+      "All": 64
+    },
+    "Debit": {
+      "Credit": 0,
+      "Debit": 68,
+      "Prepaid": 2,
+      "All": 70
+    },
+    "No open card": {
+      "Credit": 1,
+      "Debit": 0,
+      "Prepaid": 1,
+      "All": 2
+    },
+    "Prepaid": {
+      "Credit": 0,
+      "Debit": 0,
+      "Prepaid": 2,
+      "All": 2
+    },
+    "All": {
+      "Credit": 48,
+      "Debit": 83,
+      "Prepaid": 7,
+      "All": 138
+    }
+  },
+  "mean_value_3yr": 1238.1926866666665
+}

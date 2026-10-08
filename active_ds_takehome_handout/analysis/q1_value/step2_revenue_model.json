@@ -1,0 +1,161 @@
+{
+  "model": {
+    "net_refunds": true,
+    "prepaid": "debit",
+    "money_transfer": "full",
+    "amex_fee": true
+  },
+  "rates": {
+    "credit": 0.018,
+    "debit": 0.0005,
+    "debit_fixed": 0.21,
+    "amex_fee": 95.0
+  },
+  "refunds": {
+    "negative_rows": 67183,
+    "share_of_rows": 0.04905265002445952,
+    "negative_dollars_over_purchase_dollars": 0.10615728452101836,
+    "negative_dollars_over_purchase_dollars_by_card_type": {
+      "Credit": 0.0996,
+      "Debit": 0.11,
+      "Debit (Prepaid)": 0.117
+    },
+    "top_merchant_categories_share_of_negative_rows": {
+      "Service Stations": 0.439,
+      "Miscellaneous Food Stores": 0.438,
+      "Travel Agencies": 0.014,
+      "Lodging - Hotels, Motels, Resorts": 0.008
+    },
+    "share_matching_an_earlier_purchase_same_card_merchant_amount": 0.6472173019960407,
+    "median_negative": -79.0,
+    "median_purchase": 31.31,
+    "money_transfer_share_of_purchase_dollars": 0.08190578313728493,
+    "money_transfer_negative_rows": 0
+  },
+  "reconciliation": [
+    {
+      "step": "Interchange on gross purchases, prepaid earning nothing",
+      "change": 645682.91,
+      "running_total": 645682.91
+    },
+    {
+      "step": "Plus prepaid at the debit rate",
+      "change": 19916.23,
+      "running_total": 665599.15
+    },
+    {
+      "step": "Less refunds and reversals",
+      "change": -57084.82,
+      "running_total": 608514.33
+    },
+    {
+      "step": "Plus Amex annual fees (base revenue)",
+      "change": 21105.83,
+      "running_total": 629620.16
+    }
+  ],
+  "by_card_type": [
+    {
+      "card_type": "Credit",
+      "purchases": 395873,
+      "spend": 25299127.29,
+      "refunds": 21700,
+      "refund_amount": -2519116.88,
+      "mt_spend": 2298313.15,
+      "interchange_gross": 455384.2912,
+      "interchange_base": 410040.1874,
+      "refunds_over_spend": 0.0996,
+      "interchange_per_100_spend": 1.6208,
+      "share_of_interchange": 0.6738
+    },
+    {
+      "card_type": "Debit",
+      "purchases": 817120,
+      "spend": 37406846.41,
+      "refunds": 42117,
+      "refund_amount": -4113002.2,
+      "mt_spend": 2941378.99,
+      "interchange_gross": 190298.6232,
+      "interchange_base": 179397.5521,
+      "refunds_over_spend": 0.11,
+      "interchange_per_100_spend": 0.4796,
+      "share_of_interchange": 0.2948
+    },
+    {
+      "card_type": "Debit (Prepaid)",
+      "purchases": 89434,
+      "spend": 2270189.84,
+      "refunds": 3366,
+      "refund_amount": -265574.0,
+      "mt_spend": 82231.42,
+      "interchange_gross": 19916.2349,
+      "interchange_base": 19076.5879,
+      "refunds_over_spend": 0.117,
+      "interchange_per_100_spend": 0.8403,
+      "share_of_interchange": 0.0313
+    }
+  ],
+  "cards_with_negative_net_volume": 1,
+  "sensitivities": [
+    {
+      "variant": "base",
+      "total_revenue": 629620.1607,
+      "mean_per_active_customer": 522.0731,
+      "change_vs_base": 0.0,
+      "same_order_card_brand": true,
+      "same_order_card_type": true,
+      "same_order_credit_limit": true,
+      "same_order_yearly_income": true
+    },
+    {
+      "variant": "gross_of_refunds",
+      "total_revenue": 686704.9827,
+      "mean_per_active_customer": 569.4071,
+      "change_vs_base": 0.0907,
+      "same_order_card_brand": true,
+      "same_order_card_type": true,
+      "same_order_credit_limit": true,
+      "same_order_yearly_income": false
+    },
+    {
+      "variant": "prepaid_earns_nothing",
+      "total_revenue": 610543.5728,
+      "mean_per_active_customer": 506.255,
+      "change_vs_base": -0.0303,
+      "same_order_card_brand": false,
+      "same_order_card_type": false,
+      "same_order_credit_limit": true,
+      "same_order_yearly_income": false
+    },
+    {
+      "variant": "money_transfer_earns_nothing",
+      "total_revenue": 579566.5888,
+      "mean_per_active_customer": 480.5693,
+      "change_vs_base": -0.0795,
+      "same_order_card_brand": true,
+      "same_order_card_type": true,
+      "same_order_credit_limit": true,
+      "same_order_yearly_income": false
+    },
+    {
+      "variant": "no_amex_fee",
+      "total_revenue": 608514.3274,
+      "mean_per_active_customer": 504.5724,
+      "change_vs_base": -0.0335,
+      "same_order_card_brand": true,
+      "same_order_card_type": true,
+      "same_order_credit_limit": true,
+      "same_order_yearly_income": true
+    },
+    {
+      "variant": "step1_provisional",
+      "total_revenue": 666788.7478,
+      "mean_per_active_customer": 552.8928,
+      "change_vs_base": 0.059,
+      "same_order_card_brand": true,
+      "same_order_card_type": false,
+      "same_order_credit_limit": true,
+      "same_order_yearly_income": false
+    }
+  ]
+}

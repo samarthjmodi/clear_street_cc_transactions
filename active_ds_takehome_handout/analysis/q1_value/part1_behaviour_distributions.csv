@@ -1,0 +1,28 @@
+attribute,group,customers,share
+main spend category,"Grocery, wholesale and pharmacy",651,0.5398009950248757
+main spend category,"Bills, utilities and professional services",163,0.1351575456053068
+main spend category,Gas and auto,137,0.11359867330016583
+main spend category,Restaurants and bars,85,0.07048092868988391
+main spend category,Money transfer,75,0.06218905472636816
+main spend category,Travel and transport,43,0.03565505804311774
+main spend category,Industrial and wholesale (as labelled),18,0.014925373134328358
+main spend category,Entertainment and digital,15,0.012437810945273632
+main spend category,Retail and home,13,0.01077943615257048
+main spend category,Health,6,0.004975124378109453
+active months,12,1201,0.9958540630182421
+active months,10–11,4,0.003316749585406302
+active months,7–9,1,0.0008291873963515755
+decline/error rate,1–2%,731,0.6061359867330016
+decline/error rate,2–5%,248,0.20563847429519072
+decline/error rate,under 1%,223,0.18490878938640132
+decline/error rate,5%+,3,0.0024875621890547263
+decline/error rate,none,1,0.0008291873963515755
+in-person spend out of home state,5–20%,789,0.654228855721393
+in-person spend out of home state,20–50%,235,0.19485903814262023
+in-person spend out of home state,under 5%,153,0.12686567164179105
+in-person spend out of home state,none,16,0.013266998341625208
+in-person spend out of home state,50%+,13,0.01077943615257048
+any in-person spend abroad,No,672,0.5572139303482587
+any in-person spend abroad,Yes,534,0.4427860696517413
+any insufficient-balance decline,Yes,1191,0.9875621890547264
+any insufficient-balance decline,No,15,0.012437810945273632

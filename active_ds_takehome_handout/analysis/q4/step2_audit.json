@@ -1,0 +1,584 @@
+{
+  "analysis_window_start": "2018-01-01",
+  "signups": {
+    "integrity": {
+      "signups": 1367,
+      "unique_signup_ids": 1367,
+      "unique_card_ids": 1367,
+      "null_values": 0,
+      "card_not_in_cards_data": 0,
+      "client_not_in_users_data": 0,
+      "client_differs_from_card_owner": 0,
+      "signup_month_differs_from_card_open_month": 0,
+      "cards_opened_in_window": 1367,
+      "cards_opened_in_window_without_signup": 0
+    },
+    "classification": {
+      "by_year": {
+        "2018": {
+          "new_customer": 17,
+          "new_customer_extra_card": 0,
+          "existing_customer": 84
+        },
+        "2019": {
+          "new_customer": 9,
+          "new_customer_extra_card": 0,
+          "existing_customer": 79
+        },
+        "2020": {
+          "new_customer": 385,
+          "new_customer_extra_card": 158,
+          "existing_customer": 635
+        }
+      },
+      "new_customers_vs_customers_whose_first_card_opened_that_year": {
+        "2018": [
+          17,
+          17
+        ],
+        "2019": [
+          9,
+          9
+        ],
+        "2020": [
+          385,
+          385
+        ]
+      },
+      "by_month": {
+        "2018-01": {
+          "new_customer": 1,
+          "new_customer_extra_card": 0,
+          "existing_customer": 12
+        },
+        "2018-02": {
+          "new_customer": 0,
+          "new_customer_extra_card": 0,
+          "existing_customer": 8
+        },
+        "2018-03": {
+          "new_customer": 0,
+          "new_customer_extra_card": 0,
+          "existing_customer": 9
+        },
+        "2018-04": {
+          "new_customer": 3,
+          "new_customer_extra_card": 0,
+          "existing_customer": 8
+        },
+        "2018-05": {
+          "new_customer": 0,
+          "new_customer_extra_card": 0,
+          "existing_customer": 2
+        },
+        "2018-06": {
+          "new_customer": 2,
+          "new_customer_extra_card": 0,
+          "existing_customer": 12
+        },
+        "2018-07": {
+          "new_customer": 2,
+          "new_customer_extra_card": 0,
+          "existing_customer": 7
+        },
+        "2018-08": {
+          "new_customer": 0,
+          "new_customer_extra_card": 0,
+          "existing_customer": 10
+        },
+        "2018-09": {
+          "new_customer": 2,
+          "new_customer_extra_card": 0,
+          "existing_customer": 3
+        },
+        "2018-10": {
+          "new_customer": 4,
+          "new_customer_extra_card": 0,
+          "existing_customer": 4
+        },
+        "2018-11": {
+          "new_customer": 1,
+          "new_customer_extra_card": 0,
+          "existing_customer": 6
+        },
+        "2018-12": {
+          "new_customer": 2,
+          "new_customer_extra_card": 0,
+          "existing_customer": 3
+        },
+        "2019-01": {
+          "new_customer": 0,
+          "new_customer_extra_card": 0,
+          "existing_customer": 9
+        },
+        "2019-02": {
+          "new_customer": 3,
+          "new_customer_extra_card": 0,
+          "existing_customer": 6
+        },
+        "2019-03": {
+          "new_customer": 0,
+          "new_customer_extra_card": 0,
+          "existing_customer": 13
+        },
+        "2019-04": {
+          "new_customer": 0,
+          "new_customer_extra_card": 0,
+          "existing_customer": 3
+        },
+        "2019-05": {
+          "new_customer": 0,
+          "new_customer_extra_card": 0,
+          "existing_customer": 2
+        },
+        "2019-06": {
+          "new_customer": 0,
+          "new_customer_extra_card": 0,
+          "existing_customer": 6
+        },
+        "2019-07": {
+          "new_customer": 0,
+          "new_customer_extra_card": 0,
+          "existing_customer": 9
+        },
+        "2019-08": {
+          "new_customer": 2,
+          "new_customer_extra_card": 0,
+          "existing_customer": 7
+        },
+        "2019-09": {
+          "new_customer": 0,
+          "new_customer_extra_card": 0,
+          "existing_customer": 7
+        },
+        "2019-10": {
+          "new_customer": 2,
+          "new_customer_extra_card": 0,
+          "existing_customer": 8
+        },
+        "2019-11": {
+          "new_customer": 1,
+          "new_customer_extra_card": 0,
+          "existing_customer": 4
+        },
+        "2019-12": {
+          "new_customer": 1,
+          "new_customer_extra_card": 0,
+          "existing_customer": 5
+        },
+        "2020-01": {
+          "new_customer": 254,
+          "new_customer_extra_card": 108,
+          "existing_customer": 209
+        },
+        "2020-02": {
+          "new_customer": 131,
+          "new_customer_extra_card": 50,
+          "existing_customer": 426
+        }
+      },
+      "new_customers_march_2019": []
+    },
+    "timestamps": {
+      "scope": "2018-2019 signups",
+      "share_with_zero_seconds": 1.0,
+      "share_at_exact_midnight": 0.0,
+      "signups_sharing_a_timestamp": 0,
+      "by_hour": {
+        "8": 12,
+        "9": 15,
+        "10": 14,
+        "11": 15,
+        "12": 10,
+        "13": 13,
+        "14": 11,
+        "15": 13,
+        "16": 11,
+        "17": 16,
+        "18": 10,
+        "19": 10,
+        "20": 12,
+        "21": 11,
+        "22": 16
+      },
+      "by_weekday": {
+        "Tuesday": 41,
+        "Wednesday": 34,
+        "Sunday": 29,
+        "Thursday": 25,
+        "Monday": 24,
+        "Saturday": 24,
+        "Friday": 12
+      }
+    },
+    "daily_file_days": 790
+  },
+  "transactions": {
+    "integrity": {
+      "rows": 2554758,
+      "null_key_fields": 0,
+      "amount_not_parsed": 0,
+      "timestamp_seconds_not_zero": 0,
+      "card_owner_differs": 0,
+      "before_card_open_month": 13,
+      "duplicate_ids": 0,
+      "days_with_no_rows": [],
+      "failed_share_of_rows": 0.0159,
+      "top_failure_reasons": {
+        "Insufficient Balance": 25125,
+        "Bad PIN": 6269,
+        "Technical Glitch": 5226,
+        "Bad Card Number": 1550,
+        "Bad Expiration": 1244
+      },
+      "refund_dollars_as_share_of_purchase_dollars": 0.1057,
+      "rows_by_hour": {
+        "0": 27552,
+        "1": 22265,
+        "2": 21396,
+        "3": 19742,
+        "4": 22226,
+        "5": 35074,
+        "6": 146777,
+        "7": 171856,
+        "8": 169348,
+        "9": 168773,
+        "10": 167225,
+        "11": 182708,
+        "12": 182946,
+        "13": 172153,
+        "14": 170336,
+        "15": 164043,
+        "16": 166057,
+        "17": 92095,
+        "18": 90987,
+        "19": 87475,
+        "20": 81353,
+        "21": 81701,
+        "22": 79907,
+        "23": 30763
+      }
+    },
+    "patterns": {
+      "purchases_per_day_mean": 3571.7728,
+      "weekday_index": {
+        "Friday": 1.0273,
+        "Monday": 0.9764,
+        "Saturday": 1.0263,
+        "Sunday": 1.0299,
+        "Thursday": 1.0265,
+        "Tuesday": 0.9328,
+        "Wednesday": 0.9816
+      },
+      "monthly_purchases": {
+        "2018-01": 111483,
+        "2018-02": 99852,
+        "2018-03": 110999,
+        "2018-04": 107436,
+        "2018-05": 110201,
+        "2018-06": 107445,
+        "2018-07": 110970,
+        "2018-08": 111310,
+        "2018-09": 107226,
+        "2018-10": 110167,
+        "2018-11": 107393,
+        "2018-12": 110660,
+        "2019-01": 110436,
+        "2019-02": 99355,
+        "2019-03": 110778,
+        "2019-04": 106606,
+        "2019-05": 110268,
+        "2019-06": 107617,
+        "2019-07": 111207,
+        "2019-08": 111011,
+        "2019-09": 107340,
+        "2019-10": 109756
+      },
+      "monthly_purchase_volume": {
+        "2018-01": 5498489.35,
+        "2018-02": 5020166.85,
+        "2018-03": 5528164.36,
+        "2018-04": 5364268.41,
+        "2018-05": 5481489.47,
+        "2018-06": 5383565.62,
+        "2018-07": 5594574.35,
+        "2018-08": 5580286.54,
+        "2018-09": 5327944.93,
+        "2018-10": 5513565.17,
+        "2018-11": 5369456.42,
+        "2018-12": 5466168.32,
+        "2019-01": 5488479.95,
+        "2019-02": 4962716.73,
+        "2019-03": 5542408.86,
+        "2019-04": 5367324.38,
+        "2019-05": 5525151.18,
+        "2019-06": 5420604.89,
+        "2019-07": 5538473.58,
+        "2019-08": 5532054.91,
+        "2019-09": 5308695.13,
+        "2019-10": 5454629.19
+      },
+      "day_vs_same_weekday_neighbours": {
+        "p01": 0.9586,
+        "p99": 1.0485,
+        "days_outside_0.85_1.15": 2,
+        "lowest_days": {
+          "2019-01-02": 0.918,
+          "2018-12-31": 0.918,
+          "2018-10-16": 0.947,
+          "2019-10-01": 0.95,
+          "2019-07-19": 0.955
+        },
+        "highest_days": {
+          "2019-01-01": 1.157,
+          "2018-12-25": 1.152,
+          "2018-01-01": 1.13,
+          "2018-12-26": 1.065,
+          "2019-01-07": 1.059
+        }
+      },
+      "share_of_purchases_by_cohort_mar_2019": {
+        "campaign": 0.0,
+        "existing": 1.0,
+        "later": 0.0,
+        "post": 0.0
+      }
+    },
+    "coverage": {
+      "customers_transacting_in_window": 1209,
+      "latest_first_card_among_transacting_customers": "2017-10-22 14:23:00",
+      "cards_first_transacting_in_open_month": {
+        "cards": 112,
+        "first_txn_day_of_month_quantiles": {
+          "0.25": 1.0,
+          "0.5": 1.0,
+          "0.75": 2.0
+        },
+        "signup_day_of_month_quantiles": {
+          "0.25": 9.0,
+          "0.5": 17.0,
+          "0.75": 22.25
+        },
+        "share_first_txn_before_signup": 0.9375,
+        "corr_signup_day_first_txn_day": -0.064
+      },
+      "customers_acquired_in_window": 24,
+      "acquired_with_any_transaction": 0,
+      "acquired_lag_days_to_first_txn_median": null,
+      "cards_opened_in_window_by_new_customers": {
+        "cards": 24,
+        "with_any_transaction": 0,
+        "customer_has_transactions_on_other_cards": 0,
+        "first_txn_before_signup": 0,
+        "lag_days_median": null,
+        "share_transacting_within_7_days": 0.0,
+        "share_transacting_within_28_days": 0.0
+      },
+      "cards_opened_in_window_by_existing_customers": {
+        "cards": 154,
+        "with_any_transaction": 122,
+        "customer_has_transactions_on_other_cards": 122,
+        "first_txn_before_signup": 115,
+        "lag_days_median": -15.6837,
+        "share_transacting_within_7_days": 0.7922,
+        "share_transacting_within_28_days": 0.7922
+      },
+      "cards_opened_march_2019": [
+        {
+          "card_id": 2386,
+          "client_id": 913,
+          "signup_ts": "2019-03-03 18:05:00",
+          "kind": "existing_customer",
+          "first_txn": "2019-03-05 11:45:00",
+          "customer_has_transactions": true
+        },
+        {
+          "card_id": 2387,
+          "client_id": 1954,
+          "signup_ts": "2019-03-05 10:13:00",
+          "kind": "existing_customer",
+          "first_txn": "2019-03-01 12:01:00",
+          "customer_has_transactions": true
+        },
+        {
+          "card_id": 2384,
+          "client_id": 576,
+          "signup_ts": "2019-03-09 13:55:00",
+          "kind": "existing_customer",
+          "first_txn": "2019-03-03 08:22:00",
+          "customer_has_transactions": true
+        },
+        {
+          "card_id": 2390,
+          "client_id": 1698,
+          "signup_ts": "2019-03-10 15:13:00",
+          "kind": "existing_customer",
+          "first_txn": null,
+          "customer_has_transactions": false
+        },
+        {
+          "card_id": 2380,
+          "client_id": 875,
+          "signup_ts": "2019-03-12 15:47:00",
+          "kind": "existing_customer",
+          "first_txn": "2019-03-01 20:56:00",
+          "customer_has_transactions": true
+        },
+        {
+          "card_id": 2389,
+          "client_id": 1551,
+          "signup_ts": "2019-03-14 09:17:00",
+          "kind": "existing_customer",
+          "first_txn": "2019-03-02 16:12:00",
+          "customer_has_transactions": true
+        },
+        {
+          "card_id": 2391,
+          "client_id": 591,
+          "signup_ts": "2019-03-16 22:02:00",
+          "kind": "existing_customer",
+          "first_txn": null,
+          "customer_has_transactions": false
+        },
+        {
+          "card_id": 2385,
+          "client_id": 1187,
+          "signup_ts": "2019-03-18 22:22:00",
+          "kind": "existing_customer",
+          "first_txn": "2019-03-02 00:02:00",
+          "customer_has_transactions": true
+        },
+        {
+          "card_id": 2388,
+          "client_id": 1173,
+          "signup_ts": "2019-03-19 11:44:00",
+          "kind": "existing_customer",
+          "first_txn": "2019-03-06 01:37:00",
+          "customer_has_transactions": true
+        },
+        {
+          "card_id": 2381,
+          "client_id": 1603,
+          "signup_ts": "2019-03-19 11:52:00",
+          "kind": "existing_customer",
+          "first_txn": "2019-03-01 08:15:00",
+          "customer_has_transactions": true
+        },
+        {
+          "card_id": 2379,
+          "client_id": 1718,
+          "signup_ts": "2019-03-21 17:44:00",
+          "kind": "existing_customer",
+          "first_txn": "2019-03-01 04:44:00",
+          "customer_has_transactions": true
+        },
+        {
+          "card_id": 2383,
+          "client_id": 401,
+          "signup_ts": "2019-03-23 13:41:00",
+          "kind": "existing_customer",
+          "first_txn": "2019-03-02 10:44:00",
+          "customer_has_transactions": true
+        },
+        {
+          "card_id": 2382,
+          "client_id": 1740,
+          "signup_ts": "2019-03-23 20:14:00",
+          "kind": "existing_customer",
+          "first_txn": "2019-03-01 10:37:00",
+          "customer_has_transactions": true
+        }
+      ]
+    }
+  },
+  "touchpoints": {
+    "touches": 785653,
+    "touches_with_client_id": 7565,
+    "touches_per_day_by_year": {
+      "2018": 989.2521,
+      "2019": 988.9315,
+      "2020": 1078.2373
+    },
+    "paid_channels": {
+      "apple_search_ads": {
+        "daily_corr_touches_spend": -0.0397,
+        "weekly_corr_touches_spend": -0.0808,
+        "campaign_vs_prior_4_weeks_touches": -0.016,
+        "campaign_vs_prior_4_weeks_spend": 0.0329,
+        "zero_touch_days": [
+          [
+            "2019-06-03",
+            "2019-06-23"
+          ]
+        ]
+      },
+      "microsoft_ads": {
+        "daily_corr_touches_spend": -0.0575,
+        "weekly_corr_touches_spend": -0.1183,
+        "campaign_vs_prior_4_weeks_touches": -0.0286,
+        "campaign_vs_prior_4_weeks_spend": -0.0073,
+        "zero_touch_days": [
+          [
+            "2019-06-03",
+            "2019-06-23"
+          ]
+        ]
+      },
+      "paid_search_brand": {
+        "daily_corr_touches_spend": 0.0215,
+        "weekly_corr_touches_spend": 0.0306,
+        "campaign_vs_prior_4_weeks_touches": 0.0284,
+        "campaign_vs_prior_4_weeks_spend": 0.943,
+        "zero_touch_days": [
+          [
+            "2019-06-03",
+            "2019-06-23"
+          ]
+        ]
+      },
+      "paid_search_nonbrand": {
+        "daily_corr_touches_spend": -0.0489,
+        "weekly_corr_touches_spend": -0.0668,
+        "campaign_vs_prior_4_weeks_touches": 0.0007,
+        "campaign_vs_prior_4_weeks_spend": -0.0216,
+        "zero_touch_days": [
+          [
+            "2019-06-03",
+            "2019-06-22"
+          ]
+        ]
+      },
+      "paid_social_meta": {
+        "daily_corr_touches_spend": -0.0267,
+        "weekly_corr_touches_spend": -0.0278,
+        "campaign_vs_prior_4_weeks_touches": 0.0078,
+        "campaign_vs_prior_4_weeks_spend": 0.9857,
+        "zero_touch_days": [
+          [
+            "2019-06-03",
+            "2019-06-23"
+          ]
+        ]
+      },
+      "paid_social_reddit": {
+        "daily_corr_touches_spend": -0.0259,
+        "weekly_corr_touches_spend": -0.0612,
+        "campaign_vs_prior_4_weeks_touches": 0.0,
+        "campaign_vs_prior_4_weeks_spend": 0.0661,
+        "zero_touch_days": [
+          [
+            "2019-06-03",
+            "2019-06-23"
+          ]
+        ]
+      }
+    },
+    "direct_share_median": 0.0,
+    "days_direct_over_half_of_touches": [
+      [
+        "2019-06-03",
+        "2019-06-23"
+      ]
+    ]
+  }
+}

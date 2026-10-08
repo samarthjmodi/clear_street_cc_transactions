@@ -1,0 +1,51 @@
+attribute,group,customers,share
+self_reported_source,search,361,0.3631790744466801
+self_reported_source,social_media,192,0.193158953722334
+self_reported_source,blog_or_review_site,147,0.14788732394366197
+self_reported_source,friend_or_family,131,0.1317907444668008
+self_reported_source,other,89,0.08953722334004025
+self_reported_source,podcast_or_youtube,42,0.04225352112676056
+self_reported_source,app_store,32,0.03219315895372234
+signup_landing_page,/blog/credit-basics,181,0.18209255533199195
+signup_landing_page,/cards/rewards,169,0.17002012072434608
+signup_landing_page,/cards,167,0.16800804828973842
+signup_landing_page,/,163,0.16398390342052313
+signup_landing_page,/compare,161,0.1619718309859155
+signup_landing_page,/apply,153,0.15392354124748492
+channel_last_touch,paid_search_brand,439,0.4416498993963783
+channel_last_touch,direct,302,0.3038229376257545
+channel_last_touch,paid_social_meta,70,0.07042253521126761
+channel_last_touch,organic_search,67,0.06740442655935613
+channel_last_touch,paid_search_nonbrand,52,0.052313883299798795
+channel_last_touch,microsoft_ads,23,0.023138832997987926
+channel_last_touch,affiliate,20,0.02012072434607646
+channel_last_touch,paid_social_reddit,14,0.014084507042253521
+channel_last_touch,apple_search_ads,3,0.0030181086519114686
+channel_last_touch,referral,3,0.0030181086519114686
+channel_last_touch,Missing,1,0.001006036217303823
+channel_first_touch,affiliate,192,0.193158953722334
+channel_first_touch,paid_social_meta,162,0.16297786720321933
+channel_first_touch,paid_search_brand,136,0.13682092555331993
+channel_first_touch,organic_search,128,0.12877263581488935
+channel_first_touch,paid_search_nonbrand,123,0.12374245472837023
+channel_first_touch,microsoft_ads,78,0.07847082494969819
+channel_first_touch,direct,66,0.06639839034205232
+channel_first_touch,apple_search_ads,50,0.05030181086519115
+channel_first_touch,paid_social_reddit,41,0.04124748490945674
+channel_first_touch,referral,17,0.01710261569416499
+channel_first_touch,Missing,1,0.001006036217303823
+device_last_touch,tablet,340,0.3420523138832998
+device_last_touch,mobile,334,0.33601609657947684
+device_last_touch,desktop,319,0.3209255533199195
+device_last_touch,Missing,1,0.001006036217303823
+signup_year,2020,636,0.6398390342052314
+signup_year,2016,116,0.11670020120724346
+signup_year,2017,90,0.09054325955734406
+signup_year,2018,80,0.08048289738430583
+signup_year,2019,72,0.07243460764587525
+first_signup_kind,existing_customer,553,0.5563380281690141
+first_signup_kind,acquisition,441,0.44366197183098594
+signups per customer,1,598,0.6016096579476862
+signups per customer,2,263,0.26458752515090544
+signups per customer,3,87,0.0875251509054326
+signups per customer,4+,46,0.04627766599597585

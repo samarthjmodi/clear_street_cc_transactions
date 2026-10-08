@@ -1,0 +1,87 @@
+[
+  {
+    "name": "users_data",
+    "rows": 10,
+    "columns": 14
+  },
+  {
+    "name": "cards_data",
+    "rows": 10,
+    "columns": 13
+  },
+  {
+    "name": "transactions_data",
+    "rows": 10,
+    "columns": 12
+  },
+  {
+    "name": "marketing_touchpoints",
+    "rows": 10,
+    "columns": 10
+  },
+  {
+    "name": "channel_spend",
+    "rows": 10,
+    "columns": 7
+  },
+  {
+    "name": "account_signups",
+    "rows": 10,
+    "columns": 6
+  },
+  {
+    "name": "revenue_assumptions",
+    "rows": 7,
+    "columns": 4
+  },
+  {
+    "name": "mcc_codes",
+    "rows": 10,
+    "columns": 2
+  },
+  {
+    "name": "train_fraud_labels",
+    "rows": 10,
+    "columns": 2
+  },
+  {
+    "name": "master",
+    "rows": 10,
+    "columns": 46
+  },
+  {
+    "name": "master_no_transactions",
+    "rows": 10,
+    "columns": 8
+  },
+  {
+    "name": "customer_summary",
+    "rows": 10,
+    "columns": 29
+  },
+  {
+    "name": "demographics",
+    "rows": 2,
+    "columns": 7
+  },
+  {
+    "name": "activity_distributions",
+    "rows": 7,
+    "columns": 11
+  },
+  {
+    "name": "card_usage",
+    "rows": 3,
+    "columns": 5
+  },
+  {
+    "name": "merchant_categories",
+    "rows": 10,
+    "columns": 5
+  },
+  {
+    "name": "monthly_activity",
+    "rows": 10,
+    "columns": 4
+  }
+]

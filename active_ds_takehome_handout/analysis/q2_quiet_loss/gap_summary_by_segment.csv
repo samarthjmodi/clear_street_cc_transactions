@@ -1,0 +1,6 @@
+day_one_segment,customers,median_gap_days,p90_gap_days,median_of_max_gap_days,p90_of_max_gap_days,max_of_max_gap_days,median_terminal_silence_days,max_terminal_silence_days,share_max_gap_ge_7,share_max_gap_ge_14,share_max_gap_ge_30,share_max_gap_ge_60,share_no_open_card
+"Credit, limit $10k+",226,1.0,1.0,2.0,4.0,8.0,0.0,3.0,0.022123893805309734,0.0,0.0,0.0,0.0
+"Credit, limit under $10k",193,1.0,1.0,3.0,5.0,7.0,0.0,2.0,0.025906735751295335,0.0,0.0,0.0,0.0
+Debit,693,1.0,1.0,3.0,5.0,22.0,0.0,35.0,0.03463203463203463,0.005772005772005772,0.004329004329004329,0.0,0.004329004329004329
+Prepaid,94,1.0,1.0,3.0,6.0,11.0,0.0,2.0,0.07446808510638298,0.0,0.0,0.0,0.0
+All active,1206,1.0,1.0,3.0,5.0,22.0,0.0,35.0,0.03399668325041459,0.003316749585406302,0.0024875621890547263,0.0,0.0024875621890547263

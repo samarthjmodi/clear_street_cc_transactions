@@ -1,0 +1,257 @@
+{
+  "base": {
+    "customers": 2000,
+    "join_period": {
+      "Joined before 2010": 1322,
+      "Joined Nov 2019 \u2013 Feb 2020": 387,
+      "Joined 2010\u20132017": 267,
+      "Joined 2018 \u2013 Oct 2019": 24
+    },
+    "has_transactions": 1219,
+    "active_in_window": 1206,
+    "tenure_years": {
+      "n": 2000,
+      "mean": 11.388541666666667,
+      "p10": 0.08333333333333333,
+      "p25": 6.895833333333334,
+      "median": 12.833333333333334,
+      "p75": 16.333333333333332,
+      "p90": 19.341666666666676,
+      "min": 0.0,
+      "max": 29.083333333333332
+    },
+    "first_card_year": {
+      "n": 2000,
+      "mean": 2008.3245,
+      "p10": 2000.0,
+      "p25": 2003.0,
+      "median": 2007.0,
+      "p75": 2013.0,
+      "p90": 2020.0,
+      "min": 1991.0,
+      "max": 2020.0
+    }
+  },
+  "cards": {
+    "type_by_brand": {
+      "Amex": {
+        "Credit": 402,
+        "Debit": 0,
+        "Debit (Prepaid)": 0,
+        "All": 402
+      },
+      "Discover": {
+        "Credit": 209,
+        "Debit": 0,
+        "Debit (Prepaid)": 0,
+        "All": 209
+      },
+      "Mastercard": {
+        "Credit": 635,
+        "Debit": 2191,
+        "Debit (Prepaid)": 383,
+        "All": 3209
+      },
+      "Visa": {
+        "Credit": 811,
+        "Debit": 1320,
+        "Debit (Prepaid)": 195,
+        "All": 2326
+      },
+      "All": {
+        "Credit": 2057,
+        "Debit": 3511,
+        "Debit (Prepaid)": 578,
+        "All": 6146
+      }
+    },
+    "status": {
+      "open_feb_2020": 4902,
+      "expired": 1244,
+      "opened_after_snapshot": 0
+    },
+    "credit_limit_by_type": {
+      "Credit": {
+        "n": 2057,
+        "mean": 11174.380165289256,
+        "p10": 4600.0,
+        "p25": 7200.0,
+        "median": 10100.0,
+        "p75": 13900.0,
+        "p90": 18840.000000000007,
+        "min": 0.0,
+        "max": 98100.0
+      },
+      "Debit": {
+        "n": 3511,
+        "mean": 18557.88863571632,
+        "p10": 4976.0,
+        "p25": 11010.0,
+        "median": 16454.0,
+        "p75": 23478.0,
+        "p90": 32165.0,
+        "min": 0.0,
+        "max": 151223.0
+      },
+      "Debit (Prepaid)": {
+        "n": 578,
+        "mean": 64.44809688581314,
+        "p10": 29.700000000000003,
+        "p25": 51.0,
+        "median": 65.0,
+        "p75": 80.0,
+        "p90": 95.30000000000007,
+        "min": 0.0,
+        "max": 145.0
+      }
+    },
+    "chip_share": 0.8948909860071591,
+    "dark_web_share": 0.0,
+    "num_cards_issued": {
+      "1": 3114,
+      "2": 2972,
+      "3": 60
+    },
+    "cards_opened_by_year": {
+      "1991": 3,
+      "1992": 2,
+      "1993": 3,
+      "1994": 10,
+      "1995": 6,
+      "1996": 16,
+      "1997": 27,
+      "1998": 42,
+      "1999": 61,
+      "2000": 64,
+      "2001": 121,
+      "2002": 147,
+      "2003": 197,
+      "2004": 246,
+      "2005": 300,
+      "2006": 359,
+      "2007": 408,
+      "2008": 487,
+      "2009": 466,
+      "2010": 545,
+      "2011": 335,
+      "2012": 188,
+      "2013": 199,
+      "2014": 178,
+      "2015": 148,
+      "2016": 120,
+      "2017": 101,
+      "2018": 101,
+      "2019": 88,
+      "2020": 1178
+    }
+  },
+  "behaviour_overall": {
+    "purchase_rows": 1302427,
+    "purchase_dollars": 64976163.54000001,
+    "refund_dollars": 6897693.08,
+    "attempts": 1392940,
+    "error_rows": 22286,
+    "category_dollar_mix": {
+      "Grocery, wholesale and pharmacy": 0.2528,
+      "Gas and auto": 0.1626,
+      "Bills, utilities and professional services": 0.1231,
+      "Retail and home": 0.1084,
+      "Money transfer": 0.0819,
+      "Restaurants and bars": 0.0723,
+      "Industrial and wholesale (as labelled)": 0.0623,
+      "Travel and transport": 0.0597,
+      "Entertainment and digital": 0.0328,
+      "Health": 0.0309,
+      "Personal and home services": 0.0133
+    },
+    "method_dollar_mix": {
+      "Chip Transaction": 0.6893,
+      "Online Transaction": 0.1447,
+      "Swipe Transaction": 0.1659
+    },
+    "method_count_mix": {
+      "Chip Transaction": 0.7055,
+      "Swipe Transaction": 0.1686,
+      "Online Transaction": 0.1259
+    },
+    "monthly_purchase_dollars": {
+      "2018-11": 5369456.0,
+      "2018-12": 5466168.0,
+      "2019-01": 5488480.0,
+      "2019-02": 4962717.0,
+      "2019-03": 5542409.0,
+      "2019-04": 5367324.0,
+      "2019-05": 5525151.0,
+      "2019-06": 5420605.0,
+      "2019-07": 5538474.0,
+      "2019-08": 5532055.0,
+      "2019-09": 5308695.0,
+      "2019-10": 5454629.0
+    },
+    "weekday_count_mix": {
+      "Thursday": 0.1491,
+      "Friday": 0.1469,
+      "Saturday": 0.1464,
+      "Sunday": 0.1461,
+      "Monday": 0.1449,
+      "Wednesday": 0.1338,
+      "Tuesday": 0.1328
+    },
+    "error_types": {
+      "Insufficient Balance": 13832,
+      "Bad PIN": 3406,
+      "Technical Glitch": 2860,
+      "Bad Card Number": 853,
+      "Bad Expiration": 688,
+      "Bad CVV": 654,
+      "Bad Zipcode": 101
+    },
+    "abroad_dollars_share_of_in_person": 0.011845395873616146,
+    "top_abroad_countries": {
+      "Italy": 2627,
+      "Mexico": 2344,
+      "Canada": 754,
+      "United Kingdom": 434,
+      "Japan": 316,
+      "China": 312,
+      "Germany": 302,
+      "France": 245
+    }
+  },
+  "personas": {
+    "k": 4,
+    "features": [
+      "current_age",
+      "log_yearly_income",
+      "debt_to_income",
+      "credit_score",
+      "tenure_years",
+      "cards_open",
+      "log_total_credit_limit",
+      "credit_share_of_spend",
+      "log_purchases",
+      "log_avg_ticket",
+      "online_share",
+      "log_distinct_merchants",
+      "in_person_out_of_state_share",
+      "error_rate",
+      "share_Grocery, wholesale and pharmacy",
+      "share_Gas and auto",
+      "share_Restaurants and bars",
+      "share_Money transfer",
+      "share_Bills, utilities and professional services"
+    ],
+    "description": {
+      "P1": "high credit share of spend (+0.7 sd); high credit limit (log) (+0.7 sd); low age (-0.5 sd); low purchases (log) (-0.5 sd)",
+      "P2": "low credit limit (log) (-1.3 sd); low credit share of spend (-1.1 sd); low cards open (-0.5 sd); low online share (-0.2 sd)",
+      "P3": "high cards open (+0.8 sd); high age (+0.7 sd); high credit limit (log) (+0.7 sd); high tenure (+0.6 sd)",
+      "P4": "high online share (+2.6 sd); high gas & auto share (+2.6 sd); high purchases (log) (+1.0 sd); low grocery share (-0.8 sd)"
+    },
+    "sizes": {
+      "P1": 407,
+      "P2": 375,
+      "P3": 338,
+      "P4": 86
+    }
+  }
+}

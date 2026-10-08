@@ -1,0 +1,151 @@
+{
+  "cost_crossover_pct": {
+    "interchange_only": {
+      "premium_falls_to_debit": 1.44,
+      "core_falls_to_debit": 1.0699999999999998,
+      "premium_falls_to_core": 1.8899999999999997
+    },
+    "with_revolving_interest": {
+      "premium_falls_to_debit": 2.02,
+      "core_falls_to_debit": 1.66,
+      "premium_falls_to_core": 2.4699999999999998
+    }
+  },
+  "p_ranking_holds": {
+    "three_year_new_customers": {
+      "Premium credit > Core credit": 1.0,
+      "Core credit > Debit": 1.0,
+      "Debit > Prepaid": 1.0,
+      "Premium credit > Debit": 1.0
+    },
+    "established_annual": {
+      "Premium credit > Core credit": 1.0,
+      "Core credit > Debit": 0.99975,
+      "Debit > Prepaid": 0.997,
+      "Premium credit > Debit": 1.0
+    }
+  },
+  "card_level_support_all_credit_cards": {
+    "limit_cut": 10000,
+    "cards_at_or_above_cut": 240,
+    "y1_at_or_above_cut": 509.15869216666664,
+    "cards_below_cut": 273,
+    "y1_below_cut": 304.0348109157509
+  },
+  "value_per_account_if_missing_is_zero": {
+    "Premium credit": {
+      "pct_missing": 0.20761245674740483,
+      "established_with_data": 761.3890050873364,
+      "established_pct_missing": 0.1993006993006993,
+      "established_value_per_account_missing_as_zero": 609.6436439335664
+    },
+    "Core credit": {
+      "pct_missing": 0.28832116788321166,
+      "established_with_data": 543.2005444871794,
+      "established_pct_missing": 0.28308823529411764,
+      "established_value_per_account_missing_as_zero": 389.42686093749995
+    },
+    "Debit": {
+      "pct_missing": 0.23658269441401972,
+      "established_with_data": 446.881901312769,
+      "established_pct_missing": 0.23322332233223322,
+      "established_value_per_account_missing_as_zero": 342.65861959845984
+    },
+    "Prepaid": {
+      "pct_missing": 0.2846715328467153,
+      "established_with_data": 336.21703329931967,
+      "established_pct_missing": 0.27941176470588236,
+      "established_value_per_account_missing_as_zero": 242.2740387009804
+    }
+  },
+  "prepaid_starters_established_value": {
+    "added_credit": {
+      "n": 52,
+      "value": 545.2792578525642
+    },
+    "no_credit": {
+      "n": 46,
+      "value": 99.8858229347826
+    }
+  },
+  "debit_starters_established_value": {
+    "added_credit": {
+      "n": 388,
+      "value": 611.3841544458763
+    },
+    "no_credit": {
+      "n": 309,
+      "value": 240.3224378317152
+    }
+  },
+  "prepaid_new_cohort": [
+    {
+      "client_id": 315,
+      "y1_value_prepaid_debit": 100.0,
+      "y2_value_prepaid_debit": 107.0,
+      "y3_value_prepaid_debit": 105.0
+    },
+    {
+      "client_id": 780,
+      "y1_value_prepaid_debit": 125.0,
+      "y2_value_prepaid_debit": 169.0,
+      "y3_value_prepaid_debit": 190.0
+    },
+    {
+      "client_id": 1089,
+      "y1_value_prepaid_debit": 48.0,
+      "y2_value_prepaid_debit": 190.0,
+      "y3_value_prepaid_debit": 197.0
+    },
+    {
+      "client_id": 1289,
+      "y1_value_prepaid_debit": 72.0,
+      "y2_value_prepaid_debit": 79.0,
+      "y3_value_prepaid_debit": 74.0
+    },
+    {
+      "client_id": 1555,
+      "y1_value_prepaid_debit": 41.0,
+      "y2_value_prepaid_debit": 45.0,
+      "y3_value_prepaid_debit": 37.0
+    },
+    {
+      "client_id": 1672,
+      "y1_value_prepaid_debit": 168.0,
+      "y2_value_prepaid_debit": 172.0,
+      "y3_value_prepaid_debit": 173.0
+    },
+    {
+      "client_id": 1793,
+      "y1_value_prepaid_debit": 73.0,
+      "y2_value_prepaid_debit": 68.0,
+      "y3_value_prepaid_debit": 72.0
+    }
+  ],
+  "premium_predictability": {
+    "base_rate_premium_all": 0.1875,
+    "base_rate_premium_among_credit_starters": 0.5193905817174516,
+    "auc_premium_vs_core": {
+      "yearly_income": 0.8102862632084534,
+      "per_capita_income": 0.8399269932756964,
+      "age_at_first_card": 0.4671008645533141,
+      "credit_score": 0.5531604226705091,
+      "total_debt": 0.609164265129683
+    },
+    "auc_premium_vs_all_others": {
+      "yearly_income": 0.6785690256410256,
+      "per_capita_income": 0.6955561025641026,
+      "age_at_first_card": 0.4645948717948718
+    }
+  },
+  "spend_vs_revenue": {
+    "customers": 1206,
+    "rank_correlation": 0.6082445446024441
+  },
+  "limit_drift": {
+    "rank_corr_card_age_vs_limit_to_income": 0.1437534155384861,
+    "customers_with_credit_cards_opened_apart": 515,
+    "share_earliest_card_higher_limit": 0.6058252427184466,
+    "share_equal_limits": 0.013592233009708738
+  }
+}

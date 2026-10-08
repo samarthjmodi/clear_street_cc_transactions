@@ -1,0 +1,3 @@
+observed_activity,customers,median_age,median_income,median_debt,median_credit_score,median_reported_cards
+No recorded transactions,397,42.0,40093.0,60945.0,699.0,2.0
+Recorded transactions,1206,51.0,40003.0,51746.0,715.0,4.0

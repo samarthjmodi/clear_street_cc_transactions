@@ -1,0 +1,10 @@
+{
+  "march_total_spend": 237684.25,
+  "adj_avg_total_spend": 188398.79499999998,
+  "march_incremental_spend_vs_adj": 49285.455000000016,
+  "march_signups": 13,
+  "adj_avg_signups": 6.0,
+  "march_incremental_signups_vs_adj": 7.0,
+  "caveat": "Descriptive only. Signup counts are tiny; this is not a causal incrementality estimate.",
+  "naive_cost_per_incremental_signup": 7040.779285714288
+}

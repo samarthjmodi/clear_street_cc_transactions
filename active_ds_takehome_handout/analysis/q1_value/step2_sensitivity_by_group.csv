@@ -1,0 +1,127 @@
+variant,dimension,group,active_customers,revenue_mean,rank,base_rank
+base,card_type,Credit + prepaid,31,849.4804698387096,1,1
+base,card_type,Credit only,121,811.800203966942,2,2
+base,card_type,Credit + debit + prepaid,125,700.23607112,3,3
+base,card_type,Credit + debit,493,637.6512923698444,4,4
+base,card_type,Debit + prepaid,91,241.26409945054942,5,5
+base,card_type,Debit only,324,239.1332899228395,6,6
+base,credit_limit,Q5 ($22.5k–$162.7k),164,903.0157735162601,1,1
+base,credit_limit,Q4 ($15.0k–$22.4k),159,717.2616289622641,2,2
+base,credit_limit,Q3 ($11.0k–$14.9k),161,640.4077272360248,3,3
+base,credit_limit,Q2 ($7.6k–$10.9k),154,579.1027917532467,4,4
+base,credit_limit,Q1 ($0–$7.5k),132,545.6564802777776,5,5
+base,credit_limit,No credit card,436,236.62120519495411,6,6
+base,yearly_income,Q5 ($57.2k–$307.0k),237,728.6441605977495,1,1
+base,yearly_income,Q4 ($44.8k–$57.2k),220,575.931449719697,2,2
+base,yearly_income,Q2 ($31.2k–$37.6k),245,474.4134531564626,3,3
+base,yearly_income,Q3 ($37.6k–$44.8k),236,472.11856173728813,4,4
+base,yearly_income,Q1 ($1–$31.2k),268,382.7436535261194,5,5
+base,card_brand,Any Amex,205,777.9023405528454,1,1
+base,card_brand,"Multi-brand, no Amex",578,515.0903029065744,2,2
+base,card_brand,Visa only,140,514.5398329642857,3,3
+base,card_brand,Mastercard only,279,343.89434505376346,4,4
+gross_of_refunds,card_type,Credit + prepaid,31,945.6251633870967,1,1
+gross_of_refunds,card_type,Credit only,121,902.7226191735537,2,2
+gross_of_refunds,card_type,Credit + debit + prepaid,125,752.6847061599999,3,3
+gross_of_refunds,card_type,Credit + debit,493,698.0584870148749,4,4
+gross_of_refunds,card_type,Debit + prepaid,91,258.82144846153847,5,5
+gross_of_refunds,card_type,Debit only,324,254.7319923919753,6,6
+gross_of_refunds,credit_limit,Q5 ($22.5k–$162.7k),164,981.6265047357724,1,1
+gross_of_refunds,credit_limit,Q4 ($15.0k–$22.4k),159,774.0494084591194,2,2
+gross_of_refunds,credit_limit,Q3 ($11.0k–$14.9k),161,712.1633622049688,3,3
+gross_of_refunds,credit_limit,Q2 ($7.6k–$10.9k),154,641.2898459740259,4,4
+gross_of_refunds,credit_limit,Q1 ($0–$7.5k),132,600.7174169444444,5,5
+gross_of_refunds,credit_limit,No credit card,436,252.1393195527523,6,6
+gross_of_refunds,yearly_income,Q5 ($57.2k–$307.0k),237,782.9385491209564,1,1
+gross_of_refunds,yearly_income,Q4 ($44.8k–$57.2k),220,627.1819041742423,2,2
+gross_of_refunds,yearly_income,Q3 ($37.6k–$44.8k),236,522.5806518220338,3,4
+gross_of_refunds,yearly_income,Q2 ($31.2k–$37.6k),245,519.9365452789116,4,3
+gross_of_refunds,yearly_income,Q1 ($1–$31.2k),268,419.60835893656713,5,5
+gross_of_refunds,card_brand,Any Amex,205,847.0746542601626,1,1
+gross_of_refunds,card_brand,"Multi-brand, no Amex",578,562.3391866955018,2,2
+gross_of_refunds,card_brand,Visa only,140,557.4900335357142,3,3
+gross_of_refunds,card_brand,Mastercard only,279,376.76988885304655,4,4
+prepaid_earns_nothing,card_type,Credit only,121,811.800203966942,1,2
+prepaid_earns_nothing,card_type,Credit + prepaid,31,738.5936677419354,2,1
+prepaid_earns_nothing,card_type,Credit + debit + prepaid,125,654.0158575199999,3,3
+prepaid_earns_nothing,card_type,Credit + debit,493,637.6512923698444,4,4
+prepaid_earns_nothing,card_type,Debit only,324,239.1332899228395,5,6
+prepaid_earns_nothing,card_type,Debit + prepaid,91,173.91306785714283,6,5
+prepaid_earns_nothing,credit_limit,Q5 ($22.5k–$162.7k),164,884.3189603455284,1,1
+prepaid_earns_nothing,credit_limit,Q4 ($15.0k–$22.4k),159,706.0318674528302,2,2
+prepaid_earns_nothing,credit_limit,Q3 ($11.0k–$14.9k),161,630.9071014596273,3,3
+prepaid_earns_nothing,credit_limit,Q2 ($7.6k–$10.9k),154,567.5397082467532,4,4
+prepaid_earns_nothing,credit_limit,Q1 ($0–$7.5k),132,537.680021830808,5,5
+prepaid_earns_nothing,credit_limit,No credit card,436,214.0029245642202,6,6
+prepaid_earns_nothing,yearly_income,Q5 ($57.2k–$307.0k),237,710.8546326652602,1,1
+prepaid_earns_nothing,yearly_income,Q4 ($44.8k–$57.2k),220,555.1496462196969,2,2
+prepaid_earns_nothing,yearly_income,Q3 ($37.6k–$44.8k),236,462.9276925423728,3,4
+prepaid_earns_nothing,yearly_income,Q2 ($31.2k–$37.6k),245,461.58077493197277,4,3
+prepaid_earns_nothing,yearly_income,Q1 ($1–$31.2k),268,364.1786470522388,5,5
+prepaid_earns_nothing,card_brand,Any Amex,205,766.6798511626016,1,1
+prepaid_earns_nothing,card_brand,Visa only,140,500.7314464285714,2,3
+prepaid_earns_nothing,card_brand,"Multi-brand, no Amex",578,498.2373766349481,3,2
+prepaid_earns_nothing,card_brand,Mastercard only,279,325.6082801971326,4,4
+money_transfer_earns_nothing,card_type,Credit + prepaid,31,789.233050483871,1,1
+money_transfer_earns_nothing,card_type,Credit only,121,718.0663196694214,2,2
+money_transfer_earns_nothing,card_type,Credit + debit + prepaid,125,634.6189338,3,3
+money_transfer_earns_nothing,card_type,Credit + debit,493,590.2932671670047,4,4
+money_transfer_earns_nothing,card_type,Debit + prepaid,91,231.00175280219779,5,5
+money_transfer_earns_nothing,card_type,Debit only,324,225.7575807561728,6,6
+money_transfer_earns_nothing,credit_limit,Q5 ($22.5k–$162.7k),164,848.9260174186992,1,1
+money_transfer_earns_nothing,credit_limit,Q4 ($15.0k–$22.4k),159,635.0664717295597,2,2
+money_transfer_earns_nothing,credit_limit,Q3 ($11.0k–$14.9k),161,588.5671682298137,3,3
+money_transfer_earns_nothing,credit_limit,Q2 ($7.6k–$10.9k),154,533.9575197402597,4,4
+money_transfer_earns_nothing,credit_limit,Q1 ($0–$7.5k),132,488.681732550505,5,5
+money_transfer_earns_nothing,credit_limit,No credit card,436,224.477963646789,6,6
+money_transfer_earns_nothing,yearly_income,Q5 ($57.2k–$307.0k),237,681.4143715682137,1,1
+money_transfer_earns_nothing,yearly_income,Q4 ($44.8k–$57.2k),220,527.8750323560605,2,2
+money_transfer_earns_nothing,yearly_income,Q3 ($37.6k–$44.8k),236,437.06902783898306,3,4
+money_transfer_earns_nothing,yearly_income,Q2 ($31.2k–$37.6k),245,432.65717593197274,4,3
+money_transfer_earns_nothing,yearly_income,Q1 ($1–$31.2k),268,346.2297648507463,5,5
+money_transfer_earns_nothing,card_brand,Any Amex,205,734.2363418943088,1,1
+money_transfer_earns_nothing,card_brand,"Multi-brand, no Amex",578,471.343182301038,2,2
+money_transfer_earns_nothing,card_brand,Visa only,140,459.57628510714284,3,3
+money_transfer_earns_nothing,card_brand,Mastercard only,279,319.3908691756272,4,4
+no_amex_fee,card_type,Credit + prepaid,31,818.835308548387,1,1
+no_amex_fee,card_type,Credit only,121,780.3952452892561,2,2
+no_amex_fee,card_type,Credit + debit + prepaid,125,678.5760711199999,3,3
+no_amex_fee,card_type,Credit + debit,493,609.9670462576065,4,4
+no_amex_fee,card_type,Debit + prepaid,91,241.26409945054942,5,5
+no_amex_fee,card_type,Debit only,324,239.1332899228395,6,6
+no_amex_fee,credit_limit,Q5 ($22.5k–$162.7k),164,863.2876231097559,1,1
+no_amex_fee,credit_limit,Q4 ($15.0k–$22.4k),159,687.8355283333333,2,2
+no_amex_fee,credit_limit,Q3 ($11.0k–$14.9k),161,613.2648700931677,3,3
+no_amex_fee,credit_limit,Q2 ($7.6k–$10.9k),154,556.4323372077922,4,4
+no_amex_fee,credit_limit,Q1 ($0–$7.5k),132,530.1230206818182,5,5
+no_amex_fee,credit_limit,No credit card,436,236.62120519495411,6,6
+no_amex_fee,yearly_income,Q5 ($57.2k–$307.0k),237,711.2742590506328,1,1
+no_amex_fee,yearly_income,Q4 ($44.8k–$57.2k),220,559.6662982045453,2,2
+no_amex_fee,yearly_income,Q2 ($31.2k–$37.6k),245,458.06311302040814,3,3
+no_amex_fee,yearly_income,Q3 ($37.6k–$44.8k),236,454.0041549576271,4,4
+no_amex_fee,yearly_income,Q1 ($1–$31.2k),268,363.6018624813433,5,5
+no_amex_fee,card_brand,Any Amex,205,674.947056,1,1
+no_amex_fee,card_brand,"Multi-brand, no Amex",578,515.0903029065744,2,2
+no_amex_fee,card_brand,Visa only,140,514.5398329642857,3,3
+no_amex_fee,card_brand,Mastercard only,279,343.89434505376346,4,4
+step1_provisional,card_type,Credit only,121,902.7226191735537,1,2
+step1_provisional,card_type,Credit + prepaid,31,828.4607,2,1
+step1_provisional,card_type,Credit + debit + prepaid,125,704.79133656,3,3
+step1_provisional,card_type,Credit + debit,493,698.0584870148749,4,4
+step1_provisional,card_type,Debit only,324,254.7319923919753,5,6
+step1_provisional,card_type,Debit + prepaid,91,187.93530148351647,6,5
+step1_provisional,credit_limit,Q5 ($22.5k–$162.7k),164,962.1915086382113,1,1
+step1_provisional,credit_limit,Q4 ($15.0k–$22.4k),159,762.4599551257861,2,2
+step1_provisional,credit_limit,Q3 ($11.0k–$14.9k),161,702.2541929503105,3,3
+step1_provisional,credit_limit,Q2 ($7.6k–$10.9k),154,629.0246585714285,4,4
+step1_provisional,credit_limit,Q1 ($0–$7.5k),132,592.3500531944444,5,5
+step1_provisional,credit_limit,No credit card,436,228.52127974770642,6,6
+step1_provisional,yearly_income,Q5 ($57.2k–$307.0k),237,764.7814093741209,1,1
+step1_provisional,yearly_income,Q4 ($44.8k–$57.2k),220,605.7305256742425,2,2
+step1_provisional,yearly_income,Q3 ($37.6k–$44.8k),236,512.9668525423729,3,4
+step1_provisional,yearly_income,Q2 ($31.2k–$37.6k),245,506.30251399319724,4,3
+step1_provisional,yearly_income,Q1 ($1–$31.2k),268,399.89009313432837,5,5
+step1_provisional,card_brand,Any Amex,205,835.5427502357724,1,1
+step1_provisional,card_brand,"Multi-brand, no Amex",578,544.5696367214532,2,2
+step1_provisional,card_brand,Visa only,140,543.3223684285714,3,3
+step1_provisional,card_brand,Mastercard only,279,357.78092256272396,4,4

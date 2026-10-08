@@ -1,0 +1,26 @@
+{
+  "active_customers": 1206,
+  "purchase_day_rows": 403143,
+  "segment_counts": {
+    "Credit, limit $10k+": 226,
+    "Credit, limit under $10k": 193,
+    "Debit": 693,
+    "Prepaid": 94
+  },
+  "overall_median_gap_days": 1.0,
+  "overall_max_of_max_gap_incl_terminal": 35.0,
+  "overall_share_no_open_card": 0.0024875621890547263,
+  "silence_ns": [
+    7,
+    14,
+    30,
+    60
+  ],
+  "return_days_after_alert": 30,
+  "caveats": [
+    "Population is the 1,206 customers with settled purchases Nov 2018 \u2013 Oct 2019.",
+    "Customers with no transaction rows (including ~394 eligible with missing history) are out of scope.",
+    "users_data is a Feb 2020 survivor snapshot; customers who left before then are invisible.",
+    "Day-one segment uses cards opened in the customer's first-card month (Q1 definition)."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "income_cut_median": 40012.0,
+  "credit_limit_cut": 12000,
+  "top_10pct_revenue_share": 0.32948427067873215,
+  "top_20pct_revenue_share": 0.5211999982837283,
+  "top_decile_threshold": 873.315517,
+  "fraud_label_coverage_of_purchase_volume": 0.6698976398199331,
+  "expected_value_2020_mix": 390.11692593942314,
+  "expected_value_base_mix": 392.0429254429195,
+  "signups_2020": 1178,
+  "signups_2020_clients": 725,
+  "signups_2020_card_type": {
+    "Debit": 0.548,
+    "Credit": 0.341,
+    "Debit (Prepaid)": 0.11
+  },
+  "mixed_p90_vs_credit_primary_median": [
+    814.9683159999998,
+    645.618625
+  ]
+}

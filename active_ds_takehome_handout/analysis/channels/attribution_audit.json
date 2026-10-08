@@ -1,0 +1,18 @@
+{
+  "linked_touches": 8836,
+  "linked_customers_in_touches": 994,
+  "signup_rows": 1588,
+  "unique_signup_customers": 994,
+  "first_acq_with_last_touch": 994,
+  "first_acq_missing_touch": 0,
+  "affiliate_last_touch_customers": 20,
+  "microsoft_crm_cac": 31284.34695652174,
+  "apple_crm_cac": 309310.3466666667,
+  "microsoft_platform_cac": 802.1627424749164,
+  "note": "CRM CAC = cleaned channel spend / customers whose first signup last-touch is that paid channel. Platform conversions are not CRM.",
+  "pre2020_brand_crm_cac": 7241.641084337349,
+  "pre2020_microsoft_crm_cac": 112854.67,
+  "pre2020_microsoft_platform_cac": 4006.674674556213,
+  "ms_2020_platform_conversions": 728.0,
+  "ms_2020_crm_last_touch": 17
+}

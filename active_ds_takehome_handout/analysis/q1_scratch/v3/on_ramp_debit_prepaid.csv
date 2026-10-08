@@ -1,0 +1,3 @@
+segment,customers,pct_ever_added_credit,median_years_to_credit_if_added,pct_credit_within_1y,n_eligible_1y,pct_credit_within_3y,n_eligible_3y,pct_credit_within_5y,n_eligible_5y,pct_credit_within_10y,n_eligible_10y,pct_ever_added_debit,pct_ever_added_debit_or_credit
+Debit,1105,0.47058823529411764,4.25,0.07582417582417582,910,0.18687430478309233,899,0.28798185941043086,882,0.46484375,768,,
+Prepaid,173,0.41040462427745666,3.75,0.058394160583941604,137,0.18181818181818182,132,0.29770992366412213,131,0.4576271186440678,118,0.5838150289017341,0.6647398843930635

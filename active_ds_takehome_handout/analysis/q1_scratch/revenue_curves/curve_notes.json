@@ -1,0 +1,33 @@
+{
+  "cards": 4514,
+  "card_years": 33337,
+  "card_years_opened_2010_plus": 10296,
+  "balanced_cards": {
+    "Debit": 405,
+    "Credit": 262,
+    "Prepaid": 63
+  },
+  "cards_expired_before_window_end": 859,
+  "card_life_years_open_to_expiry": {
+    "count": 4514.0,
+    "mean": 11.32,
+    "std": 6.17,
+    "min": 0.0,
+    "25%": 6.58,
+    "50%": 11.92,
+    "75%": 15.58,
+    "max": 33.25
+  },
+  "card_life_years_by_type_median": {
+    "Credit": 12.08,
+    "Debit": 11.75,
+    "Debit (Prepaid)": 11.75
+  },
+  "replacement_at_expiry": {
+    "cards_expired_in_window": 612,
+    "new_card_within_12m_of_expiry": 0.19934640522875818,
+    "new_card_within_12m_of_random_month": 0.24836601307189543,
+    "customer_still_transacting_12m_after_expiry": 0.9771241830065359
+  },
+  "txn_share_after_expiry": 6.237827312139e-06
+}

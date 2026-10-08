@@ -1,0 +1,46 @@
+{
+  "credit_limit_cut": 13000.0,
+  "segments": [
+    "Credit, limit $13.0k+",
+    "Credit, limit under $13.0k",
+    "Debit or prepaid"
+  ],
+  "first_year_value_score": {
+    "customers": 138,
+    "eta_squared_adjusted": 0.5413445661156506,
+    "permutation_p": 0.001,
+    "rank_stability": 0.9945
+  },
+  "segment_shares_by_join_period": {
+    "Joined 2010\u20132017, no data": {
+      "Credit, limit $13.0k+": 0.0698,
+      "Credit, limit under $13.0k": 0.3023,
+      "Debit or prepaid": 0.6279
+    },
+    "Joined 2010\u20132017, with data": {
+      "Credit, limit $13.0k+": 0.1087,
+      "Credit, limit under $13.0k": 0.2391,
+      "Debit or prepaid": 0.6522
+    },
+    "Joined 2018 \u2013 Oct 2019": {
+      "Credit, limit $13.0k+": 0.1667,
+      "Credit, limit under $13.0k": 0.2917,
+      "Debit or prepaid": 0.5417
+    },
+    "Joined Nov 2019 \u2013 Feb 2020": {
+      "Credit, limit $13.0k+": 0.1344,
+      "Credit, limit under $13.0k": 0.2765,
+      "Debit or prepaid": 0.5891
+    },
+    "Joined before 2010": {
+      "Credit, limit $13.0k+": 0.1127,
+      "Credit, limit under $13.0k": 0.2322,
+      "Debit or prepaid": 0.6551
+    },
+    "All customers": {
+      "Credit, limit $13.0k+": 0.1145,
+      "Credit, limit under $13.0k": 0.2465,
+      "Debit or prepaid": 0.639
+    }
+  }
+}

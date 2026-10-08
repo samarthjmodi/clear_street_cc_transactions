@@ -1,0 +1,94 @@
+{
+  "periods": {
+    "pre": [
+      "2019-02-18",
+      "2019-03-03"
+    ],
+    "campaign": [
+      "2019-03-04",
+      "2019-03-17"
+    ],
+    "post": [
+      "2019-03-18",
+      "2019-03-31"
+    ]
+  },
+  "outcomes": {
+    "new_accounts": "All cards opened in the period (one signup = one card), split into cards opened by new customers and cards opened by existing customers",
+    "transactions": "Settled purchases (amount > 0, no error) in the period by all customers, split into new customers (first signup on or after 2019-03-04) and existing customers (everyone else)"
+  },
+  "facts": {
+    "spend": {
+      "channels": [
+        "apple_search_ads",
+        "microsoft_ads",
+        "paid_search_brand",
+        "paid_search_nonbrand",
+        "paid_social_meta",
+        "paid_social_reddit"
+      ],
+      "share_of_days_campaigns_identical_within_channel": {
+        "apple_search_ads": 1.0,
+        "microsoft_ads": 1.0,
+        "paid_search_brand": 1.0,
+        "paid_search_nonbrand": 1.0,
+        "paid_social_meta": 1.0,
+        "paid_social_reddit": 1.0
+      },
+      "march_2019_spend_per_day_vs_feb_apr_avg": {
+        "apple_search_ads": -0.004,
+        "microsoft_ads": -0.03,
+        "paid_search_brand": 0.393,
+        "paid_search_nonbrand": -0.013,
+        "paid_social_meta": 0.401,
+        "paid_social_reddit": 0.006
+      }
+    },
+    "volumes_per_day": {
+      "new_accounts_2018_2019_excl_mar4_31_2019": 0.25213675213675213,
+      "new_accounts_by_new_customers_2018_2019_excl_mar4_31_2019": 0.037037037037037035,
+      "new_accounts_by_existing_customers_2018_2019_excl_mar4_31_2019": 0.2150997150997151,
+      "settled_purchases_mar2018_feb2019": 3571.5013698630137,
+      "purchase_volume_mar2018_feb2019": 178248.43909589044,
+      "customers_with_purchases_per_month_mar2018_feb2019": 1204.3333333333333
+    },
+    "expected_counts_without_campaign_naive": {
+      "pre": {
+        "days": 14,
+        "new_accounts": 3.52991452991453,
+        "new_accounts_by_existing_customers": 3.011396011396011,
+        "settled_purchases": 50001.01917808219
+      },
+      "campaign": {
+        "days": 14,
+        "new_accounts": 3.52991452991453,
+        "new_accounts_by_existing_customers": 3.011396011396011,
+        "settled_purchases": 50001.01917808219
+      },
+      "post": {
+        "days": 14,
+        "new_accounts": 3.52991452991453,
+        "new_accounts_by_existing_customers": 3.011396011396011,
+        "settled_purchases": 50001.01917808219
+      }
+    },
+    "coverage": {
+      "spend": [
+        "2016-01-01",
+        "2020-02-29"
+      ],
+      "signups": [
+        "2016-01-05 08:43:00",
+        "2020-02-28 22:45:00"
+      ],
+      "touchpoints": [
+        "2016-01-01 00:00:05",
+        "2020-02-28 23:59:07"
+      ],
+      "transactions": [
+        "2010-01-01 00:01:00",
+        "2019-10-31 23:59:00"
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+dimension,known,headline_basis,customers,groups,groups_with_10_plus,eta_squared_adjusted,permutation_p,rank_stability_10_plus,with_data_eta_squared_adjusted,with_data_permutation_p,with_data_customers
+day_one_credit_limit,Day one,"all, no data as $0",282,6,5,0.21755492958788958,0.001,0.3495,0.6395976797926769,0.001,138
+persona,Consequence (Nov 2018 – Oct 2019),customers with data,136,4,3,0.19200539621384582,0.001,0.867,0.19200539621384582,0.001,136
+day_one_product,Day one,"all, no data as $0",282,3,3,0.1257505119625716,0.001,1.0,0.46862196960553937,0.001,138
+spend_fifth_2019,Consequence (Nov 2018 – Oct 2019),customers with data,136,5,5,0.10990674808793044,0.002,0.5745,0.10990674808793044,0.002,136
+products_held_feb_2020,Consequence (Feb 2020),"all, no data as $0",282,8,6,0.08112212444208367,0.004,0.328,0.2201623574666881,0.006,138
+day_one_brand,Day one,"all, no data as $0",282,4,3,0.07291443192817204,0.002,0.563,0.2607551025332355,0.001,138
+online_share_fifth_2019,Consequence (Nov 2018 – Oct 2019),customers with data,136,5,5,0.029306022695946177,0.095,0.215,0.029306022695946177,0.095,136
+main_spend_category,Consequence (Nov 2018 – Oct 2019),customers with data,136,8,3,0.02230616222286541,0.196,0.413,0.02230616222286541,0.196,136
+year_joined,Day one,"all, no data as $0",282,5,5,0.018573649623623067,0.052,0.246,-0.008151768045836505,0.581,138
+area_income_fifth,Snapshot (Feb 2020),"all, no data as $0",282,5,5,0.016666761166108546,0.06,0.1985,0.0459873068187141,0.036,138
+channel_last_touch,At signup,"all, no data as $0",177,10,5,0.006155394465722441,0.308,0.132,-0.00939599425975235,0.409,83
+income_fifth,Snapshot (Feb 2020),"all, no data as $0",282,5,5,0.005693782315858931,0.243,0.1635,0.03170171575417691,0.081,138
+credit_score,Snapshot (Feb 2020),"all, no data as $0",282,5,5,0.005280673334297492,0.249,0.101,0.08296149053920632,0.004,138
+cards_in_first_month,Day one,"all, no data as $0",282,2,1,-0.0015231593047821956,0.133,,-0.00723501709943597,0.9,138
+region,Snapshot (Feb 2020),"all, no data as $0",282,4,4,-0.003112032550431465,0.562,0.226,0.018366081063355355,0.127,138
+gender,Snapshot (Feb 2020),"all, no data as $0",282,2,2,-0.003276635763624469,0.769,0.599,0.007817275288177439,0.145,138
+self_reported_source,At signup,"all, no data as $0",177,7,4,-0.003615202667205386,0.493,0.203,-0.022135388705220915,0.577,83
+debt_to_income,Snapshot (Feb 2020),"all, no data as $0",282,4,4,-0.00717020495984988,0.783,0.2535,-0.011084816099729222,0.668,138
+signup_landing_page,At signup,"all, no data as $0",177,6,6,-0.00773583640114639,0.599,0.02,0.00020476069186114998,0.434,83
+age_at_first_card,Day one,"all, no data as $0",282,7,6,-0.01233516678058133,0.838,0.0085,-0.017414557699934496,0.758,138

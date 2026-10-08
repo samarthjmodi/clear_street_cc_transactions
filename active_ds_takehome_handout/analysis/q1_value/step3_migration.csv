@@ -1,0 +1,6 @@
+day_one,"Credit, limit $13.0k+","Credit, limit under $13.0k","Debit or prepaid, income $42.8k+","Debit or prepaid, income under $42.8k",No open card,All
+"Credit, limit $13.0k+",14,1,0,0,0,15
+"Credit, limit under $13.0k",0,32,0,0,1,33
+"Debit or prepaid, income $42.8k+",4,6,35,0,0,45
+"Debit or prepaid, income under $42.8k",1,6,0,37,1,45
+All,19,45,35,37,2,138
