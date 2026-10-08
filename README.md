@@ -838,7 +838,7 @@ python3 -m venv .venv
 
 Primary numeric outputs live under `active_ds_takehome_handout/analysis/{q1_value,q2_quiet_loss,hypotheses,q4}/`. Q3 backup: [`CHANNEL_QUALITY.md`](active_ds_takehome_handout/analysis/hypotheses/CHANNEL_QUALITY.md).
 
-Scripts in `src/` that aren't listed above are earlier working versions, kept for the record. The notes under `active_ds_takehome_handout/analysis/q1_scratch/` and `deep_dives/` are superseded working material and may not match this README; `q1_scratch/` uses an earlier $12k credit cut.
+The repository keeps the final report, reproducible code, tests, figures, and primary supporting outputs. Superseded exploratory analyses and raw input extracts are intentionally excluded; use the supplied handout files to rerun the pipeline.
 
 ## AI assistance note
 

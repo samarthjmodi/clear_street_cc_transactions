@@ -1,6 +1,0 @@
-{
-  "Dormant": "No settled purchase (amount>0, no error) in Nov 2018\u2013Oct 2019.",
-  "Established credit-led": "\u22659 distinct purchase months in window AND credit purchase volume \u2265 50% of total purchase volume.",
-  "Established debit/prepaid-led": "\u22659 distinct purchase months in window AND credit purchase volume < 50% of total purchase volume.",
-  "Other active": "Has \u22651 settled purchase in window but <9 purchase months (residual)."
-}

@@ -1,7 +1,0 @@
-{
-  "n": 1603,
-  "key_observation_active_months": "Almost all transactors are active 12/12 months; <9 month group is tiny (n=1).",
-  "key_observation_credit_share": "Credit share is bimodal-ish (many pure debit); >=50% is a natural value split.",
-  "demographics": "Weak separators vs product/activity mix.",
-  "concentration": "Top 20% of transactors carry disproportionate revenue \u2014 check printed shares."
-}
