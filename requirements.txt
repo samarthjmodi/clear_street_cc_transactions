@@ -1,6 +1,8 @@
-pandas>=2.0
-numpy>=1.24
-matplotlib>=3.7
-pytest>=7.0
-reverse_geocoder>=1.5
-scikit-learn>=1.3
+# Python 3.12. With these versions the full "How to run" sequence reproduces the committed outputs.
+pandas==3.0.6
+numpy==2.5.3
+matplotlib==3.11.2
+scikit-learn==1.9.1
+scipy==1.18.1
+reverse_geocoder==1.5.1
+pytest==9.1.1

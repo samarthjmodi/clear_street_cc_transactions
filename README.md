@@ -134,7 +134,7 @@ Every 7- or 14-day gap between purchases ended with a purchase within 30 days of
 | Google non-brand | 19% | 18% | 54% | 9% |
 | Microsoft Ads | 18% | 20% | 51% | 10% |
 
-- **Platform CAC** is lifetime spend ÷ the platform's own reported conversions (Jan 2016 – Feb 2020). Microsoft's ~$770 that the VP cites is the same formula on the Jan–Feb 2020 surge months alone ($802 over the full period).
+- **Platform CAC** is lifetime spend ÷ the platform's own reported conversions (Jan 2016 – Feb 2020). Microsoft's ~$770 that the VP cites matches our $802 for that period, and it is low only because of the January–February 2020 jump in Microsoft's count; without those two months it is about $4,000.
 - **Our CAC** excludes existing customers' extra cards. Apple is most expensive under every attribution rule. Brand is cheapest under every rule except first touch, where Microsoft is cheaper but within brand's range (see Findings §3).
 - **Expected 3yr value** prices each channel's mix at the three-year segment values above (Premium $2,760 / Core $1,601 / Debit $793 / Prepaid $330), before rewards and losses. Brand is the only paid channel above $1.
 - Unpaid sources (direct, organic, email, referral) account for the rest of the 385 new customers.
@@ -588,8 +588,8 @@ Each result is judged against the same calculation run on every ordinary six-wee
 
 ```bash
 # setup
-python3 -m venv .venv
-.venv/bin/pip install -r requirements.txt
+python3.12 -m venv .venv
+.venv/bin/pip install -r requirements.txt    # pinned versions, verified against the committed outputs
 
 # data: the handout files are not committed. Put the nine files
 # (users_data.csv, cards_data.csv, transactions_data.csv, ...) in active_ds_takehome_handout/
