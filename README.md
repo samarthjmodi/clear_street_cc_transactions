@@ -158,14 +158,7 @@ Every 7- or 14-day gap between purchases ended with a purchase within 30 days of
 
 ### 1. Who are our customers, and which segments are worth having?
 
-This section has two parts:
-- **The descriptive profile:** who customers are, what they hold, how they behave and how they came to us, plus the natural groups they fall into. The full profile, with every table and the demographics, holdings and behaviour charts, is in [`PART1_CUSTOMER_PROFILE.md`](active_ds_takehome_handout/analysis/q1_value/PART1_CUSTOMER_PROFILE.md).
-- **Which segments are worth having:** each cut rated by the revenue a customer brings in their first year with us. Full detail is in [`PART2_SEGMENT_VALUE.md`](active_ds_takehome_handout/analysis/q1_value/PART2_SEGMENT_VALUE.md).
-
-**Three populations are used:**
-- all 2,000 customers, from the February 2020 snapshot, for demographics, finances and holdings
-- the 1,206 with a settled purchase from November 2018 to October 2019, for behaviour
-- the 994 with a signup record, for acquisition
+Two parts: who our customers are, and which segments are worth having. Full detail is in [`PART1_CUSTOMER_PROFILE.md`](active_ds_takehome_handout/analysis/q1_value/PART1_CUSTOMER_PROFILE.md) (every profile table, plus the demographics, holdings and behaviour charts) and [`PART2_SEGMENT_VALUE.md`](active_ds_takehome_handout/analysis/q1_value/PART2_SEGMENT_VALUE.md) (every cut rated, including brand and the within-product views).
 
 #### Who we can see
 
@@ -183,123 +176,36 @@ This section has two parts:
 
 Coverage barely varies by income (56–68% across fifths), region (59–63%) or gender (61%).
 
-#### Who they are
+#### Who they are, in brief
 
-- **Age.**
-  - The median is 44 today (10th–90th percentile 22–71), and 30 at first card. A third got their first card at 18–24.
-  - 14% are past their stated retirement age.
-- **When they joined.**
-  - Two-thirds joined before 2010, and median tenure is 12.8 years.
-  - The 387 who joined from November 2019 are a different population: median age 22, 39% debit only.
-  - They arrive in an 80× surge in card openings in January–February 2020 that looks like a data artifact.
-- **Gender:** 51% female.
-- **Location.**
-  - Customers live in all 50 states and DC: South 39%, West 22%, Midwest 22%, Northeast 18%.
-  - The top states are California (12%), Texas (8%), Florida (7%) and New York (6%).
-  - The Northeast is the most affluent, with a median income of $49.3k and 33% in the top income fifth. The South is the least, at $38.0k with 25% in the bottom fifth.
-- **Income measures neighbourhood affluence.** `yearly_income` is exactly 2.04 × area per-capita income for 84% of customers. The median is $40.7k (10th–90th percentile $26.8k–$68.8k).
-- **Debt.**
-  - Median total debt is $58.3k, and 5% have none.
-  - Debt-to-income has a median of 1.42. It holds at about 1.55 below age 60, then falls to 0.09 at 70+.
-- **Credit score.**
-  - The median is 712. 47% are at 670–739, 32% are at 740+ and 21% are below 670.
-  - It barely relates to anything else: its strongest correlation with any attribute is 0.16.
-- **`num_credit_cards` is mislabelled.** It counts every card in the cards file, of any type.
-
-#### What they hold
-
-**Cards in the file:**
-- 6,146 cards: 57% debit, 33% credit and 9% prepaid.
-- Amex and Discover are always credit.
-- 4,902 were open in February 2020. Cards stop transacting at expiry.
-
-**What customers hold:**
-- **Products.** 57% hold a credit card, 78% debit and 20% prepaid. The table in Key numbers shows the full mix.
-- **Cards per customer.** A median of 2 are open, and 45% have at least one expired card. Breadth grows with tenure: 47% of customers under 5 years hold one card, while 23% of those with 20+ years hold five or more.
-- **Older customers hold more products.** At 70+, 61% hold credit + debit or all three, and 4% hold credit only. At 18–29, 35% hold debit only.
-- **Income sets limits, not access to credit.**
-  - 54–60% hold credit in every income fifth.
-  - The median highest limit held rises from $7.4k in the bottom fifth to $18.9k in the top.
-  - Limits stay at about 0.3× income throughout.
-  - The median credit card limit is $10.1k.
-- **Low credit scores mean fewer products.** Below 580, 47% hold debit only. At 800+, 53% hold credit + debit or all three.
-
-#### How they behave (November 2018 – October 2019)
-
-| Per active customer | Median | 10th–90th percentile |
-|---|---:|---|
-| Purchases a year | 978 (2.7 a day) | 547–1,762 |
-| Spend a year | $45.9k | $24.5k–$92.2k |
-| Average purchase | $48 | $30–$77 |
-| Days with a purchase | 349 of 365 | 279–364 |
-| Distinct merchants | 94 | 67–125 |
-| Share of in-person spend outside home state | 13% | 4%–25% |
-| Share of spend online | 12% | 6%–25% |
-| Share of spend on credit | 48% | 0%–100% |
-| Share of attempts declined | 1.4% | 0.8%–2.5% |
-| Refunds as a share of purchases | 10% | 4%–19% |
-
-- **They're daily users, with no dormancy inside the active base.**
-  - 99.6% buy in every month.
-  - The median gap between purchase days is one day.
-  - Almost everyone bought in the window's final days.
-- **They buy everyday essentials.**
-  - Groceries, wholesale clubs and pharmacies are 25% of dollars, gas and auto 16%, bills and utilities 12%, retail 11% and money transfer 8%.
-  - Groceries are the main category for 54% of customers.
-  - Chip payments are 69% of dollars, swipe 17% and online 14%.
-- **Spend is even across time.**
-  - Each weekday has 13–15% of purchases, and November–December has 16.6% of spend, close to the even-spread 2/12.
-  - Purchases cluster from 06:00 to 17:00.
-  - Activity, timing and seasonality therefore don't separate customers.
-- **Spend is mostly local, with some abroad.** 44% bought abroad at least once, led by Italy, Mexico and Canada, but abroad is only 1.2% of in-person dollars.
-- **Credit use is either-or.** 36% of active customers put nothing on credit and 10% put everything. Customers use every card they hold, and their main card takes a median 52% of spend.
-- **Declines are small but nearly universal.** 98.8% had at least one insufficient-balance decline in the year.
-
-#### How they came to us (994 customers with a signup record)
-
-- **These signups are a skewed sample.**
-  - 64% of first signups are from 2020.
-  - 56% are an existing customer adding a card.
-  - As a result, every source skews young: 36–49% of each source's customers are aged 18–29.
-- **Self-reported source:** search 36%, social media 19%, blog or review site 15%, friend or family 13%.
-- **Channels:** journeys start most often on affiliate (19%), Meta (16%) and search, and end on branded search (44%) or direct (30%).
-  - The median journey is 4 touches across 3 channels over 25 days.
-  - Landing pages and devices split almost exactly evenly.
-- **Source barely relates to income.**
+- **An older, long-standing base.** Median age 44 and median tenure 12.8 years; two-thirds joined before 2010. The 387 who joined from November 2019 (median age 22) arrive in an 80× surge in card openings in January–February 2020 that looks like a data artifact, and have no transactions yet.
+- **Credit or no credit is the main split.** 57% hold a credit card, 78% debit and 20% prepaid; the full mix is in Key numbers.
+- **Income measures neighbourhood, and sets limits rather than access.** `yearly_income` is exactly 2.04 × area per-capita income for 84% of customers. 54–60% hold credit in every income fifth, but the median highest limit rises from $7.4k in the bottom fifth to $18.9k in the top.
+- **Daily users, buying essentials.** The median active customer makes 978 purchases ($45.9k) a year and buys on 349 of 365 days. Groceries, gas and bills are over half of spend. Spend barely varies by season or weekday, so behaviour does little to tell customers apart.
+- **Credit use is either-or:** 36% of active customers put nothing on credit and 10% put everything.
+- **Sign-ups are a skewed sample.** 64% of first sign-ups are from 2020 and 56% are existing customers adding a card. Journeys usually start on affiliate or Meta and end on branded search or direct.
 
 #### Personas
 
 ![Personas](plots/q1_p1_personas.png)
 
-The 1,206 active customers were clustered with k-means on 19 standardised features covering profile, holdings and behaviour.
+The 1,206 active customers fall loosely into four groups (k-means on 19 profile, holdings and behaviour features):
 
 | Persona | Customers | What sets them apart |
 |---|---:|---|
-| **Younger credit users** | 407 (34%) | Nearly all hold credit. Median age 44, first card at 29. The lowest income ($37.8k) and the highest debt-to-income (1.62). The lowest spend ($35.6k), 55% of it on credit. |
-| **Debit-only everyday spenders** | 375 (31%) | 98% hold no credit card. Otherwise average: age 50, income $41.4k, spend $43.5k. |
-| **Established multi-card households** | 338 (28%) | Median age 63, with 37% aged 70+. 17 years' tenure and 4 cards. The highest limits ($17.4k), the least debt (debt-to-income 0.58) and the best credit scores (731). Spend $58.6k across 107 merchants. |
-| **Toll-road drivers** | 86 (7%) | 31.5% of their dollars are online toll and bridge payments, about 600 a year each. The most purchases (1,522) and the highest spend ($70.8k). 48% live in the South. |
+| **Younger credit users** | 407 (34%) | Nearly all hold credit. The lowest income ($37.8k), the highest debt-to-income and the lowest spend ($35.6k) |
+| **Debit-only everyday spenders** | 375 (31%) | 98% hold no credit card; otherwise average |
+| **Established multi-card households** | 338 (28%) | Median age 63, 17 years' tenure, 4 cards, the highest limits and best credit scores |
+| **Toll-road drivers** | 86 (7%) | 31.5% of dollars on toll and bridge payments; the highest spend ($70.8k) |
 
-- **The personas differ little on several things:** gender, region (apart from P4's South tilt), main spend category (groceries for 57–60% of the first three), decline rate and out-of-state spend.
-- **The groups are stable but not sharp.** Separation is weak for every number of clusters (silhouette 0.10–0.12). Four is the most detailed solution that stays stable across bootstrap resamples (agreement 0.80).
-- **Behaviour on its own doesn't form stable groups.** Only the toll-road drivers and a small money-transfer-heavy group recur.
+The groups are stable but not sharp: separation is weak for every number of clusters (silhouette 0.10–0.12), and four is the most detailed solution that stays stable when refitted on resampled data.
 
 #### Which segments are worth having: revenue in the first year
 
 **How it's measured:**
-- **Customers:** the 282 whose first card opened between January 2010 and November 2018. Their whole first year is observed before the data ends in October 2019.
-- **First-year revenue:** months 1–12 from the first-card month, on every card the customer holds. It's interchange net of refunds, with prepaid at the debit rate, plus the Amex fee pro-rated by months open.
-- **Missing customers count as $0.** 144 of the 282 have no transactions at all, and the headline counts them as $0. Every figure is also shown among the 138 customers with data.
-- **Every cut is tagged by when it's known:**
-  - day one, from the cards opened in the first month
-  - the February 2020 snapshot
-  - at signup
-  - a consequence measured years later, such as personas and behaviour
-
-**Each cut is rated three ways:**
-- variance explained, net of chance
-- a permutation p-value
-- how often the order of groups survives resampling
+- **Customers:** the 282 whose first card opened January 2010 – November 2018, so their whole first year is observed. Revenue covers months 1–12 on every card they hold (the model is in Key numbers).
+- **Missing customers count as $0.** 144 of the 282 have no transactions at all. Every figure is also shown among the 138 with data.
+- **Every cut is tagged by when it's known** (day one, the February 2020 snapshot, at signup, or a consequence measured years later) and rated three ways: variance explained net of chance, a permutation p-value, and how often the order of groups survives resampling.
 
 ![Which cuts separate first-year revenue](plots/q1_p2_separation.png)
 
@@ -322,9 +228,8 @@ The 1,206 active customers were clustered with k-means on 19 standardised featur
 
 **The product opened on day one is the strongest and most dependable cut.**
 - Credit starters earn **$358** in their first year, debit starters **$115** and prepaid starters **$33**. Among customers with data, that's $769, $223 and $84.
-- The order holds in every resample.
 - Credit starters are 37% of new customers and 66% of first-year revenue.
-- The data gap is similar across products (39–52% have data), so counting missing customers as $0 shrinks the gaps without reordering them.
+- The order holds in every resample. The data gap is similar across products (39–52% have data), so counting missing customers as $0 shrinks the gaps without reordering them.
 
 **Among credit starters, a day-one limit of $10k or more is the clearest dividing line.**
 
@@ -339,38 +244,16 @@ The 1,206 active customers were clustered with k-means on 19 standardised featur
 
 Above $10k, the groups are too small to order reliably: neighbouring bands swap in most resamples.
 
-**Brand only reflects product.**
-- Amex earns $489 (20 customers) and Discover $479 (9), because both are credit-only.
-- Mastercard earns $168 and Visa $163.
-- Within credit, and within debit, brand doesn't separate revenue (p 0.23 and 0.65).
-
-**Once product is known, who the customer is barely matters.**
-
-| Cut | Within credit starters | Within debit-or-prepaid starters |
-|---|---|---|
-| Income fifth | $274 (bottom) to $576 (top), not significant (p 0.39) | $73 to $141, not significant (p 0.26) |
-| Age at first card | no pattern (p 0.62) | no pattern (p 0.06) |
-| Credit score | uneven (p 0.24) | uneven (p 0.14) |
-| Region | no pattern (p 0.69) | no pattern (p 0.26) |
-
-Higher income points the right way in both products. But with 103 credit and 179 debit-or-prepaid starters, half of them at $0, the difference isn't reliable. Gender (p 0.77) and debt-to-income (p 0.78) show nothing across all customers.
-
-**Acquisition fields don't separate first-year revenue.** For this cohort, the first signup record dates from 2016 or later. So for anyone who joined earlier, the source, landing page and channel describe a later card, not how they first joined.
+**Once product is known, little else matters.**
+- **Brand only reflects product.** Amex and Discover rank high because both are credit-only; within credit, and within debit, brand doesn't separate revenue.
+- **Who the customer is barely matters.** Within each product, higher income points the right way (credit starters: $274 in the bottom income fifth to $576 in the top), but not significantly with 103 credit and 179 debit-or-prepaid starters. Age, credit score, region, gender and debt show nothing.
+- **Acquisition fields don't separate revenue.** For anyone who joined before 2016, the first signup record describes a later card, not how they first joined.
 
 ![Personas and the early signal](plots/q1_p2_consequences_and_early_signal.png)
 
-**What separates value most is measured years later, so it describes value rather than predicting it.**
+**What separates value most is measured years later, so it describes value rather than predicting it.** Among customers with data, first-year revenue runs from $184 (debit-only spenders) to $560 (younger credit users) by persona, from $197 to $614 across 2019 spend fifths, and from $211 (debit only) to $690 (credit only) by products held in February 2020.
 
-| Consequence cut | First-year revenue, among customers with data |
-|---|---|
-| Persona | Younger credit users $560 (68 customers); toll-road drivers $444 (13); debit-only spenders $184 (52). Established multi-card households has only 3 customers in this cohort, because it mostly joined before 2010. |
-| Spend in 2018–19 | $197 for the bottom fifth to $614 for the top |
-| Products held, February 2020 | credit only $690; debit only $211 |
-
-**The first 90 days are the best early signal.** This uses the 138 customers with data.
-- **First-90-days revenue predicts revenue in months 4–12 almost perfectly** (Spearman 0.93).
-- **First-90-days spend predicts it strongly within each product:** 0.91 for credit and 0.71 for debit or prepaid.
-- **By fifth of first-90-days spend, revenue in months 4–12 rises steadily:** $147, $235, $304, $341, $498.
+**The first 90 days are the best early signal.** Among the 138 customers with data, first-90-days revenue predicts revenue in months 4–12 almost perfectly (Spearman 0.93), and first-90-days spend does so within each product (0.91 for credit, 0.71 for debit or prepaid).
 
 **Leading indicators versus consequences:**
 - The product and limit on day one are known at acquisition and predict first-year value.
@@ -378,11 +261,8 @@ Higher income points the right way in both products. But with 103 credit and 179
 - Personas, spend today and products held today separate value strongly, but only because they're measured after the fact. They can't be used to choose customers.
 
 Two caveats on the leading indicators:
-- **The "day-one" limit is the limit in the extract.** `cards_data` holds one limit per card and no history, so the report assumes it was set when the card opened.
-  - That mostly fits: limit relative to income barely changes with card age (0.22–0.26 of income across age bands; rank correlation 0.14).
-  - But among the 515 customers with credit cards opened at different times, the earliest card has the higher limit about 60% of the time, against 50% by chance. That could be later limit increases, or second cards simply being issued with lower limits.
-  - If some limits were raised for good customers, part of the limit's predictive power is a consequence, not a signal at acquisition. A limit history from the card platform would settle it.
-- **The 90-day signal is flattered by this data.** Spending here barely changes over time (near-daily purchases, no seasonality), so a customer's first three months look almost exactly like the rest of their year. In real data the early signal is likely weaker. The 90-day milestone should be re-tested once recent customers' transactions are available.
+- **The "day-one" limit is the limit in the extract.** `cards_data` holds one limit per card with no history, so the report assumes it was set at opening. That mostly fits: limit relative to income barely changes with card age (0.22–0.26 across age bands). But among 515 customers with credit cards opened at different times, the earliest card has the higher limit about 60% of the time, against 50% by chance. If good customers' limits were raised later, part of the limit's predictive power is a consequence. A limit history would settle it.
+- **The 90-day signal is flattered by this data.** Spending here barely changes over time, so a customer's first three months look almost exactly like the rest of their year. In real data the early signal is likely weaker; re-test it once recent customers' transactions exist.
 
 #### Spend isn't revenue
 
@@ -397,20 +277,18 @@ Twelve months of spend and rate-card revenue for the 1,206 active customers (Nov
 | Toll-road drivers | $70.8k | $554 | $0.94 | 41% |
 | Debit-only everyday spenders | $43.5k | $217 | $0.48 | 0% |
 
-- **The lowest spenders earn us more than bigger spenders.** Younger credit users spend the least of any persona, yet earn us more than twice as much per customer as debit-only spenders, who spend more.
-- **The biggest spenders aren't the most valuable.** Toll-road drivers spend the most but rank third on revenue, because less of their spend goes on credit.
-- **Where the money goes matters more than how much.** Customers who put everything on credit spend less than those who put nothing on credit ($39.5k against $45.1k), but earn us almost three times as much ($652 against $229).
-- **Spend and revenue line up only loosely:** customers rank 0.61 alike on the two, on a scale where 1 is a perfect match.
+- **The lowest spenders earn us more than bigger spenders.** Younger credit users spend the least of any persona, yet earn more than twice as much per customer as debit-only spenders. Toll-road drivers spend the most but rank third, because less of their spend goes on credit.
+- **Where the money goes matters more than how much.** Customers who put everything on credit spend less than those who put nothing on credit ($39.5k against $45.1k), but earn us almost three times as much ($652 against $229). Across customers, spend and revenue rank only 0.61 alike, where 1 is a perfect match.
 
 So spend is the wrong yardstick for "worth having", and the product a customer starts on is the right one.
 
 #### Weak points of the revenue model
 
 The model is interchange from Finance's rate card plus the Amex fee. Four gaps matter, and the three-year table in Key numbers puts numbers on the first two:
-- **No rewards, credit losses, funding or servicing costs.** These fall mostly on credit, so they are the biggest threat to the ranking. Credit's lead over debit holds only while rewards and losses stay under about **1.1% of credit spend for Core and 1.4% for Premium**. This is the figure Finance should confirm before the segment ranking drives spend.
-- **No revolving interest in the headline,** because there is no balance data. Finance's own assumption (35% of balances revolve at 19.99%), applied to a balance of one month's credit spend, adds about a third to credit revenue: +$845 over three years for a Premium customer against +$45 for Debit. It widens credit's lead and raises the cost break-evens to 1.7% and 2.0%.
-- **Prepaid isn't on the rate card.** It is priced at the debit rate here; Q4 uses $0 instead. Prepaid is under 10% of every channel's mix, so the choice doesn't move any conclusion.
-- **Credit interchange is one blended rate.** Finance's 1.8% is "blended across MCCs". Real interchange varies by merchant type and by card tier, and premium cards usually earn more. Premium's lead could be understated or overstated; the data can't tell which.
+- **No rewards, credit losses, funding or servicing costs.** These fall mostly on credit, so they are the biggest threat to the ranking: credit's lead over debit holds only while rewards and losses stay under about **1.1% of credit spend for Core and 1.4% for Premium**. Finance should confirm that figure before the ranking drives spend.
+- **No revolving interest in the headline,** because there is no balance data. Finance's assumption (35% of balances revolve at 19.99%), on a balance of one month's credit spend, adds about a third to credit revenue (+$845 over three years for Premium, +$45 for Debit) and raises the cost break-evens to 1.7% and 2.0%.
+- **Prepaid isn't on the rate card.** It's priced at the debit rate (Q4 uses $0). Prepaid is under 10% of every channel's mix, so the choice doesn't move any conclusion.
+- **Credit interchange is one blended rate** ("blended across MCCs"). Real interchange varies by merchant type and card tier, so Premium's lead could be understated or overstated.
 
 Money transfers are charged at the full credit rate, and every value is conditional on the customer still being on file in February 2020.
 
@@ -419,12 +297,12 @@ Money transfers are charged at the full credit rate, and every value is conditio
 #### What this cannot answer — and what to instrument
 
 The segment ranking rests on gross revenue for the customers we can see. Turning it into a profit ranking, and extending it to recent customers, needs:
-1. **Rewards, credit-loss and funding cost per card, from Finance.** This is the biggest open question: credit's lead over debit disappears once those costs pass about 1.1–1.4% of credit spend.
-2. **Statement balances by card and month,** to replace the assumed one-month balance behind the revolving-interest figures.
-3. **Credit-limit history,** to confirm the day-one limit was set at opening and not raised later.
-4. **Income and credit score at application,** not the February 2020 snapshot, so owner attributes can be tested as true day-one signals.
-5. **Transactions for every customer.** 144 of the 282 customers in the value cohort have none, and nobody whose first card opened after October 2017 does, so recent cohorts can't be valued at all.
-6. **Interchange by merchant type and card tier,** in place of Finance's single blended credit rate.
+1. **Rewards, credit-loss and funding cost per card, from Finance.** The biggest open question: credit's lead over debit disappears once those costs pass about 1.1–1.4% of credit spend.
+2. **Statement balances by card and month,** to replace the assumed balance behind the revolving-interest figures.
+3. **Credit-limit history,** to confirm the day-one limit was set at opening.
+4. **Income and credit score at application,** not the February 2020 snapshot.
+5. **Transactions for every customer:** 144 of the 282 in the value cohort have none, and nobody whose first card opened after October 2017 does.
+6. **Interchange by merchant type and card tier,** in place of the single blended credit rate.
 
 ### 2. When does a new customer become a *real* customer — and when do I know I'm losing one?
 
@@ -432,9 +310,9 @@ Marketing counts an approved application. Finance counts the first transaction. 
 
 #### Neither existing clock is right
 
-- **Marketing (approved application).** `account_signups` has 1,588 rows for 994 customers. About half of signup records are existing customers adding a card, and the January–February 2020 volume surge looks like a recording artifact. Counting apps as customers overstates acquisition.
-- **Finance (first settled purchase).** Better — money moved — but still thin. One purchase is activation, not proof of habit or value.
-- **Coverage blocks a clean comparison on recent new customers.** Of 441 new customers with a signup record, only 9 have any transactions: almost all recent joiners fall after the transaction file ends (October 2019). So today's acquisition cannot be scored on first purchase in this extract.
+- **Marketing (approved application).** `account_signups` has 1,588 rows for 994 customers, and about half are existing customers adding a card. Counting applications as customers overstates acquisition.
+- **Finance (first settled purchase).** Better, because money moved, but one purchase is activation, not proof of habit or value.
+- **Recent customers can't be scored on either.** Of 441 new customers with a signup record, only 9 have any transactions, because almost all joined after the transaction file ends (October 2019).
 
 #### When they become "real"
 
@@ -445,7 +323,7 @@ Use two stages, and keep Q1's day-one product as the value cut:
 | **Activated** | First settled purchase | Finance's bar — necessary |
 | **Real** | Sustained use and meaningful revenue by ~day 90 | Q1: first-90-day revenue predicts months 4–12 almost perfectly (Spearman 0.93); day-one credit vs debit vs prepaid still sets how valuable they are |
 
-Among the 1,206 customers with purchases in November 2018 – October 2019, behaviour is near-daily (median gap of 1 day; 99.6% buy in every month). So in the **observed** base, first transaction and "real" nearly collapse: there is almost no one-and-done population to separate the two clocks. That is a data limitation, not evidence that Finance's definition is sufficient for acquisition reporting. For budget decisions, celebrate early habit and early revenue by segment — not approvals, and not a single swipe.
+Among the 1,206 customers we can see, behaviour is near-daily (median gap of 1 day; 99.6% buy in every month), so first transaction and "real" nearly collapse: there is almost no one-and-done population to separate the two clocks. That is a data limitation, not evidence that Finance's clock is enough. For budget decisions, count early habit and early revenue by segment, not approvals and not a single swipe.
 
 #### When they're quietly going away
 
@@ -461,20 +339,20 @@ Quiet loss is defined at the **customer** level (cards expire; spend moves to ot
 | Prepaid | 94 | 1 | 7.4% | 0% | 0% | 0% |
 | **All active** | **1,206** | **1** | **3.4%** | **0.3%** | **0.2%** | **0.2%** |
 
-- **At risk:** **7 days** without a settled purchase. It is already unusual: about 3% of actives ever hit it. Prepaid is slightly more exposed (7.4%), and credit starters almost never go quiet for a week.
-- **Likely gone:** **no open card**, or about **30 days** silent. In this window that is three debit day-one customers, the same three people on both definitions.
-- **What the flag is worth.** It would have flagged 41 customers. 38 came back within 30 days on their own; the other 3 are the only customers who left, and all three left because their cards ran out. It catches every loss here, but most alerts are false alarms, and three losses are far too few to tune the threshold. Treat it as a monitoring flag to calibrate once closures are recorded, not as a tested churn predictor.
-- **Don't use a 60-day recency rule** (the usual "60 days without a purchase" cut-off) on this base: nobody reaches it.
+- **At risk:** **7 days** without a settled purchase. About 3% of actives ever hit it; prepaid is slightly more exposed (7.4%), and credit starters almost never go quiet for a week.
+- **Likely gone:** **no open card**, or about **30 days** silent: three debit day-one customers, the same three on both definitions.
+- **What the flag is worth.** It would have flagged 41 customers. 38 came back within 30 days on their own; the other 3 are the only customers who left, all because their cards ran out. It catches every loss here, but most alerts are false alarms, and three losses are too few to tune it. Treat it as a monitoring flag to calibrate once closures are recorded, not a tested churn predictor.
+- **Don't use a 60-day recency rule** (the usual "60 days without a purchase" cut-off): nobody reaches it.
 
-Segments barely differ on quiet loss among people we can see. The Q1 value split (credit vs debit vs prepaid) is about revenue, not about who fades.
+Segments barely differ on quiet loss. The Q1 value split is about revenue, not about who fades.
 
 #### What this cannot answer — and what to instrument
 
-- The ~394 customers who joined before November 2019 with no transaction rows are out of scope: missing history vs never-activated cannot be separated here.
-- `users_data` only includes people still on file in February 2020, so departures before then are invisible. These rates are not historical portfolio churn.
-- Near-daily purchasing may partly reflect how this public dataset was built; the actionable finding is the **relative** one (short gaps, rare silence).
-
-To answer Q2 properly in production: account-closed and charge-off flags; an activation timestamp that matches first spend; transaction coverage for customers acquired after October 2017; and a logged "real customer" milestone (e.g. N active weeks or first-90-day revenue above a segment floor) alongside Marketing's and Finance's clocks.
+These rates describe the customers we can see, not historical churn: `users_data` only holds people still on file in February 2020, and the ~394 earlier joiners with no transactions can't be told apart as missing history or never activated. Near-daily purchasing may also partly reflect how this public dataset was built. Answering Q2 properly needs:
+1. **Account-closure and charge-off flags,** to see real losses.
+2. **An activation timestamp that matches first spend.**
+3. **Transactions for customers acquired after October 2017.**
+4. **A logged "real customer" milestone** (for example N active weeks, or first-90-day revenue above a segment floor) alongside Marketing's and Finance's clocks.
 
 ### 3. Which channels bring good segments vs tyre-kickers — and next year's budget?
 
@@ -486,10 +364,9 @@ Full write-up: [`CHANNEL_QUALITY.md`](active_ds_takehome_handout/analysis/hypoth
 
 #### How "good" and cost are measured
 
-- **Good segment:** day-one **Premium credit** (highest limit ≥ $10k) or Core credit. **Tyre-kicker:** prepaid. Same rule as Q1 Part 2 and Q2. The ideal definition would be "never becomes a real customer" (Q2), but 2020 joiners have no transactions, so the card they opened is the only signal available.
-- **Quality:** each new customer's day-one segment, credited linearly across channels in their journey, priced at the three-year values in Key numbers (Premium $2,760 / Core $1,601 / Debit $793 / Prepaid $330, among customers with data). This is priced quality, not observed lifetime value.
-- **Our CAC:** Jan–Feb 2020 spend ÷ new customers credited (linear). Existing customers' extra cards excluded. Only this window is usable (56 new customers recorded before 2020).
-- **Joins:** spend ↔ touches on date/channel/campaign; touches ↔ next signup on `client_id` (all linked touches within 45 days before signup).
+- **Good segment:** day-one **Premium credit** (highest limit ≥ $10k) or Core credit. **Tyre-kicker:** prepaid. The ideal definition would be "never becomes a real customer" (Q2), but 2020 joiners have no transactions, so the card they opened is the only signal available.
+- **Quality:** each new customer's day-one segment, priced at the three-year values in Key numbers. This is priced quality, not observed lifetime value.
+- **Our CAC:** January–February 2020 spend ÷ new customers, with each customer's credit split evenly across the channels in their journey (linear). Existing customers' extra cards are excluded. No other window has enough recorded new customers.
 
 **CAC by attribution rule, Jan–Feb 2020:**
 
@@ -502,9 +379,7 @@ Full write-up: [`CHANNEL_QUALITY.md`](active_ds_takehome_handout/analysis/hypoth
 | Reddit | $5,654 | $2,609 | **$3,251** | $707 |
 | Apple Search Ads | $55,703 (1 customer) | $2,653 | **$8,404** | $1,688 |
 
-On linear credit, brand is cheapest in 100% of 4,000 resamples, Microsoft second in 87%, and Apple most expensive in 100%. On first touch, Microsoft is cheapest at $1,368 (95% range $1,010–$2,020), but its range overlaps brand's ($1,644; $1,281–$2,291), so the two are effectively level at starting journeys.
-
-The same order holds on the 56 new customers from 2016–2019: brand cheapest, then Microsoft, then Meta. Those costs run to $83k+ per customer, which says the older sign-up records are incomplete rather than that acquisition was that expensive.
+On linear credit, brand is cheapest in 100% of 4,000 resamples, Microsoft second in 87%, and Apple most expensive in 100%. On first touch, Microsoft is cheapest at $1,368 (95% range $1,010–$2,020), but its range overlaps brand's ($1,644; $1,281–$2,291), so the two are effectively level at starting journeys. The same order (brand, then Microsoft, then Meta) holds on the 56 new customers from 2016–2019, at implausible costs of $83k+ each that point to incomplete older sign-up records.
 
 #### Quality barely moves; efficiency does
 
@@ -514,152 +389,75 @@ The same order holds on the 56 new customers from 2016–2019: brand cheapest, t
 
 #### Next year's budget
 
-Shares are of January–February 2020 paid spend.
-1. **Don't set budget from platform-reported CAC.**
-2. **Google branded search (16%): hold, don't scale.** It is the cheapest on our records, but three things argue against scaling it:
-   - In Q4, doubling it for two weeks bought clicks and no measurable accounts.
-   - It finishes journeys other channels start: it is the last touch for 161 new customers and the first for 46, and the next touch after an affiliate is branded search 97 times.
-   - Its volume is capped by people already searching for us.
-3. **Microsoft (9%): test growing it.** It is second-cheapest on linear credit and level with brand at starting journeys.
-4. **Meta (31%): hold and test with a holdout.** It is the largest line, at a middling cost.
-5. **Google non-brand (24%) and Reddit (7%): trim or test.** They have the lowest returns after Apple.
-6. **Apple (12%): don't grow; pause-test before cutting.** It opens journeys others close. Also fix the triplicated spend rows.
-7. **Affiliate: load commissions into spend; pay on new customers only; grow partners only once their cost beats brand's.**
-8. **Move money in steps, each with a holdout.** Every channel's share of spend moved by under a percentage point from 2016 to 2019, so the data can't show what an extra dollar buys in any channel. Attribution ranks exposure, not lift.
+The channel-by-channel calls are in the Summary table; set them on our own cost per new customer, not platform-reported CAC. The reasoning a challenger will push on:
+- **Why hold branded search rather than scale it, when it's cheapest.** Doubling it for two weeks in March 2019 bought clicks and no measurable accounts (Q4). It finishes journeys other channels start: it is the last touch for 161 new customers and the first for 46, and the next touch after an affiliate 97 times. And its volume is capped by people already searching for us.
+- **Why test growing Microsoft.** It is second-cheapest on linear credit and level with brand at starting journeys.
+- **Why trim non-brand search and Reddit.** After Apple, they have the lowest returns per CAC dollar.
+- **Why no dollar split.** Every channel's share of spend moved by under a percentage point from 2016 to 2019, so the data can't show what an extra dollar buys anywhere. Move money in steps, each with a holdout; attribution ranks exposure, not lift.
 
-The log of ad and site visits that attribution rests on doesn't rise and fall with spend in any channel (Q4: correlation −0.12 to +0.03). That is a further reason to read these costs as a ranking, not a price list.
+#### The VP's three beliefs
 
-#### The VP's three beliefs (evidence behind the budget)
+Full evidence and sensitivity tables: [`VP_BELIEFS.md`](active_ds_takehome_handout/analysis/hypotheses/VP_BELIEFS.md).
 
-**Belief 1 — "Microsoft is most efficient at ~$770": the number is wrong, but the instinct is partly right.**
+**Belief 1 — "Microsoft is most efficient at ~$770": the number is wrong, but the instinct is partly right.** The $770 is Microsoft spend ÷ Microsoft's own conversion count. That count never exceeded 26 a month in 2016–2019, then jumped to 293 and 436 in January–February 2020 with spend flat: 728 conversions, more than our 385 new customers from every channel combined. On our records Microsoft costs **~$2,200** per new customer, second to brand. On first touch it is the cheapest channel (~$1,370), level with brand, so it's the natural one to test growing.
 
 ![Microsoft Ads spend vs platform-reported conversions](plots/belief1_microsoft_spend_vs_platform_conversions.png)
 
-- The $770 is Microsoft spend ÷ Microsoft's own conversion count.
-- That count never exceeded 26/month in 2016–2019, then jumped to 293 and 436 in Jan–Feb 2020 with spend flat — creating the $770. Without those months, platform cost per conversion is about $4,000.
-- Microsoft claims 728 conversions in those two months — more than our 385 new customers from every channel, and over 3× the 220 signups Microsoft touched.
-- On our records: **~$2,200** per new customer, second to brand at $699. It supports journeys more than it closes them (23% of journeys, last touch for only 9).
-- On first touch it is the cheapest channel (~$1,370), level with brand within the uncertainty. So Microsoft is a good channel, just not at $770, and it's the natural one to test growing.
-
-**Belief 2 — "Apple is a money pit; spend keeps climbing": partly right.**
+**Belief 2 — "Apple is a money pit; spend keeps climbing": partly right.** The return is the worst of any paid channel (**~$8,400** per new customer; the last touch for just 1). But Apple's share of paid spend stayed at 10–12.5% every month, so its spend climbs with the whole budget, not on its own. The raw file also counts it three times ($2.78M against $0.93M). It opens journeys (~$2,650 on first touch, a median of 18 days before sign-up), so pause-test it before cutting.
 
 ![Apple Search Ads spend and cost per new customer](plots/belief2_apple_spend_and_cost_per_customer.png)
 
-- Return is poor (**~$8,400** CAC; last touch for 1 new customer). Share of paid spend stayed ~10–12.5% every month — spend climbs with the whole budget, not Apple alone.
-- Raw file triple-counts Apple ($2.78M vs $0.93M).
-- On first-touch credit Apple is ~$2,650 (in line with Meta/Reddit); it opens journeys a median of 18 days before signup. Pause-test rather than cut cold.
-
-**Belief 3 — "Affiliate is free growth, scale hard": wrong as stated.**
+**Belief 3 — "Affiliate is free growth, scale hard": wrong as stated.** There is no affiliate cost in `channel_spend`, and the affiliate touch log contains only people who signed up, like a partner's conversion feed. Of 245 affiliate-touched sign-ups in January–February 2020, **123 were existing customers** adding a card. If partners are paid on every touched sign-up, commissions above **~$160** exceed the customers' expected three-year revenue (before costs).
 
 ![Affiliate volume and commission scenarios](plots/belief3_affiliate_volume_and_commission_scenarios.png)
-
-- No affiliate rows in `channel_spend`. All 319 affiliate touches belong to people who signed up (looks like a partner conversion feed).
-- Of 245 affiliate-touched signups in Jan–Feb 2020, **123 were existing customers** adding a card. Affiliates start journeys; brand finishes them.
-- Expected 3yr value ~$1,269 on linear credit (~$1,281 for any affiliate-touched new customer) vs ~$1,365 for others. If paid on every touched sign-up, commissions above **~$160** exceed that revenue (before costs).
 
 #### What this cannot answer — and what to instrument
 
 The order of channels holds up; the dollar amounts and each channel's true incremental effect don't. Setting budget on measured numbers needs:
-1. **Holdout tests by channel.** Switch a channel off, or raise it, in matched regions and compare new customers. It is the only way to see what a channel adds; attribution can't show it.
-2. **Click IDs and paid-traffic logging,** for example `gclid` stored at landing and joined to the sign-up. Today's visit log doesn't rise and fall with spend, so attribution rests on it only loosely.
-3. **Affiliate commissions by partner and month** in `channel_spend`, paid on new customers only.
-4. **Real campaign-level spend.** Each channel's spend is split equally across its campaigns every day, so campaigns can't be compared.
-5. **Each platform's conversion definition,** starting with Microsoft's, whose count jumped in January 2020 past our new customers from every channel combined.
-6. **Complete sign-up records before 2020.** Only 56 new customers are recorded across 2016–2019, so costs can only be measured on two months.
-7. **Transactions for 2020 joiners,** so channel quality can be measured from real spending rather than estimated from the card each customer opened.
+1. **Holdout tests by channel:** switch a channel off, or raise it, in matched regions and compare new customers. Attribution can't show what a channel adds.
+2. **Click IDs and paid-traffic logging** (for example `gclid` joined to the sign-up), because today's visit log doesn't rise and fall with spend.
+3. **Affiliate commissions by partner and month** in `channel_spend`.
+4. **Real campaign-level spend;** today each channel's spend is split equally across its campaigns.
+5. **Each platform's conversion definition,** starting with Microsoft's.
+6. **Complete sign-up records before 2020** (only 56 new customers are recorded across 2016–2019).
+7. **Transactions for 2020 joiners,** so channel quality can be measured rather than estimated from the card opened.
 
 ### 4. What was the incremental impact of the March 2019 brand campaign?
 
-**Short answer:** the campaign bought much more brand search exposure, but there's no measurable incremental account or transaction behind it.
+**Short answer:** the campaign bought much more brand search exposure, but there's no measurable incremental account or transaction behind it. The likely sources of the CMO's claim are the March sign-up count (13, against about 8 in a typical month) and the platform's click numbers; neither shows lift. Full method, robustness checks and backup tables: [`BRAND_CAMPAIGN.md`](active_ds_takehome_handout/analysis/q4/BRAND_CAMPAIGN.md).
 
-| Outcome | Estimate |
-|---|---:|
-| Accounts | −2 |
-| Settled purchases | +1.8%, within what ordinary weeks show once the baseline is checked |
-| Interchange | +$519 |
+**What "the campaign" is.** Campaign labels can't identify it: within each channel, every campaign is an identical split of the channel's spend, every day. So it can only be defined as a burst of spend on particular dates, and there is one in 50 months: brand search and Meta both doubled on March 4–15, 2019. The campaign weeks (March 4–17) are compared with the two weeks before (February 18 – March 3). Extra spend was $13,574 on brand search and $25,925 on Meta, $39,499 in all.
 
-The likely sources of the CMO's claim are the March sign-up count (13, against about 8 in a typical month) and the platform's click numbers. Neither shows lift.
+**Method.** Two difference-in-differences comparisons, because the outcomes are recorded at different levels:
+1. **Brand search against the other paid channels on the same days**, for spend, clicks and site visits. The controls are non-brand search, Apple, Microsoft and Reddit; Meta is left out because it surged on the same days, so any effect is joint brand-plus-Meta.
+2. **2019 against the same weeks of 2018**, for accounts and transactions, which have no channel dimension.
 
-**What "the campaign" is.**
-- **Campaign labels can't identify it.** In `channel_spend.csv` every campaign within a channel is an identical split of the channel's spend and runs every day from 2016 to 2020. `spring_launch` is a Meta label that runs all year. The campaign can therefore only be defined as a burst of channel spend on particular dates.
-- **There is only one such burst in 50 months.** Brand search and Meta both doubled on March 4–15, 2019, reaching 2.0× their trailing eight-week average. No other week in any channel from 2016 to February 2020 exceeds 1.18×.
-- **The analysis uses three periods of exactly two Monday–Sunday weeks each:**
-  - pre: February 18 – March 3
-  - campaign: March 4–17
-  - post: March 18–31
-
-  The spend burst ends on March 15, so the campaign period includes two normal days.
-- **Extra spend during the campaign:**
-  - brand search: $13,574
-  - Meta: $25,925
-  - total: $39,499
-
-  Both were back to normal in the post period (−$135 and −$1,139).
-
-**Method: two difference-in-differences comparisons, because the outcomes are recorded at different levels.**
-
-1. **Brand search against control channels, on the same days.** This covers what is recorded by channel: spend, impressions, clicks and site touches.
-   - The controls are non-brand search, Apple, Microsoft and Reddit.
-   - Meta is excluded because it surged on the same days, so any effect is a joint brand-plus-Meta effect.
-   - The estimate is the change in the log gap between brand and the average control. It is identical to a regression with channel and day fixed effects, which a test confirms.
-2. **2019 against 2018, for accounts and transactions.** These have no channel dimension, so other channels can't stand in for them. The estimate is the 2019 change from pre to campaign, minus the same change over the same weekdays 364 days earlier.
-
-**How the results are judged: placebo tests.** Each design is rerun on every other six-week window that doesn't overlap the campaign:
-- 80 windows for the channel comparison
-- 27 for transactions
-- 36 for accounts
-
-The p-value is the share of placebo estimates at least as large as the real one. Control channels are also treated, one at a time, as if they were the campaign.
+Each result is judged against the same calculation run on every ordinary six-week window outside the campaign (placebo tests). The p-value is the share of those windows with an effect at least as large.
 
 | Outcome | Comparison | Effect in campaign period | How unusual |
 |---|---|---:|---|
-| Brand spend | Channels | +85% | p = 0.01 (no placebo window comes close) |
+| Brand spend | Channels | +85% | p = 0.01 (no ordinary window comes close) |
 | Brand clicks | Channels | +81% | p = 0.01 |
-| Brand site touches | Channels | +2.3% | p = 0.49; placebo 90% range −3.7% to +4.7% |
+| Brand site touches | Channels | +2.3% | p = 0.49; ordinary windows range −3.7% to +4.7% |
 | Accounts opened | 2019 vs 2018 | −2 (2019: 7 → 6; 2018: 4 → 5) | 90% interval −10 to +6; p = 0.59 |
 | Settled purchases | 2019 vs 2018 | +1.8% (+883) | p = 0.07 |
-| Purchase dollars | 2019 vs 2018 | +2.4% (+$59.8k) | p = 0.21 |
 | Interchange | 2019 vs 2018 | +2.1% (+$519) | p = 0.46 |
-
-Nothing carries into the post period:
-- touches −1.6%
-- accounts −2
-- purchases +0.9%
-- interchange −$263
 
 ![Brand search vs control channels](plots/q4_brand_vs_controls.png)
 
-**The ads ran, and site traffic didn't respond.**
-- **Brand clicks were well above the controls:** +101% in the first campaign week and +63% in the second, back to baseline the week after. In the six weeks before, the weekly gap stayed between −4% and +6%, so brand and the controls moved in parallel beforehand.
-- **Site touches rose by about 5 a day, against about 3,300 extra platform clicks a day.** Placebo windows suggest we would have detected a lift of about 8% or more.
-- **The result doesn't depend on the choice of controls:**
-  - dropping Microsoft gives +0.8%
-  - treating a control channel as if it were the campaign gives between −5.6% and +3.2%
-- **Touches don't follow spend in any channel.** The correlation is between −0.12 and +0.03 across 2018–2019, so the touch log may not capture paid traffic at all. Flat touches are uninformative rather than proof of no effect.
+**The ads ran; site traffic didn't respond.** Brand clicks were +101% and +63% above the controls in the two campaign weeks and back to baseline the week after; in the six weeks before, brand and the controls moved in parallel. Site visits barely moved. But the visit log doesn't follow spend in any channel, so flat visits are uninformative rather than proof of no effect.
 
 ![Accounts and transactions vs 2018](plots/q4_yoy_outcomes.png)
 
-**Accounts: no detectable lift, and the March bump is offset by April.**
-- **Counts:** the campaign weeks had 6 accounts, against 7 in the two weeks before. The same weeks of 2018 went from 4 to 5.
-- **Signup timestamps can't be trusted at the day level.** A card's first transaction is on the 1st of its open month at the median, while signup times are spread evenly across the month. 94% of cards transact before their own signup timestamp.
-- **So I also compared calendar months:**
-  - March 2019 (13 accounts) is +5.6 against 2018's pattern.
-  - April 2019 (3 accounts) is −6.5.
-  - Together that's about −1 over March–April. That looks like timing moving between months, not new demand.
-- **All 13 March accounts were existing customers adding a card.** No new customer joined in March 2019 at all.
-- **The data can only detect a large lift:** about 14 extra accounts in two weeks, roughly tripling the normal rate. So it can't rule out a modest lift; the top of the range is about 6 extra accounts.
+**Accounts: no detectable lift.**
+- The campaign weeks had 6 accounts against 7 before; the same weeks of 2018 went from 4 to 5.
+- Signup timestamps are unreliable within the month (94% of cards transact before their own signup time), so I also compared months: March 2019's +5.6 against 2018 is offset by April's −6.5. That looks like timing, not new demand.
+- All 13 March accounts were existing customers adding a card, and the platform itself claimed 1, 0 and 1 brand conversions across the three periods.
+- The data can only detect a large lift (about 14 extra accounts in two weeks), so a modest one can't be ruled out; the top of the range is about 6.
 
-**Transactions: a borderline count that doesn't hold up.** Settled purchases rose 1.8% (p = 0.07), but:
-- **The 2019 pre period was soft.** The weeks of February 18 and 25 were 1.3% and 1.5% below 2018. The campaign weeks were +0.2% and +0.6%, no better than the weeks of February 11 (+0.5%) and April 15 (+0.4%).
-- **Against a January–February baseline, March's lift is only +0.5%.**
-- **82% of it (+727 of +883) is on cards more than a month old.** That's existing usage, which a brand search ad wouldn't plausibly move. The cards opened in March added about 156 purchases, worth about $53 of interchange.
-- **Interchange shows nothing:** +$519, p = 0.46.
-
-Even at the top of the range, the campaign added at most about 1,650 purchases and $1.5k of interchange over the two weeks. That is about 11 cents per dollar of extra brand spend, or 4 cents per dollar once Meta's extra spend is included. These bounds cover the two campaign weeks only. Any extra account would keep earning afterwards, and this answer doesn't put a value on that.
+**Transactions: a borderline count that doesn't hold up.** Purchases rose 1.8% (p = 0.07), but the 2019 pre-period was soft: against a January–February baseline the lift is only +0.5%. And 82% of it is on cards more than a month old, which a brand search ad wouldn't plausibly move. Interchange shows nothing (+$519, p = 0.46). At most, the two weeks added about $1.5k of interchange: 11 cents per dollar of extra brand spend, or 4 cents including Meta.
 
 ![Placebo distributions](plots/q4_placebos.png)
-
-**The platform doesn't claim the conversions either.** Brand search reported 1, 0 and 1 conversions in the pre, campaign and post periods.
 
 **What I'd tell the CMO:** "We doubled brand search and Meta for two weeks. It bought clicks. We can't see that it bought accounts or transactions, and the account bump in March was given back in April."
 
@@ -792,8 +590,8 @@ Even at the top of the range, the campaign added at most about 1,650 purchases a
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 
-# data: put the nine handout files in active_ds_takehome_handout/
-# (transactions_data.csv is not committed: it is 1.2GB and listed in .gitignore)
+# data: the handout files are not committed. Put the nine files
+# (users_data.csv, cards_data.csv, transactions_data.csv, ...) in active_ds_takehome_handout/
 
 # Q1, descriptive profile: attributes, holdings, 12-month behaviour, acquisition, correlations, personas
 # writes active_ds_takehome_handout/analysis/q1_value/part1_* and plots/q1_p1_*.png
@@ -836,9 +634,9 @@ python3 -m venv .venv
 .venv/bin/python -m pytest tests/ -q
 ```
 
-Primary numeric outputs live under `active_ds_takehome_handout/analysis/{q1_value,q2_quiet_loss,hypotheses,q4}/`. Q3 backup: [`CHANNEL_QUALITY.md`](active_ds_takehome_handout/analysis/hypotheses/CHANNEL_QUALITY.md).
+Primary numeric outputs live under `active_ds_takehome_handout/analysis/{q1_value,q2_quiet_loss,hypotheses,q4}/`. Backup write-ups for each question: [`PART1_CUSTOMER_PROFILE.md`](active_ds_takehome_handout/analysis/q1_value/PART1_CUSTOMER_PROFILE.md) and [`PART2_SEGMENT_VALUE.md`](active_ds_takehome_handout/analysis/q1_value/PART2_SEGMENT_VALUE.md) (Q1), [`QUIET_LOSS.md`](active_ds_takehome_handout/analysis/q2_quiet_loss/QUIET_LOSS.md) (Q2), [`CHANNEL_QUALITY.md`](active_ds_takehome_handout/analysis/hypotheses/CHANNEL_QUALITY.md) and [`VP_BELIEFS.md`](active_ds_takehome_handout/analysis/hypotheses/VP_BELIEFS.md) (Q3), and [`BRAND_CAMPAIGN.md`](active_ds_takehome_handout/analysis/q4/BRAND_CAMPAIGN.md) (Q4).
 
-The repository keeps the final report, reproducible code, tests, figures, and primary supporting outputs. Superseded exploratory analyses and raw input extracts are intentionally excluded; use the supplied handout files to rerun the pipeline.
+Scripts in `src/` that aren't listed above are earlier working versions, kept for the record. `active_ds_takehome_handout/analysis/q1_scratch/` holds intermediate tables that the Q3 scripts build; it is regenerated by the steps above rather than committed.
 
 ## AI assistance note
 
